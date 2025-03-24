@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz;
 #EXTINF:-1 group-title="Общероссийские",Первый канал
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_1TV.m3u8
+https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия 1
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA1.m3u8
 #EXTINF:-1 group-title="Общероссийские",Матч ТВ
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_MATCHTV.m3u8
+https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские",НТВ
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_NTV.m3u8
+https://cdn.ntv.ru/ntv0_hd/tracks-v4a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_5TV.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия К
