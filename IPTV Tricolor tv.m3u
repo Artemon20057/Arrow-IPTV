@@ -15,3 +15,42 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIAK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA24.m3u8
 #EXTINF :-1 group-title="Общероссийские",Карусель
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_KARUSEL.m3u8
+#EXTINF :-1 group-title="Общероссийские",ОТР
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_OTR.m3u8
+#EXTINF :-1 group-title="Общероссийские",ТВ Центр
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_TVC.m3u8
+#EXTINF :-1 group-title="Общероссийские",РЕН ТВ
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_RENTV.m3u8
+#EXTINF :-1 group-title="Общероссийские",Спас
+http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF :-1 group-title="Общероссийские",СТС
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_STS.m3u8
+#EXTINF :-1 group-title="Общероссийские",Домашний
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_DOMASHNIY.m3u8
+#EXTINF :-1 group-title="Общероссийские",ТВ3
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_TV3.m3u8
+#EXTINF :-1 group-title="Общероссийские",Пятница
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_FRIDAY.m3u8
+#EXTINF :-1 group-title="Общероссийские",Звезда
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ZVEZDA.m3u8
+#EXTINF :-1 group-title="Общероссийские",Мир
+https://salam-krd-1069.rutube.ru/dive/river-3-328.rutube.ru/nY3Ly6_Ubo9fG_9P4D-ZVQ/stream/musang-702.brz.rutube.ru/n8JcdlsM4vLUuMtP0ekL3g/1743414750/afef67d151b5a607dee1ef0aa299a52c/360p_stream.m3u8
+#EXTINF :-1 group-title="Общероссийские",ТНТ
+https://live-s-105.uma.media/LIVE/LIVE:317850/HLS/live:tnt/1742824479/cSXfWbNbkT-VCqMr6R63bg/live/317850_3/chunklist.m3u8
+#EXTINF :-1 group-title="Общероссийские",Муз-ТВ
+https://s209.glaz.tv:8082/liveg/muztv.stream/chunks.m3u8?nimblesessionid=349402289&wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDk6NTY6MDkgQU0maGFzaF92YWx1ZT16Wlk0ZTliandJQUVVMkpKYUYrTlhnPT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF :-1 group-title="Познавательное",National Geographic
+https://tvcdnpotok.com/rZAH-45dbjicswnLTBGQ0A/601/1742829066/index.m3u8
+#EXTINF :-1 group-title="Познавательное",
+
+#EXTINF :-1 group-title="Познавательное",
+
+#EXTINF :-1 group-title="Познавательное",
+
+#EXTINF :-1 group-title="Познавательное",
+
+#EXTINF :-1 group-title="Познавательное",
+
+#EXTINF :-1 group-title="Познавательное",
+
+#EXTINF :-1 group-title="Познавательное",
