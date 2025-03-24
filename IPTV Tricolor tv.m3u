@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
+#EXTINF :-1 group-title="Общероссийские",Первый канал
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_1TV.m3u8
+#EXTINF :-1 group-title="Общероссийские",Россия 1
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA1.m3u8
+#EXTINF :-1 group-title="Общероссийские",Матч ТВ
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_MATCHTV.m3u8
+#EXTINF :-1 group-title="Общероссийские",НТВ
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_NTV.m3u8
+#EXTINF :-1 group-title="Общероссийские",Пятый канал
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_5TV.m3u8
+#EXTINF :-1 group-title="Общероссийские",Россия К
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIAK.m3u8
+#EXTINF :-1 group-title="Общероссийские",Россия 24
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA24.m3u8
+#EXTINF :-1 group-title="Общероссийские",Карусель
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_KARUSEL.m3u8
