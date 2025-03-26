@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz;
 #EXTINF:-1 group-title="Общероссийские",Первый канал
-https://mhd158.iptv2022.com/p/AJiisVxNw9xSJSASyiuYEQ,1742932826/streaming/1kanalott-drm/324/5/tracks-v4a1/mono.m3u8
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_1TV.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия 1
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA1.m3u8
 #EXTINF:-1 group-title="Общероссийские",Матч ТВ
@@ -40,7 +40,7 @@ https://live-s-105.uma.media/LIVE/LIVE:317850/HLS/live:tnt/1742824479/cSXfWbNbkT
 #EXTINF:-1 group-title="Общероссийские",Муз-ТВ
 https://s209.glaz.tv:8082/liveg/muztv.stream/chunks.m3u8?nimblesessionid=349402289&wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDk6NTY6MDkgQU0maGFzaF92YWx1ZT16Wlk0ZTliandJQUVVMkpKYUYrTlhnPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 group-title="Общероссийские",Неизвестная Россия
-http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+https://cdn.ntv.ru/unknown_russia/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Сила
 http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
@@ -326,10 +326,6 @@ http://185.57.68.33/40/mpegts
 http://stream-msk-09.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1--Zagorod_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",Живая природа HD
 http://178.212.71.253:8002/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Дикая охота HD
-https://mhd128.iptv2022.com/p/VDlI_23t6v64fUfmX9uylw,1742915550/streaming/ohotahd/324/5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
-https://mhd158.iptv2022.com/p/RFfTUMeKf2rJY888pou43g,1742916014/streaming/ribalkahd/324/5/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательное",365 ДНЕЙ
@@ -409,17 +405,17 @@ http://91.146.94.234:10000/play/a05k
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",#КтоКуда
 http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI4NzYxODAsImlhdCI6MTc0Mjc4OTc4MCwiY2lkIjo2LCJ1aWQiOjkwMzg5Nzc5OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SaJtvwGrIymbo-t63M0F_AOZ56pyeyu_8hOMTKpI50g&offset=3
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild SD
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательное", Nat Geo Wild SD
 https://tv.movielab.pro/162/video.m3u8?token=8c8f6b492442397ecac902f53fd8b48e5235d2dd-35c139e38fb5a0ead59796c3c41a2959-1742976311-1742889911
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic SD
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic SD
 https://tv.movielab.pro/143/video.m3u8?token=2f76db72c38ccfb23eff93b01dcd8de8b0b6b00b-5cdd727aebf4a77b49e8ecef091d74ea-1742976311-1742889911
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic HD
 https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=YL4fV931LfRv1-EHF73YvQ&e=1742979827&scheme=https
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное", Discovery HD
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное", Discovery Channel
 http://91.146.94.234:10000/play/a041
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное",Discovery Channel HD
 https://tv.movielab.pro/147/video.m3u8?token=091cf3f0c48f0c1e878c5e008b0af97d9c951bb7-de6243e526df900bbe7172ae11ce8509-1742976311-1742889911
 #EXTINF:-1 tvg-id="history" group-title="Познавательное", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
@@ -435,19 +431,19 @@ http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIU
 http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI4NzYxODAsImlhdCI6MTc0Mjc4OTc4MCwiY2lkIjo2LCJ1aWQiOjkwMzg5Nzc5OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SaJtvwGrIymbo-t63M0F_AOZ56pyeyu_8hOMTKpI50g&offset=3
 #EXTINF:-1 group-title="Познавательное",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viju History
+#EXTINF:-1 group-title="Познавательное",Viju History
 http://188.190.222.53/Viasat_History/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viasat History HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Viasat History HD
 http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMDU3ODAsImlhdCI6MTc0MjkxOTM4MCwiY2lkIjo2LCJ1aWQiOjkwNDI5MzE0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mqGryvdisRuVnPsFwa-AgaR6WQm_DWZ3m5Tda65ukAA&offset=3
-#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные", Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательное", Viju Nature
 http://130.193.73.10:8937/play/a01k
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="viasat-nature" group-title="Познавательные", Viasat Nature HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="viasat-nature" group-title="Познавательное", Viasat Nature HD
 http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMDU3ODAsImlhdCI6MTc0MjkxOTM4MCwiY2lkIjo2LCJ1aWQiOjkwNDI5MzE0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mqGryvdisRuVnPsFwa-AgaR6WQm_DWZ3m5Tda65ukAA&offset=3
-#EXTINF:-1 group-title="Познавательные",Viju Explore
+#EXTINF:-1 group-title="Познавательное",Viju Explore
 http://130.193.73.10:8937/play/a01j
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viasat Explore HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Viasat Explore HD
 http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMDU3ODAsImlhdCI6MTc0MjkxOTM4MCwiY2lkIjo2LCJ1aWQiOjkwNDI5MzE0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mqGryvdisRuVnPsFwa-AgaR6WQm_DWZ3m5Tda65ukAA&offset=3
-#EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
+#EXTINF:-1 group-title="Познавательное", Viju+ Planet HD
 http://130.193.73.10:8937/play/a01l
 http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI4NzYxODAsImlhdCI6MTc0Mjc4OTc4MCwiY2lkIjo2LCJ1aWQiOjkwMzg5Nzc5OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SaJtvwGrIymbo-t63M0F_AOZ56pyeyu_8hOMTKpI50g&offset=3
 #EXTINF:-1 group-title="Познавательное",Terra HD
@@ -473,7 +469,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Развлекательное",Че
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+https://a3285273281-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?useseq=t
 #EXTINF:-1 group-title="Развлекательное",Ю ТВ
 http://stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Развлекательное",Rutube TV
@@ -494,8 +490,6 @@ http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="Развлекательное",Новый мир
 https://vm4984530.52ssd.had.wf/memfs/c31f67cb-ba7a-44e7-bffa-828c3a205f80.m3u8
-#EXTINF:-1 group-title="Развлекательное",Перец
-https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 group-title="Развлекательное",Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Развлекательное",STAR TV [MD]
