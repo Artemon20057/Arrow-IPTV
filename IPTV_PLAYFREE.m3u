@@ -329,19 +329,19 @@ http://178.124.152.238:8088/rtg
 https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 10049" catchup="default" group-title="Познавательное", Охота и рыбалка
+#EXTINF:-1 group-title="Познавательное", Охота и рыбалка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/psHv6VtdMQjGSfPS44fXXQ,1743109208/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10060" catchup="default" group-title="Познавательное", Дикая охота HD
+#EXTINF:-1 group-title="Познавательное", Дикая охота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/quIuRFwGZpIag2NiaajAdw,1743109208/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10157" catchup="default" group-title="Познавательное", Охотник и Рыболов HD
+#EXTINF:-1 group-title="Познавательное", Охотник и Рыболов HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/PEu87lkm1dI7dFpvClBufw,1743109208/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10179" catchup="default" group-title="Познавательное", Дикая рыбалка HD
+#EXTINF:-1 group-title="Познавательное", Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/9xQf-PqvmP4FSE9JEDCaxg,1743109208/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10352" catchup="default" group-title="Познавательное", Диалоги о рыбалке
+#EXTINF:-1 group-title="Познавательное", Диалоги о рыбалке
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/Rzv1kCNSDbB5AG3mlTg7fw,1743109208/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 http://hls.peers.tv/streaming/klyuch/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI4NzYxODAsImlhdCI6MTc0Mjc4OTc4MCwiY2lkIjo2LCJ1aWQiOjkwMzg5Nzc5OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SaJtvwGrIymbo-t63M0F_AOZ56pyeyu_8hOMTKpI50g&offset=3
