@@ -316,8 +316,7 @@ http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Дикая охота HD
 http://178.163.3.80:4022/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/PEu87lkm1dI7dFpvClBufw,1743109208/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
 http://130.193.73.10:8937/play/a04p
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
