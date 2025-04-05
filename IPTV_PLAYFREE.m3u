@@ -41,6 +41,7 @@ https://live-s-105.uma.media/LIVE/LIVE:317850/HLS/live:tnt/1742824479/cSXfWbNbkT
 https://s209.glaz.tv:8082/liveg/muztv.stream/chunks.m3u8?nimblesessionid=349402289&wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDk6NTY6MDkgQU0maGFzaF92YWx1ZT16Wlk0ZTliandJQUVVMkpKYUYrTlhnPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 group-title="Общероссийские",Неизвестная Россия
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="Общероссийские",Липецкое время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",viju+ Sport
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
@@ -365,8 +366,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 #EXTINF:-1 group-title="Познавательное",Первый Крымский
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Познавательное",TLC
-http://dmi3y-tv.ru/hls/CH_TLC.m3u8
-#EXTINF:-1 group-title="Познавательное",TLC HD
 http://91.146.94.234:10000/play/a05k
 #EXTINF:-1 group-title="Познавательное",МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
@@ -381,7 +380,7 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Discovery Channel
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
-http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
+http://91.146.94.234:10000/play/a041
 #EXTINF:-1 tvg-id="history" group-title="Познавательное",History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательное",HGTV HD
