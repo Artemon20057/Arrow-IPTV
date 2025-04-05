@@ -180,9 +180,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
-#EXTINF:-1 group-title="Кино и сериалы",Start Air
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/pCef9NNM0Fd2rRWbssT15Q,1742850022/streaming/start_air/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Start World HD
@@ -223,26 +220,18 @@ http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMxNDg4NzMsImlhdCI6MTc0MzA2MjQ3MywiY2lkIjo2LCJ1aWQiOjkwNDczMTg4OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D6l2Fxe3nO0HXtZbH4EAxG7veAJZUFj9nh2QYuGskUg&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы"  ,Индийское кино
 http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMxNDg4NzMsImlhdCI6MTc0MzA2MjQ3MywiY2lkIjo2LCJ1aWQiOjkwNDczMTg4OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D6l2Fxe3nO0HXtZbH4EAxG7veAJZUFj9nh2QYuGskUg&offset=10
-#EXTINF:-1 10661" catchup="default" group-title="Кино и сериалы", Ключ HD
-
-#EXTINF:-1 13490" catchup="default" group-title="Кино и сериалы", Kinoliving
-
-#EXTINF:-1 14456" catchup="default" group-title="Кино и сериалы", Star Family
-
-#EXTINF:-1 14463" catchup="default" group-title="Кино и сериалы", Star Cinema
-
-#EXTINF:-1 14470" catchup="default" group-title="Кино и сериалы", Bolt
-
-#EXTINF:-1 14484" catchup="default" group-title="Кино и сериалы", .Red
-
-#EXTINF:-1 14491" catchup="default" group-title="Кино и сериалы", .Sci-Fi
-
-#EXTINF:-1 14498" catchup="default" group-title="Кино и сериалы", .Black
-
-#EXTINF:-1 15576" catchup="default" group-title="Кино и сериалы", Novella TV
-
-#EXTINF:-1 15786" catchup="default" group-title="Кино и сериалы", Horror TV
-
+#EXTINF:-1 13490" catchup="default" group-title="Кино и сериалы",Kinoliving
+http://31.173.165.29:8000/play/a01i/index.m3u8
+#EXTINF:-1 14470" catchup="default" group-title="Кино и сериалы",Bolt
+http://95.142.88.250:80/Bolt/index.m3u8
+#EXTINF:-1 14484" catchup="default" group-title="Кино и сериалы",.Red
+http://178.124.152.238:8088/sony
+#EXTINF:-1 14491" catchup="default" group-title="Кино и сериалы",.Sci-Fi
+http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:-1 14498" catchup="default" group-title="Кино и сериалы",.Black
+http://188.190.222.53/Sony_turbo/index.m3u8
+#EXTINF:-1 15576" catchup="default" group-title="Кино и сериалы",Next TV
+https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НСТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NST
 #EXTINF:-1 group-title="Кино и сериалы",Amedia-1
@@ -262,11 +251,9 @@ http://130.193.73.10:8937/play/a022
 #EXTINF:-1 group-title="Кино и сериалы",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
-http://109.200.130.123:7537/play/a02
-#EXTINF:-1 group-title="Кино и сериалы",Hollywood HD
-http://130.193.73.10:8937/play/a02k
+http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы",Cinema
-http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
 #EXTINF:-1 group-title="Кино и сериалы",Русский Иллюзион
@@ -331,8 +318,7 @@ http://178.163.3.80:4022/udp/234.0.0.11:2000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/PEu87lkm1dI7dFpvClBufw,1743109208/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/9xQf-PqvmP4FSE9JEDCaxg,1743109208/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://130.193.73.10:8937/play/a04p
 #EXTINF:-1 group-title="Познавательное", Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 group-title="Познавательное",В мире животных HD
@@ -380,14 +366,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Познавательное",TLC
 http://dmi3y-tv.ru/hls/CH_TLC.m3u8
-#EXTINF:-1 group-title="Познавательное",TLC Россия HD
+#EXTINF:-1 group-title="Познавательное",TLC HD
 http://91.146.94.234:10000/play/a05k
 #EXTINF:-1 group-title="Познавательное",МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",#КтоКуда
 http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI4NzYxODAsImlhdCI6MTc0Mjc4OTc4MCwiY2lkIjo2LCJ1aWQiOjkwMzg5Nzc5OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SaJtvwGrIymbo-t63M0F_AOZ56pyeyu_8hOMTKpI50g&offset=3
-#EXTINF:-1 group-title="Познавательное",Nat Geo Wild HD
-https://tv.movielab.pro/162/video.m3u8?token=1734e0f5e740c530e53a12ec7431748c467abb8d-dbdc8bd59b46011cb7e9b9a1dfde47ae-1743148575-1743062175
 #EXTINF:-1 group-title="Познавательное",National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",National Geographic WILD
@@ -413,17 +397,19 @@ http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 #EXTINF:-1 group-title="Познавательное",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Explore
-http://109.171.4.128:81/udp/239.54.5.92:1234
+http://130.193.73.10:8937/play/a01j
 #EXTINF:-1 group-title="Познавательное",Viju Nature
-http://109.171.4.128:81/udp/239.54.5.90:1234
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Viju History
-http://109.171.4.128:81/udp/239.54.5.93:1234
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet
 http://31.173.165.29:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra HD
 http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 group-title="Познавательное",Наша Сибирь HD
-http://109.171.4.128:81/udp/239.54.5.177:1224
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:-1 group-title="Познавательное",Наша Сибирь 4К
+http://hls114.freeott.top:8080/NashaSibir4k/tracks-v1a1/mono.m3u8?token=Homeorgstb
 #EXTINF:-1 group-title="Познавательное",Ocean TV
 https://stream-msk-09.ott.tricolor.tv/dtv/id872_MSKSG-PVR-1--OCEAN_TV/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",Тайны Галактики
