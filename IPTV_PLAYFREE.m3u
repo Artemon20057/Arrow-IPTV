@@ -65,12 +65,10 @@ http://178.212.71.253:8000/play/54/index.m3u8
 http://178.212.71.253:8000/play/55/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 10234" catchup="default" group-title="Спорт", Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=f243cd7ac1bb41293edaa6ca8a7015b3235e10c8-a1e9619252977cf2a1e874dc285dfb4b-1744138549-1744052149
-#EXTINF:-1 10236" catchup="default" group-title="Спорт", Матч! Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=1b64ee61efcaa25aa3eb61bcd226a8e995336875-882153f34ebb4e6549924c6b2d629ffd-1744138549-1744052149
-#EXTINF:-1 10236" catchup="default" group-title="Спорт", Матч! Футбол 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgNzowMDoxMyBBTSZoYXNoX3ZhbHVlPTYvRndYM0ROMHF1dG9xWnNndW9yc0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+https://tv.movielab.pro/271/video.m3u8?token=92f2d32fe4a468516e856dd458c331bff3d5e5ba-8cfe708e1579a3fdb4033b59f553b2b3-1744181714-1744095314
 #EXTINF:-1 10227" catchup="default" group-title="Спорт", Матч! Премьер
 https://tv.movielab.pro/250/video.m3u8?token=fcb4a610948fab6d3bb8055d71cf1ae07680343a-5c3c5d56a9c5ad83eadb6e4c186706d6-1744138549-1744052149
 #EXTINF:-1 group-title="Спорт",SD RUSSIA EXTREME
