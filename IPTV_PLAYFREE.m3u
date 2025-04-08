@@ -648,7 +648,7 @@ http://178.212.71.253:8000/play/52/index.m3u8
 http://135.181.115.81:8000/play/a03p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детский",Nickelodeon
 http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="nick-jr" group-title="Детские",Nick Jr
+#EXTINF:-1 tvg-id="nick-jr" group-title="Детский",Nick Jr
 rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детский",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
