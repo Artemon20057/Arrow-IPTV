@@ -59,10 +59,12 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?d
 https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="Спорт",Тонус ТВ
 http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
-#EXTINF:-1 group-title="Спорт", Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч Боец
-http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! БОЕЦ
+http://31.210.208.171:8080/boec/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
@@ -217,8 +219,8 @@ http://176.113.48.221:8986/136
 http://31.173.165.29:8000/play/a01i/index.m3u8
 #EXTINF:-1 14470" catchup="default" group-title="Кино и сериалы",Bolt
 http://95.142.88.250:80/Bolt/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",.RED
-http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQxNTU5ODAsImlhdCI6MTc0NDA2OTU4MCwiY2lkIjo2LCJ1aWQiOjkwNzUzNzAwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.J4DIx9GjJ7oUFv40j-Ys1X7Jp5karZdeOe2whP9L_0U&offset=
+#EXTINF:-1 group-title="Кино и сериалы",.red
+http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 14491" catchup="default" group-title="Кино и сериалы",.Sci-Fi
 http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 #EXTINF:-1 14498" catchup="default" group-title="Кино и сериалы",.Black
@@ -615,7 +617,7 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?dr
 #EXTINF:-1 group-title="Детский",Да Винчи
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 group-title="Детский",Мультиландия
-http://130.193.73.10:8937/play/a00z
+http://31.210.208.171:8080/multimania/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детский",Лёва
 http://91.205.199.3/planb/index.m3u8
 #EXTINF:-1 group-title="Детский",Мульт и музыка
@@ -635,7 +637,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детский",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детский",Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детский",О!
 http://130.193.73.10:8937/play/a016
 #EXTINF:-1 group-title="Детский",Уникум
@@ -651,13 +653,15 @@ rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детский",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="Детский",TiJi
-http://135.181.115.81:8000/play/a04c/index.m3u8?token=livetv
+http://31.210.208.171:8080/tiji/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детский",СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="Детский",Киномульт
 http://109.200.130.123:7537/play/a024
+#EXTINF:-1 group-title="Детский",СОЛНЦЕ
+http://31.210.208.171:8080/solnce/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детский",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+http://31.210.208.171:8080/ani/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детский",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",Ералаш
