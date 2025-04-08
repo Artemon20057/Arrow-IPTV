@@ -62,23 +62,19 @@ http://178.212.71.253:8000/play/55/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 10234" catchup="default" group-title="Спорт", Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/8VOQfF9-ao-DImBcA8ZcyA,1743109212/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10235" catchup="default" group-title="Спорт", Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/v09fq5wsFViDUuMg0ZrSOg,1743109212/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 10236" catchup="default" group-title="Спорт", Матч! Футбол 2 HD
+
 #EXTINF:-1 10236" catchup="default" group-title="Спорт", Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/Nkk63G0J0gXcYTDL9zysLA,1743109212/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 10227" catchup="default" group-title="Спорт", Матч! Премьер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/tb90oSvY4y0UQageg4zG-Q,1743109212/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Спорт",SD RUSSIA EXTREME
 http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 group-title="Спорт",Мяч
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+
 #EXTINF:-1 group-title="Спорт",Футбол
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI4NzYxODAsImlhdCI6MTc0Mjc4OTc4MCwiY2lkIjo2LCJ1aWQiOjkwMzg5Nzc5OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SaJtvwGrIymbo-t63M0F_AOZ56pyeyu_8hOMTKpI50g&offset=3
+
 #EXTINF:-1 group-title="Спорт",KHL
 http://178.124.152.238:8088/khl
 #EXTINF:-1 group-title="Спорт",Хоккейный
@@ -96,7 +92,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
 #EXTINF:-1 group-title="Спорт",Сила
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
 #EXTINF:-1 group-title="Спорт",Конный мир
-https://stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1--Konniy_Mir/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",viju+ Comedy
@@ -104,17 +100,17 @@ http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
 http://37.193.161.13:4022/udp/239.1.21.39:1234
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ SERIAL HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMxNDg4NzMsImlhdCI6MTc0MzA2MjQ3MywiY2lkIjo2LCJ1aWQiOjkwNDczMTg4OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D6l2Fxe3nO0HXtZbH4EAxG7veAJZUFj9nh2QYuGskUg&offset=10
-#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино и сериалы", UltraHD Cinema 4K
-http://5.101.0.202:8080/4/index.m3u8
+
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино и сериалы", UHD Cinema 4K
+
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+Кино
 rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+Кино HD
 https://mhd128.iptv2022.com/p/Na_N3Oe9ZV_QeTsPs3un0g,1742850009/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинеко HD
-https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+
 #EXTINF:-1 group-title="Кино и сериалы",Сапфир HD
-https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+
 #EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 
 http://109.171.4.128:81/udp/239.54.5.91:1234
 #EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Action
