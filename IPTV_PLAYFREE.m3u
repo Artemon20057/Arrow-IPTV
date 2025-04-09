@@ -98,13 +98,15 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
 #EXTINF:-1 group-title="Спорт",Конный мир
 https://stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1--Konniy_Mir/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
-http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",viju+ Comedy
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
 http://37.193.161.13:4022/udp/239.1.21.39:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQxNTU5ODAsImlhdCI6MTc0NDA2OTU4MCwiY2lkIjo2LCJ1aWQiOjkwNzUzNzAwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.J4DIx9GjJ7oUFv40j-Ys1X7Jp5karZdeOe2whP9L_0U&offset=3
+#EXTINF:-1 group-title="Кино и сериалы",Viasat Kino World
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+Кино
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино и сериалы",Кинеко
@@ -237,6 +239,8 @@ http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 2
 http://109.197.192.121:8080/A2/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
+http://178.163.0.18:4022/udp/234.0.0.221:2000
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Premium
 http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Русский детектив
@@ -323,11 +327,11 @@ http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 group-title="Познавательное",Охота и рыбалка
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Дикая охота HD
-http://178.163.3.80:4022/udp/234.0.0.11:2000
+http://178.163.0.18:4022/udp/234.0.0.14:2000
 #EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
-http://130.193.73.10:8937/play/a04p
+
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 group-title="Познавательное",The Fishing and Hunting
@@ -342,6 +346,14 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
 http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
 #EXTINF:-1 tvg-id="hd-life" group-title="Познавательное",Точка.РФ
 http://178.212.71.253:8000/play/61/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Точка Отрыва
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="Познавательное",Точка ТВ
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
+#EXTINF:-1 group-title="Познавательное",Galaxy TV
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Наука 2.0
+http://95.142.88.250/Bolt/index.m3u8
 #EXTINF:-1 group-title="Познавательное",МИР ВОКРУГ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательное",Наука HD
@@ -371,6 +383,8 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый Вегетарианский
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
+#EXTINF:-1 group-title="Познавательное",РЖД HD
+http://45.143.108.110:2203/FOX
 #EXTINF:-1 group-title="Познавательное",Первый Крымский
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Познавательное",TLC HD
@@ -409,6 +423,8 @@ http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 http://31.173.165.29:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra HD
 http://130.193.73.10:8937/play/a01g
+#EXTINF:-1 group-title="Познавательное",Зоопарк
+http://178.163.0.18:4022/udp/234.0.0.237:2000
 #EXTINF:-1 group-title="Познавательное",Наша Сибирь HD
 https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 group-title="Познавательное",Наша Сибирь 4К
@@ -442,6 +458,12 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Эх!
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/m5HUXUAJQYaqKqd_YPB7yw,1742850022/streaming/eh_tv/324/1/index.m3u8
+#EXTINF:-1 group-title="Развлекательное",Союз
+http://178.163.0.18:4022/udp/234.0.0.243:2000
+#EXTINF:-1 group-title="Развлекательное",Время
+http://178.163.0.18:4022/udp/234.0.0.113:2000
+#EXTINF:-1 group-title="Развлекательное",Успех
+http://178.163.0.18:4022/udp/234.0.0.15:2000
 #EXTINF:-1 group-title="Развлекательное",Телекафе
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Усадьба
@@ -463,6 +485,8 @@ https://vm4984530.52ssd.had.wf/memfs/c31f67cb-ba7a-44e7-bffa-828c3a205f80.m3u8
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Развлекательное",STAR TV [MD]
 http://62.233.57.226:8001/play/a008
+#EXTINF:-1 group-title="Развлекательное",ТНВ-Планета
+http://178.163.0.18:4022/udp/234.0.0.6:2000
 #EXTINF:-1 group-title="Развлекательное",Калейдоскоп ТВ
 http://dmi3y-tv.ru/hls/CH_KALEYDOSKOPTV.m3u8
 #EXTINF:-1 group-title="Развлекательное",КВН-ТВ
@@ -629,7 +653,9 @@ http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-1 group-title="Детский",СТС Kids HD
 http://31.173.165.29:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Детский",В гостях у сказки
-
+http://178.163.0.18:4022/udp/234.0.0.11:2000
+#EXTINF:-1 group-title="Детский",JIMJAM
+http://178.163.0.18:4022/udp/234.0.0.226:2000
 #EXTINF:-1 group-title="Детский",СоюзМультфил
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детский",Чип и Дейл
@@ -647,7 +673,7 @@ http://178.212.71.253:8000/play/52/index.m3u8
 #EXTINF:-1 group-title="Детский",Gulli Girl
 http://135.181.115.81:8000/play/a03p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детский",Nickelodeon
-http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
+http://178.163.0.18:4022/udp/234.0.0.230:2000
 #EXTINF:-1 tvg-id="nick-jr" group-title="Детский",Nick Jr
 rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детский",Nicktoons
@@ -767,3 +793,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LIPTIMEHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ELETS.m3u8
 #EXTINF:-1 group-title="Новости",Известия
 http://109.197.192.121:8080/izvestiya/index.m3u8
+#EXTINF:-1 group-title="Новости",Москва 24
+http://178.163.0.18:4022/udp/234.0.0.194:2000
+#EXTINF:-1 group-title="Новости",Тольятти 24 HD
+http://178.163.0.18:4022/udp/234.0.0.116:2000
