@@ -322,15 +322,11 @@ http://109.197.192.121:8080/auto24/index.m3u8
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 group-title="Познавательное",Охота и рыбалка
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательное",Дикая охота
-http://178.163.0.18:4022/udp/234.0.0.14:2000
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное", Дикая охота HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/H5y4ulSHsM25WlLpziyRuQ,1744232411/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
-#EXTINF:-1 group-title="Познавательное",Дикая рыбалка
-http://130.193.73.10:8937/play/a04p
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное", Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/GFrM69VNnfM7YcutzaRPOg,1744232411/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
