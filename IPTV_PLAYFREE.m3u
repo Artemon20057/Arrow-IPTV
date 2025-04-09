@@ -326,14 +326,14 @@ http://130.193.73.10:8937/play/a04s
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Дикая охота
 http://178.163.0.18:4022/udp/234.0.0.14:2000
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные", Дикая охота HD
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное", Дикая охота HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/H5y4ulSHsM25WlLpziyRuQ,1744232411/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Познавательное",Дикая рыбалка
 http://130.193.73.10:8937/play/a04p
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные", Дикая рыбалка HD
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное", Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/GFrM69VNnfM7YcutzaRPOg,1744232411/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
@@ -356,7 +356,7 @@ http://31.173.165.29:8000/play/a019/index.m3u8
 http://109.171.4.128:81/udp/239.54.5.189:1224
 #EXTINF:-1 group-title="Познавательное",Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные",Наука 2.0 HD
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательное",Наука 2.0 HD
 http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="Познавательное",МИР ВОКРУГ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
@@ -382,7 +382,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",Ратник HD
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="kluch" group-title="Познавательные",Ключ
+#EXTINF:-1 tvg-id="kluch" group-title="Познавательное",Ключ
 http://5.166.64.254:81/udp/225.0.55.195:1234
 #EXTINF:-1 group-title="Познавательное",Красная линия
 #EXTVLCOPT:http-user-agent=SmartTV
