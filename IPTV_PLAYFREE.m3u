@@ -184,7 +184,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
 #EXTINF:-1 group-title="Кино и сериалы",Любимое HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
-http://109.197.192.121:8080/dorama/index.m3u8
+http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="Кино и сериалы",Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Kinojam 1
@@ -195,8 +195,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 http://radio.tvs.by:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Киносемья
 http://109.197.192.121:8080/kinosemya/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киносвидание
-http://109.197.192.121:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Киномикс
 http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Киносерия
@@ -221,11 +219,11 @@ http://31.173.165.29:8000/play/a01i/index.m3u8
 http://95.142.88.250:80/Bolt/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",.red
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
-#EXTINF:-1 14491" catchup="default" group-title="Кино и сериалы",.Sci-Fi
-http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
-#EXTINF:-1 14498" catchup="default" group-title="Кино и сериалы",.Black
+#EXTINF:-1 group-title="Кино и сериалы",.Sci-Fi
+http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 group-title="Кино и сериалы",.Black
 http://188.190.222.53/Sony_turbo/index.m3u8
-#EXTINF:-1 15576" catchup="default" group-title="Кино и сериалы",Next TV
+#EXTINF:-1 group-title="Кино и сериалы",Next TV
 https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НСТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NST
@@ -236,11 +234,11 @@ http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Amedia-1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 2
-http://109.197.192.121:8080/A2/index.m3u8
+http://109.197.192.121:8080/A2/index.m3u
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
-http://178.163.0.18:4022/udp/234.0.0.221:2000
+http://178.163.5.162:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Premium
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
+http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Русский детектив
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 #EXTINF:-1 group-title="Кино и сериалы",Русский бестселлер
