@@ -100,11 +100,9 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1--Konniy_Mir/04/plst.
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",viju+ Comedy
-https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
-https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQxNTU5ODAsImlhdCI6MTc0NDA2OTU4MCwiY2lkIjo2LCJ1aWQiOjkwNzUzNzAwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.J4DIx9GjJ7oUFv40j-Ys1X7Jp5karZdeOe2whP9L_0U&offset=3
+http://212.109.208.89:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viasat Kino World
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+Кино
