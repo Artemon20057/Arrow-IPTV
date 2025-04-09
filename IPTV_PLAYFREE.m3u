@@ -98,11 +98,11 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
 #EXTINF:-1 group-title="Спорт",Конный мир
 https://stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1--Konniy_Mir/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
-http://31.173.165.29:8000/play/a018/index.m3u8
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",viju+ Comedy
-http://5.8.58.61:8080/eurosport/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
-https://tvtogliatti24.ru/hls/live720/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQxNTU5ODAsImlhdCI6MTc0NDA2OTU4MCwiY2lkIjo2LCJ1aWQiOjkwNzUzNzAwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.J4DIx9GjJ7oUFv40j-Ys1X7Jp5karZdeOe2whP9L_0U&offset=3
 #EXTINF:-1 group-title="Кино и сериалы",Viasat Kino World
