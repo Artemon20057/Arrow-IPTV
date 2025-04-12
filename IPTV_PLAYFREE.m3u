@@ -487,7 +487,7 @@ http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Explore
 http://31.173.165.29:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Nature
-http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+http://130.193.73.10:8937/play/a01k
 #EXTINF:-1 group-title="Познавательное",Viju History
 http://31.173.165.29:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
@@ -760,7 +760,7 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?dr
 #EXTINF:-1 group-title="Детский",Да Винчи
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 group-title="Детский",Мультиландия
-http://31.210.208.171:8080/multimania/index.m3u8?token=+W2MSER
+http://130.193.73.10:8937/play/a00z
 #EXTINF:-1 group-title="Детский",Лёва
 http://91.205.199.3/planb/index.m3u8
 #EXTINF:-1 group-title="Детский",Мульт и музыка
@@ -772,7 +772,7 @@ http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-1 group-title="Детский",СТС Kids HD
 http://31.173.165.29:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Детский",В гостях у сказки
-http://178.163.0.18:4022/udp/234.0.0.11:2000
+http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 group-title="Детский",JIMJAM
 http://178.163.0.18:4022/udp/234.0.0.226:2000
 #EXTINF:-1 group-title="Детский",СоюзМультфил
