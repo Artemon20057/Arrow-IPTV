@@ -661,6 +661,10 @@ http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM
 http://92.53.64.197:5050/IPTVPLAYINTERNY.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="КИНОЗАЛ",IPTVPLAY Мультсказки HD
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="КИНОЗАЛ",1FILMAX
+http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",2FILMAX
+http://hls.goodgame.ru:8080/hls/204717.m3u8?bw9412677559592
 #EXTINF:-1 group-title="КИНОЗАЛ",KinoFilm
 https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",KinoMag
