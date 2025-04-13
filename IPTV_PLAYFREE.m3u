@@ -240,11 +240,11 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 #EXTINF:-1 tvg-id="detectivejam" group-title="Кино и сериалы", DetectiveJam
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
-#EXTINF:-1 group-title="Кино и сериалы",.red HD
+#EXTINF:-1 group-title="Кино и сериалы",.red
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино и сериалы",.Sci-Fi
 http://130.193.73.10:8937/play/a02q
-#EXTINF:-1 group-title="Кино и сериалы",.Black HD
+#EXTINF:-1 group-title="Кино и сериалы",.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 group-title="Кино и сериалы",Кино ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
@@ -272,10 +272,12 @@ http://130.193.73.10:8937/play/a02s
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Action
 http://130.193.73.10:8937/play/a02t
-#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Новелла
-http://212.109.208.89:8000/play/a0co/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Aae2ZXyY0C-jexMsUPkBnw&e=1744398095&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-TV1000-novella"group-title="Кино и сериалы",Viju TV1000 Новелла
+#EXTVLCOPT:http-user-agent=SmartTV
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=NyWl39e4tzmJoQUS2qGEOA&e=1745575550&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
+#EXTVLCOPT:http-user-agent=SmartTV
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=edqYlQsgOIGa9MA5X8_zAg&e=1745575771&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
 http://212.109.208.89:8000/play/a073/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",viju+ Comedy
@@ -484,12 +486,15 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
 #EXTINF:-1 group-title="Познавательное",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Viju Explore
-http://31.173.165.29:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Viju Nature
-http://130.193.73.10:8937/play/a01k
-#EXTINF:-1 group-title="Познавательное",Viju History
-http://31.173.165.29:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="Viju-Explore"group-title="Кино и сериалы",Viju Explore
+#EXTVLCOPT:http-user-agent=SmartTV
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=xC7CWYTqex8f7jXsQX5lNw&e=1745575881&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-Nature"group-title="Кино и сериалы",Viju Nature
+#EXTVLCOPT:http-user-agent=SmartTV
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=xQs1ylFi5aPxIDkSeqMO3Q&e=1745576058&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-History"group-title="Кино и сериалы",Viju History
+#EXTVLCOPT:http-user-agent=SmartTV
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Zx7JdZIZjeoCSQtoOzza1g&e=1745576101&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 group-title="Познавательное",Da Vinci
