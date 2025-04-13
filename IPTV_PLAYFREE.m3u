@@ -20,7 +20,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_OTR.m3u8
 #EXTINF:-1 group-title="Общероссийские",ТВ Центр
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_TVC.m3u8
 #EXTINF:-1 group-title="Общероссийские",РЕН ТВ
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_RENTV.m3u8
 #EXTINF:-1 group-title="Общероссийские",Спас
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="Общероссийские",СТС
@@ -41,6 +41,192 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Общероссийские", Муз ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="Perviy-kanal-HD" group-title="Общероссийские", Первый канал HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
+#EXTINF:-1 tvg-id="Rossia-HD" group-title="Общероссийские", Россия 1 HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
+#EXTINF:-1 tvg-id="NTV-HD" group-title="Общероссийские", НТВ HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
+#EXTINF:-1 tvg-id="STS-HD" group-title="Общероссийские", ТВЦ HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
+#EXTINF:-1 tvg-id="REN-TV-HD" group-title="Общероссийские", РЕН ТВ HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
+#EXTINF:-1 tvg-id="STS-HD" group-title="Общероссийские", СТС HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
+#EXTINF:-1 tvg-id="TV-3-HD" group-title="Общероссийские", ТВ-3 HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
+#EXTINF:-1 tvg-id="PYTNISYA-HD" group-title="Общероссийские", Пятница HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
+#EXTINF:-1 tvg-id="Zvezda-HD" group-title="Общероссийские", Звезда HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=zvezda_hd
+#EXTINF:-1 tvg-id="MIR-HD" group-title="Общероссийские", МИР HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 tvg-id="TNT-HD" group-title="Общероссийские", ТНТ HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
+#EXTINF:-1 group-title="Общероссийские",Первый канал (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал (+9)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",НТВ (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",НТВ (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",НТВ (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Пятый канал +2
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_2
+#EXTINF:-1 group-title="Общероссийские",Пятый канал +4
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_4
+#EXTINF:-1 group-title="Общероссийские",Пятый канал +7
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_7
+#EXTINF:-1 group-title="Общероссийские",Россия К (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия К (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия К (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Карусель +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Карусель +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Карусель +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ Центр +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ Центр +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ Центр +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Рен ТВ +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Рен ТВ +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Рен ТВ +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",СТС (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
+#EXTINF:-1 group-title="Общероссийские",СТС (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_4_sd
+#EXTINF:-1 group-title="Общероссийские",СТС (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_7_sd
+#EXTINF:-1 group-title="Общероссийские",Домашний +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_4
+#EXTINF:-1 group-title="Общероссийские",Домашний +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Домашний +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_7
+#EXTINF:-1 group-title="Общероссийские",ТВ3 (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
+#EXTINF:-1 group-title="Общероссийские",ТВ3 (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_4
+#EXTINF:-1 group-title="Общероссийские",ТВ3 (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_7
+#EXTINF:-1 group-title="Общероссийские",ПЯТНИЦА! +2
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
+#EXTINF:-1 group-title="Общероссийские",ПЯТНИЦА! +4
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_4_hd
+#EXTINF:-1 group-title="Общероссийские",ПЯТНИЦА! +7
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_7_hd
+#EXTINF:-1 group-title="Общероссийские",ЗВЕЗДА +2
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_2_hd
+#EXTINF:-1 group-title="Общероссийские",ЗВЕЗДА +4
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_4_hd
+#EXTINF:-1 group-title="Общероссийские",ЗВЕЗДА +7
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_7_hd
+#EXTINF:-1 group-title="Общероссийские",Мир (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Мир (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Мир (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Муз ТВ (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Муз ТВ (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские",Муз ТВ (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Неизвестная Россия
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 group-title="Общероссийские",Липецкое время
@@ -125,7 +311,7 @@ http://195.18.23.20:8000/play/88/index.m3u8
 http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 tvg-id="footbolny" group-title="Спорт", Мяч
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спорт", Футбол
+
  
 #EXTINF:-1 group-title="Спорт",KHL
 http://178.124.152.238:8088/khl
