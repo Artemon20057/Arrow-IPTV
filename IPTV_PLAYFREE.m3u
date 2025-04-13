@@ -20,7 +20,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_OTR.m3u8
 #EXTINF:-1 group-title="Общероссийские",ТВ Центр
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_TVC.m3u8
 #EXTINF:-1 group-title="Общероссийские",РЕН ТВ
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_RENTV.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
 #EXTINF:-1 group-title="Общероссийские",Спас
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="Общероссийские",СТС
@@ -34,8 +34,8 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="Общероссийские",Звезда
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="Общероссийские",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общероссийские",ТНТ
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Общероссийские", Муз ТВ
@@ -126,7 +126,7 @@ http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 tvg-id="footbolny" group-title="Спорт", Мяч
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спорт", Футбол
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQxNTU5ODAsImlhdCI6MTc0NDA2OTU4MCwiY2lkIjo2LCJ1aWQiOjkwNzUzNzAwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.J4DIx9GjJ7oUFv40j-Ys1X7Jp5karZdeOe2whP9L_0U&offset=3
+ 
 #EXTINF:-1 group-title="Спорт",KHL
 http://178.124.152.238:8088/khl
 #EXTINF:-1 group-title="Спорт",Хоккейный
@@ -537,7 +537,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательное",Время
 https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
 #EXTINF:-1 group-title="Развлекательное",Успех
-
+https://stream201.24h.tv/hlsjwt/658c24b04fa1eec77c45226ed31056b7f2741b97-210-0-24h312067444-1-3165307088-1744565354-e128-MZ0oIYUifJBIAn-O3HHaafcc6dcta6-srMPQparSI2Y/index.m3u8?ml=true&mp4=true
 #EXTINF:-1 group-title="Развлекательное",Телекафе
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Усадьба
@@ -838,7 +838,7 @@ https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Clubbing TV
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Europa Plus TV
-
+https://city-telecom-cache.24h.tv/hlsjwt/658c24b04fa1eec77c45226ed31056b7f2741b97-160-0-24h312067444-1-3165307088-1744565265-e128-cRCdjcCt_aE1U7uuEYBClje0UwQmAiQA94_wC-_7gXE/index.m3u8?ml=true&mp4=true
 #EXTINF:-1 group-title="Музыкальные",RU.TV
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Страна FM
