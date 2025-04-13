@@ -50,7 +50,9 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
 #EXTINF:-1 tvg-id="NTV-HD" group-title="Общероссийские", НТВ HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
-#EXTINF:-1 tvg-id="STS-HD" group-title="Общероссийские", ТВЦ HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png" tvg-id="otr" group-title="Общероссийские", ОТР HD
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
+#EXTINF:-1 tvg-id="TV-CENTER-HD" group-title="Общероссийские", ТВЦ HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
 #EXTINF:-1 tvg-id="REN-TV-HD" group-title="Общероссийские", РЕН ТВ HD
@@ -59,6 +61,8 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
 #EXTINF:-1 tvg-id="STS-HD" group-title="Общероссийские", СТС HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
+#EXTINF:-1 tvg-id="domashny" group-title="Общероссийские",Домашний HD
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 tvg-id="TV-3-HD" group-title="Общероссийские", ТВ-3 HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
@@ -74,6 +78,8 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:-1 tvg-id="TNT-HD" group-title="Общероссийские", ТНТ HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Общероссийские", Неизвестная россия HD
+https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="Общероссийские",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
@@ -227,8 +233,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Муз ТВ (+7)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общероссийские",Неизвестная Россия
-http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 group-title="Общероссийские",Липецкое время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",ТНВ-Планета
@@ -303,16 +307,88 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
 http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:- 1tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2 HD
+#EXTINF:- 1tvg-id="match-football2" group-title="Спорт", Матч! Футбол 2 HD
 https://tv.movielab.pro/271/video.m3u8?token=b147f94c9cca08a6351d0256d97b17094b8ba9db-5e4818e51dc116fa509d1686b3b48b5d-1744528020-1744441620
 #EXTINF:-1 tvg-id="match-premier" group-title="Спорт", Матч! Премьер
 http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 group-title="Спорт",SD RUSSIA EXTREME
 http://178.212.71.253:8000/play/118/index.m3u8
+#EXTINF:-1 group-title="Спорт",Russian Extreme HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
+#EXTINF:-1 tvg-id="ufc" group-title="Спорт",Удар
+https://tv.movielab.pro/4111/video.m3u8?token=afcf4cbddb87d00dbe6ae8dd7beba7d3eabb0ecf-5e2fe9baeafadc0b8ceae0e60dbf5155-1744528020-1744441620
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" tvg-id="UFC Network" group-title="Спорт", UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cnn.sherdog.com/image_crop/300/300/_images/organizations/20221021093354_United_Fight_Alliance.JPG" tvg-id="no_epg_sport" group-title="Спорт", UFA TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fight-network-us.png" tvg-id="fight-network-us" group-title="Спорт", Fight Network [US]
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cams-online.ru/static/home/img/thumbnails/channels/boxing-tv.jpg" tvg-id="no_epg_sport" group-title="Спорт", Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Спорт",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт", Наш спорт 1
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 2
+http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 3
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 4
+http://stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 5
+http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 6
+http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 7
+http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 8
+http://stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 9
+http://stream-msk-08.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 10
+http://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 11
+http://stream-msk-11.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 12
+http://stream-msk-05.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1--Nash_sport12/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 13
+http://stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 14
+http://stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 15
+http://stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 16
+http://stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1--Nash_sport16/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 17
+http://stream-msk-03.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1--Nash_sport17/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 18
+http://stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 19
+http://stream-msk-07.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1--Nash_sport19/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 20
+http://stream-msk-08.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1--Nash_sport20/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 21
+http://stream-msk-05.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1--Nash_sport21/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 22
+http://stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 23
+http://stream-msk-09.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 24
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 25
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 26
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1--Nash_sport26/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 27
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 28
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 29
+https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 30
+https://stream-msk-18.ott.tricolor.tv/dtv/id1026_MSKSG-PVR-1--Nash_sport30/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 tvg-id="footbolny" group-title="Спорт", Мяч
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
-
- 
 #EXTINF:-1 group-title="Спорт",KHL
 http://178.124.152.238:8088/khl
 #EXTINF:-1 group-title="Спорт",Хоккейный
@@ -630,6 +706,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bober
 #EXTINF:-1 group-title="Познавательное",Звезда Плюс
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательное",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательное",Зал суда
 http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",Ратник HD
@@ -649,8 +727,10 @@ http://live1.trkcrimea.ru/1tvcrimea.m3u8
 http://91.146.94.234:10000/play/a04e
 #EXTINF:-1 group-title="Познавательное",Sunset Space HD
 https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/3.m3u8
-#EXTINF:-1 group-title="Познавательное",МЫ
-https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+#EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательное", МЫ
+https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
+#EXTINF:-1 group-title="Познавательные",Поехали!
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="Познавательное",National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",National Geographic WILD
@@ -673,6 +753,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
 #EXTINF:-1 group-title="Познавательное",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 tvg-id="tcb" group-title="Познавательное", ТСВ
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 tvg-id="Viju-Explore"group-title="Кино и сериалы",Viju Explore
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=xC7CWYTqex8f7jXsQX5lNw&e=1745575881&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
