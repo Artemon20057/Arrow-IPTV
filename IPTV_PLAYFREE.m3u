@@ -341,8 +341,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zoo_TV
 #EXTINF:-1 group-title="Познавательное",Наука
 http://109.197.192.121:8080/Nauka/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Travel HD
-http://91.146.94.234:10000/play/a04c
+#EXTINF:-1 group-title="Познавательное",Travel channel HD
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Живая Планета
