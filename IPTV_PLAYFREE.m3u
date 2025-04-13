@@ -463,7 +463,7 @@ https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 group-title="Познавательное",МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Познавательное",National Geographic
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+https://tvcdnpotok.com/nat_geogra/index.m3u8?wmsAuthSign=52760e7000de490b5c4ee0d4e92f07e4-1742829087-712i271i071i881
 #EXTINF:-1 group-title="Познавательное",National Geographic WILD
 http://cdn03.dyndns.tv:2500/live/natgeowildhd?token=01646186bae7e5860786ae08e1be1c04
 #EXTINF:-1 group-title="Познавательное",Animal Planet
@@ -471,7 +471,7 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:-1 group-title="Познавательное",Discovery Channel
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+https://tvcdnpotok.com/aPouGjzoLBvYgf8zXYDtPg/520/1742830926/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
 http://91.146.94.234:10000/play/a05i
 #EXTINF:-1 tvg-id="history" group-title="Познавательное",History
@@ -494,8 +494,8 @@ http://31.173.165.29:8000/play/a015/index.m3u8
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 group-title="Познавательное",Da Vinci
 http://130.193.73.10:8937/play/a014
-#EXTINF:-1 group-title="Познавательное",Terra HD
-http://130.193.73.10:8937/play/a01g
+#EXTINF:-1 group-title="Познавательное",Terra
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательное",Зоопарк
 http://178.163.0.18:4022/udp/234.0.0.237:2000
 #EXTINF:-1 group-title="Познавательное",Наша Сибирь HD
