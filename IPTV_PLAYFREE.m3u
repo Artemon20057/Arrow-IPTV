@@ -367,8 +367,9 @@ http://109.197.192.121:8080/zagorod/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
 #EXTINF:-1 10675" catchup="default" group-title="Познавательное",Живая природа
 http://212.109.208.89:8000/play/a07i/index.m3u8
-#EXTINF:-1 10676" catchup="default" group-title="Познавательное",Глазами туриста
-
+#EXTINF:-1 group-title="Познавательное",Глазами туриста
+#EXTVLCOPT:http-user-agent=SmartTV
+https://tv.tvcdnpotok.com/eEEaDH4CAXRzg7DOKokz9Q/1025/1744589805/index.m3u8
 #EXTINF:-1 group-title="Познавательное",365 дней ТВ
 http://31.173.165.29:8000/play/a057/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
