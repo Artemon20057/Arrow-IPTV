@@ -837,7 +837,7 @@ https://stream201.24h.tv/hlsjwt/658c24b04fa1eec77c45226ed31056b7f2741b97-210-0-2
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Усадьба
 http://130.193.73.10:8937/play/a024
-#EXTINF:-1 group-title="Равлекательное",Лапки Live
+#EXTINF:-1 group-title="Развлекательное",Лапки Live
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=LapkiLive
 #EXTINF:-1 group-title="Развлекательное",Театр
 #EXTVLCOPT:http-user-agent=SmartTV
