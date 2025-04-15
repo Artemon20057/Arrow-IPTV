@@ -245,8 +245,30 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Региональные",Грозный ТВ
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="Региональные",Грозный
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Grozniy
+#EXTINF:-1 group-title="Региональные",Осетия-Ирыстон
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Osetiya-Iryston
+#EXTINF:-1 group-title="Региональные",Юрган
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Yurgan
+#EXTINF:-1 group-title="Региональные",Губерния
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=GUBERNIA
+#EXTINF:-1 group-title="Региональные",АОТВ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=AOTV
+#EXTINF:-1 group-title="Региональные",НВК Саха
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NVK_Saha
+#EXTINF:-1 group-title="Региональные",Туган Тел
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=tugantel_hd
+#EXTINF:-1 group-title="Региональные",Майдан
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Maidan
+#EXTINF:-1 group-title="Региональные",Кубань 24
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kuban24
+#EXTINF:-1 group-title="Региональные",СвоёТВ.Ставропольский край
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=SvoeTV_Stavropolskiy_krai
+#EXTINF:-1 group-title="Региональные",Мир Белогорья
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_Belogorya_SD
+#EXTINF:-1 group-title="Региональные",БСТ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BST
 #EXTINF:-1 group-title="Региональные",Гродно плюс
 http://82.209.219.165:1234/gp
 #EXTINF:-1 group-title="Региональные",Продвижение
@@ -282,7 +304,7 @@ http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
-http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
 #EXTINF:-1 group-title="Спорт",viju+ Sport
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
@@ -603,6 +625,8 @@ http://87.99.87.203:2020/channel/n7f599ce7/index.m3u8?q=c155fd146caa671acca6c687
 http://87.99.87.203:2020/channel/30f8846c/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
 #EXTINF:-1 group-title="Кино и сериалы",Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="Кино и сериалы",FAN HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 tvg-id="trashtv" group-title="Кино и сериалы", Trash TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
@@ -632,6 +656,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 http://109.197.192.121:8080/zagorod/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" group-title="Познавательное",Загородный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
+#EXTINF:-1 group-title="Познавательное",Загородный Int HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorodniy_int_HD&serviceArea=GLOBAL
 #EXTINF:-1 10675" catchup="default" group-title="Познавательное",Живая природа
 http://212.109.208.89:8000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Глазами туриста
@@ -663,6 +689,8 @@ http://188.190.222.53/Dikiy/index.m3u8
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:-1 group-title="Познавательное",Охотник и рыболов Int HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательное",Дикая охота HD
 http://212.109.208.89:8000/play/a091/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
@@ -706,7 +734,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bober
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательное",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательное",Зал суда
-http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
 #EXTINF:-1 group-title="Познавательное",Ратник HD
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Светлое ТВ
@@ -813,6 +841,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=LapkiLive
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Premiera TV
 http://62.233.57.226:8001/play/a009
+#EXTINF:-1 group-title="Развлекательное",Живи активно
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
 #EXTINF:-1 group-title="Развлекательное",TVM Channel
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
 #EXTINF:-1 group-title="Развлекательное",Ностальгия
@@ -821,6 +851,8 @@ http://178.124.152.238:8088/nostalgia
 https://vm4984530.52ssd.had.wf/memfs/c31f67cb-ba7a-44e7-bffa-828c3a205f80.m3u8
 #EXTINF:-1 group-title="Развлекательное",Gags Network HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
+#EXTINF:-1 group-title="Развлекательное",Arirang TV
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arirang_TV
 #EXTINF:-1 group-title="Развлекательное",STAR TV [MD]
 http://62.233.57.226:8001/play/a008
 #EXTINF:-1 group-title="Развлекательное",Калейдоскоп ТВ
