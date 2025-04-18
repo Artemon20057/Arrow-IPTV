@@ -582,13 +582,28 @@ http://212.109.208.89:8000/play/a075/index.m3u8
 http://212.109.208.89:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat-Kino-Comedy" group-title="Кино и сериалы",Viasat Kino Comedy
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
+#EXTINF:-1 tvg-id="Viasat-Kino-HD" group-title="Кино и сериалы",Viasat Kino HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
+#EXTINF:-1 tvg-id="Viasat-Kino-Action" group-title="Кино и сериалы",Viasat Kino Action
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
+#EXTINF:-1 tvg-id="Viasat-Kino-Megahit HD" group-title="Кино и сериалы",Viasat Kino Megahit HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
+#EXTINF:-1 tvg-id="Viasat-World" group-title="Кино и сериалы",Viasat World
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Еврокино
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино и сериалы",TV XXI
 http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино и сериалы",Кинеко
+#EXTINF:-1 group-title="Кино и сериалы",Кинеко HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
-#EXTINF:-1 group-title="Кино и сериалы",Сапфир
+#EXTINF:-1 group-title="Кино и сериалы",Сапфир HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 http://109.200.130.123:7537/play/a02n
@@ -610,6 +625,8 @@ http://130.193.73.10:8937/play/a03k
 http://109.200.130.123:7537/play/a023
 #EXTINF:-1 group-title="Кино и сериалы",Иллюзион +
 http://31.173.165.29:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="Hollywood" group-title="Кино и сериалы",Hollywood
+http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 group-title="Кино и сериалы",FilmBox HD
 http://130.193.73.10:8937/play/a03s
 #EXTINF:-1 group-title="Кино и сериалы",Shot TV
