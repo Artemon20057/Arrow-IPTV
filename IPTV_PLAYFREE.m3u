@@ -49,7 +49,7 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
 #EXTINF:-1 tvg-id="NTV-HD" group-title="Общероссийские", НТВ HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 tvg-id="TV-CENTER-HD" group-title="Общероссийские", ТВЦ HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
@@ -67,10 +67,10 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
 #EXTINF:-1 tvg-id="Zvezda-HD" group-title="Общероссийские", Звезда HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=zvezda_hd
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="MIR-HD" group-title="Общероссийские", МИР HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Mir_HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT-HD" group-title="Общероссийские", ТНТ HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
@@ -265,8 +265,11 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_Belogorya_SD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BST
 #EXTINF:-1 group-title="Региональные",tvg-logo="http://i.otzovik.com/objects/b/790000/782877.png",ПЕРВЫЙ ТУЛЬСКИЙ
 http://5.164.24.83/tula/1tv_hi/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1532276954_shelkovskoe-tv.jpg",Щелковское ТВ
+#EXTINF:-1 group-title="Региональные",tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1532276954_shelkovskoe-tv.jpg",Щелковское ТВ
 http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-id="zhizn-glazova" group-title="Региональные",Жизнь Глазова
+#EXTVLCOPT:http-user-agent=SmartTV
+https://yellow.garant.tv/glazov24/stream.m3u8
 #EXTINF:-1 group-title="Региональные",Гродно плюс
 http://82.209.219.165:1234/gp
 #EXTINF:-1 group-title="Региональные",Продвижение
@@ -327,7 +330,7 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
 http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:- 1tvg-id="match-football2" group-title="Спорт", Матч! Футбол 2 HD
+#EXTINF:-1 tvg-id="match-football2" group-title="Спорт", Матч! Футбол 2 HD
 https://tv.movielab.pro/271/video.m3u8?token=b147f94c9cca08a6351d0256d97b17094b8ba9db-5e4818e51dc116fa509d1686b3b48b5d-1744528020-1744441620
 #EXTINF:-1 tvg-id="match-premier" group-title="Спорт", Матч! Премьер
 http://195.18.23.20:8000/play/88/index.m3u8
@@ -523,10 +526,10 @@ http://130.193.73.10:8937/play/a02o
 http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",НТВ Сериал
-http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино и сериалы",НТВ Хит
-http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="kinojam2" group-title="Кино и сериалы",НТВ Сериал HD
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinojam2" group-title="Кино и сериалы",НТВ Хит HD
+http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Kinojam 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 tvg-id="kinojam2" group-title="Кино и сериалы",Kinojam 2
@@ -575,28 +578,13 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v3
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=gZHP9xF6sGH2-8ROCapBNg&e=1745780988&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
-http://212.109.208.89:8000/play/a073/index.m3u8
+http://130.193.73.10:8937/play/a03g
 #EXTINF:-1 group-title="Кино и сериалы",viju+ Comedy
 http://212.109.208.89:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
 http://212.109.208.89:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat-Kino-Comedy" group-title="Кино и сериалы",Viasat Kino Comedy
-#EXTVLCOPT:http-user-agent=SmartTV
-http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
-#EXTINF:-1 tvg-id="Viasat-Kino-HD" group-title="Кино и сериалы",Viasat Kino HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
-#EXTINF:-1 tvg-id="Viasat-Kino-Action" group-title="Кино и сериалы",Viasat Kino Action
-#EXTVLCOPT:http-user-agent=SmartTV
-http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
-#EXTINF:-1 tvg-id="Viasat-Kino-Megahit HD" group-title="Кино и сериалы",Viasat Kino Megahit HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
-#EXTINF:-1 tvg-id="Viasat-World" group-title="Кино и сериалы",Viasat World
-#EXTVLCOPT:http-user-agent=SmartTV
-http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Еврокино
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино и сериалы",TV XXI
@@ -605,10 +593,12 @@ http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
 #EXTINF:-1 group-title="Кино и сериалы",Сапфир HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
-#EXTINF:-1 group-title="Кино и сериалы", Дорама
-http://109.200.130.123:7537/play/a02n
+#EXTINF:-1 group-title="Кино и сериалы",Дорама HD
+https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Saga TV
+http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 group-title="Кино и сериалы",Kinoliving
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 group-title="Кино и сериалы",Bolt
@@ -630,7 +620,7 @@ http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 group-title="Кино и сериалы",FilmBox HD
 http://130.193.73.10:8937/play/a03s
 #EXTINF:-1 group-title="Кино и сериалы",Shot TV
-http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+http://109.200.130.123:7537/play/a02b
 #EXTINF:-1 group-title="Кино и сериалы",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Kino24
@@ -683,13 +673,14 @@ http://109.197.192.121:8080/zagorod/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
 #EXTINF:-1 group-title="Познавательное",Загородный Int HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorodniy_int_HD&serviceArea=GLOBAL
-#EXTINF:-1 10675" catchup="default" group-title="Познавательное",Живая природа
-http://212.109.208.89:8000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="zhivaya-Priroda" group-title="Познавательное",Живая Природа HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://178.212.71.253:8000/play/79/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Глазами туриста
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 group-title="Познавательное",365 дней ТВ
-http://176.113.48.221:8986/135
+http://178.212.71.253:8000/play/67/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательное",Кто есть кто
@@ -711,7 +702,7 @@ http://176.113.48.221:8986/133
 #EXTINF:-1 group-title="Познавательное",Авто 24
 http://31.210.208.171:8080/auto24/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательное",Дикий
-http://188.190.222.53/Dikiy/index.m3u8
+http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 group-title="Познавательное",Охота и рыбалка
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
@@ -721,7 +712,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_
 #EXTINF:-1 group-title="Познавательное",Дикая охота HD
 http://212.109.208.89:8000/play/a091/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
-http://212.109.208.89:8000/play/a090/index.m3u8
+http://130.193.73.10:8937/play/a04p
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 group-title="Познавательное",The Fishing and Hunting
@@ -785,9 +776,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
 #EXTVLCOPT:http-user-agent=SmartTV
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="myy" group-title="Познавательное",National Geographic WILD
+#EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",National Geographic WILD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://cdn03.dyndns.tv:2500/live/natgeowildhd?token=01646186bae7e5860786ae08e1be1c04
+http://188.237.47.212:6005
 #EXTINF:-1 group-title="Познавательное",Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
@@ -796,7 +787,7 @@ http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=SmartTV
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
-http://91.146.94.234:10000/play/a05i
+http://91.146.94.234:10000/play/a041
 #EXTINF:-1 tvg-id="history" group-title="Познавательное",History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательное",HGTV Home & Garden HD
@@ -809,6 +800,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
 http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-id="tcb" group-title="Познавательное", ТСВ
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 tvg-id="tcb" group-title="Познавательное",#EXTINF:-1,Silkway TV
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1 tvg-id="tcb" group-title="Познавательное",#EXTINF:-1,Танцуй!
+http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=xC7CWYTqex8f7jXsQX5lNw&e=1745575881&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -819,7 +814,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Zx7JdZIZjeoCSQtoOzza1g&e=1745576101&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
-http://176.113.48.221:8986/98
+http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 group-title="Познавательное",Da Vinci
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 group-title="Познавательное",Terra
@@ -865,6 +860,10 @@ https://stream201.24h.tv/hlsjwt/658c24b04fa1eec77c45226ed31056b7f2741b97-210-0-2
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Усадьба
 http://130.193.73.10:8937/play/a024
+#EXTINF:-1 group-title="Развлекательное",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Развлекательное",Твоё ТВ Юмор HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Лапки Live
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=LapkiLive
 #EXTINF:-1 group-title="Развлекательное",Театр
@@ -902,11 +901,11 @@ https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="Развлекательное",FoodTime
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
-#EXTINF:-1 tvg-id="ntv-style" group-title="Развлекательное", НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" group-title="Развлекательное", НТВ Стиль HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Развлекательное",НТВ Право
-http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательное",НТВ Право HD
+http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",КУХНЯ-ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 group-title="Развлекательное" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
@@ -923,6 +922,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Развлекательное" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Pro-zhizn" group-title="Развлекательное",Про жизнь
+#EXTVLCOPT:http-user-agent=SmartTV
+https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Анекдот ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
 #EXTINF:-1 group-title="Развлекательное",Сарафан
@@ -1141,7 +1143,7 @@ http://31.173.165.29:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Детский",В гостях у сказки
 http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 group-title="Детский",JIMJAM
-http://178.163.0.18:4022/udp/234.0.0.226:2000
+http://91.146.94.234:10000/play/a061
 #EXTINF:-1 group-title="Детский",СоюзМультфил
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детский",Чип и Дейл
@@ -1399,7 +1401,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 group-title="Новости",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости",РБК
-http://92.50.128.180/utv/1358/index.m3u8
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новости",Дума ТВ
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости",Дождь HD [СМИ иногент]
@@ -1412,8 +1414,6 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1--RT/03/plst.m3u8?drmr
 http://cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Новости",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Новости",360°
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Новости",CCTV4 Europe
 http://stream-msk-13.ott.tricolor.tv/dtv/id658_MSKSG-PVR-1--CCTV4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="Новости",CGTN
@@ -1444,6 +1444,9 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Новости",Настоящее время HD
 http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Новости",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Новости",
 #EXTINF:-1 group-title="Новости",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360° Новости
@@ -1458,3 +1461,5 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Первый Республиканский
 http://130.193.73.10:8937/play/a001
+#EXTINF:-1 group-title="Новости",Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
