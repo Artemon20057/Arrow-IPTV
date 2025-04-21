@@ -790,8 +790,9 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 #EXTINF:-1 group-title="Познавательное",РЖД HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательное",TLC HD
-http://91.146.94.234:10000/play/a04e
+#EXTINF:-1 tvg-id="TLC-HD" group-title="Познавательное",TLC HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://bl.rutube.ru/livestream/4642339b773730b6bed09b2f404747de/index.m3u8?s=JMIuK00S1eeAP7D0ywUgOQ&e=1745312617&scheme=https
 #EXTINF:-1 group-title="Познавательное",Sunset Space HD
 https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательное", МЫ
