@@ -807,10 +807,8 @@ http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=SmartTV
 https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=ceFoyn03Ey0WOVOIrWklBQ&e=1745312701&scheme=https
 #EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",National Geographic WILD HD
-#EXTVLCOPT:http-user-agent=SmartTV
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательное", Nat Geo Wild FHD
-#EXTVLCOPT:http-user-agent=SmartTV
 https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=PkehHbSCeoIAuNV9KWipdA&e=1745312702&scheme=https
 #EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -825,7 +823,6 @@ http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=SmartTV
 https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=LnI2HW0sgewYnH0YXUMLig&e=1745312700&scheme=https
 #EXTINF:-1 tvg-id="Discovery-Science" group-title="Познавательное",Discovery Science
-#EXTVLCOPT:http-user-agent=SmartTV
 https://bl.rutube.ru/livestream/ca5c6dab1412bae2fd4545937ffa4c7b/index.m3u8?s=8ztLTCZkbQXmSRtLeyqjSQ&e=1745312709&scheme=https
 #EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -854,6 +851,8 @@ http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="Tanzyi!" group-title="Познавательное",Танцуй!
 http://109.200.130.123:7537/play/a02l
+#EXTINF:-1 tvg-id="Smotrim-chastnyi-detektiv" group-title="Познавательное",Смотрим Частный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",лекторий DОСТОЕВСКИЙ
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Мособр TV HD
