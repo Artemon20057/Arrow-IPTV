@@ -803,13 +803,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
 #EXTVLCOPT:http-user-agent=SmartTV
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="National-Geographic-HD" group-title="Познавательное",National Geographic HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=ceFoyn03Ey0WOVOIrWklBQ&e=1745312701&scheme=https
-#EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",National Geographic WILD HD
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic HD
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=T0ava3s0xfv2HB2zRhb-tQ&e=1745399079&scheme=https
+#EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",National Geographic WILD
 http://188.237.47.212:6005
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательное", Nat Geo Wild FHD
-https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=PkehHbSCeoIAuNV9KWipdA&e=1745312702&scheme=https
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild FHD
+https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=XFNVD6L9oIJANIF3H1w7pQ&e=1745399080&scheme=https
 #EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
 #EXTVLCOPT:http-user-agent=SmartTV
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
@@ -822,7 +821,7 @@ http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Discovery-channel-HD" group-title="Познавательное",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=LnI2HW0sgewYnH0YXUMLig&e=1745312700&scheme=https
-#EXTINF:-1 tvg-id="Discovery-Science" group-title="Познавательное",Discovery Science
+#EXTINF:-1 tvg-id="Discovery-Science" group-title="Познавательное", Discovery Science
 https://bl.rutube.ru/livestream/ca5c6dab1412bae2fd4545937ffa4c7b/index.m3u8?s=8ztLTCZkbQXmSRtLeyqjSQ&e=1745312709&scheme=https
 #EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore
 #EXTVLCOPT:http-user-agent=SmartTV
