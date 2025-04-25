@@ -803,10 +803,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
 #EXTVLCOPT:http-user-agent=SmartTV
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Плзнавательное",National Geographic HD
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=BP0wGsbloIj9FcABvo46gQ&e=1745564232&scheme=https
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic HD
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=T0ava3s0xfv2HB2zRhb-tQ&e=1745399079&scheme=https
+https://tv.movielab.pro/143/video.m3u8?token=8bcd42b80b0a1a89ac0304f6be2ec9227cf977dc-92daad5a3539057ba8f359ee42fa8b6f-1745607137-1745520737
 #EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",National Geographic WILD
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet HD
