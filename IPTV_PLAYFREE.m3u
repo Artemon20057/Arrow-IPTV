@@ -815,7 +815,7 @@ http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Discovery-channel-HD" group-title="Познавательное",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=LnI2HW0sgewYnH0YXUMLig&e=1745312700&scheme=https
+https://tv.movielab.pro/147/video.m3u8?token=928b7100a5ddb2aff06296990c70d9ae76bc13ee-c00d79ccfc776e7c893f9c02f611e3aa-1745607137-1745520737
 #EXTINF:-1 tvg-id="Discovery-Science" group-title="Познавательное", Discovery Science
 https://bl.rutube.ru/livestream/ca5c6dab1412bae2fd4545937ffa4c7b/index.m3u8?s=8ztLTCZkbQXmSRtLeyqjSQ&e=1745312709&scheme=https
 #EXTINF:-1 group-title="Познавательное",ТБВ
