@@ -803,15 +803,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
 #EXTVLCOPT:http-user-agent=SmartTV
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Плзнавательное",National Geographic HD
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=BP0wGsbloIj9FcABvo46gQ&e=1745564232&scheme=https
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic HD
 https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=T0ava3s0xfv2HB2zRhb-tQ&e=1745399079&scheme=https
 #EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",National Geographic WILD
 http://188.237.47.212:6005
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild FHD
-https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=XFNVD6L9oIJANIF3H1w7pQ&e=1745399080&scheme=https
-#EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
-#EXTVLCOPT:http-user-agent=SmartTV
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
@@ -823,6 +820,8 @@ http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=LnI2HW0sgewYnH0YXUMLig&e=1745312700&scheme=https
 #EXTINF:-1 tvg-id="Discovery-Science" group-title="Познавательное", Discovery Science
 https://bl.rutube.ru/livestream/ca5c6dab1412bae2fd4545937ffa4c7b/index.m3u8?s=8ztLTCZkbQXmSRtLeyqjSQ&e=1745312709&scheme=https
+#EXTINF:-1 group-title="Познавательное",ТБВ
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=aSzF3b4N4Ptriu20Dy_FHw&e=1745564279&scheme=https
 #EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=xC7CWYTqex8f7jXsQX5lNw&e=1745575881&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
