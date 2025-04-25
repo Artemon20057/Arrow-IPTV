@@ -465,7 +465,6 @@ http://188.113.190.12/329/index.m3u8
 http://176.113.48.221:8986/33
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино и сериалы", Мужское кино
 http://176.113.48.221:8986/136
-
 #EXTINF:-1 group-title="Кино и сериалы",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Start World HD
@@ -526,7 +525,6 @@ https://jekalich.github.io/smtk/channels/dorama.m3u8
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Saga TV
 http://46.175.123.164:4022/udp/239.195.65.56:1234
-
 #EXTINF:-1 tvg-id="fox" group-title="Кино и сериалы", FOX
 #EXTVLCOPT:http-user-agent=SmartTV
 http://45.143.108.110:2203/FOX
@@ -745,10 +743,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 group-title="Познавательное",Дикая охота HD
-http://212.109.208.89:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
-http://130.193.73.10:8937/play/a04p
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное",Дикая охота HD
+https://mhd128.iptv2022.com/p/gpa79URat3Z988MsE-Ta2g,1745614809/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное",Дикая рыбалка HD
+https://mhd128.iptv2022.com/p/6rF9Qvs3WQcONsD0Kp9oQw,1745614809/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 group-title="Познавательное",The Fishing and Hunting
@@ -779,15 +777,12 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="history" group-title="Познавательное",History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore
-#EXTVLCOPT:http-user-agent=SmartTV
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=xC7CWYTqex8f7jXsQX5lNw&e=1745575881&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="Viju-Nature" group-title="Познавательное",Viju Nature
-#EXTVLCOPT:http-user-agent=SmartTV
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=xQs1ylFi5aPxIDkSeqMO3Q&e=1745576058&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="Viju-History" group-title="Познавательное",Viju History
-#EXTVLCOPT:http-user-agent=SmartTV
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Zx7JdZIZjeoCSQtoOzza1g&e=1745576101&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=lS6GAAQ73jiVLqw1_5K0gQ&e=1746645988&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-Nature" group-title="Познавательное",Viju Nature HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=GEoIjyTm9zjZUXZ8LeuIiw&e=1746646070&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-History" group-title="Познавательное",Viju History HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yVV6WkDYO6gUN4dlakvacQ&e=1746646117&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 tvg-id="Discovery-channel" group-title="Познавательное",Discovery Channel
