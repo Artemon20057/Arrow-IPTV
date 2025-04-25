@@ -307,14 +307,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
 #EXTINF:-1 group-title="Спорт",viju+ Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-#EXTINF:-1 group-title="Спорт",Viju+ Sport HD
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Спорт",MMA-TV.COM HD
 http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
 http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="start-triumf" group-title="Спорт",Старт Триумф HD
@@ -335,14 +330,16 @@ http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:-1 tvg-id="match-football2-HD" group-title="Спорт", Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 tvg-id="match-football-3-HD" group-title="Спорт", Матч! Футбол 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 tvg-id="match-premier" group-title="Спорт", Матч! Премьер
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="match-premier" group-title="Спорт", Матч Премьер
+http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:-1 tvg-id="match-premier" group-title="Спорт", Матч! Премьер HD
+https://tv.movielab.pro/250/video.m3u8?token=6acc48f046cc803bd49042c3a41e7362cb9c6d63-6b6e1aaa37816030e6ea9ea48631708f-1745650439-1745564039
+#EXTINF:-1 tvg-id="match-football1" group-title="Спорт", Матч! Футбол 1 HD
+https://tv.movielab.pro/260/video.m3u8?token=819c7fb7838b9944c8273ff4fb25ca7395f67ef5-8e03e944c0d05fb1112aaebf1d18b798-1745650439-1745564039
+#EXTINF:-1 tvg-id="match-football2" group-title="Спорт", Матч! Футбол 2 HD
+https://tv.movielab.pro/271/video.m3u8?token=6ca49d55fb1ad5d8256dfabeee74b0cc78c5ef16-9ba06cafabd9e3642cba2bdc4cb1ab34-1745650439-1745564039
+#EXTINF:-1 tvg-id="match-football3" group-title="Спорт", Матч Футбол 3 HD
+https://tv.movielab.pro/329/video.m3u8?token=4399e5deace23537cc6cc0d4f051e359f36e87db-6df387176a54855bb39a7500872bcb07-1745650439-1745564039
 #EXTINF:-1 tvg-id="football" group-title="Спорт", Футбол
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Спорт",SD RUSSIA EXTREME
@@ -808,14 +805,13 @@ https://tv.movielab.pro/143/video.m3u8?token=8bcd42b80b0a1a89ac0304f6be2ec9227cf
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+http://91.146.94.234:10000/play/a042
 #EXTINF:-1 group-title="Познавательное",Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 tvg-id="TLC-HD" group-title="Познавательное",TLC HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://bl.rutube.ru/livestream/4642339b773730b6bed09b2f404747de/index.m3u8?s=JMIuK00S1eeAP7D0ywUgOQ&e=1745312617&scheme=https
+https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=gzedroJrkTww7Yy8dAHG9A&e=1743584606&scheme=https
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательное", МЫ
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
@@ -863,8 +859,6 @@ https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 http://hls114.freeott.top:8080/NashaSibir4k/tracks-v1a1/mono.m3u8?token=Homeorgstb
 #EXTINF:-1 group-title="Познавательное",Da Vinci
 http://130.193.73.10:8937/play/a014
-#EXTINF:-1 group-title="Познавательное",Зоопарк
-http://178.163.0.18:4022/udp/234.0.0.237:2000
 #EXTINF:-1 tvg-id="Subbota!" group-title="Развлекательное",Суббота!
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Super
