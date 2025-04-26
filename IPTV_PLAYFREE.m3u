@@ -120,11 +120,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал +4
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал +7
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия К (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
@@ -163,43 +166,49 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",СТС (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",СТС (+4)
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_4_sd
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",СТС (+7)
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_7_sd
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Домашний +2
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Домашний +4
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Домашний +7
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ТВ3 (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ТВ3 (+4)
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ТВ3 (+7)
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ПЯТНИЦА! +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ПЯТНИЦА! +4
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_4_hd
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ПЯТНИЦА! +7
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_7_hd
+#EXTVLCOPT:http-user-agent=SmartTV
+https://a3569456000-zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ЗВЕЗДА +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_2_hd
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ЗВЕЗДА +4
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_4_hd
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",ЗВЕЗДА +7
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_7_hd
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Мир (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
