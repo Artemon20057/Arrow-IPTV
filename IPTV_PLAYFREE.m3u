@@ -555,13 +555,13 @@ http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id=".red" group-title="Кино и сериалы",.red
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/bmq3SURgWm1_a0URtnhVPw,1743541208/streaming/red/324/1/tracks-v5a1/mono.m3u8
+http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id=".Sci-Fi" group-title="Кино и сериалы",.Sci-Fi
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/aAYgeKaYJc8tmT7vRUYo5g,1743541208/streaming/sci-fi/324/1/tracks-v5a1/mono.m3u8
+http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 tvg-id=".black" group-title="Кино и сериалы",.Black
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/IVtLjRIe3SnTbiQWMH9CsQ,1743541208/streaming/black/324/1/tracks-v5a1/mono.m3u8
+http://212.109.208.89:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="Kinojam-1" group-title="Кино и сериалы",Kinojam 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 tvg-id="kinojam2" group-title="Кино и сериалы",Kinojam 2
@@ -586,14 +586,14 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v3
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=gZHP9xF6sGH2-8ROCapBNg&e=1745780988&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQzOTgxNDMsImlhdCI6MTc0NDMxMTc0MywiY2lkIjo2LCJ1aWQiOjkwODE2OTczNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.PAeWnZYnkuhQLpIR7AtobGNgazVh7NDXIavbaXbrnFE&offset=10
-#EXTINF:-1 group-title="Кино и сериалы",viju+ Comedy
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQzOTgxNDMsImlhdCI6MTc0NDMxMTc0MywiY2lkIjo2LCJ1aWQiOjkwODE2OTczNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.PAeWnZYnkuhQLpIR7AtobGNgazVh7NDXIavbaXbrnFE&offset=10
-#EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQzOTgxNDMsImlhdCI6MTc0NDMxMTc0MywiY2lkIjo2LCJ1aWQiOjkwODE2OTczNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.PAeWnZYnkuhQLpIR7AtobGNgazVh7NDXIavbaXbrnFE&offset=10
-#EXTINF:-1 group-title="Кино и сериалы",Viju+ Serial
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQzOTgxNDMsImlhdCI6MTc0NDMxMTc0MywiY2lkIjo2LCJ1aWQiOjkwODE2OTczNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.PAeWnZYnkuhQLpIR7AtobGNgazVh7NDXIavbaXbrnFE&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ PREMIERE HD
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ COMEDY HD
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
 #EXTINF:-1 group-title="Кино и сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",День Победы HD
@@ -802,32 +802,26 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 tvg-id="Discovery-channel" group-title="Познавательное",Discovery Channel
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.146.94.234:10000/play/a041
+https://tv.movielab.pro/147/video.m3u8?token=73d14dbef5ad4b309788989b180e9761a40453f0-04a738290f174eaf4b611bb9cbc8a1f7-1745733458-1745647058
 #EXTINF:-1 tvg-id="Discovery-channel-HD" group-title="Познавательное",Discovery Channel HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://tv.movielab.pro/147/video.m3u8?token=928b7100a5ddb2aff06296990c70d9ae76bc13ee-c00d79ccfc776e7c893f9c02f611e3aa-1745607137-1745520737
+https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=hGrbXt0lWKsQyc6_Pz7Zdw&e=1745701556&scheme=https
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
-#EXTVLCOPT:http-user-agent=SmartTV
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic HD
-https://tv.movielab.pro/143/video.m3u8?token=8bcd42b80b0a1a89ac0304f6be2ec9227cf977dc-92daad5a3539057ba8f359ee42fa8b6f-1745607137-1745520737
+https://tv.movielab.pro/143/video.m3u8?token=d980fda1d648b2d68a65f7c26bcbf5e307a62930-64c678aeddba7059150840952ecbe0fd-1745733458-1745647058
+#EXTINF:-1 tvg-id="National-Geographic-HD" group-title="Познавательное", National Geographic HD
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=ZmydB0STI_CZ8rYOKdjjdw&e=1745701556&scheme=https
 #EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",National Geographic WILD
-http://188.237.47.212:6005
+https://tv.movielab.pro/162/video.m3u8?token=db6dcfda225ceb3c25ecf9f58b28352b6d1547ae-41d4f5a4bcb4343d0d21f96fb4a98c04-1745733458-1745647058
 #EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.146.94.234:10000/play/a042
+http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 tvg-id="TLC-HD" group-title="Познавательное",TLC HD
 https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=gzedroJrkTww7Yy8dAHG9A&e=1743584606&scheme=https
-#EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательное", МЫ
-#EXTVLCOPT:http-user-agent=SmartTV
-https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
-#EXTINF:-1 tvg-id="TBV" group-title="Познавательное",ТБВ
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательные", МЫ
+https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
+#EXTINF:-1 tvg-id="TBV" group-title="Познавательное",Благое Весть
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=4ga5xYdLf2RdZzXjr7NI9w&e=1744354602&scheme=https
 #EXTINF:-1 group-title="Познавательное",Поехали!
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
@@ -888,7 +882,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_U.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="Rutube-TV" group-title="Развлекательное",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=O9zingxrBQ3KDbg0deWoTA&e=1743576998&scheme=https
+https://stream-msk-20.ott.tricolor.tv/dtv/id1028_MSKSG-PVR-1--Rutube_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 #EXTINF:-1 tvg-id="360" group-title="Развлекательное",360°
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-id="360-int" group-title="Развлекательное", 360° Международный HD
