@@ -281,6 +281,14 @@ https://yellow.garant.tv/glazov24/stream.m3u8
 http://82.209.219.165:1234/gp
 #EXTINF:-1 group-title="Региональные",Продвижение
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Прима
+https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=euMAsezu3uK2zhHPQ_Kd0w&e=1745823588&scheme=https
+#EXTINF:-1 group-title="Региональные",Первый Ярославский
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=ZbLUgArZrqfwc5yK82XTAw&e=1745823589&scheme=https
+#EXTINF:-1 group-title="Региональные",Первый крымский
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=KiIjz5vC9VcvhbJEVMS9-Q&e=1745823590&scheme=https
+#EXTINF:-1 group-title="Региональные",Первый Тульский
+https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=Iksj5dE80BGBnp5XUChS0g&e=1745823590&scheme=https
 #EXTINF:-1 group-title="Региональные",Тверской Проспект
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 group-title="Региональные",Ника TV (Калуга)
@@ -544,13 +552,13 @@ http://188.237.47.212:6008
 http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 tvg-id="Amedia-2" group-title="Кино и сериалы",Amedia 2
 #EXTVLCOPT:http-user-agent=SmartTV
-http://130.193.73.10:8937/play/a02n
+http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 tvg-id="Amedia-Hit" group-title="Кино и сериалы",Amedia Hit
 #EXTVLCOPT:http-user-agent=SmartTV
-http://130.193.73.10:8937/play/a02o
+http://95.142.88.250:80/Amedia_Hit_HD/index.m3u8
 #EXTINF:-1 tvg-id="Amedia-Premium" group-title="Кино и сериалы",Amedia Premium
 #EXTVLCOPT:http-user-agent=SmartTV
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
+http://31.173.165.29:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="Amedia-Premium-HD" group-title="Кино и сериалы",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id=".red" group-title="Кино и сериалы",.red
@@ -600,8 +608,6 @@ https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 #EXTINF:-1 group-title="Кино и сериалы",Bollywood
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
-#EXTINF:-1 group-title="Кино и сериалы",Bollywood HD
-http://130.193.73.10:8937/play/a02l
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
 http://31.173.165.29:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Flix Snip
@@ -702,7 +708,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
 #EXTINF:-1 tvg-id="zhivaya-Priroda" group-title="Познавательное",Живая Природа HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://178.212.71.253:8000/play/79/index.m3u8
-#EXTINF:-1 tvg-id="10386 group-title="Познавательное", Неизвестная планета
+#EXTINF:-1 tvg-id="10386" group-title="Познавательное", Неизвестная планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/VjS2vcxnwfJsgGdJxtDwvQ,1745787610/streaming/np/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Познавательное",Travel+Adventure HD
@@ -758,14 +764,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательное",Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные", Дикая охота HD
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное", Дикая охота HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/CS4Ya3_yDTdY7o3iG1B95g,1745787609/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные", Дикая рыбалка HD
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное", Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/s9s-3aOkFFxYXOC8H7OfOw,1745787609/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-
 #EXTINF:-1 group-title="Познавательное",Охота и рыбалка
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
@@ -816,18 +820,18 @@ http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 https://tv.movielab.pro/143/video.m3u8?token=94d6ea113b492a2b26b5ab8072ef761844659c13-f5f2b60fbb03d82317fe7bf02f7ec881-1745823358-1745736958
 #EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",Nat Geo WILD
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet HD
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet
+https://bl.rutube.ru/livestream/d73e70070a806f9baf6e662f6cc40665/index.m3u8?s=rZehSD5WXiC9HXKOgfROxg&e=1745823525&scheme=https
 #EXTINF:-1 group-title="Познавательное",Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
 http://109.200.130.123:7537/play/a02j
-#EXTINF:-1 tvg-id="TLC-HD" group-title="Познавательное",TLC HD
-https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=gzedroJrkTww7Yy8dAHG9A&e=1743584606&scheme=https
+#EXTINF:-1 tvg-id="TLC-HD" group-title="Познавательное",TLC
+https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=Upy51r7uGqEk_WgTc3kfig&e=1745823526&scheme=https
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательные", МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
-#EXTINF:-1 tvg-id="TBV" group-title="Познавательное",Благое Весть
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=4ga5xYdLf2RdZzXjr7NI9w&e=1744354602&scheme=https
+#EXTINF:-1 tvg-id="TBV" group-title="Познавательное",Благая Весть
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=6lGeuFlzd4d_v8W4j0X-iQ&e=1745823583&scheme=ht
 #EXTINF:-1 group-title="Познавательное",Поехали!
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
 #EXTINF:-1 tvg-id="Tochka-RF" group-title="Познавательное",Точка.РФ
