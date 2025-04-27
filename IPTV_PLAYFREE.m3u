@@ -46,7 +46,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
 #EXTINF:-1 tvg-id="Rossia-HD" group-title="Общероссийские", Россия 1 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
+http://tv.ttk.mx:9075
 #EXTINF:-1 tvg-id="NTV-HD" group-title="Общероссийские", НТВ HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
