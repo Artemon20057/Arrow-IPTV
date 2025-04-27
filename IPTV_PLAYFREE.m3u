@@ -815,10 +815,10 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yVV6WkDYO6gUN4dlakvacQ&e=1746646117&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
 http://130.193.73.10:8937/play/a01l
-#EXTINF:-1 tvg-id="Discovery-channel" group-title="Познавательное",Discovery Channel
-https://tv.movielab.pro/147/video.m3u8?token=73d14dbef5ad4b309788989b180e9761a40453f0-04a738290f174eaf4b611bb9cbc8a1f7-1745733458-1745647058
-#EXTINF:-1 tvg-id="Discovery-channel-HD" group-title="Познавательное",Discovery Channel HD
-https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=hGrbXt0lWKsQyc6_Pz7Zdw&e=1745701556&scheme=https
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery HD
+https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=36JG7EShAim34G9qHDQF6Q&e=1745787943&scheme=https
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
+https://tv.movielab.pro/147/video.m3u8?token=5b8e56fcc5c08717cb524aac9ad4924f36ad0085-ed34aea4f81ade444462483fca7f7c2e-1745823358-1745736958
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="National-Geographic-HD" group-title="Познавательное", National Geographic HD
@@ -827,6 +827,8 @@ https://tv.movielab.pro/143/video.m3u8?token=94d6ea113b492a2b26b5ab8072ef7618446
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet
 https://bl.rutube.ru/livestream/d73e70070a806f9baf6e662f6cc40665/index.m3u8?s=rZehSD5WXiC9HXKOgfROxg&e=1745823525&scheme=https
+#EXTINF:-1 group-title="Познавательные",Discovery Investigation
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
