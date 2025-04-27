@@ -356,13 +356,13 @@ https://tv.movielab.pro/271/video.m3u8?token=3ccd8bd82b2648c41fd6a51facca626a096
 #EXTINF:-1 tvg-id="match-football3" group-title="Спорт", Матч Футбол 3 HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/Jp_yTJSWl7ckHH8a9CJVRw,1745787612/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="okko-football" group-title="Спортивные", Окко Футбол
+#EXTINF:-1 tvg-id="okko-football" group-title="Спорт", Окко Футбол
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/6554.m3u8
-#EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные", Окко Спорт
+#EXTINF:-1 tvg-id="okko-sport" group-title="Спорт", Окко Спорт
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/20138.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спортивные", Футбол
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спорт", Футбол
 http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU4MzE3ODAsImlhdCI6MTc0NTc0NTM4MCwiY2lkIjo2LCJ1aWQiOjkxMjA4ODUwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.zdsSymhJSKhk5pjWSLveeZQwXyitxdrDRPT5ZciXYFc&offset=3
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/732/115/png-clipart-white-and-black-soccer-ball-illustration-football-player-flame-football-blue-text.png" tvg-id="no_epg_sport" group-title="Спортивные", IDC: Футбол
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/732/115/png-clipart-white-and-black-soccer-ball-illustration-football-player-flame-football-blue-text.png" tvg-id="no_epg_sport" group-title="Спорт", IDC: Футбол
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="RUSSIA-EXTREME" group-title="Спорт",SD RUSSIA EXTREME
 http://178.212.71.253:8000/play/118/index.m3u8
