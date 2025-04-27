@@ -315,8 +315,8 @@ http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
-#EXTINF:-1 group-title="Спорт",viju+ Sport
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорт" ,Viasat Sport
+http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU4MjM2NTYsImlhdCI6MTc0NTczNzI1NiwiY2lkIjo2LCJ1aWQiOjkxMjA2MjcwNCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.-N6FOea5K5jUuzp9oB1B2FfLRofQwCgxWD1rQeJYAAw&offset=10
 #EXTINF:-1 group-title="Спорт",MMA-TV.COM HD
 http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
@@ -756,16 +756,18 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Познавательное",Охотник и рыболов Int HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
-#EXTINF:-1 group-title="Познавательное",Охота и рыбалка
-http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное",Дикая охота HD
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные", Дикая охота HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Ucm1fThjTbUFUudZ6AIoqw,1745701209/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное",Дикая рыбалка HD
+https://mhd128.iptv2022.com/p/CS4Ya3_yDTdY7o3iG1B95g,1745787609/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные", Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/GxsoGRbM_IkLOVaOoxsOLg,1745701209/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/s9s-3aOkFFxYXOC8H7OfOw,1745787609/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательное",Охота и рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 group-title="Познавательное",The Fishing and Hunting
@@ -890,7 +892,7 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id1028_MSKSG-PVR-1--Rutube_HD/02/plst.
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-id="360-int" group-title="Развлекательное", 360° Международный HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-#EXTINF:-1 tvg-id="142 group-title="Развлекательное", Успех
+#EXTINF:-1 tvg-id="142" group-title="Развлекательное", Успех
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/MLh93xPcDGUTjMwlw0VWjw,1745787612/streaming/uspeh/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Союз
