@@ -64,7 +64,7 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 #EXTINF:-1 tvg-id="PYTNISYA-HD" group-title="Общероссийские", Пятница HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/iQ-UJ-MJOdMD6JiqMu6wvg,1745960404/streaming/pyatnicaott/324/1/tracks-v5a1/mono.m3u8
+https://salam-krd-31.rutube.ru/dive/river-5-511.rutube.ru/uy-H07l1cSpT_oehtLNvoA/stream/genetta-517.ost.rutube.ru/PJ6zQnOldUyJyOwmaO-7bg/1746535935/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="Zvezda-HD" group-title="Общероссийские", Звезда HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -1010,6 +1010,10 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/vitrinatv.png" group-title="Развлекательное", Витрина ТВ
 https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nature-24\7" group-title="Развлекательное",Relax Nature 24\7
+https://river-1.rutube.ru/stream/genetta-519.ost.rutube.ru/jWmRR-_oKdYR4TRhYvACLQ/1746535447/0b42c5881c3446eede3af34b57538de5/720p_stream.m3u8
+#EXTINF:-1 tvg-id="Stingray-naturescape" group-title="Развлекательное",Stingray naturescape
+https://river-5-553.rutube.ru/stream/genetta-514.ost.rutube.ru/nRpkOzavtLPcxeW0G92KgQ/1746535281/420654c698dce9f03390d32aaf210cdc/720p_stream.m3u8
 #EXTINF:-1 tvg-id="TravelXp-4k" group-title="Развлекательное",TravelXp 4k
 http://95.67.12.82:9086/
 #EXTINF:-1 group-title="Развлекательное" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
