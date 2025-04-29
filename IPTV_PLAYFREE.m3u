@@ -352,8 +352,8 @@ https://mhd128.iptv2022.com/p/GyMBgv89ghIC8m3pOSXOPQ,1745960417/streaming/footba
 https://mhd128.iptv2022.com/p/9MOKpmhVzZWZ4PFGVN2FDg,1745960417/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="okko-sport" group-title="Спорт", Окко Спорт
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/20138.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спорт", Футбол
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU4MzE3ODAsImlhdCI6MTc0NTc0NTM4MCwiY2lkIjo2LCJ1aWQiOjkxMjA4ODUwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.zdsSymhJSKhk5pjWSLveeZQwXyitxdrDRPT5ZciXYFc&offset=3
+#EXTINF:-1 tvg-id="football-ru" group-title="Спорт", Футбол
+https://tv.movielab.pro/3920/video.m3u8?token=0c66365cb01f87d2f308d91d5a050747db1eeec6-ec91eb56446fbf5c552945c2da8b0295-1745995919-1745909519
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/732/115/png-clipart-white-and-black-soccer-ball-illustration-football-player-flame-football-blue-text.png" tvg-id="no_epg_sport" group-title="Спорт", IDC: Футбол
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="RUSSIA-EXTREME" group-title="Спорт",SD RUSSIA EXTREME
@@ -729,6 +729,26 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
 #EXTINF:-1 tvg-id="Sochi-Live-HD" group-title="Познавательное",Sochi Live HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery-channel" group-title="Познавательное",Discovery Channel
+#EXTVLCOPT:http-user-agent=SmartTV
+https://tv.movielab.pro/147/video.m3u8?token=a328e424c76dfb809a9a64351c09b1819fb56456-a36687d5f796bd7970eef73fc8d3d916-1745995919-1745909519
+#EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
+#EXTVLCOPT:http-user-agent=SmartTV
+http://109.248.236.51/black/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery Investigation
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
+#EXTINF:-1 tvg-id="Nat-Geo-WILD" group-title="Познавательное",Nat Geo WILD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://tv.movielab.pro/162/video.m3u8?token=ee6d866180736fc2565f1b9b71dfa6297b1c2e7d-2e2a4d7703e70bdf1961eb3037aacba7-1745995919-174
+#EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
+#EXTVLCOPT:http-user-agent=SmartTV
+https://salam-krd-86.rutube.ru/dive/river-5-530.rutube.ru/jFfgGIV-3FOQAE5Wzrpv1g/stream/genetta-504.ost.rutube.ru/nWN5RiNfKmjLphkMDVvnHQ/1746549202/d73e70070a806f9baf6e662f6cc40665/720p_stream.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery Investigation
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
+#EXTINF:-1 group-title="Познавательное",Terra
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 group-title="Познавательное",Big Planet
+http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательное",Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Доктор
@@ -736,29 +756,14 @@ http://195.26.83.96:7007/play/11/index.m3u8
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательное",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",Глазами туриста
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd219.iptv2022.com/p/BLyh157ScQQxpvqeM3mXNw,1746016164/streaming/tourist_eyes/324/5/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",ЦТВ
 http://31.173.165.29:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Кто есть кто
 http://178.212.71.253:8000/play/132/index.m3u8
 #EXTINF:-1 group-title="Познавательное",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Авто 24
-http://178.124.152.238:8088/auto24
-#EXTINF:-1 group-title="Познавательное",Авто Плюс
-http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Драйв
-http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Большая азия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Big_Asia
-#EXTINF:-1 group-title="Познавательное",Рыболов
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
-#EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
-#EXTINF:-1 group-title="Познавательное",Охотник и рыболов Int HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательное",Дикий
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное", Дикая охота HD
@@ -767,100 +772,101 @@ https://mhd128.iptv2022.com/p/LcbIJNvemfBAEKTU-iI48A,1745960413/streaming/ohotah
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное", Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/6c1H5KC0ee_uDmrXBpp5hg,1745960413/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",Охота и рыбалка
-http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd156.iptv2022.com/p/7DzRQdmDv_Q0tYIRyMfTnA,1746016521/streaming/oribalke/324/5/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Охота и рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Охотник и Рыболов HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:-1 group-title="Познавательное",Охотник и рыболов Int HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
+#EXTINF:-1 group-title="Познавательное",Рыболов
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
 #EXTINF:-1 group-title="Познавательное",The Fishing and Hunting
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Vkus" group-title="Познавательное",Вкус
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd140.iptv2022.com/p/zj5JYxT0gmJB3WZuwh24Og,1746016309/streaming/vkus_tv/324/5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Авто 24
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="Познавательное",Авто Плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Драйв
+http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG TV
 http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG HD
 http://130.193.73.10:8937/play/a01h
-#EXTINF:-1 tvg-id="Vkus" group-title="Познавательное",Вкус
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd140.iptv2022.com/p/zj5JYxT0gmJB3WZuwh24Og,1746016309/streaming/vkus_tv/324/5/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",365 дней ТВ
-http://178.212.71.253:8000/play/67/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Ратник HD
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательное",Зал суда
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
 #EXTINF:-1 group-title="Познавательное",МИР ВОКРУГ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
-#EXTINF:-1 group-title="Познавательное",МТВ HD
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательное",Звезда Плюс
-http://178.124.152.238:8088/auto24
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Познавательное",Красная линия
+#EXTINF:-1 group-title="Познавательное",Глазами туриста
 #EXTVLCOPT:http-user-agent=SmartTV
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="Познавательное",РЖД HD
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательное",Светлое ТВ
-http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="history" group-title="Познавательное",History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=lS6GAAQ73jiVLqw1_5K0gQ&e=1746645988&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="Viju-Nature" group-title="Познавательное",Viju Nature HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=GEoIjyTm9zjZUXZ8LeuIiw&e=1746646070&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="Viju-History" group-title="Познавательное",Viju History HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yVV6WkDYO6gUN4dlakvacQ&e=1746646117&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
-http://130.193.73.10:8937/play/a01l
-#EXTINF:-1 tvg-id="Discovery-channel" group-title="Познавательное",Discovery Channel
-https://salam-krd-69.rutube.ru/dive/river-3-322.rutube.ru/Y5qi04rOEpmtuVNmfw2B3g/stream/genetta-314.m9.rutube.ru/ZdKzztxAqSmX8E2fj0iaug/1746535199/f61701b91f0f15e49611bc2c85494d4b/720p_stream.m3u8
-#EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
-https://salam-krd-69.rutube.ru/dive/river-5-539.rutube.ru/oawztJyCtClJBEZxHaSLEQ/stream/genetta-518.ost.rutube.ru/eVRoTk8EkSFWt_ulcHrx9Q/1746535099/9f96e00ce0f4256c6ad608aaf580bf88/720p_stream.m3u8
-#EXTINF:-1 group-title="Познавательное",Discovery Investigation
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
-#EXTINF:-1 tvg-id="Nat-Geo-WILD" group-title="Познавательное",Nat Geo WILD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://tv.movielab.pro/162/video.m3u8?token=ee6d866180736fc2565f1b9b71dfa6297b1c2e7d-2e2a4d7703e70bdf1961eb3037aacba7-1745995919-174
-#EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
-https://salam-mskost-3.rutube.ru/dive/river-5-530.rutube.ru/vz7GfaBWwrZ2OBS1C3bCXA/stream/genetta-318.m9.rutube.ru/KuPpSwSahWgclkszQvBzkQ/1746533763/d73e70070a806f9baf6e662f6cc40665/720p_stream.m3u8
-#EXTINF:-1 group-title="Познавательное",Discovery Investigation
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
-#EXTINF:-1 group-title="Познавательное",Terra
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1 group-title="Познавательное",Big Planet
-http://109.200.130.123:7537/play/a02j
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="the-explorers" group-title="Познавательное", The Explorers HD
-http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU4MzE3ODAsImlhdCI6MTc0NTc0NTM4MCwiY2lkIjo2LCJ1aWQiOjkxMjA4ODUwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.zdsSymhJSKhk5pjWSLveeZQwXyitxdrDRPT5ZciXYFc&offset=3
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="docubox-hd" group-title="Познавательное", DocuBox HD
-http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU4MzE3ODAsImlhdCI6MTc0NTc0NTM4MCwiY2lkIjo2LCJ1aWQiOjkxMjA4ODUwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.zdsSymhJSKhk5pjWSLveeZQwXyitxdrDRPT5ZciXYFc&offset=3
-#EXTINF:-1 tvg-id="TLC" group-title="Познавательное",TLC
-https://taptv.ru/channel/LQAFFA6I56G49639H4/232.m3u8
+https://mhd219.iptv2022.com/p/BLyh157ScQQxpvqeM3mXNw,1746016164/streaming/tourist_eyes/324/5/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательное", МЫ
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd116.iptv2022.com/p/4ocVHH0zngxFCCUDDSDRHQ,1746005536/streaming/we_tv/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="TBV" group-title="Познавательное",ТБВ
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd120.iptv2022.com/p/lywuAHhEiMAeUOtvQaIjvA,1746005449/streaming/blagvestraz/324/5/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",Поехали!
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
+#EXTINF:-1 group-title="Познавательное",365 дней ТВ
+http://178.212.71.253:8000/play/67/index.m3u8
+#EXTINF:-1 tvg-id="history" group-title="Познавательное",History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательное",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="Познавательное",Красная линия
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=lS6GAAQ73jiVLqw1_5K0gQ&e=1746645988&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-Nature" group-title="Познавательное",Viju Nature
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=GEoIjyTm9zjZUXZ8LeuIiw&e=1746646070&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-History" group-title="Познавательное",Viju History
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yVV6WkDYO6gUN4dlakvacQ&e=1746646117&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1 group-title="Познавательное",Зал суда
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
+#EXTINF:-1 group-title="Познавательное",Ратник HD
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Tochka-TV" group-title="Познавательное",Точка ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/0MWEJ41YruxMrcQq51nkQg,1743541213/streaming/tochka/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Tochka-RF" group-title="Познавательное",Точка.РФ
 http://178.212.71.253:8000/play/61/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Точка Отрыва
 http://130.193.73.10:8937/play/a021
-#EXTINF:-1 tvg-id="Tochka-TV" group-title="Познавательное",Точка ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/0MWEJ41YruxMrcQq51nkQg,1743541213/streaming/tochka/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Вопросы и ответы
-http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 tvg-id="TLC" group-title="Познавательное",TLC
+https://taptv.ru/channel/LQAFFA6I56G49639H4/232.m3u8
+#EXTINF:-1 group-title="Познавательное",Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Поехали!
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
+#EXTINF:-1 group-title="Познавательное",РЖД HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Открытый мир
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
-#EXTINF:-1 group-title="Познавательное",Оружие
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
+#EXTINF:-1 group-title="Познавательное",Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-id="tcb" group-title="Познавательное", ТСВ
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательное",HGTV Home & Garden HD
 http://91.146.94.234:10000/play/a05e
+#EXTINF:-1 group-title="Познавательное",Оружие
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
 #EXTINF:-1 tvg-id="Tanzyi!" group-title="Познавательное",Танцуй!
 http://109.200.130.123:7537/play/a02l
+#EXTINF:-1 group-title="Познавательное",лекторий DОСТОЕВСКИЙ
+https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Smotrim-chastnyi-detektiv" group-title="Познавательное",Смотрим Частный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Познавательное",Наша Сибирь HD
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:-1 group-title="Познавательное",Наша Сибирь 4К
+http://hls114.freeott.top:8080/NashaSibir4k/tracks-v1a1/mono.m3u8?token=Homeorgstb
+#EXTINF:-1 group-title="Познавательное",МТВ HD
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Silkway-TV" group-title="Познавательное",Silkway TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="Познавательное",ЕГЭ
@@ -871,14 +877,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=OCEAN_TV
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательное",Мособр TV HD
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
-#EXTINF:-1 group-title="Познавательное",лекторий DОСТОЕВСКИЙ
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Smotrim-chastnyi-detektiv" group-title="Познавательное",Смотрим Частный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательное",Наша Сибирь HD
-https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
-#EXTINF:-1 group-title="Познавательное",Наша Сибирь 4К
-http://hls114.freeott.top:8080/NashaSibir4k/tracks-v1a1/mono.m3u8?token=Homeorgstb
 #EXTINF:-1 group-title="Познавательное",Da Vinci
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 tvg-id="Subbota!" group-title="Развлекательное",Суббота!
@@ -964,9 +962,6 @@ https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
 #EXTINF:-1 group-title="Развлекательное",КУХНЯ-ТВ
 http://178.124.152.238:8088/kuhnya
-#EXTINF:-1 tvg-id="Joy-cook" group-title="Детский",Joy cook
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/U5G1S4E5d3SnCJG1OQVi2Q,1745960414/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Appetitnyi" group-title="Развлекательное",Аппетитный
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd120.iptv2022.com/p/H_daavW5dCImGSLzFYcaBA,1746005840/streaming/appetitniy/324/5/tracks-v3a1/mono.m3u8
