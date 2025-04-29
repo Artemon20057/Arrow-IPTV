@@ -738,7 +738,7 @@ http://130.193.73.10:8937/play/a01q
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Глазами туриста
 #EXTVLCOPT:http-user-agent=SmartTV
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
+https://mhd219.iptv2022.com/p/BLyh157ScQQxpvqeM3mXNw,1746016164/streaming/tourist_eyes/324/5/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",ЦТВ
 http://31.173.165.29:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Кто есть кто
@@ -770,13 +770,17 @@ https://mhd128.iptv2022.com/p/6c1H5KC0ee_uDmrXBpp5hg,1745960413/streaming/ribalk
 #EXTINF:-1 group-title="Познавательное",Охота и рыбалка
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
-http://130.193.73.10:8937/play/a04q
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd156.iptv2022.com/p/7DzRQdmDv_Q0tYIRyMfTnA,1746016521/streaming/oribalke/324/5/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",The Fishing and Hunting
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG TV
 http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG HD
 http://130.193.73.10:8937/play/a01h
+#EXTINF:-1 tvg-id="Vkus" group-title="Познавательное",Вкус
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd140.iptv2022.com/p/zj5JYxT0gmJB3WZuwh24Og,1746016309/streaming/vkus_tv/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",365 дней ТВ
 http://178.212.71.253:8000/play/67/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Ратник HD
@@ -807,18 +811,17 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yVV6WkDYO6gUN4dlakvacQ&e=1746646117&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet HD
 http://130.193.73.10:8937/play/a01l
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное",Discovery Channel
-https://salam-mskth-16.rutube.ru/dive/river-3-322.rutube.ru/tvl7G0C1k2MJYzZ1Ej6GlA/stream/genetta-324.m9.rutube.ru/oAfmVCKzEUyRG6bADLZJmw/1746527413/f61701b91f0f15e49611bc2c85494d4b/720p_stream.m3u8
+#EXTINF:-1 tvg-id="Discovery-channel" group-title="Познавательное",Discovery Channel
+https://salam-krd-69.rutube.ru/dive/river-3-322.rutube.ru/Y5qi04rOEpmtuVNmfw2B3g/stream/genetta-314.m9.rutube.ru/ZdKzztxAqSmX8E2fj0iaug/1746535199/f61701b91f0f15e49611bc2c85494d4b/720p_stream.m3u8
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
-https://salam-mskth-4.rutube.ru/dive/river-5-539.rutube.ru/jcqhYAqxJyFeQVTP8TSOrg/stream/genetta-513.ost.rutube.ru/uVAjCqKG0FdlpP6RzitO8A/1746527016/9f96e00ce0f4256c6ad608aaf580bf88/720p_stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Investigation
+https://salam-krd-69.rutube.ru/dive/river-5-539.rutube.ru/oawztJyCtClJBEZxHaSLEQ/stream/genetta-518.ost.rutube.ru/eVRoTk8EkSFWt_ulcHrx9Q/1746535099/9f96e00ce0f4256c6ad608aaf580bf88/720p_stream.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery Investigation
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
-#EXTINF:-1 tvg-id="National-Geographic-WILD" group-title="Познавательное",Nat Geo WILD
+#EXTINF:-1 tvg-id="Nat-Geo-WILD" group-title="Познавательное",Nat Geo WILD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://salam-mskm9-48.rutube.ru/dive/river-3-344.rutube.ru/tT6Y0gM65ifAs6TZLVs_Tw/stream/genetta-313.m9.rutube.ru/tHWl3uLa_sePdUwM6bUzXg/1746525033/c18137e3491619017f984f84598035ec/720p_stream.m3u8
-#EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet
-#EXTVLCOPT:http-user-agent=SmartTV
-https://salam-mskugr-12.rutube.ru/dive/river-5-530.rutube.ru/o-BoKCIjGCJYwyw5kjef1Q/stream/genetta-324.m9.rutube.ru/bkElJQ7W1edvzPC1pz0Hcw/1746524954/d73e70070a806f9baf6e662f6cc40665/720p_stream.m3u8
+https://tv.movielab.pro/162/video.m3u8?token=ee6d866180736fc2565f1b9b71dfa6297b1c2e7d-2e2a4d7703e70bdf1961eb3037aacba7-1745995919-174
+#EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
+https://salam-mskost-3.rutube.ru/dive/river-5-530.rutube.ru/vz7GfaBWwrZ2OBS1C3bCXA/stream/genetta-318.m9.rutube.ru/KuPpSwSahWgclkszQvBzkQ/1746533763/d73e70070a806f9baf6e662f6cc40665/720p_stream.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Investigation
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra
@@ -1211,6 +1214,8 @@ https://mhd120.iptv2022.com/p/pD_3vgB3po-0aBD5yWgaYA,1746008409/streaming/rusmul
 #EXTINF:-1 tvg-id="Anime-Kids" group-title="Детский", Anime Kids
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd156.iptv2022.com/p/pPSg7cLhSw_6Kwced_n4iQ,1746008464/streaming/anime_kids/324/5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="Vselenaya-Multfilmov" group-title="Детский",Вселенная Мультфильмов
+https://salam-mskost-3.rutube.ru/dive/river-3-313.rutube.ru/rRakIGrFwpBRoI2tFUaVvw/stream/genetta-313.m9.rutube.ru/ywq-U19JHmT4VHerVReD3w/1746533499/66710e44c6f796f0b754794ca2585229/720p_stream.m3u8
 #EXTINF:-1 group-title="Детский",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детский",Мульт
