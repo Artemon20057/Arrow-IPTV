@@ -576,21 +576,21 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
 #EXTINF:-1 tvg-id="KinoJam-HD" group-title="Кино и сериалы",KinoJam HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000
+#EXTINF:-1 "Viju-TV1000-HD" group-title="Кино и сериалы", Viju TV1000
 #EXTVLCOPT:http-user-agent=SmartTV
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=382KMRkTRYKwSDyFD9lHog&e=1745780810&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Русское
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Lc9-J31Sapu-0Y_iOqUNCQ&e=1746982255&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 "Viju-TV1000-Russkoe-HD" group-title="Кино и сериалы",Viju TV1000 Русское
 #EXTVLCOPT:http-user-agent=SmartTV
-http://130.193.73.10:8937/play/a02u
-#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Action
+http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
+#EXTINF:-1 "Viju-TV1000-Action-HD" group-title="Кино и сериалы",Viju TV1000 Action
 #EXTVLCOPT:http-user-agent=SmartTV
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Tmq6DYikTUhbcTtevphC5Q&e=1745780957&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="Viju-TV1000-novella"group-title="Кино и сериалы",Viju TV1000 Новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=7GgK1H1N8TQOhaeat4o-Vg&e=1746982307&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-TV1000-novella-HD" group-title="Кино и сериалы",Viju TV1000 Новелла
 #EXTVLCOPT:http-user-agent=SmartTV
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=NyWl39e4tzmJoQUS2qGEOA&e=1745575550&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=jAcnohD-jTyYlVPSDx1BAQ&e=1746982341&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="Viju-tv1000-romantica-HD" group-title="Кино и сериалы",viju TV1000 romantica
 #EXTVLCOPT:http-user-agent=SmartTV
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=gZHP9xF6sGH2-8ROCapBNg&e=1745780988&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=ef94_aO2m_6lkP3_w3fY8g&e=1746982464&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy
