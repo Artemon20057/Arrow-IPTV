@@ -739,10 +739,10 @@ http://109.248.236.51/black/mono.m3u8
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
 #EXTINF:-1 tvg-id="Nat-Geo-WILD" group-title="Познавательное",Nat Geo WILD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://tv.movielab.pro/162/video.m3u8?token=ee6d866180736fc2565f1b9b71dfa6297b1c2e7d-2e2a4d7703e70bdf1961eb3037aacba7-1745995919-174
+http://109.248.236.51/sci-fi/mono.m3u8
 #EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
 #EXTVLCOPT:http-user-agent=SmartTV
-https://salam-krd-86.rutube.ru/dive/river-5-530.rutube.ru/jFfgGIV-3FOQAE5Wzrpv1g/stream/genetta-504.ost.rutube.ru/nWN5RiNfKmjLphkMDVvnHQ/1746549202/d73e70070a806f9baf6e662f6cc40665/720p_stream.m3u8
+http://109.248.236.51/black/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Investigation
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra
