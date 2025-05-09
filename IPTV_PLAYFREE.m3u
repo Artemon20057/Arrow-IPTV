@@ -925,8 +925,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
 #EXTINF:-1 group-title="Развлекательное",Живи активно
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
-#EXTINF:-1 tvg-id="7d7" group-title="Развлекательное", Just TV
-https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8
 #EXTINF:-1 tvg-id="rodnoy-kanal" group-title="Развлекательное", Родной канал
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 tvg-id="ech" group-title="Развлекательное", Эх!
