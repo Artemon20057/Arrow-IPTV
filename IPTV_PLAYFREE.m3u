@@ -43,13 +43,13 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="Perviy-kanal-HD" group-title="Общероссийские", Первый канал HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
 #EXTINF:-1 tvg-id="Rossia-HD" group-title="Общероссийские", Россия 1 HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="NTV-HD" group-title="Общероссийские", НТВ HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+
 #EXTINF:-1 tvg-id="TV-CENTER-HD" group-title="Общероссийские", ТВЦ HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
@@ -64,7 +64,7 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 #EXTINF:-1 tvg-id="PYTNISYA-HD" group-title="Общероссийские", Пятница HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://salam-krd-31.rutube.ru/dive/river-5-511.rutube.ru/uy-H07l1cSpT_oehtLNvoA/stream/genetta-517.ost.rutube.ru/PJ6zQnOldUyJyOwmaO-7bg/1746535935/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
 #EXTINF:-1 tvg-id="Zvezda-HD" group-title="Общероссийские", Звезда HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -340,20 +340,27 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="Match!-Strana" group-title="Спорт",Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" group-title="Спорт", Матч Премьер
-https://mhd128.iptv2022.com/p/yA_7rMRNfJrHLR9EGSzGDg,1745960417/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://tv.movielab.pro/250/video.m3u8?token=a50fe1b3a7b25bb05dd5751aeba126a4560b74e6-c062551d218a7856f0f47fbbc12089a2-1746903177-1746816777
 #EXTINF:-1 tvg-id="match-football1" group-title="Спорт", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/h1MhLqqF8eKHJjaOq0BkBA,1745960417/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+https://tv.movielab.pro/260/video.m3u8?token=1d55ab2104d2e3f351d5e0e54b6272863589ef95-0e1335dc1fe236e2abef3df49d8206a1-1746903177-1746816777
 #EXTINF:-1 tvg-id="match-football2" group-title="Спорт", Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/GyMBgv89ghIC8m3pOSXOPQ,1745960417/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+https://tv.movielab.pro/271/video.m3u8?token=5f139d10cde820c6ad9e9981d6bc8b27fd1ece35-ad8b2fb8497f7f973db7a13e69cd8248-1746903177-1746816777
 #EXTINF:-1 tvg-id="match-football3" group-title="Спорт", Матч Футбол 3 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/9MOKpmhVzZWZ4PFGVN2FDg,1745960417/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://tv.movielab.pro/329/video.m3u8?token=5d8fab183bb0691af1d88434aecdaef186ff2ccf-dc725fd8276cbe591bf7ab5c08cb5090-1746903177-1746816777
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+https://tv.movielab.pro/942/video.m3u8?token=a74d9fc0c22e87e7a890e5f30540f2f3ab34e365-03a24cf378e12aadcece1406453ae9b6-1746903177-1746816777
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+https://tv.movielab.pro/943/video.m3u8?token=62bb196bbdb491cc387c76cd80e08f36dc6421f7-ff714a5b0d6fdad94754cc37efabb8b9-1746903177-1746816777
+#EXTINF:-1 group-title="Спорт", Setanta Казахстан
+https://tv.movielab.pro/5094/video.m3u8?token=ad159202ba18e0f1ca6ad9e00ca9a20c42e8c6dd-d5a744366e4aa1066d5c14a3d7d71b5f-1746903177-1746816777
 #EXTINF:-1 tvg-id="okko-sport" group-title="Спорт", Окко Спорт
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/20138.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="Спорт", Футбол
-https://tv.movielab.pro/3920/video.m3u8?token=0c66365cb01f87d2f308d91d5a050747db1eeec6-ec91eb56446fbf5c552945c2da8b0295-1745995919-1745909519
+#EXTVLCOPT:http-user-agent=SmartTV
+https://tv.movielab.pro/3920/video.m3u8?token=713945e19698dfda1f6c16884065f1d49a5a13c9-4c6fc6f7609b23bbdeb7e9c86af65dfc-1746903177-1746816777
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/732/115/png-clipart-white-and-black-soccer-ball-illustration-football-player-flame-football-blue-text.png" tvg-id="no_epg_sport" group-title="Спорт", IDC: Футбол
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="RUSSIA-EXTREME" group-title="Спорт",SD RUSSIA EXTREME
@@ -471,6 +478,8 @@ http://178.212.71.253:8000/play/85/index.m3u8
 http://178.212.71.253:8000/play/66/index.m3u8
 #EXTINF:-1 tvg-id="kinohit" group-title="Кино и сериалы", Кинохит
 http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 tvg-id="Kinozelezo" group-title="Кино и сериалы",Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=GEN9BUmJwLc12PUjKS4ACQ&e=1746862569&scheme=https
 #EXTINF:-1 tvg-id="Nashe-Novoe-kino" group-title="Кино и сериалы",Наше новое кино
 http://178.212.71.253:8000/play/128/index.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино и сериалы", Индийское кино
@@ -740,7 +749,7 @@ https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
 #EXTVLCOPT:http-user-agent=SmartTV
-http://109.248.236.51/black/mono.m3u8
+https://bl.rutube.ru/livestream/d73e70070a806f9baf6e662f6cc40665/index.m3u8?s=LzC86pT6r6GIQ8nwECz1sQ&e=1746862563&scheme=https
 #EXTINF:-1 group-title="Познавательное",Discovery Investigation
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra
