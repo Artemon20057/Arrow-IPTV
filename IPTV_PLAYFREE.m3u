@@ -319,8 +319,8 @@ http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорт" ,Viasat Sport
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU4MjM2NTYsImlhdCI6MTc0NTczNzI1NiwiY2lkIjo2LCJ1aWQiOjkxMjA2MjcwNCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.-N6FOea5K5jUuzp9oB1B2FfLRofQwCgxWD1rQeJYAAw&offset=10
+#EXTINF:-1 tvg-id="Viju+-Sport" group-title="Спорт" ,Viju+ Sport
+http://31.173.165.29:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV.COM HD
 http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1BYzk2UVlrREV1Z0kwSzFaWWVGd2t3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
@@ -902,7 +902,7 @@ http://130.193.73.10:8937/play/a014
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Super
 #EXTINF:-1 group-title="Развлекательное",Че
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_CHE.m3u8
+http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Perets" group-title="Развлекательное",Перец
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="Среда (Дагестан)" tvg-logo="http://i120.fastpic.org/big/2022/1129/a3/e14bf519c90b3f8cb5fc4aea77209aa3.png" group-title="Развлекательное",СРЕДА
