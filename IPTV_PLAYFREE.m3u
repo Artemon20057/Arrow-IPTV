@@ -619,6 +619,13 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
 http://31.173.165.29:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="Star-Cinema-HD" group-title="Кино и сериалы", Star cinema
+#EXTVLCOPT:http-user-agent=SmartTV
+https://nsk14.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc2NDYxNDYsImlhdCI6MTc0NzU1OTc0NiwiY2lkIjo4MSwidWlkIjo5MTc0MTQ0NjIsInJlZyI6dHJ1ZSwiaXAiOjMxNjUzMDcwOTF9.sbMyvjyx0G8JW56s0P1GIwwNo9B1Wa_RZQmUf91ea8A&client=81
+#EXTINF:-1 group-title="Кино и сериалы",Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Cinema Космос ТВ
+http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино и сериалы",Flix Snip
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:-1 group-title="Кино и сериалы",Кино ТВ HD
@@ -659,34 +666,30 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premiu
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV-Hit-HD" group-title="Кино и сериалы",НТВ Хит HD
 http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Cinema
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Cinema Космос ТВ
-http://178.124.152.238:8088/cinema
-#EXTINF:-1 group-title="Кино и сериалы",Shot TV
-http://31.173.165.29:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Любимое кино
+http://130.193.73.10:8937/play/a037
+#EXTINF:-1 group-title="Кино и сериалы",Еврокино
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино и сериалы",Kinoliving
 http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 tvg-id="Kinowood" group-title="Кино и сериалы",Kinowood
+#EXTVLCOPT:http-user-agent=SmartTV
+http://pe7bw0xr.tvclub.xyz/iptv/5RVQZMQGNELBF86P2RYFDRPV/31817/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="Кино и сериалы", Trash TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",FAN HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
-#EXTINF:-1 group-title="Кино и сериалы",TV XXI
-http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино и сериалы",Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Shot TV
+http://31.173.165.29:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Filmbox Arthouse
 http://130.193.73.10:8937/play/a03t
 #EXTINF:-1 group-title="Кино и сериалы",Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Еврокино
-http://87.120.142.11:18000/STSLove
-#EXTINF:-1 group-title="Кино и сериалы",Любимое кино
-http://130.193.73.10:8937/play/a037
-#EXTINF:-1 tvg-id="Kinowood" group-title="Кино и сериалы",Kinowood
-#EXTVLCOPT:http-user-agent=SmartTV
-http://pe7bw0xr.tvclub.xyz/iptv/5RVQZMQGNELBF86P2RYFDRPV/31817/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",TV XXI
+http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино и сериалы",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",FAN HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 group-title="Кино и сериалы",Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Нано ТВ HD
@@ -802,7 +805,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Vkus" group-title="Познавательное",Вкус
 #EXTVLCOPT:http-user-agent=SmartTV
-https://limehd.cdnvideo.ru/streaming/vkus_tv/324/5/tracks-v3a1/mono.m3u8?e=1747254257&md5=FOHamQn14NetCNqzhBHyow
+
 #EXTINF:-1 group-title="Познавательное",Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательное",Авто Плюс
@@ -817,16 +820,16 @@ http://130.193.73.10:8937/play/a01h
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательное",Глазами туриста
 #EXTVLCOPT:http-user-agent=SmartTV
-https://limehd.cdnvideo.ru/streaming/tourist_eyes/324/5/tracks-v4a1/mono.m3u8?e=1747254310&md5=2VJMfLYHfKGds6Jbxnfa0A
+
 #EXTINF:-1 tvg-id="we_tv" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательное", МЫ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd156.iptv2022.com/p/aS1n6NUgUKGhdRzZUNvVuQ,1747326179/streaming/we_tv/324/5/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="blagvestraz" group-title="Познавательное",Благая весть
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd158.iptv2022.com/p/UFR3mZ6e4uXqaR9LogrVHQ,1747326115/streaming/blagvestraz/324/5/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Curiosity-Stream-HD" group-title="Познавательное",Curiosity Stream HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://stream202.24h.tv/mbrjwt/cb7c18ca698969b9fd03835695f147a5753d82c4-988-0-str13288839-5-3119732610-1747515514-e128-FzwI4PtxjzO-02mdGATY8zVnRpB2DPKHWrlQZHoz_RI/3.m3u8
+
 #EXTINF:-1 group-title="Познавательное",365 дней ТВ
 http://178.212.71.253:8000/play/67/index.m3u8
 #EXTINF:-1 tvg-id="history" group-title="Познавательное",History
@@ -846,16 +849,16 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 tvg-id="russian_ship" group-title="Познавательное",ПЛЮС/МИНУС 18
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd156.iptv2022.com/p/WghmUstDV9WCKenZ58LsPg,1747325794/streaming/russian_ship/324/5/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательное",Зал суда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
 #EXTINF:-1 group-title="Познавательное",Ратник HD
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Too-Much-Business" group-title="Познавательное",Too Much Business
-https://mhd122.iptv2022.com/p/EiFRc1mWi1YEWUJhE_ZaQA,1747325865/streaming/toomuch/324/5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Tochka-TV" group-title="Познавательное",Точка ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd158.iptv2022.com/p/12OwjcjcQPlfQEp9wUmnLQ,1747326076/streaming/tochka/324/5/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="Tochka-RF" group-title="Познавательное",Точка.РФ
 http://178.212.71.253:8000/play/61/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Точка Отрыва
@@ -928,9 +931,9 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
 #EXTINF:-1 tvg-id="Uspeh" group-title="Развлекательное", Успех
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/B3iDw13DRMHC2fF70of3Wg,1747325303/streaming/uspeh/324/5/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="rezonans" group-title="Развлекательное",Резонанс
-https://mhd219.iptv2022.com/p/kA15zUolrzxjdOvEWJroCw,1747325521/streaming/rezonans/324/5/index.m3u8
+
 #EXTINF:-1 group-title="Развлекательное",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательное",Телекафе
@@ -947,7 +950,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
 #EXTINF:-1 tvg-id="ech" group-title="Развлекательное", Эх!
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/WCHyPfGErFEGvEQU1mdqNA,1747325650/streaming/eh_tv/324/5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="Развлекательное", НТВ Право
 https://stream-msk-14.ott.tricolor.tv/dtv/id938_MSKSG-PVR-1--NTV_Pravo_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzYyNDE3NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3MDE5Mzc1LCJzZXNzaW9uX2lkIjoiZDAzZDliNjI3OGU4YmNkODRjOTdlNTEzY2I3MTc5NWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ki_d-dFmLBGvucm_EWiceqUzyNbprJE0O8M0_OEcr0g
 #EXTINF:-1 tvg-id="ntv-style" group-title="Разлекательное", НТВ Стиль
@@ -1197,505 +1200,6 @@ https://fl1001.bozztv.com/ushba45/index.m3u8
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Тик Ток
 https://fl1001.bozztv.com/ushba61/index.m3u8
-#EXTINF:-1 tvg-id="9302" tvg-logo="http://epg.one/img/9302.png" group-title="Кинозалы BCU",BCU Kinozakaz Premiere 4K
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiSz-cyERehHxQAq2TAAPMi7P9MfHqVJM0v_Y8dAPB5sg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4736" tvg-logo="http://epg.one/img/4736.png" group-title="Кинозалы BCU",BCU Premiere 1 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAijjYBDFvpTX9Klf-CdLbAHvGP-nDBKS4f_qz8XHa3Bhw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4737" tvg-logo="http://epg.one/img/4737.png" group-title="Кинозалы BCU",BCU Premiere 2 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAijjYBDFvpTX9Klf-CdLbAHWrblb-cjSOt90tKaybPSIg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" group-title="Кинозалы BCU",BCU Premiere 3 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAijjYBDFvpTX9Klf-CdLbAHRslSBQi-gyRFg8sRkRZQ6A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4747" tvg-logo="http://epg.one/img/4747.png" group-title="Кинозалы BCU",BCU СССР HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgrDVd5TbiJMqtdSC7sBIn_q2iWJhFQWFOpLUp6IQNeEQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4748" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозалы BCU",BCU Action HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgrDVd5TbiJMqtdSC7sBIn_GZatsGg1OOkEat8N0ooVQQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4749" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозалы BCU",BCU Catastrophe HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgrDVd5TbiJMqtdSC7sBIn_bCJNEDHy4a47yFJsYO3btw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4750" tvg-logo="http://epg.one/img/4750.png" group-title="Кинозалы BCU",BCU Cinema HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgrDVd5TbiJMqtdSC7sBIn_yXo4R6tIBq2AOhtwAmdUZA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4751" tvg-logo="http://epg.one/img/4751.png" group-title="Кинозалы BCU",BCU Cinema+ HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78pxXT-E08cLMVQVeW9lmJk5Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="8963" tvg-logo="http://epg.one/img/8963.png" group-title="Кинозалы BCU",BCU Comedy HDR
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78pz189lZ_Mb9RoZOJxHqunyA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4753" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозалы BCU",BCU Fantastic HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78pFSMNGqsh8rfhua88Az-D9A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4754" tvg-logo="http://epg.one/img/4754.png" group-title="Кинозалы BCU",BCU FilMystic HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78phQebqojOLLd87G8paPF3pA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4755" tvg-logo="http://epg.one/img/4755.png" group-title="Кинозалы BCU",BCU History HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78pNHcSZMRfQgVz6ELnl6dkjg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4758" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозалы BCU",BCU Kinorating HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78pH7L-6wgXwOYhifftWwcQCg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="8964" tvg-logo="http://epg.one/img/8964.png" group-title="Кинозалы BCU",BCU Marvel HDR
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78pn1B13Jgkfn6lRybUAz11Zg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4760" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозалы BCU",BCU Premiere HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78p1-agX05gnaVre56HNR-eVQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозалы BCU",BCU Romantic HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9ZODOGOkK_t0KIXueAV1jgg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4762" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозалы BCU",BCU Russian HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9zEwc7mKbH_utswOSsSMfOw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4763" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозалы BCU",BCU VHS HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9pDQIp-qUvARwa9TUQtFXqw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4764" tvg-logo="http://epg.one/img/4764.png" group-title="Кинозалы BCU",BCU Media HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9cc7HuovBbM3oLad_NcIFMg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4765" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозалы BCU",BCU Stars HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9206WZtx_OLo8NGHO0Cnqqg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4766" tvg-logo="http://epg.one/img/4766.png" group-title="Кинозалы BCU",BCU Ultra 4K
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9OeoKSkCakBMOBNLx94-87g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4767" tvg-logo="http://epg.one/img/4767.png" group-title="Кинозалы BCU",BCU RuSerial HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9-0nu9QJ1vbHIi91JKLfahw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозалы BCU",BCU Сваты HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9KkJ78d9djB7joZ8MpGl9sg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4769" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозалы BCU",BCU Criminal HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0Xao4xqX1pft4Cpy53W-9StK-YzJsgjR5soZ0NcdnKQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5561" tvg-logo="http://epg.one/img/5561.png" group-title="Кинозалы BCU",BCU Premiere Ultra 4K
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAi0nl0wmzVI7UWMh_nzryDNkcLr7GCSt2jYFCzjMYaRzg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5513" tvg-logo="http://epg.one/img/5513.png" group-title="Кинозалы BCU",BCU Media HD OLD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAi0nl0wmzVI7UWMh_nzryDNATYt2hePnQ1IYAXhCsrdKg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5514" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозалы BCU",BCU Marvel HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAi0nl0wmzVI7UWMh_nzryDN2SGDgCzwun7em8GF_1sTMg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5515" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозалы BCU",BCU Comedy HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAi0nl0wmzVI7UWMh_nzryDNoVi_wLTY4SoZGX7_JFrOSg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6131" tvg-logo="http://epg.one/img/6131.png" group-title="Кинозалы BCU",BCU Reality HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAji47uVj9YfDeBpX8tMsWGAYUXdOgjzcGSdjm9eUrQUvQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6067" tvg-logo="http://epg.one/img/6067.png" group-title="Кинозалы BCU",BCU Reality OLD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAji47uVj9YfDeBpX8tMsWGAvHXa6WhszWX0En3eUKnf6A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6175" tvg-logo="http://epg.one/img/6175.png" group-title="Кинозалы BCU",BCU Survival HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hkTUhcBf6RRA_ukgM3cZBXkQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6164" tvg-logo="http://epg.one/img/6164.png" group-title="Кинозалы BCU",BCU Survival OLD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgthtbs2oxMcllxfOWrUFvtrichjFX8I16oj1KFf4-s_Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6176" tvg-logo="http://epg.one/img/6176.png" group-title="Кинозалы BCU",BCU Cosmo HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgthtbs2oxMcllxfOWrUFvtg_gZ9BlloF3_x3yVGcIVKQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6198" tvg-logo="http://epg.one/img/6198.png" group-title="Кинозалы BCU",BCU TruMotion HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh1yKY9NQKwl4mQ8bFGqlV_Q6492pxTHmP8LAuEZddc5w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозалы BCU",BCU Romantic OLD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjaBt66JC1WR8K0ZdDjqGANqp2aDVZRI6xgawRN5aZ3Xw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="8769" tvg-logo="http://epg.one/img/8769.png" group-title="Кинозалы BCU",BCU Russia 90s HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhahlzi9HxF3834tGuEL5x2NI6VhdloozS2Hq4Sn_iIbg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4746" tvg-logo="http://epg.one/img/4746.png" group-title="Кинозалы BCU",BCU Multserial HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgrDVd5TbiJMqtdSC7sBIn_UAd3qHFI_xijkV9CGY7BzQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4756" tvg-logo="http://epg.one/img/4756.png" group-title="Кинозалы BCU",BCU Kids HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78ppjeEj99IXGyGnR50u7RW4g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4757" tvg-logo="http://epg.one/img/4757.png" group-title="Кинозалы BCU",BCU Kids+ HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiI5aqtVC2WgpFq4fuLa78p6slBS3RYFfXWDCp7N5hU6g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6185" tvg-logo="http://epg.one/img/6185.png" group-title="Кинозалы BCU",BCU Kids 4K
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgthtbs2oxMcllxfOWrUFvtsLinT__w0UAG4xCFg-5uLg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6848" tvg-logo="http://epg.one/img/6848.png" group-title="Кинозалы BCU",BCU Little HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjg40nrvpNnhQbQJtbE8jXPv6OCxjMSDTmJbx2KPSc4yQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6228" tvg-logo="http://epg.one/img/6228.png" group-title="Кинозалы BCU",BCU Charm HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjaBt66JC1WR8K0ZdDjqGANXNyRDXvWXDpkG9gNnG5AIw&token=dGVzdDU6dGVzdDU=
-
-#EXTINF:-1 tvg-id="6843" tvg-logo="http://epg.one/img/6843.png" group-title="Кинозалы MM",MM Family Guy HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAirMmGan4In5ZAByi4YsejlqKhYvwBBL3cALDvBPUQxYA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6842" tvg-logo="http://epg.one/img/6842.png" group-title="Кинозалы MM",MM OldSchool HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAirMmGan4In5ZAByi4YsejlAiiMCNF0y4Ct16ZrQvnEHg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5122" tvg-logo="http://epg.one/img/5122.png" group-title="Кинозалы MM",MM 007 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjgoNFl9WpaYn_mFttsbYNPALObxGcI9quz_S8o-CqSzA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5123" tvg-logo="http://epg.one/img/5123.png" group-title="Кинозалы MM",MM Love HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17Bn5TqNZk2B19XlQ5TqMwKw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5124" tvg-logo="http://epg.one/img/5124.png" group-title="Кинозалы MM",MM NewFilm 1 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17w3zvpGbsAkucHGWyw9UGXA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5125" tvg-logo="http://epg.one/img/5125.png" group-title="Кинозалы MM",MM NewFilm 2 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17sbm2-FbR0hP0g-vKZ8Q-Vg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5126" tvg-logo="http://epg.one/img/5126.png" group-title="Кинозалы MM",MM NewFilm 3 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17qvv_7ZHKz4JppsQ3MzEZZg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5127" tvg-logo="http://epg.one/img/5127.png" group-title="Кинозалы MM",MM NewFilm RU HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE175qNLosbHnHMXdo00cgU6sw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5128" tvg-logo="http://epg.one/img/5128.png" group-title="Кинозалы MM",MM Rock HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17xNDvDg5bBTg0XLA-dwbjjg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5129" tvg-logo="http://epg.one/img/5129.png" group-title="Кинозалы MM",MM Tom and Jerry HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE176BbGJmJBpCpr1eDPswlAFA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5130" tvg-logo="http://epg.one/img/5130.png" group-title="Кинозалы MM",MM UFO HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17Xbxfe2iD-oHCSYCHFXf20Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5131" tvg-logo="http://epg.one/img/5131.png" group-title="Кинозалы MM",MM USSR 1941-1945 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17bBOdDcj9k3dmkT-mS9moug&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5132" tvg-logo="http://epg.one/img/5132.png" group-title="Кинозалы MM",MM USSR Комедия HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhAb07pFTIrh2dlqTjDeE17yS83Dl2PEZvTDngjd66-CQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5133" tvg-logo="http://epg.one/img/5133.png" group-title="Кинозалы MM",MM USSR Мультфильм HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1BaOI__wwAGNd5aSKQuaR2aA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5134" tvg-logo="http://epg.one/img/5134.png" group-title="Кинозалы MM",MM USSR Сказки HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1B94MhZBi3qdN7is_Iy4f1ag&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="8001" tvg-logo="http://epg.one/img/8001.png" group-title="Кинозалы MM",MM USSR Драма HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1BJrmZ2PVtD6fx4MzD4JO1Ug&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5136" tvg-logo="http://epg.one/img/5136.png" group-title="Кинозалы MM",MM World Hits HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1B8xC0yA93-4_6kIIKxfUZ-w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5137" tvg-logo="http://epg.one/img/5137.png" group-title="Кинозалы MM",MM Агата Кристи HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1Bj1SKCZpyhwtn1tkWCwFfdw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5138" tvg-logo="http://epg.one/img/5138.png" group-title="Кинозалы MM",MM Грайндхаус HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1Byf2oQ6CTwWk_s6KObhP1qw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5139" tvg-logo="http://epg.one/img/5139.png" group-title="Кинозалы MM",MM Honey HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1B7cb2OzUMrZwcfnO85SfnQg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5140" tvg-logo="http://epg.one/img/5140.png" group-title="Кинозалы MM",MM Боевик Classic HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1BIum1GwOpt77DA8AVxF_RPA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5141" tvg-logo="http://epg.one/img/5141.png" group-title="Кинозалы MM",MM Боевик HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1Bo-D_XZJxNCd7NoOyhvDX6A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5142" tvg-logo="http://epg.one/img/5142.png" group-title="Кинозалы MM",MM Вестерн HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhB96hWRv5bmND5M6uIbf1BMPWXnh73wvrIAivk7WUgEQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5144" tvg-logo="http://epg.one/img/5144.png" group-title="Кинозалы MM",MM Воронины HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hRxhvGy25Mpm3qhgClwBk7Fg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5145" tvg-logo="http://epg.one/img/5145.png" group-title="Кинозалы MM",MM Затмение HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hR_-lEnjkhVBlUekyfMPwqIg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5146" tvg-logo="http://epg.one/img/5146.png" group-title="Кинозалы MM",MM История HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hRIznN2xp_eK8IGuIdNe3F7w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5147" tvg-logo="http://epg.one/img/5147.png" group-title="Кинозалы MM",MM Катастрофа HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hReaNiINJPf5oJ2EiTwdtuSg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5148" tvg-logo="http://epg.one/img/5148.png" group-title="Кинозалы MM",MM Квартирник HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hREs3doBstwpI4aCWDcznBjg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5149" tvg-logo="http://epg.one/img/5149.png" group-title="Кинозалы MM",MM Киберпанк HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hRzTR0CsVIz6YozKglfBjnAA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5150" tvg-logo="http://epg.one/img/5150.png" group-title="Кинозалы MM",MM Комедия Classic HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hR13CLEc-X0Nmx14-CqLe7mw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5151" tvg-logo="http://epg.one/img/5151.png" group-title="Кинозалы MM",MM Комедия HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hRDutKtgWmWoAk5RaNLynKDw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5152" tvg-logo="http://epg.one/img/5152.png" group-title="Кинозалы MM",MM Криминал HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hRCJ2Exms0PK43Zucck_bNZQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5153" tvg-logo="http://epg.one/img/5153.png" group-title="Кинозалы MM",MM Крутые 90-е HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNzoQubH-o2erzlOaRNL8tRg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5154" tvg-logo="http://epg.one/img/5154.png" group-title="Кинозалы MM",MM Кунг-Фу HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agN0IqnTeNhLWNGtpDnqZrSuA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5155" tvg-logo="http://epg.one/img/5155.png" group-title="Кинозалы MM",MM Lesson HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNhfRpaCVosretuQR1lQfy1g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5156" tvg-logo="http://epg.one/img/5156.png" group-title="Кинозалы MM",MM Smile HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNPVKFReA7ev84TiYtVGtZcQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5157" tvg-logo="http://epg.one/img/5157.png" group-title="Кинозалы MM",MM Мифология HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNPS7on0TRGVEHsQEvF94WQA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5158" tvg-logo="http://epg.one/img/5158.png" group-title="Кинозалы MM",MM Нуар HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNyEw9mMDhVaW74qwWCR9QQQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5159" tvg-logo="http://epg.one/img/5159.png" group-title="Кинозалы MM",MM Ситком 2.0 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNe14u7C0_4z4HEspLw2KFbA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5160" tvg-logo="http://epg.one/img/5160.png" group-title="Кинозалы MM",MM Погружение HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNPYHq5dnu9ZDHxRhASGyBdQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5161" tvg-logo="http://epg.one/img/5161.png" group-title="Кинозалы MM",MM Приключения HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agNtLHajf6vsFVyjQVgK7euZA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5162" tvg-logo="http://epg.one/img/5162.png" group-title="Кинозалы MM",MM Полицейский с Рублёвки HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAicOAMd-X1evg8mASr56agN6iVtBj1xVvJlz0fIoNUmGg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5163" tvg-logo="http://epg.one/img/5163.png" group-title="Кинозалы MM",MM Роскино HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUemIiZaukRLIcay7vO5xa4wxw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5164" tvg-logo="http://epg.one/img/5164.png" group-title="Кинозалы MM",MM Сваты HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUemEH5pqiYXLpySQ9yweyqsdA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5165" tvg-logo="http://epg.one/img/5165.png" group-title="Кинозалы MM",MM Ситком HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUemKv0BFmj1X8rFrSi6SoqWEA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5166" tvg-logo="http://epg.one/img/5166.png" group-title="Кинозалы MM",MM Скорость HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUem0dBW5WutIUdkfgC0vzefXA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5167" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозалы MM",MM Спорт HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUemJMIS3sTdC3Vkoa8TGE41Wg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5168" tvg-logo="http://epg.one/img/5168.png" group-title="Кинозалы MM",MM Стивен Кинг HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUem4T5sEe4oYSVlqVkov5ehUg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5169" tvg-logo="http://epg.one/img/5169.png" group-title="Кинозалы MM",MM Супергерои HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUemqqx0bzk0Vp6a-E1AlCe2Tw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5170" tvg-logo="http://epg.one/img/5170.png" group-title="Кинозалы MM",MM Flip UHD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUem_puqr235_g1Gp7DJq19clg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5171" tvg-logo="http://epg.one/img/5171.png" group-title="Кинозалы MM",MM Триллер HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUemE3aLXkbs6ivBIgR50IhW5g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5172" tvg-logo="http://epg.one/img/5172.png" group-title="Кинозалы MM",MM Ужастик HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjyCvATYvZ4aTE9zW_0pUemOTboKBdR4R1j1q3tptVQGQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5570" tvg-logo="http://epg.one/img/5570.png" group-title="Кинозалы MM",MM USSR Приключения HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgQK0D9RPE5gK5KFKHq6iOpCjGlLn1A02vBV2UWGgwQIg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5174" tvg-logo="http://epg.one/img/5174.png" group-title="Кинозалы MM",MM Синематограф HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgQK0D9RPE5gK5KFKHq6iOpJdPYczkPYixHepEePNaltQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5175" tvg-logo="http://epg.one/img/5175.png" group-title="Кинозалы MM",MM Фантастика HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgQK0D9RPE5gK5KFKHq6iOpaAvZKJuGSgzF3OdCY2mz6g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5176" tvg-logo="http://epg.one/img/5176.png" group-title="Кинозалы MM",MM Фобия HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgQK0D9RPE5gK5KFKHq6iOp7z_L6P-YVhjkJ1p2QTGrcg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5571" tvg-logo="http://epg.one/img/5571.png" group-title="Кинозалы MM",MM Walt Disney HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgQK0D9RPE5gK5KFKHq6iOpGaWhkBFY74-EcVC3Pwy2lw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5208" tvg-logo="http://epg.one/img/5208.png" group-title="Кинозалы MM",MM Live Planet HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z6CFIWh1dAsDxXRJwM45YQdQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5209" tvg-logo="http://epg.one/img/5209.png" group-title="Кинозалы MM",MM USSR Детектив HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z6XN4z-JUoud-mv3XiUu4yew&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5210" tvg-logo="http://epg.one/img/5210.png" group-title="Кинозалы MM",MM Семейный 1 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z63u73T0GNoqKDzJ6D8OlSFw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5211" tvg-logo="http://epg.one/img/5211.png" group-title="Кинозалы MM",MM Семейный 2 HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z6fGN6uVHGQJZg3YPp3qqCDw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5212" tvg-logo="http://epg.one/img/5212.png" group-title="Кинозалы MM",MM Ужасы HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z6DvQX77Gu4AYjNR6wrcQOgA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5215" tvg-logo="http://epg.one/img/5215.png" group-title="Кинозалы MM",MM Ужасы Classic HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh7ZzdxeqGLVWwWkHPVxUqBzpvnFyK55hNhOtT0L5Kvbw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6063" tvg-logo="http://epg.one/img/6063.png" group-title="Кинозалы MM",MM Celebrity HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAji47uVj9YfDeBpX8tMsWGAaLCuH-DUPARfySzpcNHKRQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6064" tvg-logo="http://epg.one/img/6064.png" group-title="Кинозалы MM",MM Classic HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAji47uVj9YfDeBpX8tMsWGA38YdX0NhLI2jcDwaX9VFAw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6065" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозалы MM",MM Драма HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAji47uVj9YfDeBpX8tMsWGAPiuUHWIonFRdonry8I4APg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="8748" tvg-logo="http://epg.one/img/8748.png" group-title="Кинозалы MM",MM Кинофестиваль HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiqCGWfJRbwUcnAH1RNwJeH9gmeH1lmA4yINSI3lxOU5A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5573" tvg-logo="http://epg.one/img/5573.png" group-title="Кинозалы MM",MM Relax HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0-vXFCwA_K_OHG4l-o7hRcShMDmB2agSBfNv8Tl67HA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6410" tvg-logo="http://epg.one/img/6410.png" group-title="Кинозалы MM",MM Микромир HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiVfN5J4kx9jy4BcBwleGDJ5TAWkhFD-4qXJLCQ-D1cMQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6411" tvg-logo="http://epg.one/img/6411.png" group-title="Кинозалы MM",MM Макромир HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiVfN5J4kx9jy4BcBwleGDJPmnT06qo7PTytPbyyr-anQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6412" tvg-logo="http://epg.one/img/6412.png" group-title="Кинозалы MM",MM Мегамир HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiVfN5J4kx9jy4BcBwleGDJM4irofvtRFIUb3Hx_oDs4w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6413" tvg-logo="http://epg.one/img/6413.png" group-title="Кинозалы MM",MM Translation HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiVfN5J4kx9jy4BcBwleGDJ-GuNh2y2FHTvNaRzdkds8Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6845" tvg-logo="http://epg.one/img/6845.png" group-title="Кинозалы MM",MM Experiment HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAirMmGan4In5ZAByi4YsejlSSyLAmcJwSE71-ERUEUyOg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6846" tvg-logo="http://epg.one/img/6846.png" group-title="Кинозалы MM",MM Открытия HD
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAirMmGan4In5ZAByi4YsejlHzT2wGmBHFcsfCV9GtPVSQ&token=dGVzdDU6dGVzdDU=
-
-#EXTINF:-1 tvg-id="9226" tvg-logo="http://epg.one/img/9226.png" group-title="Кинозалы VF",VF Сериалы Турции
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhW9ezEkCkCnjWvS5-M7l5lCMI5AFZBh91blKgxTVMSAw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="9227" tvg-logo="http://epg.one/img/9227.png" group-title="Кинозалы VF",VF Вестерн
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh0sgzJxqfmZtmPlZ7z-1pwdDDwom97MphxaQ3SAbc9kQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7271" tvg-logo="http://epg.one/img/7271.png" group-title="Кинозалы VF",VF Счастливы Вместе
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgQ-l3bsFd3HCPYCZkB2_txwTepz5FUSZ6AZG8cRBjqgg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7272" tvg-logo="http://epg.one/img/7272.png" group-title="Кинозалы VF",VF Бесстыжие
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgapGPrCVKAtMcm2wxJCgSt0lFRB9K7XVmLGB5_ZL9dsQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7270" tvg-logo="http://epg.one/img/7270.png" group-title="Кинозалы VF",VF Владимир Высоцкий
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhDt4t7u4fKGP0f6tZrSHyLo7Cgm1oSltD2NOyqvyyk6w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7273" tvg-logo="http://epg.one/img/7273.png" group-title="Кинозалы VF",VF Два с половиной человека
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhDt4t7u4fKGP0f6tZrSHyL-QjQRrjJIMBOnYouyGkxmg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6163" tvg-logo="http://epg.one/img/6163.png" group-title="Кинозалы VF",VF Новогодний
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAincoy4yf-RSxHyaS3XCV089Q-EUqlrDbNYkbKbn4wYLQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7274" tvg-logo="http://epg.one/img/7274.png" group-title="Кинозалы VF",VF Ёлки
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhQUqv1yKMXRd7IEoha48zoZKzmlTmElKQBk6ClBjgLCQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5981" tvg-logo="http://epg.one/img/5981.png" group-title="Кинозалы VF",VF New Year
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAg-RMp5rc-RIy5dehfDVoltt1_hKfavyko2OqMltxHS3g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5982" tvg-logo="http://epg.one/img/5982.png" group-title="Кинозалы VF",VF С новым годом!
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAg-RMp5rc-RIy5dehfDVoltEHKB9GLLhWdaxpkZntuykg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7276" tvg-logo="http://epg.one/img/7276.png" group-title="Кинозалы VF",VF Гарри Поттер
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhBbp9PGLahVpAxp3oBQKhZD1nHIhKPDaMkc94K3hI88w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7277" tvg-logo="http://epg.one/img/7277.png" group-title="Кинозалы VF",VF Секс в большом городе
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhQUqv1yKMXRd7IEoha48zo_17BI-noZ9XSxjhXqycdHw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7275" tvg-logo="http://epg.one/img/7275.png" group-title="Кинозалы VF",VF Карточный домик
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhQUqv1yKMXRd7IEoha48zo_EAPnbdDcA9ZWQkyfnw4NA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7278" tvg-logo="http://epg.one/img/7278.png" group-title="Кинозалы VF",VF Disney Movie
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj0eZXcW9yUvb8F7DVZXWRQhiiJWxwS5YgGZhKednqRVA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7279" tvg-logo="http://epg.one/img/7279.png" group-title="Кинозалы VF",VF Теория большого взрыва
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhiPohUnkbaLLv1DaAk0ZGa_toa6q6v51mB1fP0KIMm8g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4591" tvg-logo="http://epg.one/img/4591.png" group-title="Кинозалы VF",VF Adventure
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLRAEmwI4S_M7WcF8hX9oTj0g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4592" tvg-logo="http://epg.one/img/4592.png" group-title="Кинозалы VF",VF Anime
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLRVFrWEo2TYMDDCg_oxtvMrg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4593" tvg-logo="http://epg.one/img/4593.png" group-title="Кинозалы VF",VF Cartoon
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLRfvjnY0i_z6ImNVqimThLpw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4594" tvg-logo="http://epg.one/img/4594.png" group-title="Кинозалы VF",VF Comedy
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLRFqj-q6KG5Vm-5PT1jsFojg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4595" tvg-logo="http://epg.one/img/4595.png" group-title="Кинозалы VF",VF Family
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLRzLRWWmASmE9Iz-SAraUIBQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4596" tvg-logo="http://epg.one/img/4596.png" group-title="Кинозалы VF",VF Fantasy
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLROaQk8TPB6zk5afAaOWex_Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4597" tvg-logo="http://epg.one/img/4597.png" group-title="Кинозалы VF",VF Melodrama
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLRVf-PvOxOvEp3kgSlbPcNxQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4598" tvg-logo="http://epg.one/img/4598.png" group-title="Кинозалы VF",VF Mystic
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLR9LNUZJmWL1t9nR4WjDyFEg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4599" tvg-logo="http://epg.one/img/4599.png" group-title="Кинозалы VF",VF Ужасы
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLRY34UFSkDrEPlsFDYJdKxyg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4600" tvg-logo="http://epg.one/img/4600.png" group-title="Кинозалы VF",VF VHS MIX
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiyzCQ2mjulnnA4Q6womPLR7x8Z5GhB6HMk2R2IMbxq_w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4601" tvg-logo="http://epg.one/img/4601.png" group-title="Кинозалы VF",VF Ужасы VHS
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjCXSEgMV0w5W3Uk4RcBUbe_-OdRmm0eXt_F8ZN8of0oQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4644" tvg-logo="http://epg.one/img/4644.png" group-title="Кинозалы VF",VF Премьера
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjmnOKM_zT4l69VCz4kkMMeHorWJ4rBoYsRJXMrZV5_Qg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4645" tvg-logo="http://epg.one/img/4645.png" group-title="Кинозалы VF",VF Premiere
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjmnOKM_zT4l69VCz4kkMMe-9ISjOQElqofgxTBOByIfw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4646" tvg-logo="http://epg.one/img/4646.png" group-title="Кинозалы VF",VF Классика
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjmnOKM_zT4l69VCz4kkMMeivtZjKCgboHxCNVV8ht_OQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4647" tvg-logo="http://epg.one/img/4647.png" group-title="Кинозалы VF",VF Classic
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjmnOKM_zT4l69VCz4kkMMeR9masj7cBsSbdqrOTu5qeQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4648" tvg-logo="http://epg.one/img/4648.png" group-title="Кинозалы VF",VF Комедия
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjmnOKM_zT4l69VCz4kkMMeJcQJ4q9_rYnUoanWmNH2sA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4666" tvg-logo="http://epg.one/img/4666.png" group-title="Кинозалы VF",VF Катастрофы
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuHeesheQZBsF0N4b8ky3jW0g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4663" tvg-logo="http://epg.one/img/4663.png" group-title="Кинозалы VF",VF Marvel
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuHy6uogX4ReWhJsm8w-_LmhQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4665" tvg-logo="http://epg.one/img/4665.png" group-title="Кинозалы VF",VF Военные
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuHAUdY1IohrmCtI_858aJWAA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4669" tvg-logo="http://epg.one/img/4669.png" group-title="Кинозалы VF",VF Наша победа
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuHYukQYMzyw0cIAbjB2JxKXA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4667" tvg-logo="http://epg.one/img/4667.png" group-title="Кинозалы VF",VF Мосфильм
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuH4HeE9ntTGgG94SoL2PJ6aw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4670" tvg-logo="http://epg.one/img/4670.png" group-title="Кинозалы VF",VF Фильмы СССР
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuHrOUQmdVLV_OGW3bcfJLKoA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4668" tvg-logo="http://epg.one/img/4668.png" group-title="Кинозалы VF",VF Мультфильмы СССР
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuHNATdxqemRDzuF_0P6c4HSA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4664" tvg-logo="http://epg.one/img/4664.png" group-title="Кинозалы VF",VF Боевик
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiIBJx7XiKYDLNVYsPCiVuHdP1B2HmdABpDeZNbw71HYQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4804" tvg-logo="http://epg.one/img/4804.png" group-title="Кинозалы VF",VF Кино 4K
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhb3hZxOvn7a0i3Tfayl2mPmuvWck6JWZ0zcSLNX9jzLA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4805" tvg-logo="http://epg.one/img/4805.png" group-title="Кинозалы VF",VF Сериал 4K
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhb3hZxOvn7a0i3Tfayl2mPQ7zDST_be0NZ7T19fro2aA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4789" tvg-logo="http://epg.one/img/4789.png" group-title="Кинозалы VF",VF TOP Series
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhb3hZxOvn7a0i3Tfayl2mPc4qdpaUskUgC2t59wLHVhg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4791" tvg-logo="http://epg.one/img/4791.png" group-title="Кинозалы VF",VF Art house
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhb3hZxOvn7a0i3Tfayl2mP_v4aAJGRcMi1luujmMmJZw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4792" tvg-logo="http://epg.one/img/4792.png" group-title="Кинозалы VF",VF Detective
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgtoS9Lz8sFWeWttr_QJMWTCI3TAWOQFCskooIYJTDrRQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4793" tvg-logo="http://epg.one/img/4793.png" group-title="Кинозалы VF",VF Fantastic
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgtoS9Lz8sFWeWttr_QJMWTEV3fRcaC6M3SIw7daW3JwQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4794" tvg-logo="http://epg.one/img/4794.png" group-title="Кинозалы VF",VF Оскар
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgtoS9Lz8sFWeWttr_QJMWT7fE_bnXSlQtFknEw8eTJiA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5193" tvg-logo="http://epg.one/img/5193.png" group-title="Кинозалы VF",VF Сваты
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSL0XYRVWaBCDrK2Hefk_Js6A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5194" tvg-logo="http://epg.one/img/5194.png" group-title="Кинозалы VF",VF Солдаты
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLLztXpkyXfaaf9TAQ2AbIBg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5195" tvg-logo="http://epg.one/img/5195.png" group-title="Кинозалы VF",VF Тайны следствия
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLsC83Qg8Iwtcb2BvfEJyItg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5196" tvg-logo="http://epg.one/img/5196.png" group-title="Кинозалы VF",VF Воронины
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLre3Ch1y8z7UOm9k4oBGtmw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5197" tvg-logo="http://epg.one/img/5197.png" group-title="Кинозалы VF",VF Универ
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLM_krrSrrmlRabJ1o9BcxFg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5198" tvg-logo="http://epg.one/img/5198.png" group-title="Кинозалы VF",VF Series
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLDnsbLu-QYiBcUa6sJjst3w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5199" tvg-logo="http://epg.one/img/5199.png" group-title="Кинозалы VF",VF След
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLCFxFgqhS1uY-HOocGE9Xtw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5200" tvg-logo="http://epg.one/img/5200.png" group-title="Кинозалы VF",VF Сериал
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLOV57Bsvg5vMd52Z5sGx9KA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5201" tvg-logo="http://epg.one/img/5201.png" group-title="Кинозалы VF",VF Мыльные оперы
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLD5Gjs_Wex6qXBo-wEaamSg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5202" tvg-logo="http://epg.one/img/5202.png" group-title="Кинозалы VF",VF Thriller
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjp8Y8ob417ONEkmHlYzVSLHmHUW5Yya09S8y9yC3-EEQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5203" tvg-logo="http://epg.one/img/5203.png" group-title="Кинозалы VF",VF Индия
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z6Vb1vcd9D5kn0lc16R9NmiA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5204" tvg-logo="http://epg.one/img/5204.png" group-title="Кинозалы VF",VF История
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z61j6OIDcDR8EPabXV79h41g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5205" tvg-logo="http://epg.one/img/5205.png" group-title="Кинозалы VF",VF Comics
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z6iyURUheun0KT7gTsG7NuLg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5206" tvg-logo="http://epg.one/img/5206.png" group-title="Кинозалы VF",VF Криминал
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z6ugLplfHVqapt0ZkRhv0KSQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5207" tvg-logo="http://epg.one/img/5207.png" group-title="Кинозалы VF",VF Клиника
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh10eB8l2-JGeLLcsp-W0Z66EKozdnoalR770Maw7a4zg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6144" tvg-logo="http://epg.one/img/6144.png" group-title="Кинозалы VF",VF Луи де Фюнес
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJr8En1KyFH_L2-ayH7GQ_NBg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6145" tvg-logo="http://epg.one/img/6145.png" group-title="Кинозалы VF",VF Чернобыль
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJrUoCEPPPYtLw3BzK4_4mrig&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6146" tvg-logo="http://epg.one/img/6146.png" group-title="Кинозалы VF",VF The X-Files
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJr4i9daihbYWbNZWotoZiD9Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.one/img/6147.png" group-title="Кинозалы VF",VF Сверхъестественное
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJrdey9RsJIZsRtPvFDqMCKWg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6148" tvg-logo="http://epg.one/img/6148.png" group-title="Кинозалы VF",VF Леонид Гайдай
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJrimtEtxtDqheN7SvlYhQVGA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6149" tvg-logo="http://epg.one/img/6149.png" group-title="Кинозалы VF",VF Американская история ужасов
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJr0yK7DlbNWlGNLyQCfzgSwg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6150" tvg-logo="http://epg.one/img/6150.png" group-title="Кинозалы VF",VF Друзья
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJrWMqCBWgoD30gK6jk_JsSBg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6151" tvg-logo="http://epg.one/img/6151.png" group-title="Кинозалы VF",VF СашаТаня
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJr-j6x9Gmy8tYwjgzJG2n2Tw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6152" tvg-logo="http://epg.one/img/6152.png" group-title="Кинозалы VF",VF Джеки Чан
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJrn81yZuusHWt15UM_eueBng&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.one/img/6153.png" group-title="Кинозалы VF",VF Наша Раша
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hkeJyrza8IOQu1I-r7-Xam6A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6154" tvg-logo="http://epg.one/img/6154.png" group-title="Кинозалы VF",VF Привет из 90х
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hkctRTfnZE5nyd1IpS7XIJTQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6155" tvg-logo="http://epg.one/img/6155.png" group-title="Кинозалы VF",VF Эльдар Рязанов
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hky-1wC4NuIdelmeovaomm2Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6156" tvg-logo="http://epg.one/img/6156.png" group-title="Кинозалы VF",VF Универ новая общага
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hk77y8rGRWvvoqLlDWvljuJg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6157" tvg-logo="http://epg.one/img/6157.png" group-title="Кинозалы VF",VF Ходячие мертвецы
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hk7q4K3OY-Uv9mgTcVU3GddQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6158" tvg-logo="http://epg.one/img/6158.png" group-title="Кинозалы VF",VF Реальные пацаны
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hkvRg0uUqbv2X7U59cW4ocmw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6159" tvg-logo="http://epg.one/img/6159.png" group-title="Кинозалы VF",VF Доктор Хаус
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hkVizw_shtFUH4EIbnbVqrSQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6160" tvg-logo="http://epg.one/img/6160.png" group-title="Кинозалы VF",VF Без цензуры
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjobaItDcXZkErQj4607_hk3ImY5bYSOYg6R2V_Y0Pcug&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6226" tvg-logo="http://epg.one/img/6226.png" group-title="Кинозалы VF",VF Городок
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhoYsuNmtXp7ozaaA3xjpHVnv_rN8qvV6efThVu5A5UWA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6284" tvg-logo="http://epg.one/img/6284.png" group-title="Кинозалы VF",VF Comedy Woman
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhwWcdrmAhQYb6jBoz9-5KnDXkIELcxUwcT0lMINZC2Tg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6323" tvg-logo="http://epg.one/img/6323.png" group-title="Кинозалы VF",VF Игра престолов
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjRKbwNRJQsa9uZnMA4i7Wv7QLTtMJ8eWqva3jMlCIxrw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6324" tvg-logo="http://epg.one/img/6324.png" group-title="Кинозалы VF",VF Одесская киностудия
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjdeMI8kC78sG4yEEAGCR59YeVE_a7JpDxP6WBhbtd0MQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6325" tvg-logo="http://epg.one/img/6325.png" group-title="Кинозалы VF",VF Ленфильм
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjdeMI8kC78sG4yEEAGCR59y8OIq_ljPe29otDD_P1JAg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6326" tvg-logo="http://epg.one/img/6326.png" group-title="Кинозалы VF",VF Киностудия им. Горького
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjdeMI8kC78sG4yEEAGCR59py6CdfITvG2XvR6q5WqxWQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6327" tvg-logo="http://epg.one/img/6327.png" group-title="Кинозалы VF",VF Рижская киностудия
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjdeMI8kC78sG4yEEAGCR59DvHcoKqshqdJc79eGhGtZA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6328" tvg-logo="http://epg.one/img/6328.png" group-title="Кинозалы VF",VF Свердловская киностудия
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjdeMI8kC78sG4yEEAGCR59QqYv-L5kyiOvzBUx0oKrxA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6329" tvg-logo="http://epg.one/img/6329.png" group-title="Кинозалы VF",VF Беларусьфильм
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjdeMI8kC78sG4yEEAGCR59NTQTdH6veeJrwndAyeWZBg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6823" tvg-logo="http://epg.one/img/6823.png" group-title="Кинозалы VF",VF Netflix
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjg40nrvpNnhQbQJtbE8jXPG_GA_qSYNxaMhe-jts6ApA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6824" tvg-logo="http://epg.one/img/6824.png" group-title="Кинозалы VF",VF HBO
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjg40nrvpNnhQbQJtbE8jXPV4Ciee4AyWBN3t6ZJNYmjg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="9230" tvg-logo="http://epg.one/img/9230.png" group-title="Кинозалы VF",VF Michael Jackson
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh0sgzJxqfmZtmPlZ7z-1pwG648h6N-wCBmabbwDuPTRw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="9228" tvg-logo="http://epg.one/img/9228.png" group-title="Кинозалы VF",VF Король и Шут
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh0sgzJxqfmZtmPlZ7z-1pwlJxEGQKkGLt_z9ZbWmc9eA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7573" tvg-logo="http://epg.one/img/7573.png" group-title="Кинозалы VF",VF Легенды Ретро ФМ
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhDt4t7u4fKGP0f6tZrSHyL8svsTAsons2pVrFZGKnxZQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6135" tvg-logo="http://epg.one/img/6135.png" group-title="Кинозалы VF",VF Музыкальный Новый год!
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiDt1FAzJb8OSnWooqHHABxxCQL5nErLkK31-JzeBNSaw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7552" tvg-logo="http://epg.one/img/7552.png" group-title="Кинозалы VF",VF Modern Talking
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhdd0zmMj-jy71b4ISdUY0A_vxOgb-CAcwI2YU11bo9Dg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7553" tvg-logo="http://epg.one/img/7553.png" group-title="Кинозалы VF",VF Britney Spears
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhdd0zmMj-jy71b4ISdUY0Ax39uZENvHtqtPGrgPlaQLQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5985" tvg-logo="http://epg.one/img/5985.png" group-title="Кинозалы VF",VF Музыка
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJlpCzuRHSEHE1mDKj8WHCEg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5986" tvg-logo="http://epg.one/img/5986.png" group-title="Кинозалы VF",VF Music
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJY93ZWSSr7x6kJE6XHJ-akA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5987" tvg-logo="http://epg.one/img/5987.png" group-title="Кинозалы VF",VF Rock
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJpuH61MbSdfIzYAeY0RyUzA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5988" tvg-logo="http://epg.one/img/5988.png" group-title="Кинозалы VF",VF Караоке
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJv8UxHLuqJwwsFRSuTMQ99A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5989" tvg-logo="http://epg.one/img/5989.png" group-title="Кинозалы VF",VF Шансон
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJxoPP2fnHdLZjW_QKlcFzrw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5990" tvg-logo="http://epg.one/img/5990.png" group-title="Кинозалы VF",VF Музсоюз
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAg-RMp5rc-RIy5dehfDVoltHvx2SqCJDsSdVnhNnglvXw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6168" tvg-logo="http://epg.one/img/6168.png" group-title="Кинозалы VF",VF Metal
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAincoy4yf-RSxHyaS3XCV08LPc6D-9ulaL8lxUOSPVPnw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6169" tvg-logo="http://epg.one/img/6169.png" group-title="Кинозалы VF",VF Rap
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAincoy4yf-RSxHyaS3XCV08G_avu9ILv2iDZQ73yBEsug&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6170" tvg-logo="http://epg.one/img/6170.png" group-title="Кинозалы VF",VF Хит-парад
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAincoy4yf-RSxHyaS3XCV08y6ZRT-i_oApLUiRs-ULq1g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.one/img/6171.png" group-title="Кинозалы VF",VF Русский рок
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAincoy4yf-RSxHyaS3XCV08uVSWyCXrwRHQRLj6DhPctA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7593" tvg-logo="http://epg.one/img/7593.png" group-title="Кинозалы VF",VF Disney Cartoon
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAi0nl0wmzVI7UWMh_nzryDNS-BWWYeKf2wkEP_hB0iPSA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7594" tvg-logo="http://epg.one/img/7594.png" group-title="Кинозалы VF",VF Союзмультфильм
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhBbp9PGLahVpAxp3oBQKhZn3id4aqeGL-aCAzjpd_T4Q&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7595" tvg-logo="http://epg.one/img/7595.png" group-title="Кинозалы VF",VF Ералаш
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhi4zg5_6zsrGJsMjnSnqPNznQrZROaPVvd24rmEjIHSQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4790" tvg-logo="http://epg.one/img/4790.png" group-title="Кинозалы VF",VF VHS Cartoon
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhb3hZxOvn7a0i3Tfayl2mPsNbsxTC-9J5cAgwIPea9yA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4795" tvg-logo="http://epg.one/img/4795.png" group-title="Кинозалы VF",VF Малыш
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgtoS9Lz8sFWeWttr_QJMWTWIl5riQkI9o0aDcaaRUbhw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5995" tvg-logo="http://epg.one/img/5995.png" group-title="Кинозалы VF",VF Мультуб
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAg-RMp5rc-RIy5dehfDVoltAIAfwyF9jWdtAbBaCiip7w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5996" tvg-logo="http://epg.one/img/5996.png" group-title="Кинозалы VF",VF Новогодние мультфильмы
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAg-RMp5rc-RIy5dehfDVoltSlPamz4Bw5YN83f-nujjlg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6162" tvg-logo="http://epg.one/img/6162.png" group-title="Кинозалы VF",VF Скуби-Ду
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgMLkdf3A41JJq-DVj9BTJrYJjo9RMz0L0l1r3wCFdMqw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5991" tvg-logo="http://epg.one/img/5991.png" group-title="Кинозалы VF",VF Авто
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJOn-7HTNNHUpI6ENkwWN0mw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5992" tvg-logo="http://epg.one/img/5992.png" group-title="Кинозалы VF",VF Охота
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJRP5xAYumK6s53Xq-oXUC3w&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5993" tvg-logo="http://epg.one/img/5993.png" group-title="Кинозалы VF",VF Домашний повар
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJp2uR3wFl0zpRAVNZfL4wTA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="5994" tvg-logo="http://epg.one/img/5994.png" group-title="Кинозалы VF",VF Путешествия
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhzwEIcrZJrlq6ArydLmZCJtzYk49Bi4WpYgLC2Swxjrw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6124" tvg-logo="http://epg.one/img/6124.png" group-title="Кинозалы VF",VF Рыбалка
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj05J7ulJrKTYrwo32rZOZhMWSGl7UxsieTD3oWJFeaSg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6125" tvg-logo="http://epg.one/img/6125.png" group-title="Кинозалы VF",VF Стройка
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj05J7ulJrKTYrwo32rZOZh9296v6l12cc3ivA4tTz_rA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="9232" tvg-logo="http://epg.one/img/9232.png" group-title="Кинозалы VF",VF Маски Шоу
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh0sgzJxqfmZtmPlZ7z-1pwNw4vywH-dPyOZiiJtIOxqA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="9233" tvg-logo="http://epg.one/img/9233.png" group-title="Кинозалы VF",VF Каламбур
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAh0sgzJxqfmZtmPlZ7z-1pwaLxQWOAnCnn4hp8oLpf2pQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="9328" tvg-logo="http://epg.one/img/9328.png" group-title="Кинозалы VF",VF Орел и решка
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAjTsLSXRIUTI9oOiujiKyxRqHEkv0z3c7GKSSe9Znc4iA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7663" tvg-logo="http://epg.one/img/7663.png" group-title="Кинозалы VF",VF Концерты
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgbIiUFR5lOuJ_K2Yk3IIfoyfAmFFUVnkPkFocxj95ZbA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7664" tvg-logo="http://epg.one/img/7664.png" group-title="Кинозалы VF",VF КВН
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj5--TnluDHOC4iT9NDiDp4_kfS5PX4d5m-bSX4_4hc5A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6129" tvg-logo="http://epg.one/img/6129.png" group-title="Кинозалы VF",VF Юмор 18+
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAj05J7ulJrKTYrwo32rZOZh7Fwxbg5MGGZvm0rZYGWe-A&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6417" tvg-logo="http://epg.one/img/6417.png" group-title="Кинозалы VF",VF Уральские пельмени
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiVfN5J4kx9jy4BcBwleGDJKWl6P2Czbq2Zw3-yAm8vbA&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6418" tvg-logo="http://epg.one/img/6418.png" group-title="Кинозалы VF",VF Кухня
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiVfN5J4kx9jy4BcBwleGDJ7TVFad0Iii-goVDrePRr4g&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6419" tvg-logo="http://epg.one/img/6419.png" group-title="Кинозалы VF",VF Баня
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAikGOJVnTSFX0IEb-L700t70aKVHyKjkIyXUIDQ73jMVw&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="6706" tvg-logo="http://epg.one/img/6706.png" group-title="Кинозалы VF",VF Однажды в России
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhCI_uw_481d7HxeR0J7ttfDUhpx_8yHdTL8WL988BBUg&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="7714" tvg-logo="http://epg.one/img/7714.png" group-title="Кинозалы VF",VF Граиндхаус
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgbIiUFR5lOuJ_K2Yk3IIfoVaVdW6k1BuewJen8PBeTAQ&token=dGVzdDU6dGVzdDU=
-#EXTINF:-1 tvg-id="4800" tvg-logo="http://epg.one/img/4800.png" group-title="Кинозалы VF",VF Cartoon 18+
-http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAhb3hZxOvn7a0i3Tfayl2mPX8vej0AiY5WwFGFlxYkVNg&token=dGVzdDU6dGVzdDU=
-
 #EXTINF:-1 group-title="Детский",Солнце
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
 #EXTINF:-1 group-title="Детский",Мама
@@ -1712,7 +1216,13 @@ http://130.193.73.10:8937/play/a00z
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="Multsezon" group-title="Детский", МультСезон
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/wX8DeeKvxnmgetoqwRU7RA,1747325372/streaming/multsezon/324/5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="lova" group-title="Детский", Лёва
+#EXTVLCOPT:http-user-agent=SmartTV
+https://nsk14.peers.tv/streaming/lyova/16/g2500/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc2NDYxNDYsImlhdCI6MTc0NzU1OTc0NiwiY2lkIjo4MSwidWlkIjo5MTc0MTQ0NjIsInJlZyI6dHJ1ZSwiaXAiOjMxNjUzMDcwOTF9.sbMyvjyx0G8JW56s0P1GIwwNo9B1Wa_RZQmUf91ea8A&client=81
+#EXTINF:-1 tvg-id="Duck-TV" group-title="Детский", Duck TV
+#EXTVLCOPT:http-user-agent=SmartTV
+https://nsk14.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc2NDYxNDYsImlhdCI6MTc0NzU1OTc0NiwiY2lkIjo4MSwidWlkIjo5MTc0MTQ0NjIsInJlZyI6dHJ1ZSwiaXAiOjMxNjUzMDcwOTF9.sbMyvjyx0G8JW56s0P1GIwwNo9B1Wa_RZQmUf91ea8A&client=81
 #EXTINF:-1 group-title="Детский",СТС Kids
 http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-1 group-title="Детский",В гостях у сказки
@@ -1725,10 +1235,10 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sovetskiye-myltfilm" group-title="Детский", Советские мультфильмы
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd.iptv2022.com/p/1QcMxmDauqHyGwj5gz4Tng,1747325411/streaming/rusmult/324/5/index.m3u8
+
 #EXTINF:-1 tvg-id="Anime-Kids" group-title="Детский", Anime Kids
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd.iptv2022.com/p/MsXBuXoJX5PGrCKZNwY1WQ,1747325481/streaming/anime_kids/324/5/index.m3u8
+
 #EXTINF:-1 group-title="Детский",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детский",Мульт
