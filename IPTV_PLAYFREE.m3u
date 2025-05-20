@@ -361,9 +361,9 @@ http://185.57.68.33/110/mpegts
 https://tv.movielab.pro/942/video.m3u8?token=4aea3db500e2680c2924c1f35a09be3f181df823-d264872bce03b0a33ad1975b5259dc82-1747681058-1747594658
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2
 https://tv.movielab.pro/943/video.m3u8?token=4fc298308278e4cf90f798010834ff556adf272b-6402533d5b0b0138308c485285da6fc5-1747681058-1747594658
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спорт", Eurosport 1 HD
 http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спорт", Eurosport 2 HD
 http://109.70.186.70:9090/udp/239.185.1.15:1234
 #EXTINF:-1 tvg-id="okko-sport" group-title="Спорт", Окко Спорт
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/20138.m3u8
