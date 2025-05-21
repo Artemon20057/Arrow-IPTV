@@ -826,13 +826,13 @@ https://limehd.cdnvideo.ru/streaming/tourist_eyes/324/5/tracks-v4a1/mono.m3u8?e=
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0ODIzMjQ5NCwiaHdpZCI6ImY0ZDIwNGYwYWFkYWZiMzIyMjQyMTQ2YWE1N2EwYTg1ZjRlNjU4NzE4OTM4YjljNjg3OTFjZTE2MjE0MWRlZWQiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3NjI3Njk0LCJzZXNzaW9uX2lkIjoiNDIwZWZiMTg2MmE3Y2QzOThlMTMwNTc5NGQ5YjAwNjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.IGqSAb4RiYovejmRaEUWxAfwF1LLiczaMvuMm58aQSc
 #EXTINF:-1 tvg-id="kongres_tv" group-title="Познавательное",Конгресс ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/aZkGYzsZX0J2pe4lyqU2Nw,1747836392/streaming/kongres_tv/324/5/tracks-v3a1/mono.m3u8
+https://limehd.cdnvideo.ru/streaming/kongres_tv/324/5/tracks-v3a1/mono.m3u8?e=1747855625&md5=Zp52eOzHvWjdtxZRqdvLtA
 #EXTINF:-1 tvg-id="blagvestraz" group-title="Познавательное",Благая весть
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/koh-UPCIDjQhrx1jqJHAcg,1747839294/streaming/blagvestraz/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="Curiosity-Stream-HD" group-title="Познавательное",Curiosity Stream HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://stream202.24h.tv/mbrjwt/cb7c18ca698969b9fd03835695f147a5753d82c4-988-0-str13288839-5-3119732610-1747749394-e128-uEkzbQfwSnsznfxFaPM0yXZVjpriOOF5PSHbifqIeOg/0.m3u8
+https://stream202.24h.tv/mbrjwt/cb7c18ca698969b9fd03835695f147a5753d82c4-988-0-str13288839-5-3119732610-1747847681-e128-qxuL0gIxmDByl8cSWgmR9iz_S_FulWhoFYoJQbpSY8Q/0.m3u8
 #EXTINF:-1 group-title="Познавательное",365 дней ТВ
 http://178.212.71.253:8000/play/67/index.m3u8
 #EXTINF:-1 tvg-id="history" group-title="Познавательное",History
