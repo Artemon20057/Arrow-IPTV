@@ -9,10 +9,10 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_MATCHTV.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA24.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия К
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия 24
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA24.m3u8
 #EXTINF:-1 group-title="Общероссийские",Карусель
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
 #EXTINF:-1 group-title="Общероссийские",ОТР
@@ -608,13 +608,13 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v2
 #EXTVLCOPT:http-user-agent=SmartTV
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v2a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=rZag7HMd9_M663d6P966Ww&e=1748788638&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Viju+ Premiere HD
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg0MjE5ODAsImlhdCI6MTc0ODMzNTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTU5MzUxMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PW7L7rHT8yffBwJJKNVemrRZtjV76ce4qZJwz7RsOtA&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Viju+ Megahit HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg0MjE5ODAsImlhdCI6MTc0ODMzNTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTU5MzUxMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PW7L7rHT8yffBwJJKNVemrRZtjV76ce4qZJwz7RsOtA&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Viju+ Comedy HD
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg0MjE5ODAsImlhdCI6MTc0ODMzNTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTU5MzUxMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PW7L7rHT8yffBwJJKNVemrRZtjV76ce4qZJwz7RsOtA&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Viju+ Serial HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg0MjE5ODAsImlhdCI6MTc0ODMzNTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTU5MzUxMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PW7L7rHT8yffBwJJKNVemrRZtjV76ce4qZJwz7RsOtA&offset=3
 #EXTINF:-1 tvg-id="Viasat-kino-world" group-title="Кино и сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",День Победы HD
