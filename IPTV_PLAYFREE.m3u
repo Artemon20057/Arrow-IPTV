@@ -574,8 +574,6 @@ http://212.75.204.30:81/udp/239.255.42.88:1234
 http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/4000/index.m3u8
 #EXTINF:-1 tvg-id="kino-UHD" group-title="Кино и сериалы",Кино UHD
 http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/5004/index.m3u8
-#EXTINF:-1 tvg-id="Serial-UHD" group-title="Кино и сериалы",Сериал UHD
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/5005/index.m3u8
 #EXTINF:-1 tvg-id="fox" group-title="Кино и сериалы", FOX
 #EXTVLCOPT:http-user-agent=SmartTV
 http://45.143.108.110:2203/FOX
@@ -643,7 +641,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
 http://31.173.165.29:8000/play/a055/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema
-http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
+https://nsk19.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkzODAxNTUsImlhdCI6MTc0OTI5Mzc1NSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjoxODQxNjc5NTQwfQ.F0EL3cluNQGF81c51D8LTq0wwxs_GCFWX-1rsA8utWk&client=81
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-family" group-title="Кино и сериалы", Star Family
 http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 group-title="Кино и сериалы",Cinema
