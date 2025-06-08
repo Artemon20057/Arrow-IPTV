@@ -321,9 +321,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
 #EXTINF:-1 tvg-id="Viju+-Sport" group-title="Спорт" ,Viju+ Sport
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/2007/index.m3u8
+http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт",Старт
+http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-id="start-triumf" group-title="Спорт",Старт Триумф HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
 #EXTINF:-1 tvg-id="M1-Global" group-title="Спорт",M-1 Global
@@ -345,35 +347,72 @@ http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 tvg-id="Match!-Planeta" group-title="Спорт",Матч! Планета
 http://109.248.236.51/match_planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" group-title="Спорт", Матч Премьер
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/2414/index.m3u8
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" group-title="Спорт", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:-1 tvg-id="match-football2" group-title="Спорт", Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/211/index.m3u8
+https://mhd128.iptv2022.com/p/FDiRKiyTi1ZhU7cSV1m7rQ,1749416413/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" group-title="Спорт", Матч Футбол 3 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/206/index.m3u8
+https://mhd128.iptv2022.com/p/IRySDoTMtaGHWDVVQvU7Fw,1749416413/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спорт", Eurosport 1 HD
-http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спорт", Eurosport 2 HD
-http://109.70.186.70:9090/udp/239.185.1.15:1234
-#EXTINF:-1 tvg-id="Udar" group-title="Спорт", Удар HD
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/5067/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/192.m3u8
+#EXTINF:-1 tvg-id="Udar" group-title="Спорт", Удар
+http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спортивные",Fast & FunBox
+http://213.91.178.133:8000/play/a0ce
+#EXTINF:-1 tvg-id="okko-sport-2" group-title="Спорт", Окко.Прайм Спорт
+http://x96.uz:8888/channel/n428fb900/index.m3u8?q=32c3ac162cdf7b2f2c8b3ab4451f6330
 #EXTINF:-1 tvg-id="football-ru" group-title="Спорт", Футбол
 #EXTVLCOPT:http-user-agent=SmartTV
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg0MjE5ODAsImlhdCI6MTc0ODMzNTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTU5MzUxMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PW7L7rHT8yffBwJJKNVemrRZtjV76ce4qZJwz7RsOtA&offset=3
+http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спорт", Волейбол HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/Yr7KV6GQY1rPkBHm41HlVQ,1749416423/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="RUSSIA-EXTREME" group-title="Спорт",SD RUSSIA EXTREME
 http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 tvg-id="Russian-Extreme" group-title="Спорт",Russian Extreme HD
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/2077/index.m3u8
+https://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc0OTk4MjI1NiwiaHdpZCI6Ijk0YWZhY2Y0NGIyMDQyYzkxMjY1YTNiODE3NmQyZjkzZTUxYjI0ODVhZDgzYjZkNWZlOGE5MmQwOThjMjcyN2MiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5Mzc3NDU2LCJzZXNzaW9uX2lkIjoiZDRkM2VmMGQzYTRlYzRlZjdhYTU0NzU5NmJjYjVlYjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kPvRVPVSe_dXhhZ1fl2HiUv1Zs8WPRHawLceeK60TUQ
 #EXTINF:-1 tvg-id="Russian-Extreme" group-title="Спорт",Russian Extreme UHD
 http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/5003/index.m3u8
-#EXTINF:-1 tvg-id="extreme-sports" group-title="Спортивные", Extreme sports
+#EXTINF:-1 tvg-id="extreme-sports" group-title="Спорт", Extreme sports
 http://109.200.130.123:7537/play/a02p
-#EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спортивные", Trace Sport Stars
+#EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спорт", Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 tvg-id="diema-sport-1" group-title="Спорт", Diema Sport HD
+http://213.91.178.133:8000/play/a06q
+#EXTINF:-1 tvg-id="KHL" group-title="Спорт",KHL
+http://178.124.152.238:8088/khl
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Спорт", KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-id="Konyy-mir" group-title="Спорт",Конный мир
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="Спорт",ТВ Спорт
+http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
+#EXTINF:-1 group-title="Спорт",Хоккей ТВ
+https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
+#EXTINF:-1 group-title="Спорт",MMA-TV.com
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
+#EXTINF:-1 group-title="Спорт",Хоккейный
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
+#EXTINF:-1 group-title="Спорт",Спортивный
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
+#EXTINF:-1 group-title="Спорт",Футбольный
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
+#EXTINF:-1 group-title="Спорт",Большой эфир
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=ChannelLIVE
+#EXTINF:-1 group-title="Спорт",Поединок
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
+#EXTINF:-1 group-title="Спорт",Игра
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
+#EXTINF:-1 tvg-id="footbolny" group-title="Спорт", Мяч
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
+#EXTINF:-1 group-title="Спорт",Сила
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт", Наш спорт 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 2
@@ -434,28 +473,6 @@ https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03
 https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="спорт",Наш спорт 30
 https://stream-msk-18.ott.tricolor.tv/dtv/id1026_MSKSG-PVR-1--Nash_sport30/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
-#EXTINF:-1 tvg-id="footbolny" group-title="Спорт", Мяч
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
-#EXTINF:-1 tvg-id="KHL" group-title="Спорт",KHL
-http://178.124.152.238:8088/khl
-#EXTINF:-1 group-title="Спорт",MMA-TV.com
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
-#EXTINF:-1 group-title="Спорт",Хоккейный
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
-#EXTINF:-1 group-title="Спорт",Спортивный
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
-#EXTINF:-1 group-title="Спорт",Футбольный
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
-#EXTINF:-1 group-title="Спорт",Большой эфир
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=ChannelLIVE
-#EXTINF:-1 group-title="Спорт",Поединок
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
-#EXTINF:-1 group-title="Спорт",Игра
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
-#EXTINF:-1 group-title="Спорт",Сила
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
-#EXTINF:-1 tvg-id="Konyy-mir" group-title="Спорт",Конный мир
-http://178.212.71.253:8000/play/108/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" group-title="Кино и сериалы",Всё ТВ Трейлеры
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
@@ -568,23 +585,23 @@ http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино и сериалы",Plan B
 http://45.143.108.110:2200/planb
 #EXTINF:-1 tvg-id="Amedia-1" group-title="Кино и сериалы",Amedia-1
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/9069/index.m3u8
+http://178.217.72.66:8080/A1/video.m3u8
 #EXTINF:-1 tvg-id="Amedia-2" group-title="Кино и сериалы",Amedia 2
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/9029/index.m3u8
+http://45.143.108.110:2200/amedia2
 #EXTINF:-1 tvg-id="Amedia-Hit" group-title="Кино и сериалы",Amedia Hit
 #EXTVLCOPT:http-user-agent=SmartTV
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/9070/index.m3u8
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 #EXTINF:-1 tvg-id="Amedia-Premium" group-title="Кино и сериалы",Amedia Premium
 #EXTVLCOPT:http-user-agent=SmartTV
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/9233/index.m3u8
+http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="Amedia-Premium-HD" group-title="Кино и сериалы",Amedia Premium HD
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/229/index.m3u8
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id=".red" group-title="Кино и сериалы",.red
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/2062/index.m3u8
+http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id=".Sci-Fi" group-title="Кино и сериалы",.Sci-Fi
-http://31.173.165.29:8000/play/a01l/index.m3u8
+http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 tvg-id=".black" group-title="Кино и сериалы",.Black
-http://109.200.130.123:7537/play/a02s
+http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 tvg-id="Kinojam-1" group-title="Кино и сериалы",Kinojam 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 tvg-id="kinojam2" group-title="Кино и сериалы",Kinojam 2
@@ -619,8 +636,6 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 tvg-id="Viasat-kino-world" group-title="Кино и сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat-kino-Action" group-title="Кино и сериалы",Viasat Kino Action HD
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/12024/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",День Победы HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 #EXTINF:-1 group-title="Кино и сериалы",Bollywood
@@ -628,9 +643,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
 http://31.173.165.29:8000/play/a055/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema
-http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg0MjE5ODAsImlhdCI6MTc0ODMzNTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTU5MzUxMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PW7L7rHT8yffBwJJKNVemrRZtjV76ce4qZJwz7RsOtA&offset=3
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-family" group-title="Кино и сериалы", Star Family HD
-http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg0MjE5ODAsImlhdCI6MTc0ODMzNTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTU5MzUxMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PW7L7rHT8yffBwJJKNVemrRZtjV76ce4qZJwz7RsOtA&offset=3
+http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-family" group-title="Кино и сериалы", Star Family
+http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 group-title="Кино и сериалы",Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Cinema Космос ТВ
@@ -653,6 +668,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 http://109.200.130.123:7537/play/a023
 #EXTINF:-1 group-title="Кино и сериалы",Иллюзион +
 http://31.173.165.29:8000/play/a04l/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="bolt-ru" group-title="Кино и сериалы", Bolt HD
+http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 tvg-id="car_is_vermen" group-title="Кино и сериалы",Госфильмофонд. Машина времени
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd158.iptv2022.com/p/mnZ3tDVtRmq1SMCRCT8Pdw,1749463024/streaming/car_is_vermen/324/5/tracks-v3a1/mono.m3u8
