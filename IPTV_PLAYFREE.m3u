@@ -1247,7 +1247,7 @@ https://nsk19.peers.tv/streaming/lyova/16/g2500/playlist.m3u8?token=eyJhbGciOiJI
 #EXTVLCOPT:http-user-agent=SmartTV
 https://nsk19.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkzODAxNTUsImlhdCI6MTc0OTI5Mzc1NSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjoxODQxNjc5NTQwfQ.F0EL3cluNQGF81c51D8LTq0wwxs_GCFWX-1rsA8utWk&client=81
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", КАПИТАН ФАНТАСТИКА HD
-
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0MjI3ODAsImlhdCI6MTc0OTMzNjM4MCwiY2lkIjo2LCJ1aWQiOjkyMjMzMTk5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hD1d3AGWs7WA3cWSCQwXtgWkQ9d8QER9-zSrhNDb97s&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Рыжий
 https://nsk19.peers.tv/streaming/red/16/tvrec/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkzODAxNTUsImlhdCI6MTc0OTI5Mzc1NSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjoxODQxNjc5NTQwfQ.F0EL3cluNQGF81c51D8LTq0wwxs_GCFWX-1rsA8utWk&client=81
 #EXTINF:-1 group-title="Детский",СТС Kids
