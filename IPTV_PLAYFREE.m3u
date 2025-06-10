@@ -1287,6 +1287,7 @@ http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="Multsezon" group-title="Детский", МультСезон
 #EXTVLCOPT:http-user-agent=SmartTV
+https://mhd158.iptv2022.com/p/4wjT3a0MFG02BJRrEPbBHQ,1749667638/streaming/multsezon/324/5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Лёва
 http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2MjYxODAsImlhdCI6MTc0OTUzOTc4MCwiY2lkIjo2LCJ1aWQiOjkyMjgyNzc1OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aRuAOybFh0IoV42pHbo0iiN0MZNtU1sfn1Rj3BVFqxM&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детский", Duck TV
