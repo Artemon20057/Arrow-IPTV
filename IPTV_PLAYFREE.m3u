@@ -808,6 +808,9 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 tvg-id="Zdrav" group-title="Познавательное",Здоровье
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/sFfSVBvBjjUy1CXLMwO1JQ,1749762008/streaming/zdrav/324/1/index.m3u8
+#EXTINF:-1 tvg-id="zdorovoe" group-title="Познавательное", Здоровое ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/Ytti4JfSox0Bx0-GJwHOiA,1749762008/streaming/zdorovoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикий
 http://45.143.108.110:2200/dikiy
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное", Дикая охота HD
