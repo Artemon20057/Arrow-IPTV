@@ -662,7 +662,7 @@ http://109.200.130.123:7537/play/a023
 #EXTINF:-1 group-title="Кино и сериалы",Иллюзион +
 http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="bolt-ru" group-title="Кино и сериалы", Bolt
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
+http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk3OTc4MjgsImlhdCI6MTc0OTcxMTQyOCwiY2lkIjo2LCJ1aWQiOjkyMzIyMjQ0MCwicmVnIjpmYWxzZSwiaXAiOjExNTI4OTg1MzYsImFkdWx0IjpmYWxzZX0.NrZdeeNk6x4xz4Jj9imvRcbpwD55TsPIeMnceUoTY-w&offset=10
 #EXTINF:-1 tvg-id="car_is_vermen" group-title="Кино и сериалы",Госфильмофонд. Машина времени
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd158.iptv2022.com/p/B2y0AVVewTflW_20V8IfpQ,1749801404/streaming/car_is_vermen/324/5/index.m3u8
@@ -1289,10 +1289,10 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="Multsezon" group-title="Детский", МультСезон
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/40RnVymgVS6Ns_xh33O2Ew,1749762007/streaming/multsezon/324/1/index.m3u8
-#EXTINF:-1 tvg-id="levatv" group-title="Детский", Лёва
-https://mhd128.iptv2022.com/p/kGGLLGGYD-4YEa0r1F-TUg,1749762007/streaming/levatv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детский", Duck TV
-https://mhd128.iptv2022.com/p/QPHT8O_yqZq3Cp-JkQJmkA,1749762007/streaming/ducktv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="levatv" group-title="Детский", Лёва
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk3OTc4MjgsImlhdCI6MTc0OTcxMTQyOCwiY2lkIjo2LCJ1aWQiOjkyMzIyMjQ0MCwicmVnIjpmYWxzZSwiaXAiOjExNTI4OTg1MzYsImFkdWx0IjpmYWxzZX0.NrZdeeNk6x4xz4Jj9imvRcbpwD55TsPIeMnceUoTY-w&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детский", Duck TV
+https://msk3.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk3OTY3NDAsImlhdCI6MTc0OTcxMDM0MCwiY2lkIjo4MSwidWlkIjo5MTc0MTQ0NjIsInJlZyI6dHJ1ZSwiaXAiOjMxNjUzMDE5Njh9.Jvchd9G9gdeCfThYDgs17zpFWlh_3aCiNRVfIWL83Lc&client=81
 #EXTINF:-1 tvg-id="Capitain-fantastic" group-title="Детский", КАПИТАН ФАНТАСТИКА HD
 https://mhd128.iptv2022.com/p/pfrVhm0XQ76SS6O9_ARbqA,1749762007/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-surd" group-title="Детский", Рыжий
