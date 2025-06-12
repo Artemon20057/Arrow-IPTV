@@ -319,6 +319,9 @@ http://sc.id-tv.kz/31Kanal.m3u8
 http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="Sibir-24" group-title="Региональные",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="tambov" group-title="Региональные", Новый век (Тамбов)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/1kiAWGztdGGHyxkjXcKuDw,1749762017/streaming/tambov/324/1/index.m3u8
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
 #EXTINF:-1 tvg-id="Viju+-Sport" group-title="Спорт" ,Viju+ Sport
