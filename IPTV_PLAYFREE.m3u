@@ -872,16 +872,16 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Big_Asia
 #EXTINF:-1 tvg-id="Vkus" group-title="Познавательное",Вкус
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/s0B_kvlDy5-yWtBCFCgl3A,1749848421/streaming/vkus_tv/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Авто 24
-http://178.124.152.238:8088/auto24
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Авто 24
+http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4ODQ0OTksImlhdCI6MTc0OTc5ODA5OSwiY2lkIjo2LCJ1aWQiOjkyMzQ1MDE5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjIwNDAsImFkdWx0IjpmYWxzZX0.D7WNx3K2LPmRk92584XGa-oEkb4Uv-XkteS0xXMC5l0&offset=10
 #EXTINF:-1 group-title="Познавательное",Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Драйв
 http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG TV
-http://195.26.83.96:7007/play/a00n/index.m3u8
+http://178.212.71.253:8000/play/71/index.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG HD
-http://130.193.73.10:8937/play/a01h
+http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",МИР ВОКРУГ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательное",Глазами туриста
@@ -944,18 +944,16 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
 http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-id="tcb" group-title="Познавательное", ТСВ
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
-#EXTINF:-1 tvg-id="hgtv" group-title="Познавательное",HGTV Home & Garden HD
-http://91.146.94.234:10000/play/a05e
 #EXTINF:-1 group-title="Познавательное",Оружие
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
 #EXTINF:-1 tvg-id="Tanzyi!" group-title="Познавательное",Танцуй!
-http://109.200.130.123:7537/play/a02l
+http://92.242.110.52:9835/udp/238.1.9.2:1234
 #EXTINF:-1 group-title="Познавательное",лекторий DОСТОЕВСКИЙ
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Smotrim-chastnyi-detektiv" group-title="Познавательное",Смотрим Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательное",Наша Сибирь HD
-https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Наша Сибирь HD
+http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4ODQ0OTksImlhdCI6MTc0OTc5ODA5OSwiY2lkIjo2LCJ1aWQiOjkyMzQ1MDE5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjIwNDAsImFkdWx0IjpmYWxzZX0.D7WNx3K2LPmRk92584XGa-oEkb4Uv-XkteS0xXMC5l0&offset=10
 #EXTINF:-1 group-title="Познавательное",МТВ HD
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Silkway-TV" group-title="Познавательное",Silkway TV
@@ -964,12 +962,11 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Ocean TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=OCEAN_TV
-#EXTINF:-1 group-title="Познавательное",Тайны Галактики
-http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="taina-galaxy" group-title="Познавательное",Тайны Галактики
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/kVbomkjR29KrffmDeTR7Eg,1749848410/streaming/taina-galaxy/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Мособр TV HD
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Da Vinci
-http://130.193.73.10:8937/play/a014
 #EXTINF:-1 tvg-id="Subbota!" group-title="Развлекательное",Суббота!
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Super
