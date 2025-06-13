@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.epg.one/epg_1.xml.gz"
-#EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.epg.one/epg_1.xml.gz"
 #EXTINF:-1 group-title="Общероссийские",Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия 1
