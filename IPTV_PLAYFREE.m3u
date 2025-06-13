@@ -1267,8 +1267,6 @@ https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Popcorn Theatre
 https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",SSAFilm
-https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Sinema 360
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Кинозал
@@ -1304,15 +1302,13 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 https://mhd128.iptv2022.com/p/URExwMSNdITdX8oaMqkdWg,1749848408/streaming/multsezon/324/1/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский" ,Лёва
 http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4ODQ0OTksImlhdCI6MTc0OTc5ODA5OSwiY2lkIjo2LCJ1aWQiOjkyMzQ1MDE5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjIwNDAsImFkdWx0IjpmYWxzZX0.D7WNx3K2LPmRk92584XGa-oEkb4Uv-XkteS0xXMC5l0&offset=10
-#EXTINF:-1 tvg-id="ducktv" group-title="Детский", Duck TV
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/u8m9Q8MWulbxyb-KCQ4kcA,1749848408/streaming/ducktv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="gingerhd" group-title="Детский", КАПИТАН ФАНТАСТИКА HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Duck TV
+https://nsk12.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTE4ODMsImlhdCI6MTc0OTgwNTQ4MywiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjoyOTk3OTM0ODA0fQ.rzOeoBvdA6jnTGMUlA6LZzJL8Ar4__SPoCqz5uKCcls&client=81
+#EXTINF:-1 tvg-id="gingerhd" group-title="Детский",Капитан Фантастика HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/Jr_Yhfe1Ac0gsHJvMnu3kQ,1749848408/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="ginger-surd" group-title="Детский", Рыжий
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/0EqzeZiRLcve-PbiydnvNQ,1749848408/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Рыжий
+https://nsk12.peers.tv/streaming/red/16/tvrec/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTE4ODMsImlhdCI6MTc0OTgwNTQ4MywiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjoyOTk3OTM0ODA0fQ.rzOeoBvdA6jnTGMUlA6LZzJL8Ar4__SPoCqz5uKCcls&client=81
 #EXTINF:-1 tvg-id="chizhik" group-title="Детский",Чижик 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/00mFHs0xN9ZY6orHactASA,1749848408/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
