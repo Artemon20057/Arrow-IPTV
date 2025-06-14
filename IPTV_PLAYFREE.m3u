@@ -1578,7 +1578,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LVREMYAHD.m3u8
 #EXTINF:-1 group-title="Информационные",ВОТ ТВ HD
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
 #EXTINF:-1 group-title="Информационные",Липецк Тайм
-https://mhd128.iptv2022.com/p/88ODWuZITqQKoB7fvLTUUQ,1749762019/streaming/lipeck_time/324/1/index.m3u8
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=vaOLTU4kLaRWAr5wKPvPMg&e=1749927479&scheme=https
 #EXTINF:-1 group-title="Информационные",Липецк Тайм HD
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LIPTIMEHD.m3u8
 #EXTINF:-1 group-title="Информационные",Елец ТВ
