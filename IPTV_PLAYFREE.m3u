@@ -1300,7 +1300,10 @@ https://nsk19.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOi
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/b4L53kbYKtWO11_rdXsh1Q,1750021209/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Рыжий
-http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+https://msk3.peers.tv/streaming/red/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNzE1MTEsImlhdCI6MTc0OTk4NTExMSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzAyMDEzfQ.by5nxiELUQjGAM_S9REqTgp63AnMro4r0soWm1c-I68&client=81
+#EXTINF:-1 tvg-id="10359" group-title="Детский", Рыжий HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/NptwO_o8vkzdC00tFAHRUQ,1750021209/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="chizhikhd" group-title="Детский",Чижик
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/Pvki_Rq6Lpoqssjk9iirig,1750021209/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
