@@ -1282,6 +1282,9 @@ https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba61/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/77/logo_256_1670994852.png" group-title="Детский",Солнце
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
+#EXTINF:-1 tvg-id="solnce" group-title="Детский",Солнце HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd156.iptv2022.com/p/S36z3-Q1yHfGt43hVUPKQA,1750179351/streaming/solnce/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",Солнце (+4)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney_4
 #EXTINF:-1 group-title="Детский",Мама
