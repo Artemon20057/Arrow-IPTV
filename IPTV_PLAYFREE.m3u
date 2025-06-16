@@ -320,7 +320,7 @@ http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="tambov" group-title="Региональные", Новый век (Тамбов)
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/bSRoDke6EJmQSuwmGORWMA,1750021219/streaming/tambov/324/1/index.m3u8
+
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
 #EXTINF:-1 group-title="Спорт",Спортивный
@@ -1280,44 +1280,42 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
 #EXTINF:-1 group-title="Детский",Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Смайлик ТВ
-http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 group-title="Детский",2x2
 http://178.212.71.253:8000/play/113/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский" ,Da Vinci
-http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Мультиландия
-http://api.peers.tv/timeshift/multilandiya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/multilandiya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 group-title="Детский",Мульт и музыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="Multsezon" group-title="Детский", МультСезон
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/FnblQiNl3guUA0XkzHG9XQ,1750021209/streaming/multsezon/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/vtQhoYGgU1M4Ln3prueREg,1750100342/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский" ,Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Duck TV
-https://nsk19.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNzE1MTEsImlhdCI6MTc0OTk4NTExMSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzAyMDEzfQ.by5nxiELUQjGAM_S9REqTgp63AnMro4r0soWm1c-I68&client=81
-#EXTINF:-1 tvg-id="gingerhd" group-title="Детский",Капитан Фантастика HD
+https://nsk19.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM2MjEsImlhdCI6MTc1MDA1NzIyMSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzAyMDEzfQ.ee-uuckUxnJuQNFYJwhjduAlodTjOCw1MlrTc5UmQP0&client=81
+#EXTINF:-1 tvg-id="gingerhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10158/logo_256_1658736584.png", group-title="Детский",Капитан Фантастика HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/b4L53kbYKtWO11_rdXsh1Q,1750021209/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/vtQhoYGgU1M4Ln3prueREg,1750100342/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Рыжий
-https://msk3.peers.tv/streaming/red/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNzE1MTEsImlhdCI6MTc0OTk4NTExMSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzAyMDEzfQ.by5nxiELUQjGAM_S9REqTgp63AnMro4r0soWm1c-I68&client=81
-#EXTINF:-1 tvg-id="10359" group-title="Детский", Рыжий HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/NptwO_o8vkzdC00tFAHRUQ,1750021209/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+https://nsk19.peers.tv/streaming/red/16/tvrec/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM2MjEsImlhdCI6MTc1MDA1NzIyMSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzAyMDEzfQ.ee-uuckUxnJuQNFYJwhjduAlodTjOCw1MlrTc5UmQP0&client=81
 #EXTINF:-1 tvg-id="chizhikhd" group-title="Детский",Чижик
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Pvki_Rq6Lpoqssjk9iirig,1750021209/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/ZMZtZf5gmpp4A8omTlnDsg,1750100342/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="tiptop" group-title="Детский",Тип Топ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/BNgjVdRkNpZFgt0ZMwh92A,1750021209/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/4OWTmQRYncTpQ9hcoTZ23w,1750100342/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="det_kino" group-title="Детский",Детское кино
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/JQSJXQIhRvocGdEnjXH8cw,1750021209/streaming/det_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/mYg5wy1TU49VdyfhFOY5PQ,1750100342/streaming/det_kino/324/1/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",СТС Kids
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 tvg-id="skazka" group-title="Детский",В гостях у сказки
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/T5ya3RsU7yjjkLzCHoYsQQ,1750021209/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/uia9FD7meAAfT9ZQrb0N9w,1750100342/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" group-title="Детский", Мамонтёнок
@@ -1326,9 +1324,9 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sovetskiye-myltfilm" group-title="Детский", Советские мультфильмы
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/UXIXkJTtCEnTInsGOENN_Q,1750021209/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/ZavM_KLivkLJUt0E7cre-g,1750100343/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", Сказки Зайки
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 tvg-id="Мультики и Сказки HD" tvg-logo="https://i.postimg.cc/sx6H4jvt/Multiki-i-Skazki.png" group-title="Детский", Мультики и Сказки HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/198446.m3u8
@@ -1341,15 +1339,15 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детский",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детский",Киномульт
-https://stream201.24h.tv/mbrjwt/cb7c18ca698969b9fd03835695f147a5753d82c4-103-0-str13288839-5-3119732610-1749985199-e128-K7AvfAIjlMfHODtBpEuy-6RyfFzHqenyElXTyl2Toi8/1.m3u8
-#EXTINF:-1 group-title="Детский",О!
-http://109.248.236.51/o/tracks-v1a1/mono.m3u8
+https://stream201.24h.tv/mbrjwt/cb7c18ca698969b9fd03835695f147a5753d82c4-103-0-str13288839-5-3119732610-1750057984-e128-Zyi514KMcs6KHXyj7VRRzetml9xz0eiIGYN8xGDEZu8/2.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",О!
+https://nsk19.peers.tv/streaming/o/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM2MjEsImlhdCI6MTc1MDA1NzIyMSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzAyMDEzfQ.ee-uuckUxnJuQNFYJwhjduAlodTjOCw1MlrTc5UmQP0&client=81
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 group-title="Детский",Детский Мир
 http://178.212.71.253:8000/play/52/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Gulli Girl
-http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 group-title="Детский",Nickelodeon
 http://195.245.99.242/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детский", Nickelodeon HD
@@ -1361,9 +1359,9 @@ http://31.130.19.207:4022/udp/239.1.10.21:1234
 #EXTINF:-1 tvg-id="boomerang" group-title="Детский",Cartoonito
 http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", TiJi
-http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский", СуперГерои
-http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAwNTY5NTgsImlhdCI6MTc0OTk3MDU1OCwiY2lkIjo2LCJ1aWQiOjkyMzg2NjI2MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.H4taJ6mpT3noZNB5tmGs6z94SS2vyTwWeuXoAy8xZjM&offset=10
+http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10
 #EXTINF:-1 group-title="Детский",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детский",Мультимания
