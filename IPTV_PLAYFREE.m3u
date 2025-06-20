@@ -407,6 +407,8 @@ http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJ
 http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спорт",Fast & FunBox
 http://213.91.178.133:8000/play/a0ce
+#EXTINF:-1 tvg-id="FightBox" group-title="Спорт",FightBox
+https://stream201.24h.tv/mbrjwt/cb7c18ca698969b9fd03835695f147a5753d82c4-2612-0-str13288839-5-3119732610-1750430637-e128-w18tC-04d0KvuP4h24EsNAwi44zs9sJ0NmOdRMm9d6k/1500.m3u8
 #EXTINF:-1 tvg-id="Russian-Extreme" group-title="Спорт",Russian Extreme HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Russkiy_Extreme
 #EXTINF:-1 tvg-id="Russian-Extreme" group-title="Спорт",Russian Extreme UHD
@@ -418,11 +420,9 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="Udar" group-title="Спорт", Удар
 http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="extreme-sports" group-title="Спорт", Extreme sports
-http://109.200.130.123:7537/play/a02p
-#EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спорт", Trace Sport Stars
-http://87.120.142.11:18000/Rossiya1
-#EXTINF:-1 tvg-id="diema-sport-1" group-title="Спорт", Diema Sport
-http://213.91.178.133:8000/play/a06q
+https://tv.tvcdnpotok.com/t9eYZgfqM-Dxu8WxlKr8FQ/2032/1750448079/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорт", Trace Sport Stars
+https://msk3.peers.tv/streaming/trace_sport_stars_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0OTQwOTEsImlhdCI6MTc1MDQwNzY5MSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzA3MTE4LCJhZHVsdCI6dHJ1ZX0.gzraVOHhPKS7wFuUOrmIBTu-S4oixBsl1_K47wIMb5Q&client=81
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Спорт", Наш спорт 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Спорт",Наш спорт 2
@@ -799,7 +799,7 @@ http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGci
 https://mhd116.iptv2022.com/p/CBRHb0A4K-yX6HZQxTMvSA,1750445798/streaming/tourist_eyes/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Глазами туриста 4K
 #EXTVLCOPT:http-user-agent=SmartTV
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/15191/index.m3u8
+https://stream16.sputnik24.tv/glazami_turista_4k/2160p/index.m3u8?sig=1750461111_c3119c8b42bc00435bc5d986eda01fa2
 #EXTINF:-1 tvg-id="kongres_tv" group-title="Познавательное",Конгресс ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://live-3.otcnet.ru/congresstv/index.m3u8
