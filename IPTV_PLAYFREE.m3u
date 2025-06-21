@@ -668,9 +668,6 @@ https://mhd116.iptv2022.com/p/63rJT8lrMrE4itXunbPxBA,1750532419/streaming/star_f
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10661/logo_256_1655386442.png", Ключ HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/7oEzINrbvo7fobDSswmfyw,1750532419/streaming/kluchhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Flix Snip
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:-1 group-title="Кино и сериалы",Кино ТВ
@@ -889,6 +886,9 @@ https://tv.tvcdnpotok.com/bTp3TXPHbaIOwC00miCVAw/114/1750516652/index.m3u8
 #EXTINF:-1 tvg-id="history2" group-title="Познавательное",History 2
 #EXTVLCOPT:http-user-agent=SmartTV
 https://tv.tvcdnpotok.com/NvfYP0BRFw-3BNNTTkAB_A/224/1750516973/index.m3u8
+#EXTINF:-1 group-title="Познавательное" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10661/logo_256_1655386442.png", Ключ HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd116.iptv2022.com/p/7oEzINrbvo7fobDSswmfyw,1750532419/streaming/kluchhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",TERRA
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,TERRA HD
