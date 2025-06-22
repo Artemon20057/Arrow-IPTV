@@ -359,59 +359,61 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
 http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-id="KHL-HD" group-title="Спорт",KHL HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/VhqVEoPtqbEzWoSOd9CpKQ,1750532421/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/Ped_dfVKxLK0qRRCzvHr9Q,1750618592/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спорт", KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-id="konniy" group-title="Спорт",KHL Prime HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/phcIkgj8TeqfBFrf8t8DYA,1750532421/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/1-ibWXhxi3jSPNKilI7zzw,1750618592/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match_arena" group-title="Спорт",Матч! Арена
 #EXTVLCOPT:http-user-agent=SmartTV
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 tvg-id="Match-Arena-HD" group-title="Спорт", Матч! Арена HD
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:-1 tvg-id="boectv" group-title="Спорт",Матч! БОЕЦ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/j_ZtkK7tOvUbhvGQyS7a3g,1750532421/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/rH_OfyFbRVM7f8mFt8Fr0Q,1750618592/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="Match!-Igra" group-title="Спорт",МАТЧ! Игра
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/5mbGcdHHRkgWEE8L4Lr7tw,1750532421/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/7TPy6l5oatS4QZCXwPJPiQ,1750618592/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" group-title="Спорт", Матч! Игра HD
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 tvg-id="nashsport" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10167/logo_256_1660892008.png", group-title="Спорт",Матч! Страна
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/YP99nOYKy56EmwJoFOlP5Q,1750532421/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/eGXPdSjT-dhFAHn2r-9tXQ,1750618592/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match_premyer" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png", group-title="Спорт", Матч Премьер
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/FQBUkQ6SWV273ZS4LdpH-g,1750532421/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/VjfrEKUpG-n2mnt4gFVGvg,1750618592/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match_premyerhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10227/logo_256_1660806192.png", group-title="Спорт", Матч Премьер HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/plLxaxFhzHoI_MDPx8L6zA,1750532421/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/hlE_-C1hv2kyA0QO9oNopg,1750618592/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="footbal1hd" group-title="Спорт", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/Ioh4rqVJKpk39QrYepopwQ,1750532421/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/XzGX1eRoM84TeDxN-I6J1w,1750618592/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="footbal2hd" group-title="Спорт", Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/Pao6NBq_fqSbwNh1RB_L3g,1750532421/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/Fg7-rkjvlzrcoqmGIeq3FQ,1750618592/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="footbal3hd" group-title="Спорт", Матч Футбол 3 HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/HxihPkkOXlPSED5POxKl5g,1750532421/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/XkHFjyPYzcmncNGqJKdd3A,1750618592/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="Спорт",БОКС ТВ
 http://5.3.176.223:81/udp/235.10.10.233:1234
 #EXTINF:-1 tvg-id="konniy" group-title="Спорт",Конный мир
 #EXTVLCOPT:http-user-agent=SmartTV
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спорт", Футбол
-https://nsk19.peers.tv/streaming/futbol/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0OTQwOTEsImlhdCI6MTc1MDQwNzY5MSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzA3MTE4LCJhZHVsdCI6dHJ1ZX0.gzraVOHhPKS7wFuUOrmIBTu-S4oixBsl1_K47wIMb5Q&client=81
+
 #EXTINF:-1 tvg-id="voleybol" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спорт", Волейбол
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd120.iptv2022.com/p/l8h3Z8wVJ0ha_LdXLwEtgA,1750575392/streaming/volleyball/324/5/tracks-v4a1/mono.m3u8
+https://mhd158.iptv2022.com/p/GiVW_CRjTC8zAvicPtqrPQ,1750670318/streaming/volleyball/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="mir-basketbola" group-title="Спорт", Мир баскетбола
-https://msk4.peers.tv/streaming/mir_basketbola/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0OTQwOTEsImlhdCI6MTc1MDQwNzY5MSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzA3MTE4LCJhZHVsdCI6dHJ1ZX0.gzraVOHhPKS7wFuUOrmIBTu-S4oixBsl1_K47wIMb5Q&client=81
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорт" ,Viju+ Sport
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1NzU0NTIsImlhdCI6MTc1MDQ4OTA1MiwiY2lkIjo2LCJ1aWQiOjkyNTEyMjUyOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.ie2i5Gi-dUj4cFCBTuvpuYNlkQZOo2-SicKrL0zFYN0&offset=10
+
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спорт",Fast & FunBox
 http://213.91.178.133:8000/play/a0ce
 #EXTINF:-1 tvg-id="FightBox" group-title="Спорт",FightBox
-https://stream15.sputnik24.tv/fightbox_hd/1080p/index.m3u8?sig=1750517683_9d03db40f8b643c693826e6eda613eeb
+
 #EXTINF:-1 tvg-id="Russian-Extreme" group-title="Спорт",Russian Extreme HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Russkiy_Extreme
 #EXTINF:-1 tvg-id="Russian-Extreme" group-title="Спорт",Russian Extreme UHD
@@ -423,9 +425,9 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="Udar" group-title="Спорт", Удар
 http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="extreme-sports" group-title="Спорт", Extreme sports
-https://tv.tvcdnpotok.com/UFRbka9hf2sKKCSVS-S55Q/2032/1750506831/index.m3u8
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорт", Trace Sport Stars
-https://nsk19.peers.tv/streaming/trace_sport_stars_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0OTQwOTEsImlhdCI6MTc1MDQwNzY5MSwiY2lkIjo4MSwidWlkIjo5MTc0MTM4NjUsInJlZyI6ZmFsc2UsImlwIjozMTY1MzA3MTE4LCJhZHVsdCI6dHJ1ZX0.gzraVOHhPKS7wFuUOrmIBTu-S4oixBsl1_K47wIMb5Q&client=81
+
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Спорт", Наш спорт 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Спорт",Наш спорт 2
