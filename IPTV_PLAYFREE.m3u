@@ -4,7 +4,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Общероссийские",Россия 1
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA1.m3u8
 #EXTINF:-1 group-title="Общероссийские",Матч ТВ
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_MATCHTV.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал
@@ -26,15 +26,15 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="Общероссийские",СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="Общероссийские",Домашний
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_DOMASHNIY.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 group-title="Общероссийские",ТВ3
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятница
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_FRIDAY.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Звезда
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ZVEZDA.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="Общероссийские",Мир
-https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8v
 #EXTINF:-1 group-title="Общероссийские",ТНТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
