@@ -60,7 +60,8 @@ https://mhd116.iptv2022.com/p/nQrzl6Dfq2Mv-r2xHVzWHg,1751050658/streaming/rentvo
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd116.iptv2022.com/p/ugir903TRVnufqQytF-4_Q,1751050658/streaming/stsott/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские",Домашний HD
-http://77.235.1.19:8000/play/a054/index.m3u8
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd116.iptv2022.com/p/orp-sQbn9-1q1pTtutxfXw,1751050658/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV-3-HD" group-title="Общероссийские", ТВ-3 HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd116.iptv2022.com/p/F0dRjnErOG7ENwFWA0ti5A,1751050658/streaming/tv3ott/324/1/tracks-v5a1/mono.m3u8
