@@ -783,7 +783,7 @@ http://77.235.1.19:8000/play/a06n/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
 #EXTINF:-1 tvg-id="neizvestnya rossia" group-title="Познавательное",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=SmartTV
-http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+https://mhd156.iptv2022.com/p/_rPM4aKDGLFDHpdyKEpDrA,1751184223/streaming/unknown_russia/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Открытый мир
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
 #EXTINF:-1 group-title="Познавательное",МИР ВОКРУГ HD
