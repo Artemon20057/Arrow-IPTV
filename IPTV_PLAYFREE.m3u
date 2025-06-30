@@ -319,7 +319,7 @@ http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="tambov" group-title="Региональные", Новый век (Тамбов)
 #EXTVLCOPT:http-user-agent=SmartTV
-
+https://mhd116.iptv2022.com/p/g5Tu6-QEj0jEOkHhyqic5Q,1751353963/streaming/tambov/324/1/index.m3u8
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
 #EXTINF:-1 group-title="Спорт",Спортивный
@@ -1626,7 +1626,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LVREMYAHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
 #EXTINF:-1 tvg-id="lipeck_time" group-title="Информационные",Липецк Тайм
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/6DGvr7fSIJVm-DDFuMA1sw,1751180226/streaming/lipeck_time/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/JqcSZRLw0cTq8cozwMbbdA,1751353963/streaming/lipeck_time/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16549/logo_256_1675862097.png" group-title="Информационные",Липецк Тайм HD
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LIPTIMEHD.m3u8
 #EXTINF:-1 group-title="Информационные",Елец ТВ
