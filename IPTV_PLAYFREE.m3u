@@ -60,7 +60,7 @@ https://mhd128.iptv2022.com/p/VHAICeyKWh-OSZXhGs6FYg,1753945056/streaming/tvc/32
 http://185.26.157.3:8080/live/rentv_hd/mono.m3u8
 #EXTINF:-1 tvg-id="STS-HD" group-title="Общероссийские", СТС HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://178.217.72.66:8080/STS/index.m3u8
+http://158.160.149.81:8080/5340/index.m3u8
 #EXTINF:-1 group-title="Общероссийские",Домашний HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://185.26.157.3:8080/live/domashniy_hd/mono.m3u8
@@ -253,21 +253,12 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Региональные",Грозный
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 group-title="Региональные",Осетия-Ирыстон
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/LacHZ9Oo-xaH5OyJfjt80A,1753945064/streaming/osetia-iryston/324/1/index.m3u8
-#EXTINF:-1 group-title="Региональные",Юрган
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/MKLINXwG7RfoHJUhkKEqIQ,1753945061/streaming/urgan/324/1/index.m3u8
 #EXTINF:-1 group-title="Региональные",Губерния
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",НВК Саха
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Своё ТВ
 http://svoetv.mediacdn.ru/cdn/svoetv/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Региональные",Мир Белогорья
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/3rkK8wJc_XpmnWxhDj--Sw,1753945061/streaming/belogorie/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Prima" group-title="Региональные",Прима HD
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",tvg-logo="http://i.otzovik.com/objects/b/790000/782877.png",ПЕРВЫЙ ТУЛЬСКИЙ
@@ -316,10 +307,10 @@ http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="tambov" group-title="Региональные", Новый век (Тамбов)
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/DPDSzBU2EYbObkX-xsY6Fw,1753945063/streaming/tambov/324/1/index.m3u8
+
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/ZuDR0JyTgA65DgRi4kj1uA,1753945061/streaming/topspb/324/1/index.m3u8
+
 #EXTINF:-1 group-title="Спорт",Хоккей ТВ
 https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
 #EXTINF:-1 group-title="Спорт",ТВ Спорт
@@ -403,9 +394,9 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 
 #EXTINF:-1 tvg-id="voleybol" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спорт", Волейбол
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/-FNOVSHtPuf11KiTErmv4w,1753909223/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="mir-basketbola" group-title="Спорт", Мир баскетбола
 
+#EXTINF:-1 tvg-id="mir-basketbola" group-title="Спорт", Мир баскетбола
+http://185.26.157.3:8080/live/mirbasketbola/mono.m3u8
 #EXTINF:-1 group-title="Спорт" ,Viju+ Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="fastfunbox" group-title="Спорт",Fast & FunBox
@@ -415,6 +406,8 @@ http://77.235.1.19:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-id="extreme-sports" group-title="Спорт", Extreme sports
 http://176.62.72.48:8001/play/a035/index.m3u8
+#EXTINF:-1 group-title="Спорт",Russia Extreme
+http://185.26.157.3:8080/live/russkiyextrim/mono.m3u8
 #EXTINF:-1 tvg-id="Russian-Extreme" group-title="Спорт",Russian Extreme HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спорт", Eurosport 1
@@ -603,19 +596,18 @@ http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 #EXTINF:-1 tvg-id="Amedia-Hit" group-title="Кино и сериалы",Amedia Hit HD
 http://77.235.1.19:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="Amedia-Premium" group-title="Кино и сериалы",Amedia Premium
-#EXTVLCOPT:http-user-agent=SmartTV
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="Amedia-Premium-HD" group-title="Кино и сериалы",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14484/logo_256_1660800271.png" group-title="Кино и сериалы",.red
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/4Y9b8tG-NkAQgewVv1i8iw,1753642531/streaming/red/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14491/logo_256_1660800286.png" group-title="Кино и сериалы",.Sci-Fi
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/z0sZGd6EKjXkLJJzq7fTNw,1753642531/streaming/sci-fi/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14498/logo_256_1660800255.png" group-title="Кино и сериалы",.Black
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/5en20M5syG_2XTM1ANlyNg,1753642531/streaming/black/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Kinojam-1" group-title="Кино и сериалы",Kinojam 1
 http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
 #EXTINF:-1 tvg-id="kinojam2" group-title="Кино и сериалы",Kinojam 2
@@ -802,7 +794,7 @@ http://77.235.1.19:8000/play/a07w/index.m3u8
 https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
 #EXTINF:-1 tvg-id="travel-xp-hd" group-title="Познавательное",TravelXP
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/UNdRpy_3ogJjKi0CFpXMkA,1753945059/streaming/travelxp/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="Tochka-RF" group-title="Познавательное",Точка.РФ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTINF:-1 group-title="Познавательное",Красная линия
@@ -820,10 +812,10 @@ http://31.173.165.29:8000/play/a01y/index.m3u8
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый Вегетарианский
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/nD22jkCqKvEeLIbMKF-vlw,1753945058/streaming/firstvegan/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="Zagorod_TV" group-title="Познавательное",Загородный
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/BoJPNQPgh4QEAdYuFYsqaA,1753945060/streaming/country/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="zagorod" group-title="Познавательное",Загородная жизнь
 #EXTVLCOPT:http-user-agent=SmartTV
 http://77.235.1.19:8000/play/a067/index.m3u8
@@ -842,31 +834,31 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tochkaotriva" group-title="Познавательное",Точка Отрыва
 http://77.235.1.19:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="Discovery-channel" group-title="Познавательное",Discovery Channel
-http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 tvg-id="Discovery-channel-HD" group-title="Познавательное",Discovery Channel HD
-http://s7.merlive.am/discovery/index.m3u8
+http://185.26.157.3:8080/live/discovery/mono.m3u8
 #EXTINF:-1 tvg-id="National-Geographic" group-title="Познавательное",National Geographic
 http://185.26.157.3:8080/live/nationalgeographic/mono.m3u8
 #EXTINF:-1 tvg-id="National-Geographic-HD" group-title="Познавательное",National Geographic HD
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="Nat-Geo-WILD" group-title="Познавательное",Nat Geo WILD
-http://5.134.87.11:4600/NatGeoWild/index.m3u8
+http://178.217.72.66:8080/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательное", Nat Geo Wild HD
 http://185.26.157.3:8080/live/natgeowildhd/mono.m3u8
 #EXTINF:-1 tvg-id="Animal-Planet" group-title="Познавательное",Animal Planet
-http://80.245.95.243:8888/play/a001/index.m3u8
+http://45.159.74.22/AnimalPlanet/mono.m3u8
 #EXTINF:-1 tvg-id="Animal-Planet-HD" group-title="Познавательное",Animal Planet HD
 http://185.26.157.3:8080/live/animalplanet/mono.m3u8
 #EXTINF:-1 tvg-id="id" group-title="Познавательное", Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательное", ID Xtra Европа
 http://178.217.72.66:8080/ID_Xtra/index.m3u8
 #EXTINF:-1 tvg-id="history" group-title="Познавательное", History
-http://81.198.190.9:7878/HISTORY/video.m3u8
-#EXTINF:-1 tvg-id="history-HD" group-title="Познавательное", History HD
-http://45.159.74.22/Channel_123/mono.m3u8
-#EXTINF:-1 tvg-id="history-2-HD" group-title="Познавательные", HISTORY 2 HD
 http://185.26.157.3:8080/live/historyhd/mono.m3u8
+#EXTINF:-1 tvg-id="history-HD" group-title="Познавательное", History HD
+http://178.217.72.66:8080/h1/index.m3u8
+#EXTINF:-1 tvg-id="history-2-HD" group-title="Познавательное", HISTORY 2
+http://178.217.72.66:8080/h2/index.m3u8
 #EXTINF:-1 tvg-id="travel-channel" group-title="Познавательное",Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Познавательное",TERRA
@@ -877,7 +869,7 @@ http://77.235.1.19:8000/play/a07d/index.m3u8
 http://178.217.72.66:8080/big_planet/index.m3u8
 #EXTINF:-1 tvg-id="Big-Planet-HD" group-title="Познавательное",Big Planet HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/6xm9MVG3LvjBfin6ShqWhw,1753945059/streaming/big_planet/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательное" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10661/logo_256_1655386442.png", Ключ
 http://77.235.1.19:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Доктор
@@ -889,30 +881,30 @@ http://178.212.71.253:8000/play/96/index.m3u8
 http://45.143.108.110:2200/mujskoi
 #EXTINF:-1 tvg-id="Zdrav" group-title="Познавательное",Здоровье
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/_63ls3O_Qp13-ZUHfUFY9w,1753945058/streaming/zdrav/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="zdorovoe" group-title="Познавательное", Здоровое ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/MJIgwp0K4rTILcC4jQGP-g,1753945058/streaming/zdorovoe/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательное",Дикий
 http://185.26.157.3:8080/live/dikiy/mono.m3u8
-#EXTINF:-1 tvg-id="ohotahd" group-title="Познавательное", Дикая охота HD
+#EXTINF:-1 tvg-id="ohotahd" group-title="Познавательное", Дикая охота
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/I1IY3UTmxijWxtJQpENoGQ,1753945058/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="ribalkahd" group-title="Познавательное", Дикая рыбалка HD
+http://158.160.149.81:8080/4647/index.m3u8
+#EXTINF:-1 tvg-id="ribalkahd" group-title="Познавательное", Дикая рыбалка
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/p2bmcfDZu2OyGw6NkhZc2Q,1753945058/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oribalke" group-title="Познавательное",Диалоги о рыбалке
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/8Tg69WzcE3Wr3nIV79HEKg,1753945058/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ohota_i_ribalka" group-title="Познавательное",Охота и рыбалка
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/do0Rw8dBlA7z4lwGhupphg,1753945058/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Ohothik-i-Rybalov-HD" group-title="Познавательное",Охотник и Рыболов HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Ug6NBGVRVssOJUOmMnEtdg,1753945058/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Rybalov" group-title="Познавательное",Рыболов
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/OWKAHFubeddr2AibuG61ZQ,1753945058/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 group-title="Познавательное",The Fishing and Hunting
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Viju-Explore" group-title="Познавательное",Viju Explore
@@ -979,7 +971,7 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="Познавательное",ЕГЭ
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Ocean TV
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=OCEAN_TV
+
 #EXTINF:-1 tvg-id="taina-galaxy" group-title="Познавательное",Тайны Галактики
 #EXTVLCOPT:http-user-agent=SmartTV
 http://77.235.1.19:8000/play/a065/index.m3u8
@@ -1033,7 +1025,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
 http://77.235.1.19:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="ech" group-title="Развлекательное", Эх!
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/SXBJiEtTIjDFheKgmdiXvQ,1753909222/streaming/eh_tv/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="Развлекательное", НТВ Право
 #EXTVLCOPT:http-user-agent=SmartTV
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -1062,7 +1054,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
 
 #EXTINF:-1 group-title="Развлекательное",Еда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/dvhXiPFCvFFOggUpQgUsHg,1753945058/streaming/eda/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png" group-title="Развлекательное",Кулинар ТВ
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="Развлекательное",FoodTime
@@ -1073,7 +1065,7 @@ http://77.235.1.19:8000/play/a05u/index.m3u8
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="Joy-cook" group-title="Развлекательное",Joy cook
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/NcLOVZ3YLeL_1Y0L33SmuA,1753945058/streaming/joycook/324/1/index.m3u8
+
 #EXTINF:-1 group-title="Развлекательное",TLC
 http://45.159.74.22/TLC/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",TLC HD
@@ -1109,8 +1101,6 @@ http://78.130.250.2:8023/play/a02m/index.m3u8
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/vitrinatv.png" group-title="Развлекательное", Витрина ТВ
 https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2746.png" tvg-id="2746" group-title="Развлекательное", Наша Сибирь 4K
-http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/4003/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Home 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",4K travel 
@@ -1306,10 +1296,10 @@ https://fl1001.bozztv.com/ushba45/index.m3u8
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Solnce-HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/77/logo_256_1670994852.png" group-title="Детский",Солнце HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/eAh4LLT1fvrs_drGrFjPFw,1753945058/streaming/solnce/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Детский", Смайлик ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/8mNXOrHbsmoGQW-UCwmlKg,1753945058/streaming/smile/324/1/index.m3u8
+
 #EXTINF:-1 group-title="Детский",2x2
 http://178.212.71.253:8000/play/113/index.m3u8
 #EXTINF:-1 group-title="Детский" ,Da Vinci
@@ -1320,25 +1310,25 @@ http://77.235.1.19:8000/play/a04b/index.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="Multsezon" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10430/logo_256_1660805856.png" group-title="Детский", МультСезон
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/7X-VrA0NNHGeOB8pqZcrAw,1753945058/streaming/multsezon/324/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15240/logo_256_1665665384.png" group-title="Детский" ,Лёва
 http://158.160.149.81:8080/8062/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12650/logo_256_1655389546.png" group-title="Детский", Duck TV
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM5NDk3ODAsImlhdCI6MTc1Mzg2MzM4MCwiY2lkIjo2LCJ1aWQiOjkzMzQzMTA4NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.cf5csl_fFCe3gtOv63oc9p-DEw-KljXwQigDFTmCrTw&offset=3
+
 #EXTINF:-1 tvg-id="gingerhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10158/logo_256_1658736584.png" group-title="Детский",Капитан Фантастика HD
 http://158.160.149.81:8080/1578/index.m3u8
 #EXTINF:-1 tvg-id="ginger-surd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10359/logo_256_1658737553.png" group-title="Детский", Рыжий
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Tv5AUsIXtJm-qlBgs6LkGw,1753945058/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="chizhikhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15520/logo_256_1668760454.png" group-title="Детский",Чижик
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/QUX6UYySecBZwD91PAHIxg,1753945058/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="tiptop" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13987/logo_256_1660805879.png" group-title="Детский",Тип Топ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/WlUwpx3bVo6JNwb3l3yWsw,1753945058/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="det_kino" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10476/logo_256_1658734432.png" group-title="Детский",Детское кино
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/ER6W7azJXeRzogWy1JoMbA,1753945058/streaming/det_kino/324/1/index.m3u8
+
 #EXTINF:-1 group-title="Детский", СТС Kids
 http://213.91.178.133:8000/play/a07g
 #EXTINF:-1 group-title="Детский", СТС Kids HD
@@ -1352,7 +1342,7 @@ http://185.26.157.3:8080/live/babytv/mono.m3u8
 http://178.217.72.66:8080/Black/index.m3u8
 #EXTINF:-1 tvg-id="skazka-HD" group-title="Детский",В гостях у сказки HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/OfNTDDUlanUIQH-g40laIQ,1753945058/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Детский",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" group-title="Детский", Мамонтёнок
@@ -1361,16 +1351,16 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rusmult" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10289/logo_256_1658737584.png" group-title="Детский", Советские мультфильмы
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Cc0QYYtCztL4C410BBdeyg,1753945058/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Детский" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10288/logo_256_1658737569.png", Сказки Зайки
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/mcBbvuTJgSBuRnFWWg__tg,1753945058/streaming/zaj/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="Мультики и Сказки HD" tvg-logo="https://i.postimg.cc/sx6H4jvt/Multiki-i-Skazki.png" group-title="Детский", Мультики и Сказки HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 group-title="Детский" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16325/logo_256_1673848908.png", Anime Kids
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/qQ_cfCGixTvUuF9j28LLMw,1753945058/streaming/anime_kids/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="kidstv" group-title="Детский", Kids TV
 http://77.235.1.19:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Детский",Magic Disney
@@ -1433,7 +1423,7 @@ https://mhd128.iptv2022.com/p/kgLS-KqJdbuGD6XMG7REpg,1753945061/streaming/myhous
 https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11530/logo_256_1655390314.png", Muzzon
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/00Ne5DmbQN3ReL739LZQ8g,1753945061/streaming/muzzone/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Музыкальные",Song TV Россия
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Song TV Армения
