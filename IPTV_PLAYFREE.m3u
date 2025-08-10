@@ -1,4 +1,242 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz; https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
 #EXTM3U x-tvg-url="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz; http://epg.one/epg2.xml.gz"
 
-#EXTINF:-1, Плейлист временно приостанновлен
+#EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Инфоканал
+
+#EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 tvg-id="1-TV" group-title="Общероссийские",Первый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="RUS-1" group-title="Эфирные", Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="MATCH!" group-title="Общероссийские",Матч ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-id="NTV" group-title="Общероссийские",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="5-TV" group-title="Общероссийские",Пятый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="RUS-K" group-title="Общероссийские",Россия Культура
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="RUS-24" group-title="Общероссийские",Россия 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-id="Karousel" group-title="Общероссийские",Карусель
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="OTR-TV" group-title="Общероссийские",Общественное телевидение России (ОТР)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="TV-CENTER" group-title="Общероссийские",ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="REN-TV" group-title="Общероссийские",РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="SPAS" group-title="Общероссийские",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 tvg-id="STS" group-title="Общероссийские",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="DOM-TV" group-title="Общероссийские",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Общероссийские",ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="FRIDAY-TV" group-title="Общероссийские",Пятница
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="ZVEZDA" group-title="Общероссийские",Звезда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="Mir" group-title="Общероссийские",Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="TNT" group-title="Общероссийские",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="MUZ-TV" group-title="Общероссийские",Муз-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные",Крым 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",СТВ24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Телеканал Крым 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Миллет
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MILLET/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Севастопольский
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJSEVASTOPOL/variant.m3u8
+#EXTINF:-1 group-title="Региональные",НТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",СТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Евпатория 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Москва 24
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ТЕО-ТВ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Известия Приосколья
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_OSKOL/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Мир Белогорья
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Белгород 24
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Сейм 
+https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_SEIM/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Такт 24
+https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_TAKT/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Елец ТВ
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ELETS/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Липецк 24
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ВОТ ТВ
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Липецкое время 24
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_LVREM/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Истоки
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Областной
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Город
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Новый век
+https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Тульский
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Тула 24
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TULA24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Панорама ТВ
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Тверской проспект
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Губерния-33
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA33/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Муром ТВ
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_MUROMTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",TV Губерния
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TVGUBERNIYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Ярославский
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Рыбинск-40
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ЛенТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ЛенТВ 24 HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Катунь 24
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KATUN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Аист ТВ
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AIST/variant.m3u8
+#EXTINF:-1 group-title="Региональные",БСТ 24
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ОТС
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTS/variant.m3u8
+
+#EXTINF:-1 tvg-id="match-arena" group-title="Спорт",Матч! Арена
+
+#EXTINF:-1 tvg-id="match-arena-HD" group-title="Спорт",Матч! Арена HD
+
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+
+#EXTINF:-1 tvg-id="match-boets" group-title="Спорт",Матч! Боец HD
+
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+
+#EXTINF:-1 group-title="Спорт",Матч! Игра HD
+
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+
+#EXTINF:-1 group-title="Спорт",Матч Страна HD
+
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+
+#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
+
+#EXTINF:-1 group-title="Спорт",Матч Футбол 1
+
+#EXTINF:-1 group-title="Спорт",Матч Футбол 1 HD
+
+#EXTINF:-1 group-title="Спорт",Матч Футбол 2
+
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+
+#EXTINF:-1 group-title="Спорт",Матч Футбол 3
+
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1
+
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+
+#EXTINF:-1 group-title="Спорт",Eurosport
+
+#EXTINF:-1 group-title="Спорт",Eurosport HD
+
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+
+#EXTINF:-1 group-title="Спорт",Viju+ Sport
+
+#EXTINF:-1 group-title="Спорт",KHL
+
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+
+#EXTINF:-1 group-title="Спорт",KHL Prime
+
+#EXTINF:-1 group-title="Спорт",KHL Prime HD
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорт",Футбол
+
+#EXTINF:-1 group-title="Спорт",Мир баскетбола
+
+#EXTINF:-1 group-title="Спорт",Волейбол
+
+#EXTINF:-1 group-title="Спорт",Конный мир
+
+#EXTINF:-1 group-title="Спорт",Extreme sports
+
+#EXTINF:-1 group-title="Спорт",Танцуй!
+
+#EXTINF:-1 group-title="Спорт",Игра
+
+#EXTINF:-1 group-title="Спорт",Сила
+
+#EXTINF:-1 group-title="Спорт",Большой эфир
+
+#EXTINF:-1 group-title="Спорт",Поединок
+
+#EXTINF:-1 group-title="Спорт",Тонус ТВ
+
+#EXTINF:-1 group-title="Спорт",Хоккей ТВ
+
+#EXTINF:-1 group-title="Спорт",ТВ Спорт
+
+#EXTINF:-1 group-title="Спорт",Спортмастер ТВ
+
+#EXTINF:-1 group-title="Спорт",Мяч
+
+#EXTINF:-1 group-title="Спорт",Старт
+
+#EXTINF:-1 group-title="Спорт",Старт Триумф
+
+#EXTINF:-1 group-title="Спорт",M-1 Global
+
+#EXTINF:-1 group-title="Спорт",Russian Extreme HD
+
+#EXTINF:-1 group-title="Спорт",БОКС ТВ
+
+#EXTINF:-1 group-title="Спорт",БОКС ТВ HD
+
+#EXTINF:-1 group-title="Спорт",Trace Sport Start
+
+#EXTINF:-1 group-title="Спорт",Turbo Sports Network
+
+#EXTINF:-1 group-title="Спорт",Удар ТВ
+
+#EXTINF:-1 group-title="Спорт",Fast & FunBox
+
+#EXTINF:-1 group-title="Спорт",FightBox
+
+#EXTINF:-1 group-title="Спорт",
+
+#EXTINF:-1 group-title="Спорт",
