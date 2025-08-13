@@ -45,6 +45,39 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="MUZ-TV" group-title="Общероссийские",Муз-ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="1-TV-HD" group-title="Общероссийские",Первый канал HD
+http://178.219.160.169:8880/164/index.m3u8
+#EXTINF:-1 tvg-id="RUS-1-HD" group-title="Эфирные", Россия 1 HD
+http://178.219.160.169:8880/165/index.m3u8
+#EXTINF:-1 tvg-id="NTV-HD" group-title="Общероссийские",НТВ HD
+http://178.219.160.169:8880/185/index.m3u8
+#EXTINF:-1 tvg-id="5-TV-HD" group-title="Общероссийские",Пятый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/QxuVcmZg2fhe_72zK43W8A,1755154635/streaming/5kanalott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="OTR-HD" group-title="Общероссийские",Общественное телевидение России (ОТР) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/1y8Ich57CyRRDTSzAjKn1Q,1755154635/streaming/otr/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV-CENTER-HD" group-title="Общероссийские",ТВ Центр HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/6SG3LzAK0Xswz7bYAUd2qg,1755154635/streaming/tvc/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="REN-TV-HD" group-title="Общероссийские",РЕН ТВ HD
+http://178.219.160.169:8880/203/index.m3u8
+#EXTINF:-1 tvg-id="STS-HD" group-title="Общероссийские",СТС HD
+http://178.219.160.169:8880/184/index.m3u8
+#EXTINF:-1 tvg-id="DOM-HD" group-title="Общероссийские",Домашний HD
+http://178.219.160.169:8880/142/index.m3u8
+#EXTINF:-1 tvg-id="TV3-HD" group-title="Общероссийские",ТВ3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/ftysdS-XgWZUHPwMi2gmBw,1755154635/streaming/tv3ott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="FRIDAY-HD" group-title="Общероссийские",Пятница HD
+http://178.219.160.169:8880/152/index.m3u8
+#EXTINF:-1 tvg-id="ZVEZDA-HD" group-title="Общероссийские",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Mir-HD" group-title="Общероссийские",Мир HD
+http://178.219.160.169:8880/18/index.m3u8
+#EXTINF:-1 tvg-id="TNT-HD" group-title="Общероссийские",ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/_smB1hR1n-q7uyYKMiBjVw,1755154635/streaming/tntott/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Региональные",Крым 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
@@ -733,8 +766,6 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u
 #EXTINF:-1 group-title="Познавательное",РЖД
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/mtZBMV3aWR8agb6zNDYxRg,1755154637/streaming/rjd/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательное",
-
 #EXTINF:-1 group-title="Познавательное",Зал суда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/P_LgfcgW1Y0WtxcFMdekUg,1755154637/streaming/zal_suda/324/1/tracks-v5a1/mono.m3u8
