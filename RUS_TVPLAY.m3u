@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz; https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
-#EXTM3U x-tvg-url="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz; http://epg.one/epg2.xml.gz"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG"; "http://epg.one/epg2.xml.gz"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG"; "http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Инфоканал
 
