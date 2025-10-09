@@ -1,10 +1,16 @@
 # Arrow-IPTV
+IPTV плейлисты для тех, кто хочет стабильный плейлист для комфортного просмотра.
 
-Рабочие IPTV для тех кто хочет насладиться телевидением
+На одном из наших плейлистов скоро будет на собственный инфоканал (типо как у триколора тв, но по другому).
+
+три APK файла на андроид и тв вы найдёте на разделе Release.
+
+EPG:https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz
+https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz
 
 IPTV PLAYER
 На SMART TV: SS IPTV.
-На ANDROID и TV: TELEVIZO или тот плеер, который вам нравится.
+На ANDROID и TV: TELEVIZO, IPTV PLAYER, TIVIMATE.
 На IPHONE: Неизвестно.
 
 Инструкция:
