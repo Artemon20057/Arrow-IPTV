@@ -135,15 +135,15 @@ http://178.217.72.66:8080/Match_Arena_HD/index.m3u8
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 tvg-id="match-boets" group-title="Спорт",Матч! Боец HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/o8oDTqBb_nFJXM5P5RHTOQ,1755154638/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/eg1gZTaaJ_gfdWHf8koYJw,1755154638/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Спорт",Матч! Игра HD
 http://178.217.72.66:8080/Match_Igra_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/lq0akkV-shaXdXbj1vRDKQ,1755154638/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Спорт",Матч Страна HD
 
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
