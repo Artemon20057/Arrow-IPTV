@@ -1,50 +1,50 @@
-#EXTM3U x-tvg-url="https://iptvx.one/EPG"; http://epg.one/epg2.xml.gz"
-#EXTM3U x-tvg-url="https://iptvx.one/EPG"; http://epg.one/epg2.xml.gz"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz"; "https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz"
+#EXTM3U x-tvg-url="="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz"; "https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz"
 
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Инфоканал
 
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 tvg-id="1-TV" group-title="Общероссийские",Первый канал
-
+http://46.8.46.14/1/index.m3u8
 #EXTINF:-1 tvg-id="RUS-1" group-title="Общероссийские", Россия 1
-
+http://46.8.46.14/1/index.m3u8
 #EXTINF:-1 tvg-id="MATCH!" group-title="Общероссийские",Матч ТВ
-
+http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDE3MjI1OSwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTY3NDU5LCJzZXNzaW9uX2lkIjoiNWY1OTdkMjI2OWVkMTY3NzNkNjg4MjczOGJjNWI0NzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JM_ZWU0L4wGq1NypZ-QSxFC5DOdRPkfYJZ1KvZAB9zA
 #EXTINF:-1 tvg-id="NTV" group-title="Общероссийские",НТВ
-
+http://46.8.46.14/ntv/index.m3u8
 #EXTINF:-1 tvg-id="5-TV" group-title="Общероссийские",Пятый канал
-
+http://46.8.46.14/5ch/index.m3u8
 #EXTINF:-1 tvg-id="RUS-K" group-title="Общероссийские",Россия Культура
-
+http://213.252.199.137:8000/play/ch313_Rossiya_K/index.m3u8
 #EXTINF:-1 tvg-id="RUS-24" group-title="Общероссийские",Россия 24
-
+http://213.252.199.137:8000/play/ch306_Rossiya_24/index.m3u8
 #EXTINF:-1 tvg-id="Karousel" group-title="Общероссийские",Карусель
-
+http://213.252.199.137:8000/play/ch310_Karusel/index.m3u8
 #EXTINF:-1 tvg-id="OTR-TV" group-title="Общероссийские",Общественное телевидение России (ОТР)
-
+http://185.46.16.239:8000/OTR
 #EXTINF:-1 tvg-id="TV-CENTER" group-title="Общероссийские",ТВ Центр
-
+http://213.252.199.137:8000/play/ch308_TV_Tsentr/index.m3u8
 #EXTINF:-1 tvg-id="REN-TV" group-title="Общероссийские",РЕН ТВ
-
+http://213.252.199.137:8000/play/ch341_REN_TV/index.m3u8
 #EXTINF:-1 tvg-id="SPAS" group-title="Общероссийские",Спас
-
+http://185.46.16.239:8000/Spas
 #EXTINF:-1 tvg-id="STS" group-title="Общероссийские",СТС
-
+http://185.46.16.239:8000/STS
 #EXTINF:-1 tvg-id="DOM-TV" group-title="Общероссийские",Домашний
-
+http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 tvg-id="TV3" group-title="Общероссийские",ТВ3
-
+http://185.46.16.239:8000/TV3
 #EXTINF:-1 tvg-id="FRIDAY-TV" group-title="Общероссийские",Пятница
-
+http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 tvg-id="ZVEZDA" group-title="Общероссийские",Звезда
-
+http://185.46.16.239:8000/Zvezda
 #EXTINF:-1 tvg-id="Mir" group-title="Общероссийские",Мир
-
+http://46.8.46.14/mir/index.m3u8
 #EXTINF:-1 tvg-id="TNT" group-title="Общероссийские",ТНТ
-
+http://46.8.46.14/tnt/index.m3u8
 #EXTINF:-1 tvg-id="MUZ-TV" group-title="Общероссийские",Муз-ТВ
-
+http://185.46.16.239:8000/Muz_TV
 
 #EXTINF:-1 group-title="Региональные",Крым 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
