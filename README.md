@@ -8,8 +8,8 @@ IPTV плейлисты для тех, кто хочет стабильный п
 EPG:https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz
 https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz
 
-https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz
-http://epg.iptvx.tv/xmltv.xml.gz
+https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz,http://epg.iptvx.tv/xmltv.xml.gz
+https://iptvx.one/EPG_NOARCH,https://github.com/iptv-org/epg
 
 IPTV PLAYER
 На SMART TV: SS IPTV.
