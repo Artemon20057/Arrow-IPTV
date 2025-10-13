@@ -20,25 +20,25 @@ http://213.252.199.137:8000/play/ch313_Rossiya_K/index.m3u8
 #EXTINF:-1 tvg-id="RUS-24" group-title="Общероссийские",Россия 24
 http://213.252.199.137:8000/play/ch306_Rossiya_24/index.m3u8
 #EXTINF:-1 tvg-id="Karousel" group-title="Общероссийские",Карусель
-http://213.252.199.137:8000/play/ch310_Karusel/index.m3u8
+http://46.8.46.14/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="OTR-TV" group-title="Общероссийские",Общественное телевидение России (ОТР)
-http://185.46.16.239:8000/OTR
+http://46.8.46.14/otr/index.m3u8
 #EXTINF:-1 tvg-id="TV-CENTER" group-title="Общероссийские",ТВ Центр
-http://213.252.199.137:8000/play/ch308_TV_Tsentr/index.m3u8
+http://46.8.46.14/TVCenter/index.m3u8
 #EXTINF:-1 tvg-id="REN-TV" group-title="Общероссийские",РЕН ТВ
-http://213.252.199.137:8000/play/ch341_REN_TV/index.m3u8
+http://46.8.46.14/rentv/index.m3u8
 #EXTINF:-1 tvg-id="SPAS" group-title="Общероссийские",Спас
-http://185.46.16.239:8000/Spas
+http://46.8.46.14/spas/index.m3u8
 #EXTINF:-1 tvg-id="STS" group-title="Общероссийские",СТС
 http://185.46.16.239:8000/STS
 #EXTINF:-1 tvg-id="DOM-TV" group-title="Общероссийские",Домашний
-http://185.46.16.239:8000/Domashniy
+http://46.8.46.14/dom/index.m3u8
 #EXTINF:-1 tvg-id="TV3" group-title="Общероссийские",ТВ3
-http://185.46.16.239:8000/TV3
+http://46.8.46.14/tv3/index.m3u8
 #EXTINF:-1 tvg-id="FRIDAY-TV" group-title="Общероссийские",Пятница
 http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 tvg-id="ZVEZDA" group-title="Общероссийские",Звезда
-http://185.46.16.239:8000/Zvezda
+http://46.8.46.14/zvezda/index.m3u8
 #EXTINF:-1 tvg-id="Mir" group-title="Общероссийские",Мир
 http://46.8.46.14/mir/index.m3u8
 #EXTINF:-1 tvg-id="TNT" group-title="Общероссийские",ТНТ
@@ -449,13 +449,13 @@ http://46.8.46.14/amc/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательное",Nano TV
-http://46.8.46.14/Nano/index.m3u8
+
 #EXTINF:-1 group-title="Познавательное",Первый Космический
 
 #EXTINF:-1 group-title="Познавательное",Моя стихия
 
 #EXTINF:-1 group-title="Познавательное",Приключения
-
+http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Телепутешествия
 
 #EXTINF:-1 group-title="Познавательное",Открытый мир
