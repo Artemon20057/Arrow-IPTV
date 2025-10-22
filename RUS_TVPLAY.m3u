@@ -6,43 +6,43 @@
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 tvg-id="1-TV" group-title="Общероссийские",Первый канал
-http://46.8.46.14/1HD/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="RUS-1" group-title="Общероссийские", Россия 1
-http://46.8.46.14/ros1/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ROSSIA1.m3u8
 #EXTINF:-1 tvg-id="MATCH!" group-title="Общероссийские",Матч ТВ
-http://185.46.16.239:8000/Match_TV
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_MATCHTV.m3u8
 #EXTINF:-1 tvg-id="NTV" group-title="Общероссийские",НТВ
-http://46.8.46.14/ntv/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="5-TV" group-title="Общероссийские",Пятый канал
-http://46.8.46.14/5ch/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_5TV.m3u8
 #EXTINF:-1 tvg-id="RUS-K" group-title="Общероссийские",Россия Культура
-http://213.252.199.137:8000/play/ch313_Rossiya_K/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ROSSIAK.m3u8
 #EXTINF:-1 tvg-id="RUS-24" group-title="Общероссийские",Россия 24
-http://213.252.199.137:8000/play/ch306_Rossiya_24/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ROSSIA24.m3u8
 #EXTINF:-1 tvg-id="Karousel" group-title="Общероссийские",Карусель
-http://46.8.46.14/Karusel/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_KARUSEL.m3u8
 #EXTINF:-1 tvg-id="OTR-TV" group-title="Общероссийские",Общественное телевидение России (ОТР)
-http://46.8.46.14/otr/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_OTR.m3u8
 #EXTINF:-1 tvg-id="TV-CENTER" group-title="Общероссийские",ТВ Центр
-http://46.8.46.14/TVCenter/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_TVC.m3u8
 #EXTINF:-1 tvg-id="REN-TV" group-title="Общероссийские",РЕН ТВ
-http://46.8.46.14/rentv/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_RENTV.m3u8
 #EXTINF:-1 tvg-id="SPAS" group-title="Общероссийские",Спас
 http://46.8.46.14/spas/index.m3u8
 #EXTINF:-1 tvg-id="STS" group-title="Общероссийские",СТС
-http://185.46.16.239:8000/STS
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_STS.m3u8
 #EXTINF:-1 tvg-id="DOM-TV" group-title="Общероссийские",Домашний
-http://46.8.46.14/dom/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-id="TV3" group-title="Общероссийские",ТВ3
-http://46.8.46.14/tv3/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_TV3.m3u8
 #EXTINF:-1 tvg-id="FRIDAY-TV" group-title="Общероссийские",Пятница
-http://185.46.16.239:8000/Pyatnitsa
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="ZVEZDA" group-title="Общероссийские",Звезда
-http://46.8.46.14/zvezda/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ZVEZDA.m3u8
 #EXTINF:-1 tvg-id="Mir" group-title="Общероссийские",Мир
-http://46.8.46.14/mir/index.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT" group-title="Общероссийские",ТНТ
-http://46.8.46.14/tnt/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="MUZ-TV" group-title="Общероссийские",Муз-ТВ
 http://185.46.16.239:8000/Muz_TV
 
@@ -132,20 +132,11 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-arena-HD" group-title="Спорт",Матч! Арена HD
 http://178.217.72.66:8080/Match_Arena_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
-http://87.120.142.11:18000/Match!
-#EXTINF:-1 tvg-id="match-boets" group-title="Спорт",Матч! Боец HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://192.162.64.99:5000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-http://178.217.72.66:8080/Match_Igra_HD/index.m3u8
+http://192.162.64.99:5000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
-#EXTINF:-1 group-title="Спорт",Матч Страна HD
-
+http://192.162.64.99:5000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="Спорт", Матч Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
@@ -155,28 +146,21 @@ http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч Футбол 1
 http://193.111.244.35:7474/matchfut1hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://193.111.244.35:7474/matchfutbol2/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://192.162.64.99:5000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
-
-#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
-
+http://iptv46.mcx-ix.ru:8077/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
-
-#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
-
+http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Viju+ Sport
-http://46.8.46.14/viasport/index.m3u8
+http://iptv46.mcx-ix.ru:8077/ViasatSportHD/index.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
 http://192.162.64.99:5200/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спорт",КХЛ Prime
@@ -190,8 +174,6 @@ http://192.162.64.99:5000/play/a03h/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Extreme sports
-
 #EXTINF:-1 group-title="Спорт",Танцуй!
 
 #EXTINF:-1 group-title="Спорт",Игра
@@ -213,7 +195,7 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Мяч
 
 #EXTINF:-1 group-title="Спорт",Старт
-
+http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Старт Триумф
 
 #EXTINF:-1 group-title="Спорт",MMA-TV.COM
@@ -221,14 +203,11 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Russian Extreme HD
 
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
-
-#EXTINF:-1 group-title="Спорт",БОКС ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://109.75.59.241:8017/Boks/index.m3u8
 #EXTINF:-1 group-title="Спорт",Trace Sport Start
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Спорт",UDAR
-
+http://109.75.59.241:8017/Udar/index.m3u8
 #EXTINF:-1 group-title="Спорт",Extreme Sports
 http://192.162.64.99:5000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="Спорт",Fast & FunBox
@@ -449,7 +428,7 @@ http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 http://46.8.46.14/amc/index.m3u8
 
 #EXTINF:-1 group-title="Познавательное",Nano TV
-
+http://iptv46.mcx-ix.ru:8077/nano-tv/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый Космический
 
 #EXTINF:-1 group-title="Познавательное",Моя стихия
@@ -457,7 +436,7 @@ http://46.8.46.14/amc/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Приключения
 http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Телепутешествия
-
+http://iptv46.mcx-ix.ru:8077/teletravel_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Открытый мир
 
 #EXTINF:-1 group-title="Познавательное",Мир вокруг
@@ -475,20 +454,20 @@ http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 group-title="Познавательное",Travel Channel
-
+http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",МЫ
 http://192.162.64.99:5200/play/a032/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Точка.РФ
 
 #EXTINF:-1 group-title="Познавательное",Поехали!
-
+http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Техно 24
-
+http://iptv46.mcx-ix.ru:8077/t24/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ZооПарк
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 group-title="Познавательное",История
-
+http://iptv46.mcx-ix.ru:8077/istoriya/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Моя Планета
 http://192.162.64.99:5000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Живая Планета
@@ -506,6 +485,8 @@ http://46.8.46.14/Oruzhie/index.m3u8
 
 #EXTINF:-1 group-title="Познавательное",ЦТВ
 
+#EXTINF:-1 group-title="Познавательное",Психология 21
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTkyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE4MSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxOTIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Глазами туриста
 http://192.162.64.99:5200/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG TV
@@ -551,9 +532,11 @@ http://192.162.64.99:5200/play/a035/index.m3u8
 #EXTINF:-1 group-title="Познавательное",National Geographic
 http://46.8.46.14/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Nat Geo Wild
-
+http://iptv46.mcx-ix.ru:8077/natgeo_wild_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery channel
 http://213.252.199.137:8000/play/ch336_Diskoveri_kanal_Rossiya_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery channel HD
+http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Investigation Discovery
 http://46.8.46.14/id/index.m3u8
 #EXTINF:-1 group-title="Познавательное",History
@@ -569,12 +552,13 @@ http://192.162.64.99:5200/play/a017/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra
 http://192.162.64.99:5000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://iptv46.mcx-ix.ru:8077/natgeo_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Big Planet
 http://213.252.199.137:8000/play/ch358_Nat_Geo_Wild_RU/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Animal Planet
 http://213.252.199.137:8000/play/ch335_Animal_Planet_Rossiya/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Animal Planet HD
+http://iptv46.mcx-ix.ru:8077/AnimalPlanetRussiaHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Терра Инкогнита
 
 #EXTINF:-1 group-title="Познавательное",Curiosity Stream
@@ -582,10 +566,12 @@ http://213.252.199.137:8000/play/ch335_Animal_Planet_Rossiya/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ВКУС
 http://192.162.64.99:5200/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Ocean TV
-
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDY5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjY3IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwNjkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Вопросы и ответы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
+#EXTINF:-1 group-title="Познавательное",Кто есть кто
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTA1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEwMSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxMDUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",#КтоКуда
 
 #EXTINF:-1 group-title="Познавательное",ТБВ
@@ -602,9 +588,9 @@ http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Доктор
 http://46.8.46.14/doktor/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Домашние животные
-
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDgxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6Ijc5IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwODEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",В мире животных
-
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDU2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjM4OSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Лапки Live
 
 #EXTINF:-1 group-title="Познавательное",Бобёр
@@ -623,12 +609,8 @@ http://46.8.46.14/usadba/index.m3u8
 
 #EXTINF:-1 group-title="Познавательное",Загородный Int
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Усадьба
-
-#EXTINF:-1 group-title="Познавательное",Кто есть кто
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Психология 21
-
+#EXTINF:-1 group-title="Познавательное",Усадьба
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDE3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE3IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwMTcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикий
 
 #EXTINF:-1 group-title="Познавательное",Дикая охота
