@@ -240,59 +240,42 @@ http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Родное кино
 http://46.8.46.14/retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Премиальное
-http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Премиальное (+4)
-https://stream-msk-06.ott.tricolor.tv/dtv/id603_MSKSG-PVR-1--Premialnoe_HD_4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Остросюжетное
-https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Шокирующее
-http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+http://178.217.72.72/kinopremium/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Комедийное
-http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+http://178.217.72.72/komediynoe/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Романтичное
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Душевное
-http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 group-title="Кино и сериалы",Наше
-https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Любимое
-https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Криминальное
-http://stream-msk-14.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Лавстори
-https://stream-msk-14.ott.tricolor.tv/dtv/id931_MSKSG-PVR-1--Lovestory/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+http://217.25.80.16/nashe_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Камеди
-http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/xqVaK57_jaeV1ynvKRBdhw,1761551513/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Хит
-http://stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1--Hit_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/gYksggPZzyiK0Hcami4m9w,1761551513/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Про Любовь
-http://stream-msk-12.ott.tricolor.tv/dtv/id647_MSKSG-PVR-1--Pro_Love_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Pyq8_pxxBAglaR0w2bRftg,1761551513/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Scream
-http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",Блокбастер
-http://stream-msk-10.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",Наш Кинопоказ
-http://stream-msk-14.ott.tricolor.tv/dtv/id646_MSKSG-PVR-1--Nash_kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+http://217.25.80.16/nash_kinopokaz_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Наше Мужское
-http://stream-msk-07.ott.tricolor.tv/dtv/id643_MSKSG-PVR-1--Nashe_Muzhskoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",KION Хит
-https://stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",Кинопоказ
-https://stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1--Kinopokaz/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Кинопоказ HD
-http://stream-msk-12.ott.tricolor.tv/dtv/id652_MSKSG-PVR-1--Kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+http://178.217.72.72/kinopokazhd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Комедия
 http://192.162.64.99:5100/play/a02k/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киносат
-
-#EXTINF:-1 group-title="Кино и сериалы",Патриот
-https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 group-title="Кино и сериалы",Кинеко
 http://192.162.64.99:5100/play/a02g/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Сапфир
 http://192.162.64.99:5100/play/a028/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дорама
-http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Saga TV
@@ -300,11 +283,11 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кино ТВ
 http://46.8.46.14/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Kinojam 1
-http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",Kinojam 2
-http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",DetectiveJam
-https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 group-title="Кино и сериалы",Start Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Start World
@@ -347,8 +330,8 @@ http://91.194.191.241:8081/chid70/mono.m3u8
 http://91.194.191.241:8081/chid413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",FilmBox ArtHouse
-
+#EXTINF:-1 group-title="Кино и сериалы",FilmBox ArtHouse
+http://217.25.80.16/FilmBOX_Arthouse/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Timeless Dizi Channel
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Индия
@@ -359,13 +342,6 @@ http://46.8.46.14/FOX/index.m3u8
 http://213.252.199.137:8000/play/ch319_Fox__hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 http://188.190.222.53/Mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Советская киноклассика
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 group-title="Кино и сериалы",Госфильмофонд. Машина времени
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/6QxMAf1BMQEn0728ZExEhQ,1760562047/streaming/car_is_vermen/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ph4.ru/DL/LOGO/m/movie_classic.gif" tvg-id="no_epg_cinema" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Movie Classic
-http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2MDA3ODAsImlhdCI6MTc2MDUxNDM4MCwiY2lkIjo2LCJ1aWQiOjk1NDI0NTE1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Xx_n-98e9blMj_fR-0-i6HT7YmmGNHoJXKyErB2YytQ&offset=3
 #EXTINF:-1 group-title="Кино и сериалы",TV21
 http://46.8.46.14/TV21/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Plan B
@@ -376,22 +352,20 @@ http://46.8.46.14/paramountcomedy/index.m3u8
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",День Победы
-http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+http://217.25.80.16/Den_pobedy_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НCТ
 http://46.8.46.14/nst/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",FlixSnip
-http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 group-title="Кино и сериалы",Shot TV
 http://192.162.64.99:5100/play/a02y/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Trash TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/3oyAN1ivDagHlvgoQtD52Q,1761551513/streaming/trash/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино
 http://46.8.46.14/domkino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино Премиум
-
+http://217.25.80.16/Dom_Kino_Premium_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Русский роман
 http://46.8.46.14/ruroman/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Русский бестселлер
@@ -405,7 +379,7 @@ http://217.21.34.160:38003/illuzionplus/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",FAN
 http://46.8.46.14/FAN/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Советская киноклассика
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Еврокино
 http://46.8.46.14/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Мир сериала
@@ -423,49 +397,46 @@ http://192.162.64.99:5100/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Ретро ТВ
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Bollywood
-
+http://217.25.80.16/Bollywood_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
 http://46.8.46.14/amc/index.m3u8
 
 #EXTINF:-1 group-title="Познавательное",Nano TV
-http://iptv46.mcx-ix.ru:8077/nano-tv/index.m3u8
+http://178.217.72.72/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый Космический
-
+http://91.194.191.241:8081/chid427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Моя стихия
-
+http://91.194.191.241:8081/chid430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Приключения
 http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Телепутешествия
 http://iptv46.mcx-ix.ru:8077/teletravel_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Открытый мир
-
-#EXTINF:-1 group-title="Познавательное",Мир вокруг
-
+https://mhd128.iptv2022.com/p/ouo8FmJhtEYA_n0s0ZsWxw,1761551514/streaming/openmir/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Неизвестная россия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",TVM Channel
-
+https://mhd128.iptv2022.com/p/glAR7KzS-u2y7eVN0GVrGA,1761551513/streaming/tvm-tv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Travel+Adventure
-
+http://91.194.191.241:8081/chid418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",TravelXP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/X26CbM3q6dXNCHkjvLVNJA,1761551514/streaming/travelxp/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Travel Channel
 http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",МЫ
 http://192.162.64.99:5200/play/a032/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Точка.РФ
-
+http://217.25.80.16/HD_Life/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Поехали!
 http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Техно 24
 http://iptv46.mcx-ix.ru:8077/t24/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ZооПарк
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://217.25.80.16/Zoopark/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",История
 http://iptv46.mcx-ix.ru:8077/istoriya/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Моя Планета
@@ -473,18 +444,18 @@ http://192.162.64.99:5000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Живая Планета
 http://192.162.64.99:5000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Живая Природа
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://178.212.71.253:8002/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Точка отрыва
 http://192.162.64.99:5000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Арсенал
-
+http://217.25.80.16/arsenal_hd/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Оружие
 http://46.8.46.14/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый вегетарианский
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/XsJHUIkcDLOTYYh15nejpA,1761551513/streaming/firstvegan/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ЦТВ
-
+http://91.194.191.241:8081/chid123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Психология 21
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTkyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE4MSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxOTIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Глазами туриста
@@ -493,12 +464,8 @@ http://192.162.64.99:5200/play/a01a/index.m3u8
 http://46.8.46.14/rutravel/index.m3u8
 #EXTINF:-1 group-title="Познавательное",RTG HD
 http://31.148.48.15/RTG_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательное",RTG Int
-
 #EXTINF:-1 group-title="Познавательное",Зоо ТВ
-
-#EXTINF:-1 group-title="Познавательное",ЗооПарк
-
+http://178.217.72.72/zootv/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Совершенно секретно
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
@@ -513,8 +480,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательное",Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",ЕГЭ ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://91.194.191.241:8081/chid138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Explore
 http://192.162.64.99:5000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju History
@@ -525,10 +491,11 @@ http://192.162.64.99:5000/play/a02p/index.m3u8
 http://192.162.64.99:5000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Тайны Галактики
 http://192.162.64.99:5200/play/a035/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Тайна
-
+#EXTINF:-1 group-title="Познавательное",Тайна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/bSP1ikU4y5sC9RK-72a8GQ,1761551513/streaming/taina/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Плюс Минус 16
-
+https://rutube.ru/video/99d4597cea881a27cf7dd6e65a74dade/?r=plwd
 #EXTINF:-1 group-title="Познавательное",National Geographic
 http://46.8.46.14/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Nat Geo Wild
@@ -540,15 +507,14 @@ http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Investigation Discovery
 http://46.8.46.14/id/index.m3u8
 #EXTINF:-1 group-title="Познавательное",History
-
+http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Insight TV
-
+http://178.217.72.72/insight/index.m3u8
 #EXTINF:-1 group-title="Познавательное",The Explorers
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/buAySnXqtj6Mw2iuzD1b6Q,1761551514/streaming/explorers/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",DocuBox
 http://192.162.64.99:5200/play/a017/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Ep!c
-
 #EXTINF:-1 group-title="Познавательное",Terra
 http://192.162.64.99:5000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra HD
@@ -560,31 +526,31 @@ http://213.252.199.137:8000/play/ch335_Animal_Planet_Rossiya/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
 http://iptv46.mcx-ix.ru:8077/AnimalPlanetRussiaHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Терра Инкогнита
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/f2bu6CpZEK33c02thKPgLA,1761551514/streaming/terra/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Curiosity Stream
-
+http://3.team.ga:80/ch556/index.m3u8?token=rl_mig00.v2_UfpeCh_55AI7ZBZOKzBPoWPeep7cg3dUU-ZyxXZ-LyFf3sg8nDDEgT_bFfY47b8VB7tSzhM0120x
 #EXTINF:-1 group-title="Познавательное",ВКУС
 http://192.162.64.99:5200/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Ocean TV
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDY5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjY3IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwNjkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Вопросы и ответы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Кто есть кто
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTA1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEwMSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxMDUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",#КтоКуда
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/4atJJEH3_1zdxnIjaNTtSA,1761551514/streaming/whoiswho/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 " group-title="Познавательное",#КтоКуда
+http://217.25.80.16/Mir_Uvlecenii/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",ТБВ
 http://95.47.156.60:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Здоровье
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/MmnuRe2wrLpEhnZZOzETRA,1761551513/streaming/zdrav/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Живи активно
-
-#EXTINF:-1 group-title="Познавательное",Эра
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/h48QRYEDglXT0pQauEYqMg,1761551513/streaming/zhivi_aktivno/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Доктор
 http://46.8.46.14/doktor/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Домашние животные
@@ -592,56 +558,55 @@ http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDgxL
 #EXTINF:-1 group-title="Познавательное",В мире животных
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDU2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjM4OSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Лапки Live
-
+http://50.7.28.226/8551/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Бобёр
 #EXTVLCOPT:http-referrer=https://bober.ru
 https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1 group-title="Познавательное",360°
-
+http://217.25.80.16/Telekanal_360/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",365 дней ТВ
-
+http://146.120.14.239:3001/play/a07m
 #EXTINF:-1 group-title="Познавательное",Ратник
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Загородная жизнь
 http://46.8.46.14/usadba/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Загородный
-
-#EXTINF:-1 group-title="Познавательное",Загородный Int
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/82lKteonXY79e-HnoWFg6w,1761551514/streaming/country/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Усадьба
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDE3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE3IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwMTcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикий
-
+http://139.28.255.188:8080/Dikij/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикая охота
-http://192.162.64.99:5000/play/a03a/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/XOUiYCB9RI9JhUkRZ8mfCw,1761551513/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикая рыбалка
-http://192.162.64.99:5000/play/a039/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/vWzylqlyVycvXUKduTLPXA,1761551513/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и рыболов HD
 http://46.8.46.14/ohota/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Охотник и Рыболов Int
-
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
 http://192.162.64.99:5000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Охота и Рыбалка
 http://192.162.64.99:5000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Рыболов
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/9sxT__zpzu5-4rlFPpSO_w,1761551513/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Наша тема
 http://192.162.64.99:5000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Наука
 http://46.8.46.14/nauka/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Наука 2.0
-
+http://217.25.80.16/Nauka_2_0/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",РЖД
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/14zEW0EKQlwS1VpfuMfw4w,1761551514/streaming/rjd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Зал суда
 http://192.162.64.99:5000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Авто Плюс
 http://46.8.46.14/avtoplus/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Авто 24
-
+http://217.25.80.16/Avto24/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Драйв
 http://46.8.46.14/Drive/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Доктор
@@ -650,64 +615,54 @@ http://46.8.46.14/doktor/index.m3u8
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательное",Суббота!
-http://46.8.46.14/super/index.m3u8
-#EXTINF:-1 group-title="Развлекательное",Суббота! HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://217.25.80.16/Subbota/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Че!
-http://46.8.46.14/che/index.m3u8
-#EXTINF:-1 group-title="Развлекательное",Перец
-
+http://iptv46.mcx-ix.ru:8077/che/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",СТС Love
-
+http://217.25.80.16/STS_Love/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",ТНТ4
-
-#EXTINF:-1 group-title="Развлекательное",ТНТ4 HD
-
+http://217.25.80.16/TNT4/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Ю ТВ
-
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлекательное",8 Канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+\http://217.25.80.16/8_Kanal/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",СРЕДА
-
+http://50.7.28.226/8295/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",RUTUBE TV
-
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=WGqMQwrRc1QaC-RTWKnKKg&e=1761551524&scheme=https
 #EXTINF:-1 group-title="Развлекательное",Gags Network
 http://192.162.64.99:5000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Время
-
+http://217.25.80.16/VREMA/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Телекафе
 http://46.8.46.14/telecafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Союз
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://217.25.80.16/Souz/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",МузСоюз
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://139.28.255.188:8080/muzsojuz/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 group-title="Развлекательное",Эх!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
 #EXTINF:-1 group-title="Развлекательное",Ностальгия
-
+http://87.76.32.36:8001/nostalgiya
 #EXTINF:-1 group-title="Развлекательное",Театр
 http://46.8.46.14/Teatr/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",E TV
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/k3LqGy__mOK77SC039HOig,1761551514/streaming/etv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Калейдоскоп ТВ
-
+http://iptv46.mcx-ix.ru:8077/kaleydoskop/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Сарафан
 http://192.162.64.99:5000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Анекдот ТВ
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/VOCMR3yiW7rXAy-nSTix7w,1761551514/streaming/anekdot/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Живи
 http://46.8.46.14/zhivi/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Точка ТВ
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/KbgM1yhCjgzEuD6fm_KVcw,1761551514/streaming/tochka/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Успех
 http://46.8.46.14/uspeh/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Москва. Доверие
@@ -728,32 +683,38 @@ http://192.162.64.99:5000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",КВН ТВ
 http://46.8.46.14/kvn/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Теледом
-
+http://217.25.80.16/teledom_hd/mono.m3u8
+#EXTINF:-1 group-title="Развлекательное",Твоё ТВ
+http://50.7.28.226/9236/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Твоё ТВ Юмор
-
+http://50.7.28.226/9246/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Аппетитный
-
+http://178.217.72.72/Morskoy/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Arirang TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/o8KtM-BdwXgK2gZwhb7BRQ,1761551514/streaming/arirang/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",КУХНЯ-ТВ
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",FoodTime
-
+http://217.25.80.16/Eda_HD/mono.m3u8
+#EXTINF:-1 group-title="Развлекательное",FoodNetwork
+http://178.217.72.72/food_network/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Еда
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/iuRMdghMOG9H_aRLF8NhEg,1761551513/streaming/eda/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Luxury
 http://46.8.46.14/Luxury/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Women's Magazine
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/XJB51s6V7hPx1X6Oq5e5xw,1761551514/streaming/womens_magazine/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",World Fashion Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/8vgVdJsq-1q7ok_jRht4nQ,1761551514/streaming/world_fashion/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/rXy9JvY1QCYviJ_LyatOuA,1761551514/streaming/fashion/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Leomax +
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательное",Shopping Live
@@ -767,40 +728,175 @@ https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 group-title="Развлекательное",Магнат
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Mayday
+http://3.team.ga:80/ch2313/index.m3u8?token=rl_mig00.v2_f6SzFZz6utRSO_idF0fvWoNMAh2iS7a1SZ4F-L5znHdC0E-vuWbqBPFNwRYakVvsbyA7Ds3-poCQXA
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Memory
+http://3.team.ga:80/ch2294/index.m3u8?token=rl_mig00.v2_lS9lMxoJGMZI5naWRAt_jb-VqXYB19w4VSHWNkSDOQswbk4UTDWJxEuvuhbDXpvSp4N7UkS_gyAc0w
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Stories
+http://3.team.ga:80/ch2303/index.m3u8?token=rl_mig00.v2_CqSQSC5IY1Q6HYKv4to4L9TLaeDnOOi1ZXQvY7ge9XNytjuisXpCZFWKTPZecRpMHFgpw9jJMkEjxA
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Travel
+http://3.team.ga:80/ch2304/index.m3u8?token=rl_mig00.v2_4pKoMwSRzhjhnc17OlkXYVldP8cLHOrye0NGHHU8YTbrnFQ5e1BUJUy943aobUdXji6RLjG4Ytz9Mg
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Travel Premiere
+http://3.team.ga:80/ch2490/index.m3u8?token=rl_mig00.v2_PL8qf0Tb3_AiKDK87Iun-5pu8QL_UXqMRLDi6sI16kFjlA6njGSsmXlEHDqbm9Jn8mHr4sFnA0JCuA
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Spy
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Zombie
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Gangster
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Serial
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Action
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Catastrophe
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Comedy
+http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Fantastic
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Romantic
+http://178.217.72.72/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Stars
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU VHS
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Kinorating
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Action
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Comedy
+http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Marvel
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Melodrama
+http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Thriller
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Top
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan VHS
+http://178.217.72.72/CineMan_VHS/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Симпсоны
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Air Crash
+http://3.team.ga:80/ch2924/index.m3u8?token=rl_mig00.v2_qPoDqn-HAxUoHaxU5DbUbn01sX8pmVY-W0DVDQRk6HnTOFF2ieuOLFK8UN8OkoZ0EVdmXt9uMl-Dhg
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Honey
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Драма
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Relax
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Celebrity
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Experiment
+http://3.team.ga:80/ch1952/index.m3u8?token=rl_mig00.v2_o0K2jsDw9_oviT-d6vrkq6N8thapOAtDIVqFUNsCr1h2nv1TrlKGyqReSwPCGcnK209mxDGmLAPx0g
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Live Planet
+http://3.team.ga:80/ch1271/index.m3u8?token=rl_mig00.v2_Y23b1-53YhEsGLG8k7kZetNTocrM_CwajbvUWpm0WmaO0eTl2RHIWCLq9WZDHPmYurlOL9rk4Jtz7Q
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Макромир
+http://3.team.ga:80/ch1586/index.m3u8?token=rl_mig00.v2_oELg8bgI12bxZYUhgmMEcCYh5YEplygF-Vayw98zaO3etaMwzSegCBdfqGBgQ0MJT-yZhjkZ-_Nn5w
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Мегамир
+http://3.team.ga:80/ch1587/index.m3u8?token=rl_mig00.v2_QCrOkZ0VnOUJJXx0u1525a5pG-PwALX1PO0Hm99si5csXrYZSRpGdbbXq8jzrQGybEuWhvZsl25P4A
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Микромир
+http://3.team.ga:80/ch1585/index.m3u8?token=rl_mig00.v2_g3sRJ1uT62D0Em8V8_MP_GTwtk3CJfWnjA4sgu-DsoHzaCSUKSQGhXTyiLpgnDrFo4teT-CCdz7Aeg
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Открытия
+http://3.team.ga:80/ch1955/index.m3u8?token=rl_mig00.v2_g57eMxxMFY0-cE4a5k7rIiTeK-L-sxx2ydOdC4J6cMcizOxn9FeSD2oQK3_CLgfHjMvnIvNjYDWsXQ
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Animals
+http://3.team.ga:80/ch2648/index.m3u8?token=rl_mig00.v2_OH1GjOCFjsCPgmevLqdVfJaoXbXX6j-WVJDws5O9umNrTeXB-0FL4s6fY1bJ1_GgM0I15SuPD5P2Bg
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis RUS Мульт
+http://3.team.ga:80/ch2683/index.m3u8?token=rl_mig00.v2_Aq-wMHrZ7IGY_c1g1wVnmkckimO_o0smHWynuZP1-WYY9hjAFU-RjC9qrrgtNYbw-4vcfbdW4Vpm5w
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Tom And Jerry
+http://3.team.ga:80/ch2693/index.m3u8?token=rl_mig00.v2__5bkMjS8DHiznfwmGF7BIYfjZXlPrjCo-uYKPTaasH4pkr7hM6kiuJqFIxov0wzJeClVq3D09H8ToQ
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Выживание
+http://3.team.ga:80/ch2691/index.m3u8?token=rl_mig00.v2_mTUww9qlKVXT9oD7qGMufsA4ouFM5n7aSalnekrPTWLcg5f9UmRTYJjGq3mU1xNkXKFXv3W5j67JbA
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Выжить Вместе
+http://3.team.ga:80/ch2692/index.m3u8?token=rl_mig00.v2_K5SIZifOx2Hhwuz3LSwVCEK_Oq3Eu9kkbUm9R1pr8gpncM4tP-TysXklvjUdn3zSTBOog5R9T4NJxw
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Лосяш
+http://3.team.ga:80/ch2673/index.m3u8?token=rl_mig00.v2_ce3CA3JP8B89u6blAlmmddc3pJsfoeUyIMvdC-ORwcUaqSOyy90MIU-uka2Sovom3X1B__Mqb1oTlQ
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Наша Планета
+http://3.team.ga:80/ch2679/index.m3u8?token=rl_mig00.v2_wPh3sPv9hox_-RWRRjJCD-slUjNIVni1kChBjp6N0ByShax0V-o-8IhqYCeF9uc_vA6G1FIKynKZxw
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Рыбалка
+http://3.team.ga:80/ch2664/index.m3u8?token=rl_mig00.v2_4iRIXMpKylKMOLbYcRUm_JpP3xMNQlj6tZ4b-1IJ4hy-0g7i5-TghZa6eXNPLYWOOG9VRKMBVrv88w
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Сквидвард
+http://3.team.ga:80/ch2689/index.m3u8?token=rl_mig00.v2_UIjujQYtqIRsmx3SaJf1AbOpwMIFsfN5CXfAb7F4FkR-9-larAV7zkDODqmdj1c8k8HerQRdAP47RA
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Учим Kитайский
+http://3.team.ga:80/ch2670/index.m3u8?token=rl_mig00.v2_jp9poRf8JHgNRxSSUDBEDZKCGSU8uvhYS4WVulUpQlA1_3AcPaLXyYXiVTGa5rCuGA4Men6KDeM8dA
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Учим Английский
+http://3.team.ga:80/ch2671/index.m3u8?token=rl_mig00.v2_YGorfgDCGMBJGink57fPCwLYAvj6RbAr3GebAT7CxauzIaOgXOde_cvbsAceU3gR2yuJ5Ffr2bhwxQ
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Учим Испанский
+http://3.team.ga:80/ch2672/index.m3u8?token=rl_mig00.v2_bKJdddPABrRkDhdatyTi1XawBN_CPlegr1xWhpm7AyUoD-Heq_KUm7YynhyQIJ8zxptzCixKnpFpow
+#EXTINF:-1 group-title="КИНОЗАЛ",Oasis Черепашки Нинзя
+http://3.team.ga:80/ch2917/index.m3u8?token=rl_mig00.v2_vjPTMCApxJj0z_PVVBdKYqduQG_np3-dpJkuGxT_H3nxgJQnhuLCq93AcikMv0sBIFNl12Y-MHTQRw
+#EXTINF:-1 group-title="КИНОЗАЛ",Sky High Brain
+http://3.team.ga:80/ch1984/index.m3u8?token=rl_mig00.v2_Tfx-Abm8pEJSsMADDaszVr_chRxf0-Ire4b5nW-i9CMuu0z-Jl-8KQ_I2dYX7Ks82mk8EwSQ5qXHSA
+#EXTINF:-1 group-title="КИНОЗАЛ",Sky High Doc
+http://3.team.ga:80/ch3180/index.m3u8?token=rl_mig00.v2_4WISjab4qr77_mFovxMjkKdXj2h1hHIif_zkOR73jz0Xpx4XlRQr3ofJwO-lxQM1tefwSY5_oNoNIA
+#EXTINF:-1 group-title="КИНОЗАЛ",Sky High Nature
+http://3.team.ga:80/ch1979/index.m3u8?token=rl_mig00.v2_vUAa8T2LpbpUKqau_jeIKF5RX-LTMppNXDg1XUMeul2oxXNJWpt96AdFq1U8xwhkivCUIGXYpIuzeA
+#EXTINF:-1 group-title="КИНОЗАЛ",Velilla TV Cartoons Disney
+http://3.team.ga:80/ch3153/index.m3u8?token=rl_mig00.v2_A5GzXcF1-m89G6APlcx8NHVswDpJ9pg_IAkQaEwQuyuV0Xm-GB-WWrseyMZh7UwczXN04QtOZZa4yQ
+#EXTINF:-1 group-title="КИНОЗАЛ",Velilla TV Детский
+http://3.team.ga:80/ch718/index.m3u8?token=rl_mig00.v2_rLX2ijDFt93Zyh1Of7qxnYMEAiA-a2Tz6EN0WLS_1k8LSb9_cdelZcKOJwdGJodgHui73cuC1XzS
+#EXTINF:-1 group-title="КИНОЗАЛ",Velilla TV Том и Джерри
+http://3.team.ga:80/ch3154/index.m3u8?token=rl_mig00.v2_oKoBgs8F_vleTf4Rn2XiF7m8gdypqfD-EWIeBjhj078TEm1ikjVyUFADikM_tPu6z03X82bEBY5OXg
+#EXTINF:-1 group-title="КИНОЗАЛ",Yosso TV Nature
+http://3.team.ga:80/ch2604/index.m3u8?token=rl_mig00.v2_7QlmBue4Y5HwI2V19TO91bAzdJPKadj-jQiHPZmQFoKXJDq_mqVi-X8-j-M7FfK6f_Dyqsgh9JoZ6w
+#EXTINF:-1 group-title="КИНОЗАЛ",Yosso TV Science
+http://3.team.ga:80/ch2605/index.m3u8?token=rl_mig00.v2_IBgns1K85X4VOw1yZ-DGdjHGE0Wk291eMnqm2N0MJwIMpFvqxb6549csooraShGvlEJLVW0N8hLayA
+#EXTINF:-1 group-title="КИНОЗАЛ",Yosso TV Travel
+http://3.team.ga:80/ch2606/index.m3u8?token=rl_mig00.v2_qWgkCz15VYX2ozReEhB0dyD4g-xk6GVmaZ0_J3rmyZp4HSGJ3vHZOT8ZdhaA5JYzh7ysrjwnsmgM4A
+#EXTINF:-1 group-title="КИНОЗАЛ",Play-x Космический
+http://3.team.ga:80/ch2264/index.m3u8?token=rl_mig00.v2_MDq6PqZNl9ARP6Ny5HCsoScpQ8R7Uu7a__6QCypYzHD5U4CuqJ9S6PIkH7uQI-rrGwRuwpqXYCCxzw
+#EXTINF:-1 group-title="КИНОЗАЛ",KBC-Сказочное Remake
+http://3.team.ga:80/ch3132/index.m3u8?token=rl_mig00.v2_l1egQJBcsUdzp0E8TpWy0NPHwtsZ3kBYpf7xry9Zidp2qDUfn_ADhkLaTKyBMx3gJ0_vi8pNDBO0kw
+#EXTINF:-1 group-title="КИНОЗАЛ",KBC-Союзмультзал
+http://3.team.ga:80/ch2829/index.m3u8?token=rl_mig00.v2_HoTRlQPQcP9zt8Mr13AVmAxTfAmyLVyOIgomPWprF6-mEN1gIMMSFeD753yQJ6SfligBiE_0Umdpkw
+#EXTINF:-1 group-title="КИНОЗАЛ",Liberty BBC
+http://3.team.ga:80/ch1750/index.m3u8?token=rl_mig00.v2_Lskg-s-rmthZkNcJ1DLCd1ikfg361m5XXXpew60Dy6xvvhrbwPypViXzeJz8_zplJJXsNZgOShI8Jw
+#EXTINF:-1 group-title="КИНОЗАЛ",Liberty Документалка
+http://3.team.ga:80/ch3177/index.m3u8?token=rl_mig00.v2_2qg70wX4HQKh1DbPjinq-h3FyhfnspBie9uZ9UCUEKnqY8KCydt8-qYIiln29owNa5ACDyynbGzs_w
+#EXTINF:-1 group-title="КИНОЗАЛ",Liberty Наука
+http://3.team.ga:80/ch1777/index.m3u8?token=rl_mig00.v2_70PFK1brJOz6ABvDgCzLhrwvutzTHgS8L2tLoNYaRh74G-_Pb-9SH-akpKrMu-QXMiKiq5YHzQCx0A
+#EXTINF:-1 group-title="КИНОЗАЛ",Liberty Планета360
+http://3.team.ga:80/ch1758/index.m3u8?token=rl_mig00.v2_xrRMNxTC1KOtvDu42-SBTmfwzWy3sexVNJy2vdV9ffrle-pQzaLSHzS-Tin_9EuS8BKqTpU2M5guLw
+
 #EXTINF:-1 group-title="Детский",Солнце
-
-#EXTINF:-1 group-title="Детский",Солнце HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://217.25.80.16/Disney_Channel/mono.m3u8
 #EXTINF:-1 group-title="Детский",2x2
 http://46.8.46.14/2x2/index.m3u8
-#EXTINF:-1 group-title="Детский",2x2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
 #EXTINF:-1 group-title="Детский",СТС Kids
-
+http://217.25.80.16/CTC_Kids/mono.m3u8
 #EXTINF:-1 group-title="Детский",СТС Kids HD
-
+http://217.25.80.16/CTC_Kids_HD/mono.m3u8
 #EXTINF:-1 group-title="Детский",Мама
-
+http://217.25.80.16/Mama/mono.m3u8
 #EXTINF:-1 group-title="Детский",Baby Time
-
-#EXTINF:-1 group-title="Детский",Да Винчи
-
+http://91.194.191.241:8081/chid273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",Смайлик ТВ
-
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детский",КАПИТАН ФАНТАСТИКА
-
+http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",КиноМульт
 
 #EXTINF:-1 group-title="Детский",Чижик
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/ufOWJkO-PKV0qdSNQ5pNiQ,1761551513/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",ТипТоп
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/xDRNTrzbyIToeTcTeRSt2g,1761551513/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",О!
-
+http://178.217.72.72/O/index.m3u8
 #EXTINF:-1 group-title="Детский",Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
 #EXTINF:-1 group-title="Детский",Мульт
@@ -814,13 +910,13 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Детский",Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 group-title="Детский",TiJi
-
+http://217.25.80.16/Tiji/mono.m3u8
 #EXTINF:-1 group-title="Детский",JimJam
-
+http://178.217.72.72/JimJam/index.m3u8
 #EXTINF:-1 group-title="Детский",Уникум
 http://46.8.46.14/detskiy/index.m3u8
 #EXTINF:-1 group-title="Детский",СуперГерои
-
+http://178.217.72.72/Malysh/index.m3u8
 #EXTINF:-1 group-title="Детский",Детский Мир
 http://46.8.46.14/detmir/index.m3u8
 #EXTINF:-1 group-title="Детский",Nickelodeon
@@ -828,45 +924,43 @@ http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детский",Nick Jr
 http://46.8.46.14/nickjr/index.m3u8
 #EXTINF:-1 group-title="Детский",Cartoon Classics
-
+http://146.120.14.239:3001/play/a08h
 #EXTINF:-1 group-title="Детский",Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детский",Советские мультфильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/tkLzkKCe0GGQIp6sRYr5mQ,1761551513/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",МУЛЬТИКИ И СКАЗКИ
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 group-title="Детский",Сказки Зайки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/WsVcm_3xM77HXWnQ1nNdaQ,1761551513/streaming/zaj/324/1/index.m3u8
 #EXTINF:-1 group-title="Детский",МультСезон
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
-#EXTINF:-1 group-title="Детский",Лёва
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Duck TV
-
+https://mhd128.iptv2022.com/p/Bmr0tFAE8d6wuox9sdhGVg,1761551513/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Лёва
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE1NTE3OTUsImlhdCI6MTc2MTQ2NTM5NSwiY2lkIjo2LCJ1aWQiOjk1ODUyOTQ3NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.QmvgRKT7Sor8spcnVU3ZhQFYATg4sm2ddO3lPSY2COI&offset=10
 #EXTINF:-1 group-title="Детский",Пингвин ЛОЛО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
-#EXTINF:-1 group-title="Детский",Funny Kids
+https://mhd128.iptv2022.com/p/EuulQWgFjwd1gwI3acplFQ,1761551513/streaming/pingvin/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Детский",Anime Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+https://mhd128.iptv2022.com/p/sZRz4ScAEx67Abav1thNKg,1761551513/streaming/anime_kids/324/1/index.m3u8
 #EXTINF:-1 group-title="Детский",В Гостях у сказки
-
+http://217.25.80.16/V_gostah_u_skazki/mono.m3u8
 #EXTINF:-1 group-title="Детский",Мультиландия
-
+http://91.194.191.241:8081/chid62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",Радость моя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://91.194.191.241:8081/chid42/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",Чип и Дейл
-
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детский",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",Шаян ТВ
-
+http://91.194.191.241:8081/chid286/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",1HD
 
@@ -951,40 +1045,28 @@ https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 
 
 #EXTINF:-1 group-title="Информационные",РБК
-
+http://91.194.191.241:8081/chid46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 group-title="Информационные",Соловьев.Live
-
+http://91.194.191.241:8081/chid38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",Соловьев.Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF:-1 group-title="Информационные",Дума ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
 #EXTINF:-1 group-title="Информационные",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Информационные",RTVi
-
 #EXTINF:-1 group-title="Информационные",RTД
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/yy1ZdNN5PQ0tJNHUblUeNw,1761551515/streaming/rtdhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",RT News
-
-#EXTINF:-1 group-title="Информационные",RT News HD
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Известия HD
+#EXTINF:-1 group-title="Информационные",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",CGTN
-
-#EXTINF:-1 group-title="Информационные",CGTN-Русский
-
-#EXTINF:-1 group-title="Информационные",CCTV4 Europe
-
 #EXTINF:-1 group-title="Информационные",Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Мир 24
@@ -992,9 +1074,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Москва 24
-
+http://217.25.80.16/Moskva_24/mono.m3u8
 #EXTINF:-1 group-title="Информационные",Хабар 24
-
+https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="Информационные",Крым 24
