@@ -200,8 +200,8 @@ http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",MMA-TV.COM
 
-#EXTINF:-1 group-title="Спорт",Russian Extreme HD
-
+#EXTINF:-1 group-title="Спорт",Russian Extreme
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDI2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjI2IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwMjYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
 http://109.75.59.241:8017/Boks/index.m3u8
 #EXTINF:-1 group-title="Спорт",Trace Sport Start
@@ -240,22 +240,32 @@ http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Родное кино
 http://46.8.46.14/retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Премиальное
-http://178.217.72.72/kinopremium/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDI4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjI4IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwMjgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Остросюжетное
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTg0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE3NCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxODQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Душевное
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84Mjk2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjIzNSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgyOTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Любимое
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MzEwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjI0OCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMTAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Шокирующее
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MzIyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjI1NyIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMjIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Комедийное
-http://178.217.72.72/komediynoe/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MzIzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjI1OCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMjMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Романтичное
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Наше
-http://217.25.80.16/nashe_hd/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10621/logo_256_1660892038.png", Наше мужское
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/O-0ISNH1yZdVieMT4SDoTw,1762069836/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Камеди
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/xqVaK57_jaeV1ynvKRBdhw,1761551513/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/rwCWj4olzaCGdp6XhrxuiA,1762069836/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/gYksggPZzyiK0Hcami4m9w,1761551513/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/9zdsdS_YGgQroBEYXrI9YA,1762069836/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Про Любовь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/Pyq8_pxxBAglaR0w2bRftg,1761551513/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/QsdiQpXuu81YOA2aI0RMHQ,1762069836/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Наш Кинопоказ
 http://217.25.80.16/nash_kinopokaz_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинопоказ
@@ -343,7 +353,7 @@ http://46.8.46.14/nst/index.m3u8
 http://192.162.64.99:5100/play/a02y/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Trash TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/3oyAN1ivDagHlvgoQtD52Q,1761551513/streaming/trash/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/KYcizJzNAXPcRaYAUiy93Q,1762069836/streaming/trash/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино
@@ -386,28 +396,31 @@ http://217.25.80.16/Bollywood_HD/mono.m3u8
 http://46.8.46.14/amc/index.m3u8
 
 #EXTINF:-1 group-title="Познавательное",Nano TV
-http://178.217.72.72/NANO_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/WQaVZ_p7BB55oL3ddhGCPw,1762069837/streaming/nano/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый Космический
 http://91.194.191.241:8081/chid427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Моя стихия
 http://91.194.191.241:8081/chid430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Приключения
-http://46.8.46.14/AdventureHD/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Телепутешествия
 http://iptv46.mcx-ix.ru:8077/teletravel_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Телепутешествия
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTgyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE3MiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxODIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Открытый мир
-https://mhd128.iptv2022.com/p/ouo8FmJhtEYA_n0s0ZsWxw,1761551514/streaming/openmir/324/1/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Fq1aG0g-gsnjd67WXVYB6g,1762069837/streaming/openmir/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Неизвестная россия
 http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIAHD.m3u8
 #EXTINF:-1 group-title="Познавательное",TVM Channel
-https://mhd128.iptv2022.com/p/glAR7KzS-u2y7eVN0GVrGA,1761551513/streaming/tvm-tv/324/1/tracks-v5a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/FiXNPv_SdG3syYnXtlLpAw,1762069836/streaming/tvm-tv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Travel+Adventure
 http://91.194.191.241:8081/chid418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",TravelXP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/X26CbM3q6dXNCHkjvLVNJA,1761551514/streaming/travelxp/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/QJ41nkxiZ4qWB6MdB0CfaQ,1762069837/streaming/travelxp/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Travel Channel
 http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",МЫ
@@ -438,7 +451,7 @@ http://217.25.80.16/arsenal_hd/mono.m3u8
 http://46.8.46.14/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый вегетарианский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/XsJHUIkcDLOTYYh15nejpA,1761551513/streaming/firstvegan/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/v0972mxtlxz4PGg_vlcGdA,1762069837/streaming/firstvegan/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ЦТВ
 http://91.194.191.241:8081/chid123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Психология 21
@@ -469,9 +482,9 @@ http://91.194.191.241:8081/chid138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",English Class
 http://3.team.ga:80/ch3053/index.m3u8?token=rl_mig00.v2_Jkz2nuQsbOttD8-udyVSPaUH3UZ8m09qUPEYiQFbMpfSAznt-1FJFFsHOCCjcE8mmFh_l16Gn0082A
 #EXTINF:-1 group-title="Познавательное",Viju Explore
-http://192.162.64.99:5000/play/a02o/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDg1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjgzIiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwODUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju History
-http://192.162.64.99:5000/play/a02r/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDg2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6Ijg0IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwODYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Nature
 http://3.team.ga:80/ch012/index.m3u8?token=rl_mig00.v2_31S5-d2YBmdoGnzzOC20_48vAfkMXzX0QfxoRiMCOH2UKGedODQmq05RBH-M4JjL4OAyY7twODQ
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet
@@ -480,7 +493,7 @@ http://3.team.ga:80/ch2454/index.m3u8?token=rl_mig00.v2_LGS2Jwf3pYEpVAKBqA9a7rpC
 http://192.162.64.99:5200/play/a035/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Тайна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/bSP1ikU4y5sC9RK-72a8GQ,1761551513/streaming/taina/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/luf19TquPjkH1PDPzwyQXA,1762069836/streaming/taina/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Плюс Минус 16
 https://rutube.ru/video/99d4597cea881a27cf7dd6e65a74dade/?r=plwd
 #EXTINF:-1 group-title="Познавательное",National Geographic
@@ -488,9 +501,9 @@ http://46.8.46.14/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Nat Geo Wild
 http://3.team.ga:80/ch047/index.m3u8?token=rl_mig00.v2_meWn2_Mhfes96C1Glb2_ayw8CqR3v-VjKnExpDpR1LNmHwWbaIvdugFgzX8sJQW4MuTTm16IDz4
 #EXTINF:-1 group-title="Познавательное",Discovery channel
-http://213.252.199.137:8000/play/ch336_Diskoveri_kanal_Rossiya_hd/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Discovery channel HD
 http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery channel HD
+http://178.217.72.72/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Investigation Discovery
 http://46.8.46.14/id/index.m3u8
 #EXTINF:-1 group-title="Познавательное",History
@@ -499,11 +512,11 @@ http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 http://178.217.72.72/insight/index.m3u8
 #EXTINF:-1 group-title="Познавательное",The Explorers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/buAySnXqtj6Mw2iuzD1b6Q,1761551514/streaming/explorers/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/87rswnbVBFy8LDwsdjtAng,1762069837/streaming/explorers/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",DocuBox
 http://192.162.64.99:5200/play/a017/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra
-http://192.162.64.99:5000/play/a037/index.m3u8
+http://178.217.72.72/TERRA_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra HD
 http://3.team.ga:80/ch2078/index.m3u8?token=rl_mig00.v2_6erYhYTRClypd_SzK8OplxjbaFUjSOqBOTQB1bG95X4X2tWESt6fdNafSAlcu8Lkqzi2wKIRzDypCw
 #EXTINF:-1 group-title="Познавательное",Big Planet
@@ -619,6 +632,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://50.7.28.226/8295/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=WGqMQwrRc1QaC-RTWKnKKg&e=1761551524&scheme=https
+#EXTINF:-1 group-title="Развлекательное",TLC
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDYwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjU4IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwNjAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Развлекательное",Gags Network
 http://192.162.64.99:5000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Время
@@ -689,8 +704,7 @@ http://217.25.80.16/Eda_HD/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",FoodNetwork
 http://178.217.72.72/food_network/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Еда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/iuRMdghMOG9H_aRLF8NhEg,1761551513/streaming/eda/324/1/tracks-v5a1/mono.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTQwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEzMiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxNDAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Развлекательное",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Luxury
@@ -728,13 +742,41 @@ http://3.team.ga:80/ch2304/index.m3u8?token=rl_mig00.v2_4pKoMwSRzhjhnc17OlkXYVld
 #EXTINF:-1 group-title="КИНОЗАЛ",BOX Travel Premiere
 http://3.team.ga:80/ch2490/index.m3u8?token=rl_mig00.v2_PL8qf0Tb3_AiKDK87Iun-5pu8QL_UXqMRLDi6sI16kFjlA6njGSsmXlEHDqbm9Jn8mHr4sFnA0JCuA
 #EXTINF:-1 group-title="КИНОЗАЛ",BOX Spy
-http://50.7.28.226/8354/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MzU0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMDgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzNTQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",BOX Zombie
-http://50.7.28.226/8418/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDE4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMTEiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0MTgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",BOX Gangster
-http://50.7.28.226/8985/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTg1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMDEiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5ODUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",BOX Serial
-http://50.7.28.226/8988/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTg5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMDUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5ODkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Anime HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTg0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMDAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5ODQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Western HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDE3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMTAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0MTcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Apocalypse HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDQxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMjciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NDEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Ghost HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDI4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMTQiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0MjgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Fantasy HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDMwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMTYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0MzAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Lofi HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDQ2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMzAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NDYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Music 4K
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTkwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMDYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5OTAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Relax 4K
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MzM4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMDciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMzgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BOX Premiere 4K
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDMxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyMTciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0MzEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU MEDIA HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODg2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNTIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4ODYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Premiere HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDc1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExODgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NzUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Кинозал Premiere 1 HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDY4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExODkiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NjgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Кинозал Premiere 2 HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDczL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExOTAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NzMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Кинозал Premiere 3 HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDc0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExOTEiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NzQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",BCU Action
 http://178.217.72.72/BCUActionHD/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",BCU Catastrophe
@@ -751,8 +793,34 @@ http://178.217.72.72/BCUStarsHD/index.m3u8
 http://178.217.72.72/BCUVHSHD/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",BCU Kinorating
 http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Marvel HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDc2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExOTciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NzYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Cinema HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODkxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNjciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4OTEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Cinema+ HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODkyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNjgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4OTIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Russian HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDU3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNzYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NTcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Russia 90s HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTgwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNzciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5ODAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU RUSERIAL HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODg4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNzgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4ODgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU СССР HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODc1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNTciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4NzUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Мультсериал HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODc0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNTYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4NzQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Kids HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDU4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExODEiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NTgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Kids+ HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDU0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExODIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NTQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Little HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTc5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExODMiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5NzkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU History HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODgxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEyNzciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4ODEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Survival HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTEyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNzUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5MTIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",BCU Сваты
-http://50.7.28.226/8889/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODg5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNzkiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4ODkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Action
 http://178.217.72.72/CineMan_Action/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Comedy
@@ -770,25 +838,81 @@ http://178.217.72.72/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan VHS
 http://178.217.72.72/CineMan_VHS/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Симпсоны
-http://50.7.28.226/8833/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODMzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MzMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan MiniSeries
-http://50.7.28.226/8961/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTYxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEwMTMiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5NjEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan РуКино
-http://50.7.28.226/8871/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODcxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4NzEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Air Crash
 http://3.team.ga:80/ch2924/index.m3u8?token=rl_mig00.v2_qPoDqn-HAxUoHaxU5DbUbn01sX8pmVY-W0DVDQRk6HnTOFF2ieuOLFK8UN8OkoZ0EVdmXt9uMl-Dhg
-#EXTINF:-1 group-title="КИНОЗАЛ",MM Honey
-http://50.7.28.226/8895/index.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",MM Драма
-http://50.7.28.226/8634/index.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",MM Макромир
-http://50.7.28.226/8636/index.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",MM Newfilm 3
-http://50.7.28.226/8743/index.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",MM Relax
-http://50.7.28.226/8793/index.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",MM Celebrity
-http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Ментовские войны HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODAyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDQiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MDIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Криминальные Сериалы HD
+CineMan Криминальные Сериалы HD
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan ПёС + ЛИХАЧ HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODI0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MjQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Лесник HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzY3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NjcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan СССР HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC85MTIxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE5ODUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkxMjEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Расследование авиакатастроф HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODI2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MjYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Военные Сериалы HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NTc0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE0NDYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg1NzQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan KIDS 4K
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NDYxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMTgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0NjEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan CCCP 4K
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84Nzk1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMTEiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3OTUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan OLD 4K
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODA0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMTIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MDQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Newfilm 1 HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzQxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwOCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NDEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Newfilm 2 HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzQyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUyNyIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NDIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Newfilm 3 HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzQzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwMiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NDMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM NewFilm RU HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzA2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwNSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3MDYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",ММ Боевик HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzQ1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwNCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NDUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Катастрофа HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzQ2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwNiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NDYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Комедия HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzA4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwNyIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3MDgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM USSR Комедия HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzQ0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwMyIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NDQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Роскино HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzA5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUwMCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3MDkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Супергерои HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzEwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUxMCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3MTAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Сваты HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODkzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjU4MiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4OTMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM USSR Детектив HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NjU2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjUxMSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2NTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM USSR Драма HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODk0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjU3OCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4OTQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Ужасы HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzI1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjU4OCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3MjUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Крутые 90-е HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NTQ3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjYyNiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg1NDcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Воронины HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NjIwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MjIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2MjAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Полицейский с Рублёвки HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NjI2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MzAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2MjYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Фантастика HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NjMxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MzkiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2MzEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM USSR Сказки HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NjE2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2NDkiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2MTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Walt Disney HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTE0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjgxMCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5MTQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Tom and Jerry HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTk3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjgwNiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5OTcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM USSR Мультфильм HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTEzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjgwMSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5MTMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Honey HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODk1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2NTgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4OTUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",MM Smile HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NTg3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2NjAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg1ODcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",MM Experiment
 http://3.team.ga:80/ch1952/index.m3u8?token=rl_mig00.v2_o0K2jsDw9_oviT-d6vrkq6N8thapOAtDIVqFUNsCr1h2nv1TrlKGyqReSwPCGcnK209mxDGmLAPx0g
 #EXTINF:-1 group-title="КИНОЗАЛ",MM Live Planet
@@ -859,7 +983,56 @@ http://3.team.ga:80/ch3177/index.m3u8?token=rl_mig00.v2_2qg70wX4HQKh1DbPjinq-h3F
 http://3.team.ga:80/ch1777/index.m3u8?token=rl_mig00.v2_70PFK1brJOz6ABvDgCzLhrwvutzTHgS8L2tLoNYaRh74G-_Pb-9SH-akpKrMu-QXMiKiq5YHzQCx0A
 #EXTINF:-1 group-title="КИНОЗАЛ",Liberty Планета360
 http://3.team.ga:80/ch1758/index.m3u8?token=rl_mig00.v2_xrRMNxTC1KOtvDu42-SBTmfwzWy3sexVNJy2vdV9ffrle-pQzaLSHzS-Tin_9EuS8BKqTpU2M5guLw
-
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Аниме HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1NjgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNDgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Барбоскины HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1NjkiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNDkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Винни и его друзья HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1NzMiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNTMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Гравити Фолз HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1NzYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Губка Боб Квадратные Штаны HD 
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1NzciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNTcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Звёздные войны HD 
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1ODAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNjAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Интерны HD 
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1ODEiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNjEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Лило и Стич HD 
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1ODciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNjcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Лунтик и его друзья HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1ODgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNjgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Маша и Медведь HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1OTIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNzIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Ми-ми-мишки HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE1OTQiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwNzQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Смешарики HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDEiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Сонник Бум
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Супер крылья HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDMiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Счастливого нового года HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDQiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Тимон и Пумба HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Том и Джерри HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwMzMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Три кота HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Фиксики HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MDkiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODgvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Финес и Ферб HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MTAiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwODkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Человек-паук HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MTMiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwOTIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Черепашки ниндзя HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MTQiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwOTMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Чип и Дейл HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MTUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwOTQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Чёрный плащ HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MTYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwOTUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Kernel TV Щенячий патруль HD
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE2MTciLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkwOTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Детский",Солнце
 http://217.25.80.16/Disney_Channel/mono.m3u8
 #EXTINF:-1 group-title="Детский",2x2
@@ -877,7 +1050,7 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:-1 group-title="Детский",КАПИТАН ФАНТАСТИКА
 http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детский",КиноМульт
-
+http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE0MzUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg1NzYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Детский",Чижик
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/ufOWJkO-PKV0qdSNQ5pNiQ,1761551513/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
@@ -912,6 +1085,8 @@ http://46.8.46.14/detmir/index.m3u8
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детский",Nick Jr
 http://46.8.46.14/nickjr/index.m3u8
+#EXTINF:-1 group-title="Детский",Cartoonito
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MzMyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjI2NCIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMzIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Детский",Cartoon Classics
 http://146.120.14.239:3001/play/a08h
 #EXTINF:-1 group-title="Детский",Cartoon Network
@@ -938,7 +1113,7 @@ https://mhd128.iptv2022.com/p/sZRz4ScAEx67Abav1thNKg,1761551513/streaming/anime_
 #EXTINF:-1 group-title="Детский",В Гостях у сказки
 http://217.25.80.16/V_gostah_u_skazki/mono.m3u8
 #EXTINF:-1 group-title="Детский",Мультиландия
-http://91.194.191.241:8081/chid62/tracks-v1a1/mono.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDU2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjU0IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwNTYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="Детский",Радость моя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://91.194.191.241:8081/chid42/tracks-v1a1/mono.m3u8
