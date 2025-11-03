@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
-#EXTINF:-1,ffmpeg -stream_loop -1 -i input.mp4 -c copy -f mpegts group-title="ИНФО",Инфоканал
+#EXTINF:-1,Repeated Channel
 https://github.com/Artemon20057/Arrow-IPTV/releases/download/VIDEO/My.Video.mp4
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
@@ -82,8 +82,6 @@ https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Липецкое время 24
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_LVREM/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Истоки
-https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Областной
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Новый век
