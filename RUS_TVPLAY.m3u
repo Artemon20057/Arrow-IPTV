@@ -433,8 +433,6 @@ http://3.team.ga:80/ch627/index.m3u8?token=rl_mig00.v2_FxZ_Fezx5Y_GuDGYP_a0RtlFQ
 http://iptv46.mcx-ix.ru:8077/istoriya/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Моя Планета
 http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:-1 group-title="Познавательное",Моя Планета HD
-http://194.143.148.28:8080/Moya_Planeta/mpegts
 #EXTINF:-1 group-title="Познавательное",Живая Планета
 http://3.team.ga:80/ch453/index.m3u8?token=rl_mig00.v2_dCimrNGnfocljJcxMe1Xnl27fn2UF0-KRtnq34LJICVMypnUzgwm7BrhuhHXvNRbrJQvcv_DJq5v
 #EXTINF:-1 group-title="Познавательное",Живая Природа
