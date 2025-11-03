@@ -93,8 +93,6 @@ https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TULA24/variant.m3u8
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Губерния-33
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA33/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Муром ТВ
-https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_MUROMTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные",TV Губерния
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TVGUBERNIYA/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Ярославский
