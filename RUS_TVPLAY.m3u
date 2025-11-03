@@ -1,8 +1,7 @@
 #EXTM3U tvg-url="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
-#EXTINF:-1,Repeated Channel
-https://github.com/Artemon20057/Arrow-IPTV/releases/download/VIDEO/My.Video.mp4
+#EXTINF:-1,wget https://github.com/Artemon20057/Arrow-IPTV/releases/download/VIDEO/My.Video.mp4 -O input.mp4
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 tvg-id="1-TV" group-title="Общероссийские",Первый канал
@@ -21,7 +20,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ROSSIAK.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ROSSIA24.m3u8
 #EXTINF:-1 tvg-id="Karousel" group-title="Общероссийские",Карусель
 http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_KARUSEL.m3u8
-#EXTINF:-1 tvg-id="OTR-TV" group-title="Общероссийские",Общественное телевидение России (ОТР)
+#EXTINF:-1 tvg-id="OTR-TV" group-title="Общероссийские",ОТР
 http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_OTR.m3u8
 #EXTINF:-1 tvg-id="TV-CENTER" group-title="Общероссийские",ТВ Центр
 http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_TVC.m3u8
