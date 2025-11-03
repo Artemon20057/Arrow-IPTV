@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
-#EXTINF:-1,Repeated Channel tvg-id="no_epg" group-title="ИНФО",Инфоканал
+#EXTINF:-1,ffmpeg -stream_loop -1 -i input.mp4 -c copy -f mpegts group-title="ИНФО",Инфоканал
 https://github.com/Artemon20057/Arrow-IPTV/releases/download/VIDEO/My.Video.mp4
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
@@ -66,8 +66,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1 group-title="Региональные",ТЕО-ТВ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Известия Приосколья
-https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_OSKOL/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Мир Белогорья
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_MIR_BLG/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Белгород 24
