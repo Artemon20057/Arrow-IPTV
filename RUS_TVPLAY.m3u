@@ -38,7 +38,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_TV3.m3u8
 #EXTINF:-1 tvg-id="FRIDAY-TV" group-title="Общероссийские",Пятница
 http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="ZVEZDA" group-title="Общероссийские",Звезда
-http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ZVEZDA.m3u8
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="Mir" group-title="Общероссийские",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT" group-title="Общероссийские",ТНТ
@@ -406,7 +406,8 @@ http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTgyL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/Fq1aG0g-gsnjd67WXVYB6g,1762069837/streaming/openmir/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Неизвестная россия
-http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",TVM Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/FiXNPv_SdG3syYnXtlLpAw,1762069836/streaming/tvm-tv/324/1/tracks-v5a1/mono.m3u8
