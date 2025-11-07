@@ -812,23 +812,23 @@ http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTEyL
 #EXTINF:-1 group-title="КИНОЗАЛ",BCU Сваты
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODg5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExNzkiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4ODkvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Action
-http://178.217.72.72/CineMan_Action/index.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1257.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Comedy
 http://178.217.72.72/CineMan_Comedy/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan
-http://178.217.72.72/CineMan/index.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1255.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Marvel
-http://178.217.72.72/CineMan_Marvel/index.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1260.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Melodrama
-http://178.217.72.72/CineMan_Melodrama/index.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1259.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Thriller
-http://178.217.72.72/CineMan_Thriller/index.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1258.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Top
-http://178.217.72.72/CineMan_Top/index.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1256.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan VHS
-http://178.217.72.72/CineMan_VHS/index.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1263.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Симпсоны
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODMzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDIiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MzMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1267.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan MiniSeries
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTYxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEwMTMiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5NjEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan РуКино
@@ -836,17 +836,15 @@ http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODcxL
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Air Crash
 http://3.team.ga:80/ch2924/index.m3u8?token=rl_mig00.v2_qPoDqn-HAxUoHaxU5DbUbn01sX8pmVY-W0DVDQRk6HnTOFF2ieuOLFK8UN8OkoZ0EVdmXt9uMl-Dhg
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Ментовские войны HD
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODAyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDQiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MDIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Криминальные Сериалы HD
-CineMan Криминальные Сериалы HD
+http://u.vipl.one/high/hc6s5fzmde/1295.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan ПёС + ЛИХАЧ HD
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODI0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MjQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1296.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Лесник HD
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NzY3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg3NjcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+http://u.vipl.one/high/hc6s5fzmde/1297.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan СССР HD
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC85MTIxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE5ODUiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkxMjEvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",CineMan Расследование авиакатастроф HD
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODI2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDgiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MjYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",CineMan катастрофы HD
+http://u.vipl.one/high/hc6s5fzmde/1271.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan Военные Сериалы HD
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84NTc0L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE0NDYiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg1NzQvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",CineMan KIDS 4K
