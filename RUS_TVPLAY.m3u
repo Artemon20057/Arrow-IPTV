@@ -1122,8 +1122,6 @@ http://91.194.191.241:8081/chid286/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",Europa Plus TV
 
 #EXTINF:-1 group-title="Музыкальные",RU.TV
-
-#EXTINF:-1 group-title="Музыкальные",RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Страна FM
 
