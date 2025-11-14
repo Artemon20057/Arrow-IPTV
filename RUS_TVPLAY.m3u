@@ -2,10 +2,10 @@
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
 #EXTINF:-1 tvg-id="no_epg" tvg-name="info_channel" group-title="ИНФО",Инфоканал
-#EXTVLCOPT:repeat
-#EXTVLCOPT:loop
-https://github.com/Artemon20057/Arrow-IPTV/releases/download/VIDEO/My.Video.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://10.142.189.194:8080/Video/stream.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 tvg-id="1-TV" group-title="Общероссийские",Первый канал
 http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_1TV.m3u8
