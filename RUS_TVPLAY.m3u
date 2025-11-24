@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Инфоканал
-http://192.168.40.231:5000/playlist.m3u8
+http://localhost:5000/stream.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
@@ -49,9 +49,9 @@ http://185.46.16.239:8000/Muz_TV
 
 #EXTINF:-1 group-title="Региональные",Крым 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
-#EXTINF:-1 group-title="Региональные",СТВ24
+#EXTINF:-1 group-title="Региональные",СТВ 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Телеканал Крым 1
+#EXTINF:-1 group-title="Региональные",Крым 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Миллет
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MILLET/variant.m3u8
