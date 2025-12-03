@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
 #EXTINF:-1 tvg-chno="0" tvg-id="no_epg" tvg-name="info channel TVPLAY" group-title="ИНФО",Инфоканал
-http://192.168.86.163:5000/SD_576p30/index.m3u8
+http://192.168.86.163:5000/stream.m3u8
 #EXTINF:-1 tvg-chno="0" tvg-id="no_epg" tvg-name="info channel TVPLAY" group-title="ИНФО",Инфоканал HD
 http://192.168.86.163:5000/HD_720p50/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ
