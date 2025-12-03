@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-chno="0" tvg-id="no_epg" tvg-name="info channel TVPLAY" group-title="ИНФО",Инфоканал
 http://192.168.86.163:5000/SD_576p30/index.m3u8
 #EXTINF:-1 tvg-chno="0" tvg-id="no_epg" tvg-name="info channel TVPLAY" group-title="ИНФО",Инфоканал HD
-http://192.168.86.163:5000/HD_1080i45/index.m3u8
+http://192.168.86.163:5000/HD_720p50/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
