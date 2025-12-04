@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
 #EXTINF:-1 tvg-chno="0" tvg-id="no_epg" tvg-name="info channel TVPLAY" group-title="ИНФО",Инфоканал
-http://192.168.86.163:5000/stream.m3u8
+http://192.168.4.115:5000/stream.m3u8
 #EXTINF:-1 tvg-chno="0" tvg-id="no_epg" tvg-name="info channel TVPLAY" group-title="ИНФО",Инфоканал HD
 http://192.168.86.163:5000/HD_720p50/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ
@@ -165,24 +165,6 @@ http://192.162.64.99:5000/play/a03h/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Игра
-
-#EXTINF:-1 group-title="Спорт",Сила
-
-#EXTINF:-1 group-title="Спорт",Большой эфир
-
-#EXTINF:-1 group-title="Спорт",Поединок
-
-#EXTINF:-1 group-title="Спорт",Тонус ТВ
-
-#EXTINF:-1 group-title="Спорт",Хоккей ТВ
-
-#EXTINF:-1 group-title="Спорт",ТВ Спорт
-
-#EXTINF:-1 group-title="Спорт",Спортмастер ТВ
-
-#EXTINF:-1 group-title="Спорт",Мяч
-
 #EXTINF:-1 group-title="Спорт",Старт
 http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Старт Триумф
@@ -199,8 +181,6 @@ http://87.120.142.11:18000/Rossiya1
 http://109.75.59.241:8017/Udar/index.m3u8
 #EXTINF:-1 group-title="Спорт",Extreme Sports
 http://192.162.64.99:5000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="Спорт",Fast & FunBox
-http://192.162.64.99:5200/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Спорт",FightBox
 http://192.162.64.99:5200/play/a01d/index.m3u8
 
