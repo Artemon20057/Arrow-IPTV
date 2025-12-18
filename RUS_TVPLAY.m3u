@@ -464,9 +464,9 @@ https://mhd128.iptv2022.com/p/luf19TquPjkH1PDPzwyQXA,1762069836/streaming/taina/
 #EXTINF:-1 group-title="Познавательное",Плюс Минус 16
 https://rutube.ru/video/99d4597cea881a27cf7dd6e65a74dade/?r=plwd
 #EXTINF:-1 group-title="Познавательное",National Geographic
-http://46.8.46.14/National_Geographic/index.m3u8
+http://31.47.199.45:1402/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Nat Geo Wild
-http://3.team.ga:80/ch047/index.m3u8?token=rl_mig00.v2_meWn2_Mhfes96C1Glb2_ayw8CqR3v-VjKnExpDpR1LNmHwWbaIvdugFgzX8sJQW4MuTTm16IDz4
+http://31.47.199.45:1402/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery channel
 http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery channel HD
