@@ -232,7 +232,7 @@ https://mhd128.iptv2022.com/p/QsdiQpXuu81YOA2aI0RMHQ,1762069836/streaming/prolub
 #EXTINF:-1 group-title="Кино и сериалы",Наш Кинопоказ
 http://217.25.80.16/nash_kinopokaz_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинопоказ
-http://178.217.72.72/kinopokazhd/index.m3u8
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Комедия
 http://192.162.64.99:5100/play/a02k/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинеко
@@ -274,11 +274,11 @@ http://192.162.64.99:5100/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=x8VvMxD6-3zMFu_-Eih_IQ&e=1760722259&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
-http://194.32.242.245/vippremiere/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
-http://46.8.46.14/vipmegahit/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy
-http://46.8.46.14/vipcomedy/index.m3u8
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Serial
 http://tvip.btk.teleos.ru:8081/chid40/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+Кино
@@ -298,7 +298,7 @@ http://46.8.46.14/FOX/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Fox Life
 http://213.252.199.137:8000/play/ch319_Fox__hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Мосфильм. Золотая коллекция
-http://188.190.222.53/Mosfilm/index.m3u8
+http://95.66.188.74/MosfilmHD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",TV21
 http://46.8.46.14/TV21/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Plan B
@@ -318,9 +318,9 @@ https://mhd128.iptv2022.com/p/KYcizJzNAXPcRaYAUiy93Q,1762069836/streaming/trash/
 #EXTINF:-1 group-title="Кино и сериалы",Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино
-http://46.8.46.14/domkino/index.m3u8
+http://95.66.188.74/Dom_kino/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино Премиум
-http://217.25.80.16/Dom_Kino_Premium_HD/mono.m3u8
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Русский роман
 http://46.8.46.14/ruroman/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Русский бестселлер
@@ -387,9 +387,9 @@ http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",МЫ
 http://192.162.64.99:5200/play/a032/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Точка.РФ
-http://217.25.80.16/HD_Life/mono.m3u8
+http://95.66.188.74/HD_Life/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Поехали!
-http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
+http://95.66.188.74/Poehali/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Техно 24
 http://iptv46.mcx-ix.ru:8077/t24/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ZооПарк
@@ -399,7 +399,7 @@ http://iptv46.mcx-ix.ru:8077/istoriya/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Моя Планета
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательное",Живая Планета
-http://3.team.ga:80/ch453/index.m3u8?token=rl_mig00.v2_dCimrNGnfocljJcxMe1Xnl27fn2UF0-KRtnq34LJICVMypnUzgwm7BrhuhHXvNRbrJQvcv_DJq5v
+http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Живая Природа
 http://3.team.ga:80/ch452/index.m3u8?token=rl_mig00.v2_A8fCI2-x1QJgrC2grB4DgBU27pIXj6bInRjPjqaytpAY0BOwRHQJOzO7W4DYQWZSdSGtBBOwaalB
 #EXTINF:-1 group-title="Познавательное",Наша сибирь
@@ -440,16 +440,14 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",ЕГЭ ТВ
 http://91.194.191.241:8081/chid138/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",English Class
-http://3.team.ga:80/ch3053/index.m3u8?token=rl_mig00.v2_Jkz2nuQsbOttD8-udyVSPaUH3UZ8m09qUPEYiQFbMpfSAznt-1FJFFsHOCCjcE8mmFh_l16Gn0082A
 #EXTINF:-1 group-title="Познавательное",Viju Explore
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDg1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjgzIiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwODUvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+
 #EXTINF:-1 group-title="Познавательное",Viju History
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDg2L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6Ijg0IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwODYvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Nature
-http://3.team.ga:80/ch012/index.m3u8?token=rl_mig00.v2_31S5-d2YBmdoGnzzOC20_48vAfkMXzX0QfxoRiMCOH2UKGedODQmq05RBH-M4JjL4OAyY7twODQ
+
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet
-http://3.team.ga:80/ch2454/index.m3u8?token=rl_mig00.v2_LGS2Jwf3pYEpVAKBqA9a7rpCSXt4omaoUFsOmxWibcSBOHCFxOVNO4ltrFvywIwUZSihA5aLEzE-Iw
+
 #EXTINF:-1 group-title="Познавательное",Тайны Галактики
 http://192.162.64.99:5200/play/a035/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Тайна
@@ -457,16 +455,6 @@ http://192.162.64.99:5200/play/a035/index.m3u8
 https://mhd128.iptv2022.com/p/luf19TquPjkH1PDPzwyQXA,1762069836/streaming/taina/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Плюс Минус 16
 https://rutube.ru/video/99d4597cea881a27cf7dd6e65a74dade/?r=plwd
-#EXTINF:-1 group-title="Познавательное",National Geographic
-http://31.47.199.45:1402/nationalgeographic/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Nat Geo Wild
-http://31.47.199.45:1402/natgeowild/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Discovery channel
-http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Discovery channel HD
-http://178.217.72.72/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательное",Investigation Discovery
-http://46.8.46.14/id/index.m3u8
 #EXTINF:-1 group-title="Познавательное",History
 http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Insight TV
@@ -477,15 +465,15 @@ https://mhd128.iptv2022.com/p/87rswnbVBFy8LDwsdjtAng,1762069837/streaming/explor
 #EXTINF:-1 group-title="Познавательное",DocuBox
 http://192.162.64.99:5200/play/a017/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Terra
-http://178.217.72.72/TERRA_HD/index.m3u8
+
 #EXTINF:-1 group-title="Познавательное",Terra HD
-http://3.team.ga:80/ch2078/index.m3u8?token=rl_mig00.v2_6erYhYTRClypd_SzK8OplxjbaFUjSOqBOTQB1bG95X4X2tWESt6fdNafSAlcu8Lkqzi2wKIRzDypCw
+
 #EXTINF:-1 group-title="Познавательное",Big Planet
-http://3.team.ga:80/ch1916/index.m3u8?token=rl_mig00.v2_hS7KC7yXGnT3POnLQOw6fWKI_iuxIi8sfPc055-SGZZKIcOHqzcckUFBVDesQWVr7UNsVp8uLHdlPQ
+
 #EXTINF:-1 group-title="Познавательное",Animal Planet
-http://213.252.199.137:8000/play/ch335_Animal_Planet_Rossiya/index.m3u8
+
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
-http://3.team.ga:80/ch124/index.m3u8?token=rl_mig00.v2_4Q6GGEqbxVEzdQFwwCNYqMbK_0Aq1lVPO4h_0rUzlLJWkR2OdPjD4Qi_M3c7WJ49ukb-RsvTapg9
+
 #EXTINF:-1 group-title="Познавательное",Терра Инкогнита
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/f2bu6CpZEK33c02thKPgLA,1761551514/streaming/terra/324/1/index.m3u8
@@ -508,7 +496,7 @@ http://95.47.156.60:8000/play/a012/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/MmnuRe2wrLpEhnZZOzETRA,1761551513/streaming/zdrav/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Здоровое ТВ
-http://178.212.71.253:8000/play/94/index.m3u8
+http://95.66.188.74/ZdorovoeTV/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Живи активно
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/h48QRYEDglXT0pQauEYqMg,1761551513/streaming/zhivi_aktivno/324/1/index.m3u8
@@ -530,27 +518,27 @@ http://146.120.14.239:3001/play/a07m
 #EXTINF:-1 group-title="Познавательное",Ратник
 http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Загородная жизнь
-http://3.team.ga:80/ch2881/index.m3u8?token=rl_mig00.v2_3A6eAnYprGXN1WjRI2fSvU8P7rAv1tOBP9MihgjIWvuqWL9mcKqWmCl7zEnifWB83VSnlvortp-NXQ
+
 #EXTINF:-1 group-title="Познавательное",Загородный
-http://3.team.ga:80/ch624/index.m3u8?token=rl_mig00.v2_Am39af6w_0NQz2oKdaJ2mCkcrro88lQowOynAvZRQ_r14ySnbkdKAxtudpNJoAx5RlvAoEywUs7V
+http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Загородный int
-http://3.team.ga:80/ch667/index.m3u8?token=rl_mig00.v2_0ev8wbmAwPW8Lf9oS5kO6-VbI6zPrsqahbnDBZ3uziwvTB5lmS6tKI7sBKsYtsqA__G6UohsVDFM
+
 #EXTINF:-1 group-title="Познавательное",Усадьба
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MDE3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE3IiwidCI6Ijc2ODdjMjE4ODNmNDE2MjYwYzcyOGNiZGJhNjgxNDBhIiwiZCI6IjQxNjI0NCIsInIiOiI0MjgyMDMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgwMTcvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+http://95.66.188.74/Usadba/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",HGTV
-http://3.team.ga:80/ch723/index.m3u8?token=rl_mig00.v2_3JKP1KAUdiiaskHAw7ubD1MPrpjMuChAPgAjRiKzDG0uCQV5WJdmPSK_rSdsD5H8X5q3Kw5tVlvv
+
 #EXTINF:-1 group-title="Познавательное",Дикий
-http://3.team.ga:80/ch069/index.m3u8?token=rl_mig00.v2_ZoAvznmuA5swuoX1l--yXlkJWvmCffOZfmpG8-eAXSqNIGx5ZCwHlAU3-zBq5mwHP9PPveYrUXI
+
 #EXTINF:-1 group-title="Познавательное",Дикая охота
-http://3.team.ga:80/ch449/index.m3u8?token=rl_mig00.v2_AxbP2qgW8B8slYCMAzQ2wBTn38wFxux1nEfYhG-E7FaDsX8BB8z6Z1i4juKOFVsnMyTiToe5Afae
+
 #EXTINF:-1 group-title="Познавательное",Дикая рыбалка
-http://3.team.ga:80/ch449/index.m3u8?token=rl_mig00.v2_AxbP2qgW8B8slYCMAzQ2wBTn38wFxux1nEfYhG-E7FaDsX8BB8z6Z1i4juKOFVsnMyTiToe5Afae
+
 #EXTINF:-1 group-title="Познавательное",Охотник и рыболов HD
-http://3.team.ga:80/ch085/index.m3u8?token=rl_mig00.v2_GmP4_d53BGdnsiNGZjjSsbO2ndyj_VJdZ6omzmIrqzuIq6Bskhq3oe7__1wQ7OO05z3QLw-J8m4
+
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
-http://3.team.ga:80/ch067/index.m3u8?token=rl_mig00.v2_EKrXHzbIlFRp3vjLFl_3o4o9W9cPURRux3-iVYOZeGVYegomfsrP3dgMLv4xUq7zjJvK0sWS20E
+
 #EXTINF:-1 group-title="Познавательное",Охота и Рыбалка
-http://3.team.ga:80/ch448/index.m3u8?token=rl_mig00.v2_5R0kASMV7hAUtRm-PiYCDHJWuhhb4Ei4L8Bm9DBHhaGWhhOm4a8q6t7VbBocMxlytXPgU3bZzJV_
+
 #EXTINF:-1 group-title="Познавательное",Рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/9sxT__zpzu5-4rlFPpSO_w,1761551513/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
@@ -665,7 +653,7 @@ http://217.25.80.16/Eda_HD/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",FoodNetwork
 http://178.217.72.72/food_network/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Еда
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTQwL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjEzMiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxNDAvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+http://95.66.188.74/Eda/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Luxury
