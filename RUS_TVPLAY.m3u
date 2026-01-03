@@ -274,11 +274,11 @@ http://192.162.64.99:5100/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=x8VvMxD6-3zMFu_-Eih_IQ&e=1760722259&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
-
+http://91.207.115.228:5000/c145
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
-
+http://91.207.115.228:5000/c144
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+http://91.207.115.228:5000/c143
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Serial
 http://tvip.btk.teleos.ru:8081/chid40/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+Кино
@@ -365,7 +365,7 @@ http://91.194.191.241:8081/chid430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Приключения
 http://iptv46.mcx-ix.ru:8077/teletravel_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Телепутешествия
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84MTgyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjE3MiIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgxODIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+http://91.207.115.228:5000/c93
 #EXTINF:-1 group-title="Познавательное",Открытый мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/Fq1aG0g-gsnjd67WXVYB6g,1762069837/streaming/openmir/324/1/index.m3u8
@@ -387,7 +387,7 @@ http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",МЫ
 http://192.162.64.99:5200/play/a032/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Точка.РФ
-http://95.66.188.74/HD_Life/mono.m3u8
+http://91.207.115.228:5000/c158
 #EXTINF:-1 group-title="Познавательное",Поехали!
 http://95.66.188.74/Poehali/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Техно 24
@@ -395,7 +395,7 @@ http://iptv46.mcx-ix.ru:8077/t24/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ZооПарк
 http://3.team.ga:80/ch627/index.m3u8?token=rl_mig00.v2_FxZ_Fezx5Y_GuDGYP_a0RtlFQY4MJTR5KHuKzt9TW2JsIyak0dszvO2QnPQ6bgjA0bvs0tw7axTW
 #EXTINF:-1 group-title="Познавательное",История
-http://iptv46.mcx-ix.ru:8077/istoriya/index.m3u8
+http://91.207.115.228:5000/c85
 #EXTINF:-1 group-title="Познавательное",Моя Планета
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательное",Живая Планета
@@ -432,6 +432,8 @@ https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Таврия Херсон
+http://91.207.115.228:5000/c23
 #EXTINF:-1 group-title="Познавательное",Мужской
 http://192.162.64.99:5200/play/a03h/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Звезда Плюс
@@ -441,11 +443,11 @@ http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",ЕГЭ ТВ
 http://91.194.191.241:8081/chid138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Explore
-
+http://91.207.115.228:5000/c95
 #EXTINF:-1 group-title="Познавательное",Viju History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+http://91.207.115.228:5000/c96
 #EXTINF:-1 group-title="Познавательное",Viju Nature
-
+http://91.207.115.228:5000/c97
 #EXTINF:-1 group-title="Познавательное",Viju+ Planet
 
 #EXTINF:-1 group-title="Познавательное",Тайны Галактики
@@ -459,21 +461,27 @@ https://rutube.ru/video/99d4597cea881a27cf7dd6e65a74dade/?r=plwd
 http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Insight TV
 http://178.217.72.72/insight/index.m3u8
+#EXTINF:-1 group-title="Познавательное",За!ТВ
+http://91.207.115.228:5000/c22
 #EXTINF:-1 group-title="Познавательное",The Explorers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/87rswnbVBFy8LDwsdjtAng,1762069837/streaming/explorers/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",DocuBox
 http://192.162.64.99:5200/play/a017/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery Channel HD
+http://91.207.115.228:5000/c146
+#EXTINF:-1 group-title="Познавательное",Investigation Discovery HD
+http://91.207.115.228:5000/c150
 #EXTINF:-1 group-title="Познавательное",Terra
 
 #EXTINF:-1 group-title="Познавательное",Terra HD
 
 #EXTINF:-1 group-title="Познавательное",Big Planet
-
+http://91.207.115.228:5000/c94
 #EXTINF:-1 group-title="Познавательное",Animal Planet
 
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
-
+http://91.207.115.228:5000/c147
 #EXTINF:-1 group-title="Познавательное",Терра Инкогнита
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/f2bu6CpZEK33c02thKPgLA,1761551514/streaming/terra/324/1/index.m3u8
@@ -503,9 +511,9 @@ https://mhd128.iptv2022.com/p/h48QRYEDglXT0pQauEYqMg,1761551513/streaming/zhivi_
 #EXTINF:-1 group-title="Познавательное",Доктор
 http://46.8.46.14/doktor/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Домашние животные
-http://3.team.ga:80/ch626/index.m3u8?token=rl_mig00.v2_MhtSpDKAHGP5xdnQmu3VR2Q6Wn6tVIH6XvUCEqIeqMTJxJUaDKEqtewDsY263vAOc4zR9n63mpRR
+http://91.207.115.228:5000/c159
 #EXTINF:-1 group-title="Познавательное",В мире животных
-http://3.team.ga:80/ch141/index.m3u8?token=rl_mig00.v2_a8qbmUF-szr1mhyOEMqEmQSpcTIIQuasrJPjOMUNczpbLckWi0xGabBVN1N_zYtu5yhyJqs4C797
+
 #EXTINF:-1 group-title="Познавательное",Лапки Live
 http://3.team.ga:80/ch3302/index.m3u8?token=rl_mig00.v2_OMAI5O51kbeuDG2GE97BZG1GnnKvyojzLxyt-YwrAS1-qu4fFLDgXAVf19OQBN_he9IxXKsdFmOlUw
 #EXTINF:-1 group-title="Познавательное",Бобёр
