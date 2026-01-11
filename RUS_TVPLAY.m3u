@@ -193,6 +193,8 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://217.25.80.16/nash_kinopokaz_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Про любовь
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Комедия
 http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинеко
@@ -392,6 +394,8 @@ http://95.66.188.74/Zagorodniy/mono.m3u8
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=yuKmX44xS8svG7uouUzdhQ&e=2068117989&scheme=https
 #EXTINF:-1 group-title="Познавательное",Усадьба
 http://95.66.188.74/Usadba/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Дикий
+http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и рыболов HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=_unnzSQOOpNitKZS1CM2nQ&e=2068117989&scheme=https
@@ -506,9 +510,77 @@ https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 group-title="Развлекательное",Магнат
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
-#EXTINF:-1 group-title="КИНОЗАЛ",BCU Kinorating HD
+#EXTINF:-1 group-title="HD",RTG HD
+http://193.25.8.59:8000/rtg
+#EXTINF:-1 group-title="HD",RT Doc HD
+http://95.66.188.74/RT_Doc_HD/mono.m3u8
+#EXTINF:-1 group-title="HD",Арсенал HD
+http://95.66.188.74/Arsenal_HD/mono.m3u8
+#EXTINF:-1 group-title="HD",Моя планета HD
+http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
+#EXTINF:-1 group-title="HD",RTG HD
+http://95.66.188.74/RTGHD/mono.m3u8
+#EXTINF:-1 group-title="HD",360 HD
+http://95.66.188.74/360_HD/mono.m3u8
+#EXTINF:-1 group-title="HD",Первый HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="HD",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="HD",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="HD",Наше HD
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 group-title="HD",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="HD",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="HD",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 group-title="HD",Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="HD",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="HD",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 group-title="HD",Кинохит HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+
+#EXTINF:-1 group-title="HD",
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Kinorating
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",BCU Stars HD
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Stars
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Ужасы
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
