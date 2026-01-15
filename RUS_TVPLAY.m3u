@@ -1053,25 +1053,25 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",НТВ Сериалы Скорая помощь
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",НТВ Сериалы Пёс
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",НТВ Сериалы Первый отдел
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",НТВ Сериалы Шеф
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",НТВ Сериалы Невский
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",НТВ Сериалы Балабол
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",НТВ Сериалы Пять минут тишины
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
