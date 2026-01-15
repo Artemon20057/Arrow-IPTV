@@ -727,7 +727,8 @@ http://194.143.148.28:8080/NanoTV/mpegts
 http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Приключения
 http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
-#EXTINF:-1 group-title="Познавательное",Неизвестная россия
+#EXTINF:-1 group-title="Познавательное" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
@@ -899,16 +900,16 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Развлекательное",Красная линия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="Развлекательное",НТВ Право
+#EXTINF:-1 group-title="Развлекательное" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательное",НТВ Стиль
+#EXTINF:-1 group-title="Развлекательное" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательное",НТВ Сериал
+#EXTINF:-1 group-title="Развлекательное" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательное",НТВ Хит
+#EXTINF:-1 group-title="Развлекательное" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательное",КВН ТВ
@@ -1042,9 +1043,9 @@ http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",Смотрим Детям
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим Детям
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ",Смотрим тайны
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png",Смотрим тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" group-title="КИНОЗАЛ",VHS кино
 #EXTVLCOPT:http-user-agent=SmartTV
