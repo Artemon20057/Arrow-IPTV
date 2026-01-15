@@ -2,6 +2,7 @@
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Инфоканал
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 http://198.18.0.1:8080/info_channel/stream.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Всё ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
