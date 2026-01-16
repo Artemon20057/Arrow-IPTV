@@ -805,6 +805,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательное",Московское образование
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Знание
+#EXTVLCOPT:http-referrer=https://kino.tricolor.ru/
 https://stream-msk-16.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfMmIwYzFjMjE5NTI5ZTI2YzAzMDgyZWUxYjJkN2IxODgiLCJleHAiOjE3NjkxOTI0ODcsImh3aWQiOiJhMzQ4ZjJiYzBjMzMwZWUzYjMwODY0YWE0NzFiYjNiYWM0Yjg3Mzg5MzBjZWQzNTIxYTQ5ODc3ZGE4YzRmNWQyIiwibGFzdF9yZXFfZGF0ZSI6MTc2ODU4NzY4Nywic2Vzc2lvbl9pZCI6ImI5Mjg3MmMyYzQyNTNkYmE3Y2FhMWE4ZmI3NGE2ZDk5IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.MY7VmguLXjf8qOARA9XaH_Z0OzzoXsho-5Cmvs0mtiwhttp://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательное",Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
