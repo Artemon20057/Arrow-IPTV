@@ -558,6 +558,8 @@ http://193.25.8.59:8000/fut3
 http://iptv46.mcx-ix.ru:8077/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Тонус
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 group-title="Спорт",Viju+ Sport
 http://193.25.8.59:8000/viasatsport
 #EXTINF:-1 group-title="Спорт",KHL
@@ -615,12 +617,14 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://217.25.80.16/nash_kinopokaz_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png" group-title="Кино и сериалы",Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Комедия
 http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинеко
-http://193.25.8.59:8000/fox
+http://194.143.148.28:8080/KINEKO/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Сапфир
 https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Китай ТВ
@@ -634,9 +638,11 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Start World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 1
-http://193.25.8.59:8000/amedia1
+http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 2
-http://193.25.8.59:8000/amedia2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Amedia Premium
 http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 group-title="Кино и сериалы",.red
@@ -677,6 +683,8 @@ http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Fox Life
 https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Кино и сериалы",VHS-ка
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 http://95.66.188.74/MosfilmHD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Победа
@@ -723,6 +731,8 @@ http://193.25.8.59:8000/interaz
 
 #EXTINF:-1 group-title="Познавательное",Nano TV
 http://194.143.148.28:8080/NanoTV/mpegts
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательное",Первый Космический HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,Т24
 http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Приключения
@@ -732,6 +742,8 @@ http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8?token=eyJhbG
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Телепутешествия
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Travel+Adventure
 http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Глазами Туриста
@@ -750,6 +762,8 @@ http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
 http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Живая Природа
 http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательное",В мире животных HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Наша сибирь
 http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,The Explorers
@@ -759,9 +773,11 @@ http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 #EXTINF:-1 group-title="Познавательное",Galaxy
 http://176.118.197.125/Galaxy/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Арсенал
-http://95.66.188.74/Arsenal_HD/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:-1 group-title="Познавательное",Оружие
 http://95.66.188.74/Oruzhie/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Техно 24
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
 #EXTINF:-1 group-title="Познавательное",ЦТВ
 http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Совершенно секретно
@@ -783,12 +799,10 @@ http://176.118.197.125/viju-History/index.m3u8
 http://176.118.197.125/viju-Nature/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
 http://91.207.115.228:5000/c146
-#EXTINF:-1 group-title="Познавательное",Investigation Discovery HD
-http://91.207.115.228:5000/c150
 #EXTINF:-1 group-title="Познавательное",Terra
-http://195.26.83.96:7009/play/a00j/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
-http://91.207.115.228:5000/c147
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Кто есть кто
@@ -813,17 +827,16 @@ http://176.118.197.125/365_dney_tv/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Загородный
-http://95.66.188.74/Zagorodniy/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
 #EXTINF:-1 group-title="Познавательное",Загородный int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=ygflzZtS3-gJ6aODxpk1HA&e=2068295962&scheme=https
 #EXTINF:-1 group-title="Познавательное",Усадьба
 http://95.66.188.74/Usadba/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикий
-http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и рыболов HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=YpP9T6-MDUSngYzenyK8Pg&e=2068295962&scheme=https
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Диалоги о рыбалке
 http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 group-title="Познавательное",Охота и Рыбалка
@@ -923,7 +936,7 @@ http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Развлекательное",FoodTime
 http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 group-title="Развлекательное",Еда
-http://95.66.188.74/Eda/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="Развлекательное",Luxury
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
 https://mhd116.iptv2022.com/x/EWjV0Pi_aN8aiO_QRij2wg,1768204372/streaming/luxury/324/1/index.m3u8
