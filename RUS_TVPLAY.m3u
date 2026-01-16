@@ -803,8 +803,8 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательное",Московское образование
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Знание
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTE5NzUyNCwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NTkyNzI0LCJzZXNzaW9uX2lkIjoiMTY0OTQ5ZjAzZTA1MzcyNzk3ZmNlMzJjMmQ2NzY5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.XSBI9vRcCasRqiO3ghp_P9bLlJaLeMSlcKAQUGSRwnA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18 (Windows NT 10.0; Win64; x64)
+https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTE5ODA2OCwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NTkzMjY4LCJzZXNzaW9uX2lkIjoiNTQ2ZmFjNGQyZmMzNDdjYTdjOWU1Zjc0NzYxZjg3NjYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.5Wo65m6FEamMmfxD0zpf6ZAllUsBEieuRAYnOTg4YJU
 #EXTINF:-1 group-title="Познавательное",Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Explore
