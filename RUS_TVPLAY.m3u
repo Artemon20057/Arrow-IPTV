@@ -804,7 +804,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Знание
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream-msk-16.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfMmIwYzFjMjE5NTI5ZTI2YzAzMDgyZWUxYjJkN2IxODgiLCJleHAiOjE3NjkxOTM3MDIsImh3aWQiOiJhMzQ4ZjJiYzBjMzMwZWUzYjMwODY0YWE0NzFiYjNiYWM0Yjg3Mzg5MzBjZWQzNTIxYTQ5ODc3ZGE4YzRmNWQyIiwibGFzdF9yZXFfZGF0ZSI6MTc2ODU4ODkwMiwic2Vzc2lvbl9pZCI6ImE3YTYxNDE5OTMwOTY3MjYxMjgzMTgzZTNhOWE3ZGRiIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.C8xGmxCEwLmcd0XXKlLosBxyOUgyfpa82h0Lw3AQZx8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_9.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfMmIwYzFjMjE5NTI5ZTI2YzAzMDgyZWUxYjJkN2IxODgiLCJleHAiOjE3NjkxOTM4MzgsImh3aWQiOiJhMzQ4ZjJiYzBjMzMwZWUzYjMwODY0YWE0NzFiYjNiYWM0Yjg3Mzg5MzBjZWQzNTIxYTQ5ODc3ZGE4YzRmNWQyIiwibGFzdF9yZXFfZGF0ZSI6MTc2ODU4OTAzOCwic2Vzc2lvbl9pZCI6IjM4ZDJkYTBiYzA5YjQ4OTkyNjZhZTZkMWI4YzRmOTVhIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.h7m83avnI7-M2eZe-sQvrIaMYJ3CUrtnxESkMhHNEP8
 #EXTINF:-1 group-title="Познавательное",Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Explore
