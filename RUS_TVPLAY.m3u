@@ -779,8 +779,6 @@ http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
 http://178.212.71.253:8000/play/79/index.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательное",В мире животных HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Наша сибирь
-http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,The Explorers
 http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzODIzNDUsImlhdCI6MTc2ODI5NTk0NSwiY2lkIjo2LCJ1aWQiOjk4ODYzOTE2NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.WnQi6-KOK4X0N-elUhGrZHG4pkJF3AhlLxy9Dh0Pj50&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,Docubox
@@ -807,7 +805,6 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательное",Московское образование
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Знание
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
 https://stream-msk-16.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfMmIwYzFjMjE5NTI5ZTI2YzAzMDgyZWUxYjJkN2IxODgiLCJleHAiOjE3NjkxOTI0ODcsImh3aWQiOiJhMzQ4ZjJiYzBjMzMwZWUzYjMwODY0YWE0NzFiYjNiYWM0Yjg3Mzg5MzBjZWQzNTIxYTQ5ODc3ZGE4YzRmNWQyIiwibGFzdF9yZXFfZGF0ZSI6MTc2ODU4NzY4Nywic2Vzc2lvbl9pZCI6ImI5Mjg3MmMyYzQyNTNkYmE3Y2FhMWE4ZmI3NGE2ZDk5IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.MY7VmguLXjf8qOARA9XaH_Z0OzzoXsho-5Cmvs0mtiwhttp://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательное",Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
