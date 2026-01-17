@@ -1141,9 +1141,8 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Простоквашино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://kino.tricolor.ru/
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-continuous
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTI1NTAzNCwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjUwMjM0LCJzZXNzaW9uX2lkIjoiMDEwNGIyNTdhZDViMDJkZjUzMjE1ZmYyZTEzMDFkNDgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CgrIKrgspCO_J7hiGammNWczGsonx_MC_aKesEI2d0M
+https://stream-msk-20.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTI1MDAxNCwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjQ1MjE0LCJzZXNzaW9uX2lkIjoiYjcwZmJlNDY2MDE0ZjE1Y2NiNDI5OWEyMmFkMmRiYTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.a9lejWAsVRu8iypMPqhqJH9OfDjukXtJq78dvjXzO40
 #EXTINF:-1 group-title="КИНОЗАЛ",Советские фильмы
 
 #EXTINF:-1 group-title="КИНОЗАЛ",
