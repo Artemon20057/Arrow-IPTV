@@ -776,6 +776,8 @@ https://stream-msk-13.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/04/plst
 http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg3MjM5MzUsImlhdCI6MTc2ODYzNzUzNSwiY2lkIjo2LCJ1aWQiOjk5MDQ3MTQ0NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.-b_N3_vKsFUyO_jn-v6gAFYfAJUXYj5LZ-SYeEpD4ec&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Глазами Туриста
 http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg3MjM5MzUsImlhdCI6MTc2ODYzNzUzNSwiY2lkIjo2LCJ1aWQiOjk5MDQ3MTQ0NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.-b_N3_vKsFUyO_jn-v6gAFYfAJUXYj5LZ-SYeEpD4ec&offset=10
+#EXTINF:-1 group-title="Познавательное",Моя стихия
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:-1 group-title="Познавательное",Точка.РФ
 http://95.66.188.74/HD_Life/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Поехали!
@@ -817,7 +819,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Знание ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-w
+
 #EXTINF:-1 group-title="Познавательное",Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Viju Explore
@@ -845,7 +847,7 @@ http://178.212.71.253:8000/play/132/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Здоровое ТВ
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Живи активно
-
+https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
 #EXTINF:-1 group-title="Познавательное",Доктор
 http://178.212.71.253:8000/play/68/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Бобёр
@@ -863,6 +865,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
 http://95.66.188.74/Usadba/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Дикий
 https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",tvg-id="dikaya-oxota-hd",Дикая охота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/dikaya-oxota-hd.m3u8
+#EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/dikaya-rybalka-hd.m3u8
 #EXTINF:-1 group-title="Познавательное",Охотник и рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Диалоги о рыбалке
@@ -883,6 +891,13 @@ http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg3MjM5MzUsImlhdCI6MTc2ODYzNzUzNSwiY2lkIjo2LCJ1aWQiOjk5MDQ3MTQ0NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.-b_N3_vKsFUyO_jn-v6gAFYfAJUXYj5LZ-SYeEpD4ec&offset=10
 #EXTINF:-1 group-title="Познавательное",Драйв
 http://176.118.197.125/Draiv/index.m3u8
+#EXTINF:-1 group-title="Познавательное",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательное",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательное",tvg-id="nasa4k",NASA 4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Доктор
 http://178.212.71.253:8000/play/68/index.m3u8
 #EXTINF:-1 group-title="Познавательное",ПРНК
