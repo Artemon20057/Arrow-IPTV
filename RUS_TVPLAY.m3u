@@ -1136,11 +1136,9 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Простоквашино
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18 (Windows NT 10.0; Win64; x64)
-https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTI0OTQ1NywiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjQ0NjU3LCJzZXNzaW9uX2lkIjoiZTQxOGU1Y2IyOTUzN2I3MGEwZDI0ZTYxZjg1Y2IxZTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.quCZ3s3C8lPFuy_DsTZcI3xMJyP7JOgMbgZzVmvt_9U
+https://stream-msk-20.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTI1MDAxNCwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjQ1MjE0LCJzZXNzaW9uX2lkIjoiYjcwZmJlNDY2MDE0ZjE1Y2NiNDI5OWEyMmFkMmRiYTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.a9lejWAsVRu8iypMPqhqJH9OfDjukXtJq78dvjXzO40
 #EXTINF:-1 group-title="КИНОЗАЛ",Советские фильмы
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18 (Windows NT 10.0; Win64; x64)
-https://stream-msk-16.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTI0OTMwNiwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjQ0NTA2LCJzZXNzaW9uX2lkIjoiM2Y2MjFkYWEyZmRmMGQyODc5ZWI5NGU2MWM1MTA0MTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SACIXQmHrKDbBhD5CtRlCVZVij8lkQNmKlPPxTp29B0
+
 #EXTINF:-1 group-title="КИНОЗАЛ",
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18 (Windows NT 10.0; Win64; x64)
 
