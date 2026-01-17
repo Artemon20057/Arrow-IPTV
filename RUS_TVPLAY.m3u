@@ -1139,7 +1139,11 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ",Простоквашино
-https://stream-msk-20.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTI1MDAxNCwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjQ1MjE0LCJzZXNzaW9uX2lkIjoiYjcwZmJlNDY2MDE0ZjE1Y2NiNDI5OWEyMmFkMmRiYTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.a9lejWAsVRu8iypMPqhqJH9OfDjukXtJq78dvjXzO40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://kino.tricolor.ru/
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-continuous
+https://stream-msk-20.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTI1NDYwNSwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjQ5ODA1LCJzZXNzaW9uX2lkIjoiOTUyMTdhZDA1NzJmZmI1ZjEzY2JlYmEyMzU2OWExNTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mQWt89IVR4ZvID5gUqcLgeRZSwrfyLx6Ob_uR10rBmY
 #EXTINF:-1 group-title="КИНОЗАЛ",Советские фильмы
 
 #EXTINF:-1 group-title="КИНОЗАЛ",
