@@ -558,10 +558,20 @@ http://cdn-bal.srv4you.net/hd-0132/mpegts
 http://iptv46.mcx-ix.ru:8077/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sport HD
+http://tv.lamro.workers.dev/?ID=4926
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
-http://cdn-bal.srv4you.net/0933/mpegts
+http://tv.lamro.workers.dev/?ID=4931
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://cdn-bal.srv4you.net/0934/mpegts
+http://tv.lamro.workers.dev/?ID=4932
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD PREMIUM+
+http://tv.lamro.workers.dev/?ID=5227
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD PREMIUM+
+http://tv.lamro.workers.dev/?ID=5228
+#EXTINF:-1 group-title="Спорт",Setanta Sports HD PREMIUM+
+http://tv.lamro.workers.dev/?ID=5226
+#EXTINF:-1 group-title="Спорт",Окко Спорт HD
+http://tv.lamro.workers.dev/?ID=5238
 #EXTINF:-1 group-title="Спорт",Тонус
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 group-title="Спорт",Точка отрыва
@@ -584,12 +594,12 @@ http://cdn-bal.srv4you.net/0478/mpegts
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Старт
 http://cdn-bal.srv4you.net/0248/mpegts
-#EXTINF:-1 group-title="Спорт",Старт Триумф HD
+#EXTINF:-1 group-title="Спорт",Старт Триумф
 http://cdn-bal.srv4you.net/rj23/mpegts
 #EXTINF:-1 group-title="Спорт",MMA-TV.COM
 http://cdn-bal.srv4you.net/0457/mpegts
 #EXTINF:-1 group-title="Спорт",Russian Extreme
-http://cdn-bal.srv4you.net/0143/mpegts
+http://tv.lamro.workers.dev/?ID=4121
 #EXTINF:-1 group-title="Спорт",БОКС ТВ
 http://cdn-bal.srv4you.net/0346/mpegts
 #EXTINF:-1 group-title="Спорт",Trace Sport Start
@@ -598,7 +608,7 @@ http://87.120.142.11:18000/Rossiya1
 http://cdn-bal.srv4you.net/0235/mpegts
 #EXTINF:-1 group-title="Спорт",Extreme Sports
 http://192.162.64.99:5000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="Спорт",Fast and Funbox HD
+#EXTINF:-1 group-title="Спорт",Fast and Funbox
 http://cdn-bal.srv4you.net/0240/mpegts
 #EXTINF:-1 group-title="Спорт",FightBox
 http://cdn-bal.srv4you.net/0241/mpegts
@@ -659,6 +669,10 @@ http://tv.lamro.workers.dev/?ID=4970
 http://tv.lamro.workers.dev/?ID=5231
 #EXTINF:-1 group-title="Кино и сериалы",Романтичное
 http://tv.lamro.workers.dev/?ID=5233
+#EXTINF:-1 group-title="Кино и сериалы",Scream HD
+http://tv.lamro.workers.dev/?ID=5074
+#EXTINF:-1 group-title="Кино и сериалы",Про Любовь HD
+http://tv.lamro.workers.dev/?ID=4973
 #EXTINF:-1 group-title="Кино и сериалы",Комедия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 #EXTINF:-1 group-title="Кино и сериалы",Хит
@@ -678,12 +692,12 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",FlixSnip
 http://cdn-bal.srv4you.net/05E1FD/mpegts
 #EXTINF:-1 group-title="Кино и сериалы",Кино ТВ
-http://178.212.71.253:8000/play/78/index.m3u8
+http://tv.lamro.workers.dev/?ID=4917
 #EXTINF:-1 group-title="Кино и сериалы",Kinoliving
 http://cdn-bal.srv4you.net/EF68DC/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",KinoJam 1 HD
+#EXTINF:-1 group-title="Кино и сериалы",KinoJam 1
 http://cdn-bal.srv4you.net/0467/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",KinoJam 2 HD
+#EXTINF:-1 group-title="Кино и сериалы",KinoJam 2
 http://cdn-bal.srv4you.net/0468/mpegts
 #EXTINF:-1 group-title="Кино и сериалы",DetectiveJam
 http://cdn-bal.srv4you.net/0493/mpegts
@@ -722,9 +736,11 @@ http://de.1usd.tv/ch059/mono.m3u8?token=1usdtv_sergmih.v2_xv6J4oXCYRxof8DIHg58Cy
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy
 http://de.1usd.tv/ch058/mono.m3u8?token=1usdtv_sergmih.v2_VYyklDAF7ACawY7hDRtPGNEy3sxb607r4NKwDTNUK9srKA8kAjnQH-ACRGw7oeiUrF1eK34bLtsvrh3AWDA
 #EXTINF:-1 group-title="Кино и сериалы",Viju+ Serial
-
+http://tv.lamro.workers.dev/?ID=4962
 #EXTINF:-1 group-title="Кино и сериалы",BOLT
 http://cdn-bal.srv4you.net/0195/mpegts
+#EXTINF:-1 group-title="Кино и сериалы",Plan B
+http://tv.lamro.workers.dev/?ID=5017
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+Кино
 http://86.57.209.210/Fenix/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",FilmBox
@@ -736,12 +752,12 @@ http://cdn-bal.srv4you.net/0181/mpegts
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Индия
 
 #EXTINF:-1 group-title="Кино и сериалы",FOX
-http://cdn-bal.srv4you.net/0101/mpegts
+http://tv.lamro.workers.dev/?ID=4892
 #EXTINF:-1 group-title="Кино и сериалы",Fox Life
-http://cdn-bal.srv4you.net/0207/mpegts
+http://tv.lamro.workers.dev/?ID=4941
 #EXTINF:-1 group-title="Кино и сериалы",SHOT TV
-http://cdn-bal.srv4you.net/3542AD/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",Trash
+http://tv.lamro.workers.dev/?ID=5078
+#EXTINF:-1 group-title="Кино и сериалы",Trashhttp://tv.lamro.workers.dev/?ID=4892
 http://cdn-bal.srv4you.net/2C1A1B/mpegts
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Кино и сериалы",VHS-ка
 http://95.66.188.74/VHS/index.m3u8
@@ -756,8 +772,8 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НCТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы" ,FAN
-
+#EXTINF:-1 group-title="Кино и сериалы" ,FAN
+http://tv.lamro.workers.dev/?ID=5064
 #EXTINF:-1 group-title="Кино и сериалы",Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино
@@ -779,7 +795,7 @@ http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Советское кино
 
 #EXTINF:-1 group-title="Кино и сериалы",Мир сериала
-http://176.118.197.101/MirSeriala/index.m3u8
+http://tv.lamro.workers.dev/?ID=5092
 #EXTINF:-1 group-title="Кино и сериалы",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Romance
@@ -790,9 +806,9 @@ https://region-m.livecdn.ivi.ru/jW1JveYTQo7wzdYv5fN2VCkIW7f92pSoY8p4HcUb0njEd8rl
 #EXTINF:-1 group-title="Кино и сериалы",Cinema
 http://95.66.188.74/Cinema/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Star Cinema
-http://cdn-bal.srv4you.net/ua04/mpegts
+http://tv.lamro.workers.dev/?ID=5079
 #EXTINF:-1 group-title="Кино и сериалы",Star Family
-http://cdn-bal.srv4you.net/ua05/mpegts
+http://tv.lamro.workers.dev/?ID=5080
 #EXTINF:-1 group-title="Кино и сериалы",Ретро ТВ
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Bollywood
@@ -824,8 +840,8 @@ https://stream-msk-13.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/04/plst
 http://cdn-bal.srv4you.net/0208/mpegts
 #EXTINF:-1 group-title="Познавательное",Travel Channel
 http://cdn-bal.srv4you.net/0261/mpegts
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Глазами Туриста
-
+#EXTINF:-1 group-title="Познавательное",Глазами Туриста
+http://tv.lamro.workers.dev/?ID=4893
 #EXTINF:-1 group-title="Познавательное",Моя стихия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:-1 group-title="Познавательное",Точка.РФ
@@ -843,13 +859,19 @@ http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Живая Природа
 http://178.212.71.253:8000/play/79/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Зоо ТВ
-http/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+http://tv.lamro.workers.dev/?ID=5111
+#EXTINF:-1 group-title="Познавательное",Zooпарк
+http://tv.lamro.workers.dev/?ID=5099
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательное",В мире животных HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:-1 group-title="Познавательное",Домашние животные
+http://tv.lamro.workers.dev/?ID=5105
 #EXTINF:-1 group-title="Познавательное",Лапки Live
 http://cdn-bal.srv4you.net/rj17/mpegts
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,The Explorers
 
+#EXTINF:-1 group-title="Познавательное",DocuBox
+http://tv.lamro.workers.dev/?ID=4591
 #EXTINF:-1 group-title="Познавательное",Galaxy
 http://176.118.197.125/Galaxy/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Арсенал
@@ -892,10 +914,14 @@ http://cdn.voka.tv/live/994-req_5k_v5.m3u8
 http://185.164.82.18:9010/ykMHqK_NatGeo
 #EXTINF:-1 group-title="Познавательное",Discovery Channel
 http://de.1usd.tv/ch123/mono.m3u8?token=1usdtv_sergmih.v2_yw5ZPVDMHNqIrVGgOaFKmThbZLn7qxqLuCIN8cZkE8DO3hpaFF4dtgYqqEBnKoI-ojpkj9dfA2goXceyvmT-
+#EXTINF:-1 group-title="Познавательное",ID Xtra
+http://tv.lamro.workers.dev/?ID=3283
 #EXTINF:-1 group-title="Познавательное",Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательное",Animal Planet
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательное",Animal Planet HD
+http://tv.lamro.workers.dev/?ID=3738
 #EXTINF:-1 group-title="Познавательное",History
 http://cdn-bal.srv4you.net/0259/mpegts
 #EXTINF:-1 group-title="Познавательное",History2
@@ -910,6 +936,8 @@ http://178.212.71.253:8000/play/132/index.m3u8
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Живи активно
 https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
+#EXTINF:-1 group-title="Познавательное",Первый вегетарианский HD
+http://tv.lamro.workers.dev/?ID=5116
 #EXTINF:-1 group-title="Познавательное",Доктор
 http://178.212.71.253:8000/play/68/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Бобёр
@@ -932,8 +960,8 @@ http://tv.lamro.workers.dev/?ID=5102
 http://tv.lamro.workers.dev/?ID=5103
 #EXTINF:-1 group-title="Познавательное",Охотник и рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Диалоги о рыбалке
-
+#EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
+http://tv.lamro.workers.dev/?ID=5101
 #EXTINF:-1 group-title="Познавательное",Охота и Рыбалка
 http://193.25.8.59:8000/ohota
 #EXTINF:-1 group-title="Познавательное",Наша Тема
@@ -1444,12 +1472,18 @@ http://176.118.197.125/Mama/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:-1 group-title="Детский",Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детский",Капитан Фантастика
+http://tv.lamro.workers.dev/?ID=4745
 #EXTINF:-1 group-title="Детский",О!
 http://178.217.72.72/O/index.m3u8
 #EXTINF:-1 group-title="Детский",Рыжий
 http://95.66.188.74/RYZHIY/mono.m3u8
 #EXTINF:-1 group-title="Детский",Чижик
 http://de.1usd.tv/ch425/mono.m3u8?token=1usdtv_sergmih.v2_vA2GD-lgbVUYS18GqeixtsmTeN0sv0apitek8i277G2gXtQyLqZnijvG-fc32zwhzecQBajdCl8sh9d18C-W
+#EXTINF:-1 group-title="Детский",ТипТоп
+http://tv.lamro.workers.dev/?ID=5121
+#EXTINF:-1 group-title="Детский",Малыш ТВ
+http://tv.lamro.workers.dev/?ID=4894
 #EXTINF:-1 group-title="Детский",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детский",Мульт HD
@@ -1470,6 +1504,8 @@ http://46.8.46.14/detskiy/index.m3u8
 http://178.217.72.72/Malysh/index.m3u8
 #EXTINF:-1 group-title="Детский",Детский Мир
 http://46.8.46.14/detmir/index.m3u8
+#EXTINF:-1 group-title="Детский",Лева
+http://tv.lamro.workers.dev/?ID=5095
 #EXTINF:-1 group-title="Детский",Duck TV
 http://de.1usd.tv/ch707/mono.m3u8?token=1usdtv_sergmih.v2_aG_XQTB7Jb2pW_ALxNHgoHnS7kbuI4ZCVUMU447d2GBhZl-qqP16qsomIX7uLmgzU6Pc7GYtOkiQTnqW1O9i
 #EXTINF:-1 group-title="Детский",FamilyJam
