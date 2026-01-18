@@ -900,14 +900,13 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательное" tvg-id="znanie",Знание ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
+https://stream-msk-14.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTM0ODQzMSwiaHdpZCI6ImEzNDhmMmJjMGMzMzBlZTNiMzA4NjRhYTQ3MWJiM2JhYzRiODczODkzMGNlZDM1MjFhNDk4NzdkYThjNGY1ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzQzNjMxLCJzZXNzaW9uX2lkIjoiZjRlMjA5MGVkNmIyNjFlYTFhMWU3YjI3MDZlMGUwNWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i5ZlxfW-1EhOs3Y0CcFV_Ywq8szIvdEIKKWNqOWTgmA
 #EXTINF:-1 group-title="Познавательное",Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Da Vinci
 http://cdn-bal.srv4you.net/0317/mpegts
 #EXTINF:-1 group-title="Познавательное",МЫ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
-https://stream18.sputnik24.tv/my/480p/index.m3u8?sig=1768767000_ec8dcdaa9c69064a2aafc48310589f91
+
 #EXTINF:-1 group-title="Познавательное",Viju Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=6n6YteXjnt62OalCMGyCiw&e=1769776008&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -1087,9 +1086,6 @@ http://de.1usd.tv/ch046/mono.m3u8?token=1usdtv_sergmih.v2_CZcvMdg7FsCelCql33NEqY
 http://de.1usd.tv/ch454/mono.m3u8?token=1usdtv_sergmih.v2_sU50KM_xbxeSq39KPokT3l2lhNgJNn4ZA_Jl-66f35mQJM6h_cTTwdZEqG5bPTkg5_2MPR9e4fXu0knHmYhR
 #EXTINF:-1 group-title="Развлекательное",Еда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
-#EXTINF:-1 group-title="Развлекательное",Аппетитный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
-https://stream18.sputnik24.tv/appetitniy/480p/index.m3u8?sig=1768767205_d17f816024d0433871714534987bac5a
 #EXTINF:-1 group-title="Развлекательное",Leomax +
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательное",Shopping Live
@@ -1199,13 +1195,6 @@ http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 http://195.9.195.3:8080/hls/206461.m3u8
 #EXTINF:-1 group-title="UHD (4K)",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="UHD (4K)",Глазами Туриста 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
-https://stream16.sputnik24.tv/glazami_turista_4k/2160p/index.m3u8?sig=1768767510_440be824ac9f4ed3e889fcc5108c759a
-#EXTINF:-1 group-title="UHD (4K)",Home 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
-https://stream04.sputnik24.tv/home_4k/1080p/index.m3u8?sig=1768767611_b6adcef8617e045283d7721405f1673a
-#EXTINF:-1 group-title="UHD (4K)",
 
 #EXTINF:-1 group-title="КИНОЗАЛ",BCU Kinorating
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
