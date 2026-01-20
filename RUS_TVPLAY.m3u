@@ -876,8 +876,6 @@ http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIU
 #EXTINF:-1 group-title="Познавательное",DocuBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36
 http://tv.lamro.workers.dev/?ID=4591
-#EXTINF:-1 group-title="Познавательное",DocuBox
-http://tv.lamro.workers.dev/?ID=4591
 #EXTINF:-1 group-title="Познавательное",Galaxy
 http://176.118.197.125/Galaxy/index.m3u8
 #EXTINF:-1 group-title="Познавательное",Арсенал
@@ -1086,6 +1084,8 @@ http://de.1usd.tv/ch046/mono.m3u8?token=1usdtv_sergmih.v2_CZcvMdg7FsCelCql33NEqY
 http://de.1usd.tv/ch454/mono.m3u8?token=1usdtv_sergmih.v2_sU50KM_xbxeSq39KPokT3l2lhNgJNn4ZA_Jl-66f35mQJM6h_cTTwdZEqG5bPTkg5_2MPR9e4fXu0knHmYhR
 #EXTINF:-1 group-title="Развлекательное",Еда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+#EXTINF:-1 group-title="Развлекательное" tvg-id="tochka-tv",Точка ТВ
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательное",Leomax +
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательное",Shopping Live
