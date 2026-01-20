@@ -583,13 +583,18 @@ http://cdn-bal.srv4you.net/0453/mpegts
 #EXTINF:-1 group-title="Спорт",КХЛ Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт",Футбол
-http://cdn-bal.srv4you.net/0115/mpegts
-#EXTINF:-1 group-title="Спорт",Мяч HD
-http://cdn-bal.srv4you.net/0466/mpegts
-#EXTINF:-1 group-title="Спорт",Спортивный
-http://cdn-bal.srv4you.net/0478/mpegts
+http://91.207.115.228:5000/c102
+#EXTINF:-1 group-title="Спорт",Хоккей ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/xokkejny.m3u8
+#EXTINF:-1 group-title="Спорт",Мяч
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/footbolny.m3u8
+#EXTINF:-1 group-title="Спорт",ТВ Спорт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/sportivny.m3u8
 #EXTINF:-1 group-title="Спорт",Мир баскетбола
-
+http://195.158.223.132:8003/Mir_Basketbola
 #EXTINF:-1 group-title="Спорт",Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Старт
@@ -613,24 +618,22 @@ http://cdn-bal.srv4you.net/0240/mpegts
 #EXTINF:-1 group-title="Спорт",FightBox
 http://cdn-bal.srv4you.net/0241/mpegts
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинопремьера
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4OTU3MTcsImlhdCI6MTc2ODgwOTMxNywiY2lkIjo2LCJ1aWQiOjk5MTQxOTkxMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.DGimuOlLzI7Wrwwxlbg6Avz5cnjFEDiGctXgtGUTUpM&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киносемья
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4OTU3MTcsImlhdCI6MTc2ODgwOTMxNywiY2lkIjo2LCJ1aWQiOjk5MTQxOTkxMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.DGimuOlLzI7Wrwwxlbg6Avz5cnjFEDiGctXgtGUTUpM&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киносвидание
-http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4OTU3MTcsImlhdCI6MTc2ODgwOTMxNywiY2lkIjo2LCJ1aWQiOjk5MTQxOTkxMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.DGimuOlLzI7Wrwwxlbg6Avz5cnjFEDiGctXgtGUTUpM&offset=10
+#EXTINF:-1 group-title="Кино и сериалы",Кинопремьера
+https://jekalich.github.io/smtk/channels/kinopremiera-hd.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Киносемья
+https://jekalich.github.io/smtk/channels/kinosemiya.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Киносвидание
+https://jekalich.github.io/smtk/channels/kinosvidanie.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Киносерия
 http://95.66.188.74/Kinoseriya/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинохит
-http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4OTU3MTcsImlhdCI6MTc2ODgwOTMxNywiY2lkIjo2LCJ1aWQiOjk5MTQxOTkxMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.DGimuOlLzI7Wrwwxlbg6Avz5cnjFEDiGctXgtGUTUpM&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киноужас
-http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4OTU3MTcsImlhdCI6MTc2ODgwOTMxNywiY2lkIjo2LCJ1aWQiOjk5MTQxOTkxMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.DGimuOlLzI7Wrwwxlbg6Avz5cnjFEDiGctXgtGUTUpM&offset=10
+#EXTINF:-1 group-title="Кино и сериалы",Кинохит
+https://jekalich.github.io/smtk/channels/kinoxit.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Киномикс
 http://95.66.188.74/Kinomiks/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Индийское кино
-http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4OTU3MTcsImlhdCI6MTc2ODgwOTMxNywiY2lkIjo2LCJ1aWQiOjk5MTQxOTkxMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.DGimuOlLzI7Wrwwxlbg6Avz5cnjFEDiGctXgtGUTUpM&offset=10
+#EXTINF:-1 group-title="Кино и сериалы",Индийское кино
+https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Наше новое кино
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Мужское кино
@@ -697,8 +700,6 @@ http://178.212.71.253:8001/play/144/index.m3u8
 http://cdn-bal.srv4you.net/05E1FD/mpegts
 #EXTINF:-1 group-title="Кино и сериалы",Кино ТВ
 http://tv.lamro.workers.dev/?ID=4917
-#EXTINF:-1 group-title="Кино и сериалы",Kinoliving
-http://cdn-bal.srv4you.net/EF68DC/mpegts
 #EXTINF:-1 group-title="Кино и сериалы",KinoJam 1
 http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTUyODkyNCwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4OTI0MTI0LCJzZXNzaW9uX2lkIjoiYWIyNzNiNGQ4NjA1YjljNjg3YjgwZmM5Zjk5MTRjZjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8-G1-XAhpQcWxfO2YPXehBL12Jh4iZhCesVMidMrFv8
 #EXTINF:-1 group-title="Кино и сериалы",KinoJam 2
@@ -773,7 +774,8 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",День Победы
-https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/denpobedy.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НCТ
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" ,FAN
@@ -1275,9 +1277,12 @@ http://95.66.188.74/RYZHIY/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://jekalich.github.io/smtk/channels/chizhik.m3u8
 #EXTINF:-1 group-title="Детский",ТипТоп
-http://tv.lamro.workers.dev/?ID=5121
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/tiptop.m3u8
 #EXTINF:-1 group-title="Детский",Малыш ТВ
 http://tv.lamro.workers.dev/?ID=4894
+#EXTINF:-1 group-title="Детский",КиноМульт
+http://109.200.130.123:7537/play/a024
 #EXTINF:-1 group-title="Детский",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детский",Мульт HD
