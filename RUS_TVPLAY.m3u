@@ -900,6 +900,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 http://tv.lamro.workers.dev/?ID=3147
 #EXTINF:-1 group-title="Познавательное",Диалоги о рыбалке
 http://tv.lamro.workers.dev/?ID=5101
+#EXTINF:-1 group-title="Познавательное",Рыболов
+https://stream-msk-09.ott.tricolor.tv/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTcwODk4NiwiaHdpZCI6ImMxZWM0MjQ3MThiMTE4OTRmM2ZkZjYwYjlmNTIwZGM4ZjhkODRkM2U2YzgwZGM0M2NiOWRiNDMwODdiNTRhOGQiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTA0MTg2LCJzZXNzaW9uX2lkIjoiMDdhZWUyZTZhNDM5NTVlZDA1ZGMzZTgwZjk5ODI5OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wcafupWxuW5zoADqfTSVqopz0HsPs0UnswMrioUo0E4
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Авто 24
 http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkxNTQ4MzIsImlhdCI6MTc2OTA2ODQzMiwiY2lkIjo2LCJ1aWQiOjk5Mjg2MjYwOCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.IOzn4i4yk3ZsDQ380DKYkEJfap1Dwcn3oh2HsWuwOfw&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Авто плюс
@@ -1051,6 +1053,79 @@ http://tv.lamro.workers.dev/?ID=5060
 http://tv.lamro.workers.dev/?ID=4894
 #EXTINF:-1 group-title="Детский",Капитан Фантастика HD
 http://tv.lamro.workers.dev/?ID=4745
+
+#EXTINF:-1 tvg-id="Prostokvashino" group-title="КИНОЗАЛ",Простоквашино
+https://stream-msk-17.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTcwOTA1NCwiaHdpZCI6ImMxZWM0MjQ3MThiMTE4OTRmM2ZkZjYwYjlmNTIwZGM4ZjhkODRkM2U2YzgwZGM0M2NiOWRiNDMwODdiNTRhOGQiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTA0MjU0LCJzZXNzaW9uX2lkIjoiNTU5Zjc1NTA4ZmI0ZGQ1ZTE2ZGU3ZDUxYTBlY2ExODkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SSBboKHFqUHi5sGJc5WPJZkfSuREC-gE7pfyYkRQLDU
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Premiere 1 HD
+http://tv.lamro.workers.dev/?ID=5162
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Premiere 2 HD
+http://tv.lamro.workers.dev/?ID=5163
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Premiere 3 HD
+http://tv.lamro.workers.dev/?ID=5165
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU CCCP HD
+http://tv.lamro.workers.dev/?ID=5167
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Action HD
+http://tv.lamro.workers.dev/?ID=5168
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Catastrophe HD
+http://tv.lamro.workers.dev/?ID=5169
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Fantastic HD
+http://tv.lamro.workers.dev/?ID=5171
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU FilMystic HD
+http://tv.lamro.workers.dev/?ID=5172
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU History HD
+http://tv.lamro.workers.dev/?ID=5173
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Premiere HD
+http://tv.lamro.workers.dev/?ID=5175
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Stars HD
+http://tv.lamro.workers.dev/?ID=5177
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU RUSERIAL HD
+http://tv.lamro.workers.dev/?ID=5180
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Сваты HD
+http://tv.lamro.workers.dev/?ID=5181
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Criminal HD
+http://tv.lamro.workers.dev/?ID=5182
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Cinema HD
+http://tv.lamro.workers.dev/?ID=5183
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Kinorating HD
+http://tv.lamro.workers.dev/?ID=5184
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Cosmo HD
+http://tv.lamro.workers.dev/?ID=5237
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
