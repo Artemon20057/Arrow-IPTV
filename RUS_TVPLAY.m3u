@@ -1055,8 +1055,7 @@ http://tv.lamro.workers.dev/?ID=4894
 http://tv.lamro.workers.dev/?ID=4745
 
 #EXTINF:-1 tvg-id="Prostokvashino" group-title="КИНОЗАЛ",Простоквашино
-https://stream-msk-18.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTcxMzE4MSwiaHdpZCI6ImMxZWM0MjQ3MThiMTE4OTRmM2ZkZjYwYjlmNTIwZGM4ZjhkODRkM2U2YzgwZGM0M2NiOWRiNDMwODdiNTRhOGQiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTA4MzgxLCJzZXNzaW9uX2lkIjoiMzQ2ZGE1ZjFkMmEyNTVjOWZlYWRkNWFiNmIyNjAyYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.MZ2vLKrNhMQABPjdHze8H3QuhXxcP6DZUoi9_p_BT5s
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Скорая помощь
+https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTcxNDUyNiwiaHdpZCI6ImMxZWM0MjQ3MThiMTE4OTRmM2ZkZjYwYjlmNTIwZGM4ZjhkODRkM2U2YzgwZGM0M2NiOWRiNDMwODdiNTRhOGQiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTA5NzI2LCJzZXNzaW9uX2lkIjoiYWZkMjI1YTA5OTdjMTYwYTdiNWViYjljYjNhNjEzY2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.XgtadlyX7mf6jC5Pp0YBWsIph-cHuSalrtQhEhZ7f2s#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
