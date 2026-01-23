@@ -1054,8 +1054,11 @@ http://tv.lamro.workers.dev/?ID=4894
 #EXTINF:-1 group-title="Детский",Капитан Фантастика HD
 http://tv.lamro.workers.dev/?ID=4745
 
+#EXTINF:-1 group-title="TEST",День победы
+https://stream-msk-06.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTc2MjkyOCwiaHdpZCI6IjU1NDViOTc2YTgxMjk0MTdmMzQyYWE2NDRjNmNjOWEzMjFhZjA5YmJkNTJiYWUwNjI3NzM5MTM1ZGQwOTc1MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTU4MTI4LCJzZXNzaW9uX2lkIjoiNzk0MmY1ZmVlNmQwZTAyYzk2NTJlNzQzNTY1MjRjNmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.55px8FIThRjdHg2Z3wZGNAzh3PDtHvOXD-EuZXzvA5g
+
 #EXTINF:-1 tvg-id="Prostokvashino" group-title="КИНОЗАЛ",Простоквашино
-https://stream-msk-20.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc2OTcxNDUyNiwiaHdpZCI6ImMxZWM0MjQ3MThiMTE4OTRmM2ZkZjYwYjlmNTIwZGM4ZjhkODRkM2U2YzgwZGM0M2NiOWRiNDMwODdiNTRhOGQiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTA5NzI2LCJzZXNzaW9uX2lkIjoiYWZkMjI1YTA5OTdjMTYwYTdiNWViYjljYjNhNjEzY2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.XgtadlyX7mf6jC5Pp0YBWsIph-cHuSalrtQhEhZ7f2s
+
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Первый отдел
