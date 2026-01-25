@@ -737,6 +737,9 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sov-kinklass-hd.png" group-title="Кино и сериалы",Советская киноклассика
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
 https://region-m.livecdn.ivi.ru/jW1Gt5IW0StR53dUMQufKe6kenTXlWfYFCsbFSUhVppI93cR80A159272/CxWIJGzAsGkwuHgjlFUJzg,1769348604/noargs/channel/Soviet_Kinoklassika_HD_71484/1080p.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" group-title="Кино и сериалы",VHS-ка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
+https://region-s.livecdn.ivi.ru/jW1IxsmQ4Rju7AGfBRiAy8HM4L7VPcFjzWant6vGf4MuwrBWgxaS43165/e_pSIbPbxqa9LXjFnCHJbA,1769349830/live/ivi/vhs/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 #EXTINF:-1 tvg-id="evrokino" group-title="Кино и сериалы",Еврокино
 http://193.25.8.59:8000/eurokino
 #EXTINF:-1 tvg-id="romance" group-title="Кино и сериалы",Romance (Новогодний)
@@ -787,7 +790,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
 #EXTINF:-1 tvg-id="	nano-tv" group-title="Познавательное",Nano TV
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" group-title="Познавательное" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/neizvestnaya-planeta.png" group-title="Познавательное",Неизвестная планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
@@ -1082,16 +1085,22 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 http://tv.lamro.workers.dev/?ID=4745
 
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пёс
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Первый отдел
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Шеф
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Невский
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Балабол
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пять минут тишины
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" group-title="КИНОЗАЛ",BCU Premiere 1 HD
 http://tv.lamro.workers.dev/?ID=5162
