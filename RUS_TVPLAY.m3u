@@ -872,6 +872,8 @@ http://193.25.8.59:8000/rtg
 http://cdn-01.bonus-tv.ru:80/rtdoc/index.m3u8
 #EXTINF:-1 tvg-id="ruskorabl" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/ruskorabl.png" group-title="Познавательное",Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательное",Знание
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
 #EXTINF:-1 tvg-id="muzhskoy" group-title="Познавательное",Мужской
 http://tv.lamro.workers.dev/?ID=5091
 #EXTINF:-1 tvg-id="oruzhie" group-title="Познавательное",Оружие
@@ -1142,43 +1144,41 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-03-tricolor"  tvg-logo="https://iptvx.one/picons/zal-03-tricolor.png" ,Ментовские войны
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
-#EXTINF:-1 group-title="КИНОЗАЛ",Солдаты
+#EXTINF:-1 group-title="КИНОЗАЛ","Мир без границ" с Сергеем Завидовым
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
-#EXTINF:-1 group-title="КИНОЗАЛ",Любовь и тайны Тумахана
+#EXTINF:-1 group-title="КИНОЗАЛ",Некрасивая подружка
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-07-tricolor"  tvg-logo="https://iptvx.one/picons/zal-07-tricolor.png" ,Три богатыря
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-08-tricolor"  tvg-logo="https://iptvx.one/picons/zal-08-tricolor.png" ,Деревянные дома
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
-#EXTINF:-1 group-title="КИНОЗАЛ",Мент в законе
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
-#EXTINF:-1 group-title="КИНОЗАЛ",tvg-logo="http://epg.one/img2/4775.png" ,Ералаш
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="http://epg.one/img2/4775.png",Советские мультфильмы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-11-tricolor"  tvg-logo="https://iptvx.one/picons/zal-11-tricolor.png" ,Смешарики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-12-tricolor"  tvg-logo="https://iptvx.one/picons/zal-12-tricolor.png" ,Комедии
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
-#EXTINF:-1 group-title="КИНОЗАЛ",Супергероини
+#EXTINF:-1 group-title="КИНОЗАЛ",История изобретений
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
-#EXTINF:-1 group-title="КИНОЗАЛ",Обучалки
+#EXTINF:-1 group-title="КИНОЗАЛ",Гормити
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-23-tricolor"  tvg-logo="https://iptvx.one/picons/zal-23-tricolor.png" ,Советские фильмы
+#EXTINF:-1 tvg-id="zal-23-tricolor" tvg-logo="https://iptvx.one/picons/zal-23-tricolor.png" group-title="КИНОЗАЛ" ,Советские фильмы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
-#EXTINF:-1 group-title="КИНОЗАЛ",Глухарь
+#EXTINF:-1 group-title="КИНОЗАЛ",По горам - по полям
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal24_SD
-#EXTINF:-1 group-title="КИНОЗАЛ",Пятницкий
+#EXTINF:-1 group-title="КИНОЗАЛ",Семейная кухня
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
-#EXTINF:-1 group-title="КИНОЗАЛ",Карпов
+#EXTINF:-1 group-title="КИНОЗАЛ",Душевные песни
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-27-tricolor"  tvg-logo="https://iptvx.one/picons/zal-27-tricolor.png" ,Улицы разбитых фонарей
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-27-tricolor" tvg-logo="https://iptvx.one/picons/zal-27-tricolor.png" ,Улицы разбитых фонарей
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-28-tricolor"  tvg-logo="https://iptvx.one/picons/zal-28-tricolor.png" ,6 кадров
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-28-tricolor" tvg-logo="https://iptvx.one/picons/zal-28-tricolor.png" ,6 кадров
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
-#EXTINF:-1 group-title="КИНОЗАЛ",Евлампия Романова
+#EXTINF:-1 group-title="КИНОЗАЛ",Леди Бомж
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-30-tricolor"  tvg-logo="https://iptvx.one/picons/zal-30-tricolor.png" ,Мажор
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-30-tricolor" tvg-logo="https://iptvx.one/picons/zal-30-tricolor.png" ,Балабол
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-17-tricolor"  tvg-logo="https://iptvx.one/picons/zal-17-tricolor.png" ,Боевики
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-17-tricolor" tvg-logo="https://iptvx.one/picons/zal-17-tricolor.png" ,Боевики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
 #EXTINF:-1 group-title="КИНОЗАЛ",Простоквашино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
