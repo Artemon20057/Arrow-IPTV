@@ -562,16 +562,32 @@ http://193.25.8.59:8000/viasatsport
 http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
 #EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф
 https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2
-#EXTINF:-1 tvg-id="m1global" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спортивные",MMA-TV.COM
-http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",MMA-TV.COM
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
 #EXTINF:-1 tvg-id="kxl" group-title="Спортивные",KHL
 http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",KHL Prime
 http://193.25.8.59:8000/khl
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/russky-ekstrim.png" group-title="Спортивные",Russia Extreme
-http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
-#EXTINF:-1 tvg-id="sportivny" group-title="Спортивные",Спортивный
-http://live-3.otcnet.ru/sportivny/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Russkiy_Extreme
+#EXTINF:-1 group-title="Спортивные",ТВ Спорт
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
+#EXTINF:-1 group-title="Спортивные",Мяч
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
+#EXTINF:-1 group-title="Спортивные",Хоккей ТВ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
+#EXTINF:-1 group-title="Спортивные",Большой эфир
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=ChannelLIVE
+#EXTINF:-1 group-title="Спортивные",БУМ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE1
+#EXTINF:-1 group-title="Спортивные",Игра
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
+#EXTINF:-1 group-title="Спортивные",Поединок
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
+#EXTINF:-1 group-title="Спортивные",Наш спорт
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey1
+#EXTINF:-1 group-title="Спортивные",Сила HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
 #EXTINF:-1 tvg-id="tonus-tv" group-title="Спортивные",Тонус
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 tvg-id="voleybol" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/voleybol.png" group-title="Спортивные",Волейбол
@@ -611,51 +627,55 @@ http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUz
 #EXTINF:-1 tvg-id="" group-title="Кино и сериалы",Киноман
 http://tv.lamro.workers.dev/?ID=5086
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Кино и сериалы",Кинопоказ
-http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 tvg-id="nash-kinopokaz" group-title="Кино и сериалы",Наш Кинопоказ
-http://tv.lamro.workers.dev/?ID=4967
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="Кино и сериалы",Премиальное
-http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
+#EXTINF:-1 tvg-id="premialnoe-hd" group-title="Кино и сериалы",Премиальное (+4)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD_4
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="Кино и сериалы",Душевное
-http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" group-title="Кино и сериалы",Остросюжетное
-https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
 #EXTINF:-1 tvg-id="romantichnoe" group-title="Кино и сериалы",Романтичное
-http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Romantichnoe
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="Кино и сериалы",Любимое
-https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 #EXTINF:-1 tvg-id="nashehd" group-title="Кино и сериалы",Наше
-https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_krutoe_HD
 #EXTINF:-1 tvg-id="shokiruyushchee" group-title="Кино и сериалы",Шокирующее
-http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
+#EXTINF:-1 group-title="Кино и сериалы",Шокирующее HD (+3)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
 #EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="Кино и сериалы",Криминальное
-http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kriminalnoe_HD
 #EXTINF:-1 tvg-id="komedijnoe" group-title="Кино и сериалы",Комедийное
-http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+https://tinyurl.com/roma-123/147/mpegts
 #EXTINF:-1 tvg-id="blokbaster" group-title="Кино и сериалы",Блокбастер
 http://tv.lamro.workers.dev/?ID=4963
-#EXTINF:-1 group-title="Кино и сериалы",Наш Детектив
-http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="Кино и сериалы",Наше Мужское
-http://tv.lamro.workers.dev/?ID=4971
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
 #EXTINF:-1 tvg-id="khit" group-title="Кино и сериалы",Хит
-http://tv.lamro.workers.dev/?ID=4972
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
 #EXTINF:-1 tvg-id="kamedi" group-title="Кино и сериалы",Камеди
 http://tv.lamro.workers.dev/?ID=4965
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="Кино и сериалы",Про Любовь
 http://tv.lamro.workers.dev/?ID=4973
 #EXTINF:-1 tvg-id="scream" group-title="Кино и сериалы",Scream
 http://tv.lamro.workers.dev/?ID=5074
+#EXTINF:-1  tvg-id="lavstori-hd" tvg-logo="https://iptvx.one/picons/lavstori-hd.png" group-title="Кино и сериалы",Лавстори
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
 #EXTINF:-1 tvg-id="patriot" group-title="Кино и сериалы",Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="Кино и сериалы",Комедия
-http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы",Кинеко
-http://tv.lamro.workers.dev/?ID=5085
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
 #EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы",Сапфир
-http://tv.lamro.workers.dev/?ID=5232
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
 #EXTINF:-1 tvg-id="dorama" group-title="Кино и сериалы",Дорама
-http://193.27.209.122/dorama/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Dorama
 #EXTINF:-1 tvg-id="rus-hualiang-tv" group-title="Кино и сериалы",Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air
@@ -701,15 +721,15 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=OAghI0p6bxAY5toqGgGV5A&e=1770230212&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы" tvg-id="domkino",Дом кино
-http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Кино и сериалы" tvg-id="domkino-premium",Дом кино Премиум HD
-http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский Роман
-http://62.89.220.15/streams/media/russkiy-roman_720x576/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
-http://62.89.220.15/streams/media/russkiy-bestseller_720x576/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Кино и сериалы",Русский Детектив
-http://62.89.220.15/streams/media/russkiy-detektiv_720x576/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="Кино и сериалы",Русский Иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Кино и сериалы",Иллюзион+
@@ -724,6 +744,8 @@ http://tv.lamro.workers.dev/?ID=5055
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="Кино и сериалы",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 tvg-id="sov-kino" group-title="Кино и сериалы",Советское кино
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино
 http://86.57.209.210/Fenix/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Кино и сериалы",Cinema
@@ -733,10 +755,9 @@ http://tv.lamro.workers.dev/?ID=5079
 #EXTINF:-1 tvg-id="star-family" group-title="Кино и сериалы",Star Family
 http://tv.lamro.workers.dev/?ID=5080
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/mosfilm.png" group-title="Кино и сериалы",Мосфильм Золотая Коллекция
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sov-kinklass-hd.png" group-title="Кино и сериалы",Советская киноклассика
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
-https://region-m.livecdn.ivi.ru/jW1Gt5IW0StR53dUMQufKe6kenTXlWfYFCsbFSUhVppI93cR80A159272/CxWIJGzAsGkwuHgjlFUJzg,1769348604/noargs/channel/Soviet_Kinoklassika_HD_71484/1080p.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
 #EXTINF:-1 tvg-id="vhs-ka" group-title="Кино и сериалы",VHS-ка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
 https://region-s.livecdn.ivi.ru/jW1IxsmQ4Rju7AGfBRiAy8HM4L7VPcFjzWant6vGf4MuwrBWgxaS43165/e_pSIbPbxqa9LXjFnCHJbA,1769349830/live/ivi/vhs/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
@@ -745,25 +766,24 @@ http://193.25.8.59:8000/eurokino
 #EXTINF:-1 tvg-id="romance" group-title="Кино и сериалы",Romance (Новогодний)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
 https://region-m.livecdn.ivi.ru/jW1J8RSi6OeVcH0Xve65hQo5WwPqErEakQt3rU6QZBlHi5lBz3xd72448/Lx5iJFuRZsoBzuD5bDGqLQ,1769349085/noargs/channel/Romance_NY_HD/1080p.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pobeda.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Победа
-http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pobeda.png" group-title="Кино и сериалы",Победа
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pobeda
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/denpobedy.png" group-title="Кино и сериалы",День победы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://region-m.livecdn.ivi.ru/jW1HGhkOj8mbqh2Nw8Nf8M2zXg9RnPyfgKTNaAOnLGZTmsGCMdn292269/LfuE9DM1SGioJ2gl_FN9cQ,1769348642/noargs/channel/Den_Pobedy_HD_71495/1080p.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 #EXTINF:-1 tvg-id="bolt" group-title="Кино и сериалы",Bolt
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="fanhd" group-title="Кино и сериалы",FAN HD
-http://tv.lamro.workers.dev/?ID=5064
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 tvg-id="shot-tv" group-title="Кино и сериалы",Shot TV
 http://tv.lamro.workers.dev/?ID=5078
 #EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы",Plan B
 http://tv.lamro.workers.dev/?ID=5017
 #EXTINF:-1 tvg-id="flixsnip" group-title="Кино и сериалы",Flix Snip
-http://tv.lamro.workers.dev/?ID=5066
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:-1 tvg-id="hollywood" group-title="Кино и сериалы",Hollywood
 http://tv.lamro.workers.dev/?ID=4589
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Кино и сериалы",Bollywood
-http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 tvg-id="nst" group-title="Кино и сериалы",НСТ
 http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
 #EXTINF:-1 tvg-id="filmbox-ru" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Filmbox
@@ -776,26 +796,28 @@ http://tv.lamro.workers.dev/?ID=5224
 http://tv.lamro.workers.dev/?ID=4853
 
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/prikluchenia-hd.png" group-title="Познавательное",Приключения
-http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Teletr
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/teleputeshestvia.png" group-title="Познавательное",Телепутешествия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/v-mire-zhivotnyx.png" group-title="Познавательное",В мире животных
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="Познавательное",Домашние животные
 http://tv.lamro.workers.dev/?ID=5105
+#EXTINF:-1  group-title="Познавательное",Мир вокруг
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
 #EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательное",Первый Космический
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:-1 tvg-id="texno-24" group-title="Познавательное",Техно 24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
 #EXTINF:-1 tvg-id="	nano-tv" group-title="Познавательное",Nano TV
-http://s1.tv-nano.com/Nano_rec/video.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nano_HD
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" group-title="Познавательное" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/neizvestnaya-planeta.png" group-title="Познавательное",Неизвестная планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-id="	travel-adventure" group-title="Познавательное",Travel+Adventure
-http://77.232.131.211/TravelAdventureHD/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TravelplusAdventure_HD
 #EXTINF:-1 tvg-id="vkus" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/vkus.png" group-title="Познавательное",Вкус
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
 https://region-m.livecdn.ivi.ru/jW1GjObxW69GJAbyr9nKh6ZF4Q10xx9OHP1beUDrur7HGronOAKO68554/cPZNqbq4lBwbADga-uC_Rw,1769348901/noargs/channel/VKUS_HD/1080p.m3u8
@@ -803,38 +825,44 @@ https://region-m.livecdn.ivi.ru/jW1GjObxW69GJAbyr9nKh6ZF4Q10xx9OHP1beUDrur7HGron
 http://tv.lamro.workers.dev/?ID=4893
 #EXTINF:-1 tvg-id="the-explorers" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",The Explorers
 http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+#EXTINF:-1 group-title="Познавательное",Калейдоскоп ТВ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kaleydoskop
 #EXTINF:-1 tvg-id="otkryty-mir" group-title="Познавательное",Открытый мир
-http://v4.proofix.ru/0mir/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
 #EXTINF:-1 tvg-id="hd-life" group-title="Познавательное",Точка.РФ
 http://tv.lamro.workers.dev/?ID=4885
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательное",Оcean TV
-http://tv.lamro.workers.dev/?ID=4984
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=OCEAN_TV
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательное",Моя планета
-http://94.232.104.237:8000/play/072/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательное",Моя планета HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta_HD
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательное",Живая природа 
 http://tv.lamro.workers.dev/?ID=5109
 #EXTINF:-1 tvg-id="zhivaya-planeta" group-title="Познавательное",Живая планета
-http://tv.lamro.workers.dev/?ID=4123
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
 #EXTINF:-1 tvg-id="zootv" group-title="Познавательное",Зоо ТВ
-http://tv.lamro.workers.dev/?ID=5111
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zoo_TV
 #EXTINF:-1 tvg-id="zoopark" group-title="Познавательное",Zooпарк
 http://tv.lamro.workers.dev/?ID=5099
 #EXTINF:-1 tvg-id="sovsek" group-title="Познавательное",Top Secret
-http://62.89.220.15/streams/media/sovershenno-sekretno_720x576/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Top_secret
 #EXTINF:-1 tvg-id="bolshaya-azia" group-title="Познавательное",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="poexali" group-title="Познавательное",Поехали!
-https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
 #EXTINF:-1 tvg-id="bobior" group-title="Познавательное",Бобер
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bober
 #EXTINF:-1 tvg-id="istoria" group-title="Познавательное",История
-http://193.25.8.59:8000/History
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Istoriya
 #EXTINF:-1 tvg-id="morskoy" group-title="Познавательное",Моя стихия
 http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 tvg-id="tv-brics" group-title="Познавательное",TV Brics
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="Познавательное",Galaxy
 http://193.25.8.59:8000/galaxy
+#EXTINF:-1 group-title="Познавательное",НАУКА
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
 #EXTINF:-1 tvg-id="nauka-20" group-title="Познавательное",Наука 2.0
 http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Познавательное",RTG HD
@@ -846,11 +874,11 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" group-title="Познавательное",Мужской
 http://tv.lamro.workers.dev/?ID=5091
 #EXTINF:-1 tvg-id="oruzhie" group-title="Познавательное",Оружие
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
 #EXTINF:-1 tvg-id="zdorovoe-tv" group-title="Познавательное",Здоровое ТВ
 http://tv.lamro.workers.dev/?ID=3284
 #EXTINF:-1 tvg-id="zhivi-aktivno" group-title="Познавательное",Живи Активно
-http://tv.lamro.workers.dev/?ID=5110
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
 #EXTINF:-1 tvg-id="doktor" group-title="Познавательное",Доктор
 http://tv.lamro.workers.dev/?ID=5104
 #EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/psixologia-21.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Психология 21
@@ -912,19 +940,22 @@ http://tv.lamro.workers.dev/?ID=5102
 http://tv.lamro.workers.dev/?ID=5103
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/oxotnik-i-rybolov-hd.png" group-title="Познавательное",Охотник и Рыболов
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:-1 group-title="Познавательное",Охотник и рыболов Int
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/oxota-i-rybalka.png" group-title="Познавательное",Охота и рыбалка
 http://tv.lamro.workers.dev/?ID=3147
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/dialogi-o-rybalke.png" group-title="Познавательное",Диалоги о рыбалке
 http://tv.lamro.workers.dev/?ID=5101
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/" group-title="Познавательное",Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
-https://region-m.livecdn.ivi.ru/jW1I2PHygh3RjlbCbpEDaOMeD8i9ITKZ7mqtbojw6HQvEQIHAzY555136/bod1eiEwdXDJUZ18SI51JA,1769348801/noargs/channel/RYBOLOV_HD_71503/1080p.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
 #EXTINF:-1 tvg-id="nasha-tema" group-title="Познавательное",Наша тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 tvg-id="avto24" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Авто 24
-http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
-#EXTINF:-1 tvg-id="avto-plus" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное",Авто плюс
-http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nasha_Tema
+#EXTINF:-1 group-title="Познавательное",Эра
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE3
+#EXTINF:-1 tvg-id="avto24" group-title="Познавательное",Авто 24
+https://tinyurl.com/roma-123/94/mpegts
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательное",Авто плюс
+https://tinyurl.com/roma-123/377/mpegts
 #EXTINF:-1 tvg-id="univer-tv" group-title="Познавательное",UNIVER TV
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Мособр TV
@@ -952,25 +983,25 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-id="	sts-love"  group-title="Развлекательное",СТС Love
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-id="	vremia"  group-title="Развлекательное",Время
-http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+#EXTINF:-1 tvg-id="vremia"  group-title="Развлекательное",Время
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
 #EXTINF:-1 tvg-id="telekafe"  group-title="Развлекательное",Телекафе
-https://stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
-#EXTINF:-1 tvg-id="arsenaltv"  tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/arsenaltv.png" group-title="Развлекательное",Арсенал
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telecafe
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/arsenaltv.png" group-title="Развлекательное",Арсенал
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
-#EXTINF:-1 tvg-id="teatr"  group-title="Развлекательное",ТЕАТР
+#EXTINF:-1 tvg-id="teatr" group-title="Развлекательное",ТЕАТР
 http://62.89.220.15/streams/media/teatr_720x576/index.m3u8
-#EXTINF:-1 tvg-id="tayna"  group-title="Развлекательное",Тайна
+#EXTINF:-1 tvg-id="tayna" group-title="Развлекательное",Тайна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=rtFSQpmrNmsoB1YnCB1sXA&e=2069285053&scheme=https
-#EXTINF:-1 tvg-id="kuxnia-tv"  group-title="Развлекательное",Кухня ТВ
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="Развлекательное",Кухня ТВ
 http://62.89.220.15/streams/media/kuhnya-tv_720x576/index.m3u8
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/eda.png" group-title="Развлекательное",Еда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
-#EXTINF:-1 tvg-id="eda-hd"  tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/eda-hd.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Развлекательное",FoodTime
-http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
-#EXTINF:-1 tvg-id="pervy-vegetariansky" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Развлекательное",Первый вегетарианский
-http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+#EXTINF:-1 tvg-id="eda-hd" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/eda-hd.png" group-title="Развлекательное",FoodTime
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
+#EXTINF:-1 tvg-id="pervy-vegetariansky" \group-title="Развлекательное",Первый вегетарианский
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 #EXTINF:-1 tvg-id="Аппетитный" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/appetitny.png" group-title="Развлекательное",Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://region-s.livecdn.ivi.ru/jW1I20PMqn2Mbq5eOmW3w0v82Cl7y40Cgy2387WWje9VphBCIOTq59847/NJMsq6zVryiZ2D8t5Apo-g,1769348824/live/ivi/appetitny/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
@@ -980,12 +1011,13 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" group-title="Развлекательное",Красная Линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/lapki-live.png" group-title="Развлекательное",Лапки Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://region-s.livecdn.ivi.ru/jW1GlraprmgkSYLWYASPquR1R1MO2xsz73WbNX4e2pHZjbhfp6nF37343/nofOFcwYP37iv4viblURIg,1769348852/live/ivi/lapkylive/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=LapkiLive
 #EXTINF:-1 tvg-id="	tochka-tv" group-title="Развлекательное",Точка ТВ
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="centralnoye-tv" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Развлекательное",Центральное телевидение
-http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+#EXTINF:-1 tvg-id="centralnoye-tv" group-title="Развлекательное",Центральное телевидение
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Centralnoe_TV
+#EXTINF:-1 group-title="Развлекательное",Зал суда
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
 #EXTINF:-1 tvg-id="prosveschenie" group-title="Развлекательное",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="usadba" group-title="Развлекательное",Усадьба
@@ -994,6 +1026,8 @@ http://95.66.188.74/Usadba/index.m3u8
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zagorodny.png" group-title="Развлекательное",Загородный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
+#EXTINF:-1 group-title="Развлекательное",Загородный Int
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorodniy_int_HD&serviceArea=GLOBAL
 #EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательное",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img/1753.png" group-title="Развлекательное",НТВ Право
@@ -1004,18 +1038,26 @@ http://tv.lamro.workers.dev/?ID=4934
 http://tv.lamro.workers.dev/?ID=5093
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Развлекательное" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
 http://tv.lamro.workers.dev/?ID=4930
+#EXTINF:-1 group-title="Развлекательное",Gags Network
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
 #EXTINF:-1 tvg-id="sarafan" group-title="Развлекательное",Сарафан
-http://62.89.220.15/streams/media/sarafan_720x576/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
 #EXTINF:-1 tvg-id="	kvn-tv" group-title="Развлекательное",КВН ТВ
 http://62.89.220.15/streams/media/kvn-tv_720x576/index.m3u8
+#EXTINF:-1 group-title="Развлекательное",Анекдот ТВ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
 #EXTINF:-1 tvg-id="nostalgia" group-title="Развлекательное",Ностальгия
 http://62.89.220.15/streams/media/nostalgiya_720x576/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Развлекательное",HGTV
 http://tv.lamro.workers.dev/?ID=4985
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Развлекательное",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательное",Women's Magazine
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=WomensMagazine_SD
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Развлекательное",Fashion TV
 http://tv.lamro.workers.dev/?ID=5065
+#EXTINF:-1 group-title="Развлекательное",Fashion & LifeStyle
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Fashion_one
 #EXTINF:-1 tvg-id="luxury" group-title="Развлекательное",Luxury
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
 
@@ -1028,13 +1070,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детский",СТС Kids
 http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="Детский",Мама
-http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детский",Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="malysh" group-title="Детский",Супергерои
 http://86.57.209.210/Malish/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" group-title="Детский",Радость Моя
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Radost_moya
 #EXTINF:-1 tvg-id="ryzhy" group-title="Детский",Рыжий
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="Детский",Детский Мир
@@ -1084,24 +1126,54 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" group-title="Детский",Капитан Фантастика
 http://tv.lamro.workers.dev/?ID=4745
 
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пёс
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Первый отдел
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Шеф
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Невский
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Балабол
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="КИНОЗАЛ",НТВ Сериалы Пять минут тишины
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-01-tricolor"  tvg-logo="https://iptvx.one/picons/zal-01-tricolor.png" ,Шерлок Холмс и доктор Ватсон
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-02-tricolor"  tvg-logo="https://iptvx.one/picons/zal-02-tricolor.png" ,След
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-03-tricolor"  tvg-logo="https://iptvx.one/picons/zal-03-tricolor.png" ,Ментовские войны
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
+#EXTINF:-1 group-title="КИНОЗАЛ",Солдаты
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
+#EXTINF:-1 group-title="КИНОЗАЛ",Любовь и тайны Тумахана
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-07-tricolor"  tvg-logo="https://iptvx.one/picons/zal-07-tricolor.png" ,Три богатыря
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-08-tricolor"  tvg-logo="https://iptvx.one/picons/zal-08-tricolor.png" ,Деревянные дома
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
+#EXTINF:-1 group-title="КИНОЗАЛ",Мент в законе
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
+#EXTINF:-1 group-title="КИНОЗАЛ",tvg-logo="http://epg.one/img2/4775.png" ,Ералаш
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-11-tricolor"  tvg-logo="https://iptvx.one/picons/zal-11-tricolor.png" ,Смешарики
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-12-tricolor"  tvg-logo="https://iptvx.one/picons/zal-12-tricolor.png" ,Комедии
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
+#EXTINF:-1 group-title="КИНОЗАЛ",Супергероини
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
+#EXTINF:-1 group-title="КИНОЗАЛ",Обучалки
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-23-tricolor"  tvg-logo="https://iptvx.one/picons/zal-23-tricolor.png" ,Советские фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
+#EXTINF:-1 group-title="КИНОЗАЛ",Глухарь
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal24_SD
+#EXTINF:-1 group-title="КИНОЗАЛ",Пятницкий
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
+#EXTINF:-1 group-title="КИНОЗАЛ",Карпов
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-27-tricolor"  tvg-logo="https://iptvx.one/picons/zal-27-tricolor.png" ,Улицы разбитых фонарей
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-28-tricolor"  tvg-logo="https://iptvx.one/picons/zal-28-tricolor.png" ,6 кадров
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
+#EXTINF:-1 group-title="КИНОЗАЛ",Евлампия Романова
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-30-tricolor"  tvg-logo="https://iptvx.one/picons/zal-30-tricolor.png" ,Мажор
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-17-tricolor"  tvg-logo="https://iptvx.one/picons/zal-17-tricolor.png" ,Боевики
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
+#EXTINF:-1 group-title="КИНОЗАЛ",Простоквашино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-19-tricolor"  tvg-logo="https://iptvx.one/picons/zal-19-tricolor.png" ,Ужасы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" group-title="КИНОЗАЛ",BCU Premiere 1 HD
 http://tv.lamro.workers.dev/?ID=5162
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" group-title="КИНОЗАЛ",BCU Premiere 2 HD
@@ -1136,6 +1208,10 @@ http://tv.lamro.workers.dev/?ID=5183
 http://tv.lamro.workers.dev/?ID=5184
 #EXTINF:-1 tvg-id="bcu-cosmo" group-title="КИНОЗАЛ",BCU Cosmo HD
 http://tv.lamro.workers.dev/?ID=5237
+#EXTINF:-1 tvg-id="" group-title="КИНОЗАЛ",CineMan Лесник
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16064/index.m3u8
 #EXTINF:-1 tvg-id="clarity4k-uzasy" group-title="КИНОЗАЛ",Clarity4K Ужасы
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
 #EXTINF:-1 tvg-id="clarity4k-anime" group-title="КИНОЗАЛ",Clarity4K Anime
