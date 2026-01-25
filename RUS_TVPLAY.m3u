@@ -2,8 +2,7 @@
 #EXTM3U x-tvg-url="="https://iptvx.one/EPG"; "https://iptvx.one/EPG_NOARCH"
 
 #EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Инфоканал
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-http://198.18.0.1:8080/info_channel/stream.m3u8
+http://192.168.101.32:5000/Info-channel/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Общероссийские",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
@@ -560,6 +559,8 @@ http://tv.lamro.workers.dev/?ID=3337
 http://193.25.8.59:8000/viasatsport
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт
 http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2E0NDNlODEzZTY3NmEwN2QwYzVkNzViYzhkZDhjZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YQlv3aXDGnGpwEABhDMNJkIULOzi8YpR3Fri958kx44
+#EXTINF:-1 group-title="Спортивные",Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф
 https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTgwNDMxNiwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MTk5NTE2LCJzZXNzaW9uX2lkIjoiN2
 #EXTINF:-1 tvg-id="m1global" group-title="Спортивные",MMA-TV.COM
@@ -894,6 +895,8 @@ http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJI
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/" group-title="Познавательное",МЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://region-s.livecdn.ivi.ru/jW1HzcdjnWdgecNoNyKX7gRcIleFywFp6ByHfWUKWmJnclZKjhQG54637/tOY7NfGd6rtxEg1cRII5vg,1769348726/live/ivi/wetv/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
+#EXTINF:-1 group-title="Познавательное",ТБВ
+https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательное",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное",National Geographic
@@ -976,7 +979,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="perec-int"  tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/perec-int.png" group-title="Развлекательное",Перец
-http://tv.lamro.workers.dev/?ID=5016
+http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 tvg-id="yu"  group-title="Развлекательное",Ю ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
@@ -1046,6 +1049,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
 http://62.89.220.15/streams/media/kvn-tv_720x576/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Анекдот ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
+#EXTINF:-1 group-title="Развлекательное",Твоё ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" group-title="Развлекательное",Ностальгия
 http://62.89.220.15/streams/media/nostalgiya_720x576/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Развлекательное",HGTV
@@ -1099,10 +1105,14 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 https://flussonic.salomtv.uz/Detskiy/video.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="Детский",В гостях у сказки
 http://tv.lamro.workers.dev/?ID=4882
-#EXTINF:-1 tvg-id="sovmultf" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sovmultf.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Советские мультфильмы
-http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+#EXTINF:-1 tvg-id="sovmultf" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sovmultf.png" group-title="Детский",Советские мультфильмы
+https://tinyurl.com/roma-123/185/mpegts
 #EXTINF:-1 tvg-id="skazki-zayki" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/skazki-zayki.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Сказки Зайки
 http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
+#EXTINF:-1 group-title="Детский",МультСезон
+https://tinyurl.com/roma-123/184/mpegts
+#EXTINF:-1 group-title="Детский",Детское Кино
+https://tinyurl.com/roma-123/186/mpegts
 #EXTINF:-1 tvg-id="multimania" group-title="Детский",Мультиландия
 http://tv.lamro.workers.dev/?ID=3268
 #EXTINF:-1 tvg-id="liova" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/liova.png" group-title="Детский",Лёва
