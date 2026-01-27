@@ -872,7 +872,7 @@ http://193.25.8.59:8000/rtg
 http://cdn-01.bonus-tv.ru:80/rtdoc/index.m3u8
 #EXTINF:-1 tvg-id="ruskorabl" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/ruskorabl.png" group-title="Познавательное",Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Познавательное",Знание
+#EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/znanie-tv.png" group-title="Познавательное",Знание ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
 #EXTINF:-1 tvg-id="muzhskoy" group-title="Познавательное",Мужской
 http://tv.lamro.workers.dev/?ID=5091
@@ -1138,49 +1138,49 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" group-title="Детский",Капитан Фантастика
 http://tv.lamro.workers.dev/?ID=4745
 
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-01-tricolor"  tvg-logo="https://iptvx.one/picons/zal-01-tricolor.png" ,Шерлок Холмс и доктор Ватсон
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-01-tricolor" tvg-logo="https://iptvx.one/picons/zal-01-tricolor.png" ,Шерлок Холмс и доктор Ватсон
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-02-tricolor"  tvg-logo="https://iptvx.one/picons/zal-02-tricolor.png" ,След
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-02-tricolor" tvg-logo="https://iptvx.one/picons/zal-02-tricolor.png" ,След
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-03-tricolor"  tvg-logo="https://iptvx.one/picons/zal-03-tricolor.png" ,Ментовские войны
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-03-tricolor" tvg-logo="https://iptvx.one/picons/zal-03-tricolor.png" ,Ментовские войны
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
-#EXTINF:-1 group-title="КИНОЗАЛ","Мир без границ" с Сергеем Завидовым
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-05-tricolor.png" ,"Мир без границ" с Сергеем Завидовым
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
-#EXTINF:-1 group-title="КИНОЗАЛ",Некрасивая подружка
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-06-tricolor.png" ,Некрасивая подружка
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-07-tricolor"  tvg-logo="https://iptvx.one/picons/zal-07-tricolor.png" ,Три богатыря
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-07-tricolor" tvg-logo="https://iptvx.one/picons/zal-07-tricolor.png" ,Три богатыря
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-08-tricolor"  tvg-logo="https://iptvx.one/picons/zal-08-tricolor.png" ,Деревянные дома
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-08-tricolor" tvg-logo="https://iptvx.one/picons/zal-08-tricolor.png" ,Деревянные дома
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="http://epg.one/img2/4775.png",Советские мультфильмы
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-10-tricolor.png" ,Советские мультфильмы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-11-tricolor"  tvg-logo="https://iptvx.one/picons/zal-11-tricolor.png" ,Смешарики
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-11-tricolor" tvg-logo="https://iptvx.one/picons/zal-11-tricolor.png" ,Смешарики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-12-tricolor"  tvg-logo="https://iptvx.one/picons/zal-12-tricolor.png" ,Комедии
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-12-tricolor" tvg-logo="https://iptvx.one/picons/zal-12-tricolor.png" ,Комедии
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
 #EXTINF:-1 group-title="КИНОЗАЛ",История изобретений
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
-#EXTINF:-1 group-title="КИНОЗАЛ",Гормити
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-22-tricolor.png" ,Гормити
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
 #EXTINF:-1 tvg-id="zal-23-tricolor" tvg-logo="https://iptvx.one/picons/zal-23-tricolor.png" group-title="КИНОЗАЛ" ,Советские фильмы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
-#EXTINF:-1 group-title="КИНОЗАЛ",По горам - по полям
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-24-tricolor.png" ,По горам - по полям
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal24_SD
-#EXTINF:-1 group-title="КИНОЗАЛ",Семейная кухня
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-25-tricolor.png" ,Семейная кухня
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
-#EXTINF:-1 group-title="КИНОЗАЛ",Душевные песни
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-26-tricolor.png" ,Душевные песни
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-27-tricolor" tvg-logo="https://iptvx.one/picons/zal-27-tricolor.png" ,Улицы разбитых фонарей
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-28-tricolor" tvg-logo="https://iptvx.one/picons/zal-28-tricolor.png" ,6 кадров
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
-#EXTINF:-1 group-title="КИНОЗАЛ",Леди Бомж
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-29-tricolor.png" ,Леди Бомж
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-30-tricolor" tvg-logo="https://iptvx.one/picons/zal-30-tricolor.png" ,Балабол
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-17-tricolor" tvg-logo="https://iptvx.one/picons/zal-17-tricolor.png" ,Боевики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
-#EXTINF:-1 group-title="КИНОЗАЛ",Простоквашино
+#EXTINF:-1 group-title="КИНОЗАЛ" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zal-18-tricolor.png" ,Простоквашино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-19-tricolor"  tvg-logo="https://iptvx.one/picons/zal-19-tricolor.png" ,Ужасы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
@@ -1222,22 +1222,6 @@ http://tv.lamro.workers.dev/?ID=5237
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16064/index.m3u8
-#EXTINF:-1 tvg-id="clarity4k-uzasy" group-title="КИНОЗАЛ",Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:-1 tvg-id="clarity4k-anime" group-title="КИНОЗАЛ",Clarity4K Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:-1 tvg-id="clarity4k-asia" group-title="КИНОЗАЛ",Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:-1 tvg-id="clarity4k-edinoborstva" group-title="КИНОЗАЛ",Clarity4k Единоборства
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-#EXTINF:-1 tvg-id="clarity4k-fantastik" group-title="КИНОЗАЛ",Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:-1 tvg-id="clarity4k-gamefilm" group-title="КИНОЗАЛ",Clarity4K Gamefilm
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:-1 tvg-id="	clarity4k-kosmomir" group-title="КИНОЗАЛ",Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-#EXTINF:-1 tvg-id="clarity4k-netflix" group-title="КИНОЗАЛ",Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 
 #EXTINF:-1 tvg-id="1hd" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
