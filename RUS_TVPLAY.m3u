@@ -1008,7 +1008,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
 #EXTINF:-1 tvg-id="pervy-vegetariansky" \group-title="Развлекательное",Первый вегетарианский
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 #EXTINF:-1 tvg-id="Аппетитный" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/appetitny.png" group-title="Развлекательное",Аппетитный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SHIELD Android TV Build/S1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 lite.hdtv/4.5.7 build_260121
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SHIELD Android TV Build/S1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.0.0 Safari/537.36 lite.hdtv/4.5.7.260121
 https://mhd158.iptv2022.com/x/8mdh5qbIRV3jWsBOU0-kOg,1769715523/streaming/appetitniy/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="doverie" group-title="Развлекательное",Москва. Доверие
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
