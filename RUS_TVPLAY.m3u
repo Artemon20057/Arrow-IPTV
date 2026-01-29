@@ -1328,10 +1328,6 @@ https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1570.m3u8
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1574.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-boevik" ,VF Боевик
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1575.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-kino4k" ,VF Кино 4K
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1576.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-serial4k" ,VF Сериал 4K
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1577.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-top-series" ,VF TOP Series
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1578.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-arthouse" ,VF Art house
@@ -1448,39 +1444,6 @@ https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1665.m3u8
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1661.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-90e" ,VF Привет из 90х
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1608.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-koncerty" ,VF Концерты
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1659.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Michael Jackson
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1626.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Britney Spears
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1631.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Modern Talking
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1630.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Король и Шут
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1627.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Легенды Ретро ФМ
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1628.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Хит-парад
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1640.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Музсоюз
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1637.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-musyka" ,VF Музыка
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1632.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Music
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1633.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Rap
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1639.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Metal
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1638.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Rock
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1634.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Русский рок
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1641.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Шансон
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1636.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛ"  ,VF Караоке
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1635.m3u8
-
 
 #EXTINF:-1 tvg-id="1hd" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
