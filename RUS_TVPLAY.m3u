@@ -894,31 +894,43 @@ https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательное",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное",National Geographic
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3336
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное",National Geographic HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3232
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательное",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=SmartTV
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное",Discovery channel
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3319
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное",Discovery channel HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3200
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательное",ID Xtra
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3283
 #EXTINF:-1 tvg-id="history" group-title="Познавательное",History
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3735
 #EXTINF:-1 tvg-id="h2" group-title="Познавательное",History 2
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=4982
 #EXTINF:-1 tvg-id="curiosity-stream" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/curiosity-stream.png" group-title="Познавательное",Curiosity Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/terra-ru.png" group-title="Познавательное",TERRA
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=5083
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/big-planet.png" group-title="Познавательное",Big Planet
+#EXTVLCOPT:http-user-agent=SmartTV
 http://5.153.190.251:8000/play/a08g
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательное",Animal Planet
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3217
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательное",Animal Planet HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.lamro.workers.dev/?ID=3738
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/viasat-nature.png" group-title="Познавательное",Viju Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
