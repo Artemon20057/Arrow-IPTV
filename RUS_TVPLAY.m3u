@@ -1351,91 +1351,91 @@ https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/yuvelirochka.png" tvg-id="yuvelirochka" group-title="Развлекательное",ЮВЕЛИРОЧКА
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="solnce" group-title="Детский",СОЛНЦЕ
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/solnce.png" tvg-id="solnce" group-title="Детский",СОЛНЦЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Детский",СОЛНЦЕ (+2)
+#EXTINF:-1 tvg-logo="" tvg-id="solnce-pl2" group-title="Детский",СОЛНЦЕ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Детский",СОЛНЦЕ (+4)
+#EXTINF:-1 tvg-logo="" tvg-id="solnce-pl4" group-title="Детский",СОЛНЦЕ (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Детский",СОЛНЦЕ (+7)
+#EXTINF:-1 tvg-logo="" tvg-id="solnce-pl7" group-title="Детский",СОЛНЦЕ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="2na2" group-title="Детский",2x2
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/2na2.png" tvg-id="2na2" group-title="Детский",2x2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Детский",2x2 (+2)
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/2na2-pl2.png" tvg-id="2na2-pl2" group-title="Детский",2x2 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Детский",2x2 (+4)
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/2na2-pl4.png" tvg-id="2na2-pl4" group-title="Детский",2x2 (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Детский",2x2 (+7)
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/2na2-pl7.png" tvg-id="2na2-pl7" group-title="Детский",2x2 (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts-kids-hd.png" tvg-id="sts-kids-hd" group-title="Детский",СТС Kids
 http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="mama" group-title="Детский",Мама
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mama.png" tvg-id="mama" group-title="Детский",Мама
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
-#EXTINF:-1 tvg-logo="" tvg-id="smaylik-tv" group-title="Детский",Смайлик ТВ
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/smaylik-tv.png" tvg-id="smaylik-tv" group-title="Детский",Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="malysh" group-title="Детский",Супергерои
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/malysh.png" tvg-id="malysh" group-title="Детский",Супергерои
 http://86.57.209.210/Malish/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="radost-moya" group-title="Детский",Радость Моя
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/radost-moya.png" tvg-id="radost-moya" group-title="Детский",Радость Моя
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Radost_moya
-#EXTINF:-1 tvg-logo="" tvg-id="ryzhy" group-title="Детский",Рыжий
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ryzhy.png" tvg-id="ryzhy" group-title="Детский",Рыжий
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Детский",FamilyJam
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/familyjam.png" tvg-id="familyjam" group-title="Детский",FamilyJam
 http://ru.tvtm.one/ch3357/mono.m3u8?token=toooloop.v2_s_LUdR7aGUsVcxT12iGRR_uMHDqLaK3ZuJ5GIPHQD-DOTOGHdPdTydyYaoLYDvBsRYCrcCSGhj2djA
-#EXTINF:-1 tvg-logo="" tvg-id="detsky-mir" group-title="Детский",Детский Мир
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png" tvg-id="detsky-mir" group-title="Детский",Детский Мир
 http://tv.lamro.workers.dev/?ID=3176
-#EXTINF:-1 tvg-logo="" tvg-id="tiji" group-title="Детский",Tiji
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tiji.png" tvg-id="tiji" group-title="Детский",Tiji
 http://193.27.209.122/tiji/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="gulli-girl" group-title="Детский",Gulli Girl
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/gulli-girl.png" tvg-id="gulli-girl" group-title="Детский",Gulli Girl
 http://tv.lamro.workers.dev/?ID=3266
-#EXTINF:-1 tvg-logo="" tvg-id="jimjam" group-title="Детский",JimJam
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/jimjam.png" tvg-id="jimjam" group-title="Детский",JimJam
 http://tv.lamro.workers.dev/?ID=3267
-#EXTINF:-1 tvg-logo="" tvg-id="nickelodeon-ru" group-title="Детский",Nickelodeon
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" tvg-id="nickelodeon-ru" group-title="Детский",Nickelodeon
 http://tv.lamro.workers.dev/?ID=3215
-#EXTINF:-1 tvg-logo="" tvg-id="nick-jr" group-title="Детский",Nick Jr
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nick-jr.png" tvg-id="nick-jr" group-title="Детский",Nick Jr
 http://tv.lamro.workers.dev/?ID=3265
-#EXTINF:-1 tvg-logo="" tvg-id="cartoon-network" group-title="Детский",Cartoon Network
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" tvg-id="cartoon-network" group-title="Детский",Cartoon Network
 http://tv.lamro.workers.dev/?ID=3270
-#EXTINF:-1 tvg-logo="" tvg-id="ani" group-title="Детский",Ani
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ani.png" tvg-id="ani" group-title="Детский",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="detsky" group-title="Детский",Уникум
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/unikum.png" tvg-id="detsky" group-title="Детский",Уникум
 https://flussonic.salomtv.uz/Detskiy/video.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="v-gostiax-u-skazki" group-title="Детский",В гостях у сказки
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/v-gostiax-u-skazki.png" tvg-id="v-gostiax-u-skazki" group-title="Детский",В гостях у сказки
 http://tv.lamro.workers.dev/?ID=4882
 #EXTINF:-1 tvg-id="sovmultf" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sovmultf.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}"  group-title="Детский",Советские мультфильмы
 http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk5MzMwMDQsImlhdCI6MTc2OTg0NjYwNCwiY2lkIjo2LCJ1aWQiOjk5NzI1MjM3OSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.QJv1uOXYtX65Qs8bRYwjtura9fXF-CE24g-i586RwqI&offset=10
 #EXTINF:-1 tvg-id="skazki-zayki" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/skazki-zayki.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский",Сказки Зайки
 http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk5MzMwMDQsImlhdCI6MTc2OTg0NjYwNCwiY2lkIjo2LCJ1aWQiOjk5NzI1MjM3OSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.QJv1uOXYtX65Qs8bRYwjtura9fXF-CE24g-i586RwqI&offset=10
-#EXTINF:-1 tvg-logo="" group-title="Детский",МультСезон
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/multsezon.png" tvg-id="multsezon" group-title="Детский",МультСезон
 https://tinyurl.com/roma-123/184/mpegts
-#EXTINF:-1 tvg-logo="" group-title="Детский",Детское Кино
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/detskoe-kino.png" tvg-id="detskoe-kino" group-title="Детский",Детское Кино
 https://tinyurl.com/roma-123/186/mpegts
-#EXTINF:-1 tvg-logo="" tvg-id="multimania" group-title="Детский",Мультиландия
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/multimania.png" tvg-id="multimania" group-title="Детский",Мультиландия
 http://tv.lamro.workers.dev/?ID=3268
 #EXTINF:-1 tvg-id="liova" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/liova.png" group-title="Детский",Лёва
 http://tv.lamro.workers.dev/?ID=5095
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="Детский",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Детский",Чижик
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/chizhik.png" tvg-id="chizhik" group-title="Детский",Чижик
 http://ru.tvtm.one/ch425/mono.m3u8?token=toooloop.v2_LWUuJ8A7SJcatW0Ogp1tTDJX_xsE0ag9XY7ZYRXHK2eLEDrP_LGzzsLfxQ3jze7-c_s0lQWZPGPW
 #EXTINF:-1 tvg-id="tiptop" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tiptop.png" group-title="Детский",ТипТоп
 http://tv.lamro.workers.dev/?ID=5121
-#EXTINF:-1 tvg-logo="" tvg-id="o " group-title="Детский",О!
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/o_.png" tvg-id="o " group-title="Детский",О!
 http://tv.lamro.workers.dev/?ID=4876
-#EXTINF:-1 tvg-logo="" tvg-id="ducktv" group-title="Детский",ducktv
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детский",ducktv
 http://tv.lamro.workers.dev/?ID=5060
-#EXTINF:-1 tvg-logo="" tvg-id="shayantv" group-title="Детский",Шаян
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shayantv.png" tvg-id="shayantv" group-title="Детский",Шаян
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="ginger-hd" group-title="Детский",Капитан Фантастика
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/capfantast.png" tvg-id="ginger-hd" group-title="Детский",Капитан Фантастика
 http://tv.lamro.workers.dev/?ID=4745
 
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-01-tricolor" tvg-logo="https://iptvx.one/picons/zal-01-tricolor.png" ,Шерлок Холмс и доктор Ватсон
@@ -1507,241 +1507,235 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="zal-19-tricolor"  tvg-logo="https://iptvx.one/picons/zal-19-tricolor.png" ,Ужасы
 #EXTVLCOPT:http-user-agent=SmartTV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-kinozal-prem-1" group-title="КИНОЗАЛ",BCU Premiere 1 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" tvg-id="bcu-kinozal-prem-1" group-title="КИНОЗАЛ",BCU Premiere 1 HD
 http://tv.lamro.workers.dev/?ID=5162
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-kinozal-prem-2" group-title="КИНОЗАЛ",BCU Premiere 2 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2" group-title="КИНОЗАЛ",BCU Premiere 2 HD
 http://tv.lamro.workers.dev/?ID=5163
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-kinozal-prem-3" group-title="КИНОЗАЛ",BCU Premiere 3 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-3.png" tvg-id="bcu-kinozal-prem-3" group-title="КИНОЗАЛ",BCU Premiere 3 HD
 http://tv.lamro.workers.dev/?ID=5165
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-sssr" group-title="КИНОЗАЛ",BCU CCCP HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-sssr-hd.png" tvg-id="bcu-sssr" group-title="КИНОЗАЛ",BCU CCCP HD
 http://tv.lamro.workers.dev/?ID=5167
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-action" group-title="КИНОЗАЛ",BCU Action HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" tvg-id="bcu-action" group-title="КИНОЗАЛ",BCU Action HD
 http://tv.lamro.workers.dev/?ID=5168
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-catastrophe" group-title="КИНОЗАЛ",BCU Catastrophe HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-catastrophe.png" tvg-id="bcu-catastrophe" group-title="КИНОЗАЛ",BCU Catastrophe HD
 http://tv.lamro.workers.dev/?ID=5169
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-fantastic" group-title="КИНОЗАЛ",BCU Fantastic HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" tvg-id="bcu-fantastic" group-title="КИНОЗАЛ",BCU Fantastic HD
 http://tv.lamro.workers.dev/?ID=5171
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-filmystic" group-title="КИНОЗАЛ",BCU FilMystic HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" tvg-id="bcu-filmystic" group-title="КИНОЗАЛ",BCU FilMystic HD
 http://tv.lamro.workers.dev/?ID=5172
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-history" group-title="КИНОЗАЛ",BCU History HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-history.png" tvg-id="bcu-history" group-title="КИНОЗАЛ",BCU History HD
 http://tv.lamro.workers.dev/?ID=5173
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-premiere" group-title="КИНОЗАЛ",BCU Premiere HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-premiere.png" tvg-id="bcu-premiere" group-title="КИНОЗАЛ",BCU Premiere HD
 http://tv.lamro.workers.dev/?ID=5175
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-stars" group-title="КИНОЗАЛ",BCU Stars HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" tvg-id="bcu-stars" group-title="КИНОЗАЛ",BCU Stars HD
 http://tv.lamro.workers.dev/?ID=5177
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-ruserial" group-title="КИНОЗАЛ",BCU RUSERIAL HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ruserial.png" tvg-id="bcu-ruserial" group-title="КИНОЗАЛ",BCU RUSERIAL HD
 http://tv.lamro.workers.dev/?ID=5180
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-svaty" group-title="КИНОЗАЛ",BCU Сваты HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-svaty.png" tvg-id="bcu-svaty" group-title="КИНОЗАЛ",BCU Сваты HD
 http://tv.lamro.workers.dev/?ID=5181
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-criminal" group-title="КИНОЗАЛ",BCU Criminal HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-criminal.png" tvg-id="bcu-criminal" group-title="КИНОЗАЛ",BCU Criminal HD
 http://tv.lamro.workers.dev/?ID=5182
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-cinema" group-title="КИНОЗАЛ",BCU Cinema HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png" tvg-id="bcu-cinema" group-title="КИНОЗАЛ",BCU Cinema HD
 http://tv.lamro.workers.dev/?ID=5183
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-kinorating" group-title="КИНОЗАЛ",BCU Kinorating HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="КИНОЗАЛ",BCU Kinorating HD
 http://tv.lamro.workers.dev/?ID=5184
-#EXTINF:-1 tvg-logo="" tvg-id="bcu-cosmo" group-title="КИНОЗАЛ",BCU Cosmo HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cosmo.png" tvg-id="bcu-cosmo" group-title="КИНОЗАЛ",BCU Cosmo HD
 http://tv.lamro.workers.dev/?ID=5237
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="КИНОЗАЛ",CineMan Лесник
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" tvg-id="cineman-lesnik" group-title="КИНОЗАЛ",CineMan Лесник
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" tvg-id="cineman-pes" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16064/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="sky-high-bunny-hd" ,SKY HIGH BUNNY HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-bunny-hd.png" group-title="КИНОЗАЛ" tvg-id="sky-high-bunny-hd" ,SKY HIGH BUNNY HD
 https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1666.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="skyhigh-jetix-hd" ,SKY HIGH JETIX HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-jetix-hd.png" group-title="КИНОЗАЛ" tvg-id="skyhigh-jetix-hd" ,SKY HIGH JETIX HD
 https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,SKY HIGH LOFI HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-lofi.png" group-title="КИНОЗАЛ"  ,SKY HIGH LOFI HD
 https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-nowogodni" ,VF Новогодний
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-nowogodni.png" group-title="КИНОЗАЛ" tvg-id="vf-nowogodni" ,VF Новогодний
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1543.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-newyear" ,VF New Year
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-newyear.png" group-title="КИНОЗАЛ" tvg-id="vf-newyear" ,VF New Year
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1545.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛ" tvg-id="vf-elki"  tvg-logo="https://iptvx.one/picons/vf-elki.png" ,VF Ёлки
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1544.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-nowogodmult" ,VF Новогодние мультфильмы
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-nowogodmult.png" group-title="КИНОЗАЛ" tvg-id="vf-nowogodmult" ,VF Новогодние мультфильмы
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1648.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,VF Музыкальный Новый год!
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-musyka.png" group-title="КИНОЗАЛ" ,VF Музыкальный Новый год!
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-klassika" ,VF Классика
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-klassika.png" group-title="КИНОЗАЛ" tvg-id="vf-klassika" ,VF Классика
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1565.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-filmy-sssr" ,VF Фильмы СССР
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-filmy-sssr.png" group-title="КИНОЗАЛ" tvg-id="vf-filmy-sssr" ,VF Фильмы СССР
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-gaidai" ,VF Леонид Гайдай
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-gaidai.png" group-title="КИНОЗАЛ" tvg-id="vf-gaidai" ,VF Леонид Гайдай
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1602.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-ryazanov.png" group-title="КИНОЗАЛ" tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-mosfilm" ,VF Мосфильм
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-mosfilm.png" group-title="КИНОЗАЛ" tvg-id="vf-mosfilm" ,VF Мосфильм
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-lenfilm" ,VF Ленфильм
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-lenfilm.png" group-title="КИНОЗАЛ" tvg-id="vf-lenfilm" ,VF Ленфильм
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1619.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-kinostudiagorkogo.png" group-title="КИНОЗАЛ" tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-belarusfilm" ,VF Беларусьфильм
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-belarusfilm.png" group-title="КИНОЗАЛ" tvg-id="vf-belarusfilm" ,VF Беларусьфильм
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1623.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-odesskayakinostudia.png" group-title="КИНОЗАЛ" tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1618.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-rigakinostudia.png" group-title="КИНОЗАЛ" tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1621.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-sverdlovskkinostudia.png" group-title="КИНОЗАЛ" tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1622.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-vysocki" ,VF Владимир Высоцкий
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-vysocki.png" group-title="КИНОЗАЛ" tvg-id="vf-vysocki" ,VF Владимир Высоцкий
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-pobeda" ,VF Наша победа
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-pobeda.png" group-title="КИНОЗАЛ" tvg-id="vf-pobeda" ,VF Наша победа
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1571.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-soldats" ,VF Солдаты
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-soldats.png" group-title="КИНОЗАЛ" tvg-id="vf-soldats" ,VF Солдаты
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-kuxnia" ,VF Кухня
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-kuxnia.png" group-title="КИНОЗАЛ" tvg-id="vf-kuxnia" ,VF Кухня
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1663.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-uralskie-pelmeni.png" group-title="КИНОЗАЛ" tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-serialy-turcii" ,VF Сериалы Турции
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-serialy-turcii.png" group-title="КИНОЗАЛ" tvg-id="vf-serialy-turcii" ,VF Сериалы Турции
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1537.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-western" ,VF Вестерн
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-western.png" group-title="КИНОЗАЛ" tvg-id="vf-western" ,VF Вестерн
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1538.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-schastlivy-vmeste.png" group-title="КИНОЗАЛ" tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1539.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-besstyzhye" ,VF Бесстыжие
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-besstyzhye.png" group-title="КИНОЗАЛ" tvg-id="vf-besstyzhye" ,VF Бесстыжие
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-2ipol" ,VF Два с половиной человека
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-2ipol.png" group-title="КИНОЗАЛ" tvg-id="vf-2ipol" ,VF Два с половиной человека
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1542.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-garipoter" ,VF Гарри Поттер
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-garipoter.png" group-title="КИНОЗАЛ" tvg-id="vf-garipoter" ,VF Гарри Поттер
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1547.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-sexcity" ,VF Секс в большом городе
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-sexcity.png" group-title="КИНОЗАЛ" tvg-id="vf-sexcity" ,VF Секс в большом городе
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1548.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-kartochnydomik" ,VF Карточный домик
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-kartochnydomik.png" group-title="КИНОЗАЛ" tvg-id="vf-kartochnydomik" ,VF Карточный домик
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1549.m3u8
 #EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-disney-movie" ,VF Disney Movie
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1550.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-tbbt" ,VF Теория большого взрыва
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-tbbt.png" group-title="КИНОЗАЛ" tvg-id="vf-tbbt" ,VF Теория большого взрыва
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1551.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-adventure" ,VF Adventure
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-adventure.png" group-title="КИНОЗАЛ" tvg-id="vf-adventure" ,VF Adventure
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-anime" ,VF Anime
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-anime.png" group-title="КИНОЗАЛ" tvg-id="vf-anime" ,VF Anime
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1553.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-cartoon" ,VF Cartoon
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-cartoon.png" group-title="КИНОЗАЛ" tvg-id="vf-cartoon" ,VF Cartoon
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1554.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-comedy" ,VF Comedy
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-comedy.png" group-title="КИНОЗАЛ" tvg-id="vf-comedy" ,VF Comedy
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1555.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-family" ,VF Family
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-family.png" group-title="КИНОЗАЛ" tvg-id="vf-family" ,VF Family
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1556.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-fantasy" ,VF Fantasy
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-fantasy.png" group-title="КИНОЗАЛ" tvg-id="vf-fantasy" ,VF Fantasy
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-melodrama" ,VF Melodrama
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-melodrama.png" group-title="КИНОЗАЛ" tvg-id="vf-melodrama" ,VF Melodrama
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-mystic" ,VF Mystic
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-mystic.png" group-title="КИНОЗАЛ" tvg-id="vf-mystic" ,VF Mystic
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-uzhasy" ,VF Ужасы
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-uzhasy.png" group-title="КИНОЗАЛ" tvg-id="vf-uzhasy" ,VF Ужасы
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,VF VHS MIX
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-vhs.png" group-title="КИНОЗАЛ",VF VHS MIX
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-uzhasy-vhs" ,VF Ужасы VHS
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-uzhasy.png" group-title="КИНОЗАЛ" tvg-id="vf-uzhasy-vhs" ,VF Ужасы VHS
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-premiera" ,VF Премьера
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-premiera.png" group-title="КИНОЗАЛ" tvg-id="vf-premiera" ,VF Премьера
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1563.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-premiere" ,VF Premiere
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-premiere.png" group-title="КИНОЗАЛ" tvg-id="vf-premiere" ,VF Premiere
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-komedia" ,VF Комедия
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-komedia.png" group-title="КИНОЗАЛ" tvg-id="vf-komedia" ,VF Комедия
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1567.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-katastrofy" ,VF Катастрофы
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-katastrofy.png" group-title="КИНОЗАЛ" tvg-id="vf-katastrofy" ,VF Катастрофы
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1568.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-marvel" ,VF Marvel
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-marvel.png" group-title="КИНОЗАЛ" tvg-id="vf-marvel" ,VF Marvel
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1569.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,VF Военные !
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-voennye.png" group-title="КИНОЗАЛ",VF Военные
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-multfilmy-sssr" ,VF Мультфильмы СССР
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-multfilmy-sssr.png" group-title="КИНОЗАЛ" tvg-id="vf-multfilmy-sssr" ,VF Мультфильмы СССР
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1574.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-boevik" ,VF Боевик
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-boevik.png" group-title="КИНОЗАЛ" tvg-id="vf-boevik" ,VF Боевик
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-top-series" ,VF TOP Series
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-top-series.png" group-title="КИНОЗАЛ" tvg-id="vf-top-series" ,VF TOP Series
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-arthouse" ,VF Art house
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-arthouse.png" group-title="КИНОЗАЛ" tvg-id="vf-arthouse" ,VF Art house
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1579.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-detective" ,VF Detective
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-detective.png" group-title="КИНОЗАЛ" tvg-id="vf-detective" ,VF Detective
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-fantastic" ,VF Fantastic
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-fantastic.png" group-title="КИНОЗАЛ" tvg-id="vf-fantastic" ,VF Fantastic
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1581.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-oskar" ,VF Оскар
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-oskar.png" group-title="КИНОЗАЛ" tvg-id="vf-oskar" ,VF Оскар
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1582.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-taynsled" ,VF Тайны следствия
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-taynsled.png" group-title="КИНОЗАЛ" tvg-id="vf-taynsled" ,VF Тайны следствия
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-voronins" ,VF Воронины
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-voronins.png" group-title="КИНОЗАЛ" tvg-id="vf-voronins" ,VF Воронины
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-univer" ,VF Универ
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-univer.png" group-title="КИНОЗАЛ" tvg-id="vf-univer" ,VF Универ
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1587.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-series" ,VF Series
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-series.png" group-title="КИНОЗАЛ" tvg-id="vf-series" ,VF Series
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1588.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-sled" ,VF След
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-sled.png" group-title="КИНОЗАЛ" tvg-id="vf-sled" ,VF След
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1589.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-serial" ,VF Сериал
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-serial.png" group-title="КИНОЗАЛ" tvg-id="vf-serial" ,VF Сериал
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1590.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-mylnoper" ,VF Мыльные оперы
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-mylnoper.png" group-title="КИНОЗАЛ" tvg-id="vf-mylnoper" ,VF Мыльные оперы
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1591.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-thrilr" ,VF Thriller
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-thrilr.png" group-title="КИНОЗАЛ" tvg-id="vf-thrilr" ,VF Thriller
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1592.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-indiya" ,VF Индия
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-indiya.png" group-title="КИНОЗАЛ" tvg-id="vf-indiya" ,VF Индия
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1593.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-istorya" ,VF История
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-istorya.png" group-title="КИНОЗАЛ" tvg-id="vf-istorya" ,VF История
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1594.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-comics" ,VF Comics
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-comics.png" group-title="КИНОЗАЛ" tvg-id="vf-comics" ,VF Comics
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-kriminal" ,VF Криминал
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-kriminal.png" group-title="КИНОЗАЛ" tvg-id="vf-kriminal" ,VF Криминал
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1596.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-klinika" ,VF Клиника
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-luidefunes" ,VF Луи де Фюнес
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-luidefunes.png" group-title="КИНОЗАЛ" tvg-id="vf-luidefunes" ,VF Луи де Фюнес
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-chernobyl" ,VF Чернобыль
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-chernobyl.png" group-title="КИНОЗАЛ" tvg-id="vf-chernobyl" ,VF Чернобыль
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-xfiles" ,VF The X-Files
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-xfiles.png" group-title="КИНОЗАЛ" tvg-id="vf-xfiles" ,VF The X-Files
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-supernatural" ,VF Сверхъестественное
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-supernatural.png" group-title="КИНОЗАЛ" tvg-id="vf-supernatural" ,VF Сверхъестественное
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-ahs" ,VF Американская история ужасов
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-ahs.png" group-title="КИНОЗАЛ" tvg-id="vf-ahs" ,VF Американская история ужасов
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1603.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-friends" ,VF Друзья
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-friends.png" group-title="КИНОЗАЛ" tvg-id="vf-friends" ,VF Друзья
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-sashatania" ,VF СашаТаня
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-sashatania.png" group-title="КИНОЗАЛ" tvg-id="vf-sashatania" ,VF СашаТаня
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1605.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-dzhekichan" ,VF Джеки Чан
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-dzhekichan.png" group-title="КИНОЗАЛ" tvg-id="vf-dzhekichan" ,VF Джеки Чан
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1606.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-nasharasha" ,VF Наша Раша
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-nasharasha.png" group-title="КИНОЗАЛ" tvg-id="vf-nasharasha" ,VF Наша Раша
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-univernew" ,VF Универ новая общага
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-univernew.png" group-title="КИНОЗАЛ" tvg-id="vf-univernew" ,VF Универ новая общага
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-walkingdead" ,VF Ходячие мертвецы
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-walkingdead.png" group-title="КИНОЗАЛ" tvg-id="vf-walkingdead" ,VF Ходячие мертвецы
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1611.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-realnyepacany" ,VF Реальные пацаны
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-realnyepacany.png" group-title="КИНОЗАЛ" tvg-id="vf-realnyepacany" ,VF Реальные пацаны
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-housemd" ,VF Доктор Хаус
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-housemd.png" group-title="КИНОЗАЛ" tvg-id="vf-housemd" ,VF Доктор Хаус
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1613.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-bezcenzury" ,VF Без цензуры
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-bezcenzury.png" group-title="КИНОЗАЛ" tvg-id="vf-bezcenzury" ,VF Без цензуры
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1614.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-gorodok" ,VF Городок
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-gorodok.png" group-title="КИНОЗАЛ" tvg-id="vf-gorodok" ,VF Городок
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1615.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-comedy-woman" ,VF Comedy Woman
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-comedy-woman.png" group-title="КИНОЗАЛ" tvg-id="vf-comedy-woman" ,VF Comedy Woman
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1616.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-igraprestolov" ,VF Игра престолов
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-igraprestolov.png" group-title="КИНОЗАЛ" tvg-id="vf-igraprestolov" ,VF Игра престолов
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1617.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-netflx" ,VF Netflix
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-netflx.png" group-title="КИНОЗАЛ" tvg-id="vf-netflx" ,VF Netflix
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1624.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-hbo" ,VF HBO
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-hbo.png" group-title="КИНОЗАЛ" tvg-id="vf-hbo" ,VF HBO
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1625.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-disney-cartoon" ,VF Disney Cartoon
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-disney-cartoon.png" group-title="КИНОЗАЛ" tvg-id="vf-disney-cartoon" ,VF Disney Cartoon
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1642.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-soyuzmultfilm" ,VF Союзмультфильм
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-soyuzmultfilm.png" group-title="КИНОЗАЛ" tvg-id="vf-soyuzmultfilm" ,VF Союзмультфильм
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-eralash" ,VF Ералаш
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-eralash.png" group-title="КИНОЗАЛ" tvg-id="vf-eralash" ,VF Ералаш
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-vhs-cartoon" ,VF VHS Cartoon
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-vhs-cartoon.png" group-title="КИНОЗАЛ" tvg-id="vf-vhs-cartoon" ,VF VHS Cartoon
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-malysh" ,VF Малыш
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-malysh.png" group-title="КИНОЗАЛ" tvg-id="vf-malysh" ,VF Малыш
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1646.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,VF Мультуб
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1647.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-skubidu" ,VF Скуби-Ду
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-skubidu.png" group-title="КИНОЗАЛ" tvg-id="vf-skubidu" ,VF Скуби-Ду
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1649.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,VF Авто
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1650.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-oxota" ,VF Охота
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png" group-title="КИНОЗАЛ" tvg-id="vf-oxota" ,VF Охота
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1651.m3u8
 #EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,VF Домашний повар
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1652.m3u8
@@ -1749,23 +1743,23 @@ https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1652.m3u8
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1653.m3u8
 #EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ"  ,VF Рыбалка
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-strojka" ,VF Стройка
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png" group-title="КИНОЗАЛ" tvg-id="vf-strojka" ,VF Стройка
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1655.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-maski" ,VF Маски Шоу
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-maski.png" group-title="КИНОЗАЛ" tvg-id="vf-maski" ,VF Маски Шоу
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1656.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-kalambur" ,VF Каламбур
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-kalambur.png" group-title="КИНОЗАЛ" tvg-id="vf-kalambur" ,VF Каламбур
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1657.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-orel-i-reshka" ,VF Орел и решка
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-orel-i-reshka.png" group-title="КИНОЗАЛ" tvg-id="vf-orel-i-reshka" ,VF Орел и решка
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1658.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-kvn" ,VF КВН
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-kvn.png" group-title="КИНОЗАЛ" tvg-id="vf-kvn" ,VF КВН
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-bania" ,VF Баня
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-bania.png" group-title="КИНОЗАЛ" tvg-id="vf-bania" ,VF Баня
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-odnazhdyvr" ,VF Однажды в России
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-odnazhdyvr.png" group-title="КИНОЗАЛ" tvg-id="vf-odnazhdyvr" ,VF Однажды в России
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-yumor18" ,VF Юмор 18+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-yumor18.png" group-title="КИНОЗАЛ" tvg-id="vf-yumor18" ,VF Юмор 18+
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="КИНОЗАЛ" tvg-id="vf-90e" ,VF Привет из 90х
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-90e.png" group-title="КИНОЗАЛ" tvg-id="vf-90e" ,VF Привет из 90х
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1608.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="1hd" group-title="Музыкальные",1HD
