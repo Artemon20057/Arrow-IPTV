@@ -1,711 +1,946 @@
 #EXTM3U tvg-url="https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz"; "https://iptvx.one/EPG_NOARCH"
 #EXTM3U x-tvg-url="="https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz"; "https://iptvx.one/EPG_NOARCH"
 
-#EXTINF:-1 tvg-id="no_epg" group-title="ИНФО",Инфоканал
+#EXTINF:-1 tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="ИНФО",Инфоканал
+#EXTVLCOPT:network-caching=3000
 http://192.168.101.32:5000/Info-channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" tvg-name"Первый канал" audio-track="rus"  group-title="Общероссийские",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" tvg-name"Россия 1" audio-track="rus"  group-title="Общероссийские",Россия 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-tv.png" tvg-id="match-tv" tvg-name"Матч! ТВ" audio-track="rus"  group-title="Общероссийские",Матч ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ntv.png" tvg-id="ntv" tvg-name"НТВ" audio-track="rus"  group-title="Общероссийские",НТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png" tvg-id="5kanal-ru" tvg-name"Пятый канал" audio-track="rus"  group-title="Общероссийские",Пятый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kultura.png" tvg-id="kultura" tvg-name"Россия Культура" audio-track="rus"  group-title="Общероссийские",Россия К
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" tvg-name"Россия 24" audio-track="rus"  group-title="Общероссийские",Россия 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/karusel.png" tvg-id="karusel" tvg-name"Карусель" audio-track="rus"  group-title="Общероссийские",Карусель
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/otr.png" tvg-id="otr" tvg-name"ОТР" audio-track="rus"  group-title="Общероссийские",ОТР
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tvcentr.png" tvg-id="tvcentr" tvg-name"ТВ Центр" audio-track="rus"  group-title="Общероссийские",ТВ Центр
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" tvg-name"Рен ТВ" audio-track="rus"  group-title="Общероссийские",РЕН ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" tvg-name"Спас" audio-track="rus"  group-title="Общероссийские",Спас
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" tvg-name"СТС" audio-track="rus"  group-title="Общероссийские",СТС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" tvg-name"Домашний" audio-track="rus"  group-title="Общероссийские",Домашний
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" tvg-name"ТВ3" audio-track="rus"  group-title="Общероссийские",ТВ3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piatnica.png" tvg-id="piatnica" tvg-name"Пятница!" audio-track="rus"  group-title="Общероссийские",Пятница
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda.png" tvg-id="zvezda" tvg-name"Звезда" audio-track="rus"  group-title="Общероссийские",Звезда
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir.png" tvg-id="mir" tvg-name"Мир" audio-track="rus"  group-title="Общероссийские",Мир
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus"  group-title="Общероссийские",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus"  group-title="Общероссийские",Муз ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl1.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+1)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl2.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl3.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+3)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl4.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl5.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+5)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl6.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+6)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl7.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl8.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+8)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/pervy-pl9.png" audio-track="rus"  group-title="Общероссийские", Первый канал (+9)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl1.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl2.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl3.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl4.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl5.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl6.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl8.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rossia1-pl9.png" audio-track="rus"  group-title="Общероссийские", Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/ntv-pl2.png" audio-track="rus"  group-title="Общероссийские", НТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/ntv-pl4.png" audio-track="rus"  group-title="Общероссийские", НТВ (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/ntv-pl7.png" audio-track="rus"  group-title="Общероссийские", НТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/5kanal-ru-pl2.png" audio-track="rus"  group-title="Общероссийские", Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/5kanal-ru-pl4.png" audio-track="rus"  group-title="Общероссийские" tvg-id="5kanal-ru-pl4",Пятый канал (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/5kanal-ru-pl7.png" audio-track="rus"  group-title="Общероссийские" tvg-id="5kanal-ru-pl7",Пятый канал (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/kultura-pl2.png" audio-track="rus"  group-title="Общероссийские", Россия К (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/kultura-pl4.png" audio-track="rus"  group-title="Общероссийские", Россия К (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/kultura-pl7.png" audio-track="rus"  group-title="Общероссийские", Россия К (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/karusel-pl2.png" tvg-id="karusel-pl2" audio-track="rus"  group-title="Общероссийские" ,Карусель (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/karusel-pl4.png" tvg-id="karusel-pl4" audio-track="rus"  group-title="Общероссийские" ,Карусель (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/karusel-pl7.png" tvg-id="karusel-pl7" audio-track="rus"  group-title="Общероссийские" ,Карусель (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tvcentr-pl2.png" tvg-id="2038" audio-track="rus"  group-title="Общероссийские" ,ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tvcentr-pl4.png" audio-track="rus"  group-title="Общероссийские", ТВЦ +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tvcentr-pl7.png" audio-track="rus"  group-title="Общероссийские", ТВЦ +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rentv-pl2.png" audio-track="rus"  group-title="Общероссийские", РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rentv-pl4.png" audio-track="rus"  group-title="Общероссийские", Рен ТВ +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/rentv-pl7.png" audio-track="rus"  group-title="Общероссийские", Рен ТВ +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sts-pl2.png" audio-track="rus"  group-title="Общероссийские", СТС (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sts-pl4.png" audio-track="rus"  group-title="Общероссийские", СТС (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sts-pl7.png" audio-track="rus"  group-title="Общероссийские", СТС (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/domashny-pl2.png" audio-track="rus"  group-title="Общероссийские", Домашний +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/domashny-pl4.png" audio-track="rus"  group-title="Общероссийские", Домашний +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/" audio-track="rus"  group-title="Общероссийские", Домашний +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tv3-ru-pl2.png" audio-track="rus"  group-title="Общероссийские", ТВ3 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tv3-ru-pl4.png" audio-track="rus"  group-title="Общероссийские", ТВ3 (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tv3-ru-pl7.png" audio-track="rus"  group-title="Общероссийские", ТВ3 (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/piatnica-pl2.png" audio-track="rus"  group-title="Общероссийские" tvg-id="piatnica-pl2",Пятница! (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/piatnica-pl4.png" audio-track="rus"  group-title="Общероссийские" tvg-id="piatnica-pl4",Пятница! (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/piatnica-pl7.png" audio-track="rus"  group-title="Общероссийские" tvg-id="piatnica-pl7",Пятница! (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zvezda-pl2.png" audio-track="rus"  group-title="Общероссийские", Звезда (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zvezda-pl4.png" audio-track="rus"  group-title="Общероссийские", Звезда (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zvezda-pl7.png" audio-track="rus"  group-title="Общероссийские", Звезда (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/mir-pl2.png" audio-track="rus"  group-title="Общероссийские", МИР (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/mir-pl4.png" audio-track="rus"  group-title="Общероссийские", МИР (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htliv.cedn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/mir-pl7.png" audio-track="rus"  group-title="Общероссийские", МИР (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tnt-pl2.png" audio-track="rus"  group-title="Общероссийские", ТНТ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tnt-pl4.png" audio-track="rus"  group-title="Общероссийские", ТНТ (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tnt-pl7.png" audio-track="rus"  group-title="Общероссийские", ТНТ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/muztv-pl2.png" audio-track="rus"  group-title="Общероссийские", МУЗ ТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/muztv-pl4.png" audio-track="rus"  group-title="Общероссийские", МУЗ ТВ (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/muztv-pl7.png" audio-track="rus"  group-title="Общероссийские", МУЗ ТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Рифей-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Репортер 73
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",31 канал Челябинск
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="no_epg_news" tvg-name""  audio-track="rus" group-title="Региональные" ,41 Регион
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="12-omsk",12 канал HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Норд ТВ (Новодвинск)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_NORDTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",6 ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="kanal-12-cherepovec",12 канал Череповец
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",8 канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="8vladik",8 канал (Владивосток)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярский край)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",TMTV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="aist",АИСТ HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="1obl-blagoveschensk",Амурское областное телевидение
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Ариг Ус 24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Арктика 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="78kanal",78 канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="pervy-sevastopolsky",Первый Севастопольский
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJSEVASTOPOL/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="nts-sevastopol",НТС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="stv-sevastopol",СТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="trk-555",ТРК-555
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="pervy-krymsky",Крым 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="krym24",Крым 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="arktik-tv",Арктик-ТВ HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="arxyz24",Архыз-24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Астрахань 24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",АТВ-Медиа
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",АТВ-Ставрополь
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="stv24",СТВ 24 (Северодвинск)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="bars",Барс плюс
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Башкортостан 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Белгород 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
 #EXTINF:-1 tvg-logo="" audio-track="rus" group-title="Региональные" tvg-id="brianskaya-gubernia",Брянская Губерния HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",БСТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="tk-variant",Вариант V
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
 #EXTINF:-1 tvg-name"" audio-track="rus" group-title="Региональные" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1529493228465.jpg",Вектор 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="vetta24",Ветта 24 Пермь
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="vetta24",Ветта-24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 #EXTINF:-1 tvg-logo=""  tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="volga",Волга
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Волгоград 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" audio-track="rus" group-title="Региональные" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1472218027991.png",Волгоград 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="volgograd-24",Волгоград-24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Восток 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="vot-tv",ВОТтв HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="vremia-n",Время Н
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="https://i.postimg.cc/QtQrZy4k/23.jpg",ВТК 41 "Аргус"
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="gorodskoy-yaroslavl",Городской телеканал Ярославль
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="gubernia-33",Губерния 33 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Губерния Самара
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Девятка ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Дзержинск ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="don-24",ДОН 24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Евразия
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="enisey-region",Енисей HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Ивановское общественное телевидение
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png",Импульс HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1550219150031.png",Инфо 24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587410193.png",Информационная служба Югры
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Кавказ 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="no_epg_news",Камчатка HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="kaskad24",Каскад
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="katun-24",Катунь 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="krasnodar",Краснодар HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="ktv-gorod",КТВ-Город
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Кубань 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578629022322.png",Кузбасс 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="lot-47",Лен ТВ 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Липецкое время
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Майдан
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="kuban-24",Майкопское Телевидение
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Матур ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="mig-tv-noyabrsk",МИГ ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Мир Белогорья
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553783249761.png",Мордовия-24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1569901043455.jpg",Муравленко 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",МЭТР
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1490273937894.png",Народное телевидение Мордовии
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="chavash-en",Национальное ТВ Чувашии
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Наш дом
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="sever",Север (Нарьян-Мар)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные"tvg-id="kotlastv", Котлас ТВ (Арх. область)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="sankt-peterburg",Санкт-Петербург
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="moskva-24",Москва 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" ,Наши города
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="saxa",НВК (Саха)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="nika-tv",Ника-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ННТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Новгородское областное телевидение
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://immo.date/logo/radujniy.png",Новое время (Радужный)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Новый век (Тамбов)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="49kanal",НСК 49
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",НТК
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",НТС Иркутск
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="nts-irbit",НТС-Ирбит (Екатеринбург)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg",Область 45 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="objektiv-59",Объектив 59 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ОРТ-Планета (Оренбург)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="osetia-iryston",Осетия Ирыстон HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="otv-eburg",ОТВ Екатеринбург HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="otv-primorie",ОТВ-Владивосток
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="otv-saxalin",ОТВ-Сахалин
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные", ОТВ Челябинск
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ОТС HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Первый городской (Киров)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="pervy-oblastnoy-orel",Первый областной
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="pervy-tulsky",Первый Тульский HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Первый Ярославский
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="prima",Прима-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="rgvk-dagestan",РГВК Дагестан
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Регион 29
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="rts-abakan",РТС-Абакан
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Русский Север
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" ,Русь (Кострома)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="rybinsk40",Рыбинск-40
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="s1-surgut",С1 Сургут HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="samara24",Самара-24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Самара-Гис
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="sampo-tv",Сампо ТВ 360°
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="saratov-24",Саратов-24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Саха
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="svoyo-tv-stavropol",Своё ТВ Ставрополь HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png",ТВ-7 Абакан
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ТВ21+
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="tatarstan24",Татарстан 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="sochi24",Сочи24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="stv-baykal",СТВ-Байкал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="tv-guberniya",ТВ-Губерния
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="tv-in",ТВ-ИН-Магнитогорск
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="kolyma-plus",ТВ-Колыма-Плюс HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Тивиком HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ТК Центр Красноярск
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ТКР Рязань
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ТНВ-Планета
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ТНВ-Татарстан
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ТНР24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Толк
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="tolpartv",Толпар ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="tolyatti24",Тольятти-24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="tomskoe-vremia",Томское время HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Тюменское время
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Удмуртия
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Ул. Правда
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Хамдан
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Эфир
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Югорск ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Югра
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Шаян ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name""  audio-track="rus" group-title="Региональные" tvg-id="express",Экспресс HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Юрган
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",ЮТВ Чебоксары
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Якутия 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name""  audio-track="rus" group-title="Региональные",Ямал-Регион
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=3000
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-football1.png" tvg-id="match-football1"  audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Матч! Футбол 1
