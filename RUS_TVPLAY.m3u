@@ -1134,9 +1134,6 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" tvg-id="klassika-kino" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Классика Кино
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzAxMDUyMDAsImlhdCI6MTc3MDAxODgwMCwiY2lkIjo2LCJ1aWQiOjk5ODIyMTg1NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.R12ddPgiFwfMsCVJSXmxG_I1HPD9QEWUD02ihS6XzlI&offset=10
-#EXTINF:-1 tvg-logo="" tvg-id="" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Советское кино
-#EXTVLCOPT:network-caching=3000
-http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzAxMDUyMDAsImlhdCI6MTc3MDAxODgwMCwiY2lkIjo2LCJ1aWQiOjk5ODIyMTg1NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.R12ddPgiFwfMsCVJSXmxG_I1HPD9QEWUD02ihS6XzlI&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png" tvg-id="kinopokaz" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Кинопоказ
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1185,7 +1182,7 @@ http://tv.lamro.workers.dev/?ID=4971
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Хит
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+http://178.163.2.228:4022/udp/234.0.0.184:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kamedi.png" tvg-id="kamedi" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Камеди
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=4965
@@ -1198,9 +1195,6 @@ http://tv.lamro.workers.dev/?ID=5074
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/patriot.png" tvg-id="patriot" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Патриот
 #EXTVLCOPT:network-caching=3000
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Хит
-#EXTVLCOPT:network-caching=3000
-http://178.163.2.228:4022/udp/234.0.0.184:2000
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",KION Хит
 #EXTVLCOPT:network-caching=3000
 http://ru.tvtm.one/ch382/mono.m3u8?token=toooloop.v2_ncZjlGvj7IU2s-bkZJQ7er-KI0ZBGzoHJxTZUs7Obeyg5QwRve6i_LXaievuPqlMmKxkm6BA-rcC
@@ -1365,7 +1359,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sov-kinklass-hd.png" audio-track="rus" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Советская киноклассика
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
+https://region-m.livecdn.ivi.ru/jW1JkumHOhrpjbozdjnvECZqh1eWvhyjgjcBVGfyMriXPW6QyEWh87620/KB5ZPIsy0AG3taYmU2CMqg,1770069794/noargs/channel/Soviet_Kinoklassika_HD_71484/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" audio-track="rus" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",VHS-ка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
 #EXTVLCOPT:network-caching=3000
