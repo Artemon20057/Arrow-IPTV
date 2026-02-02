@@ -1005,6 +1005,10 @@ http://193.25.8.59:8000/khl
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/russky-ekstrim.png" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Russia Extreme
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
+http://178.163.2.228:4022/udp/234.0.0.173:2000
+#EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/russky-ekstrim.png" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Russia Extreme HD
+#EXTVLCOPT:http-user-agent=SmartTV
+#EXTVLCOPT:network-caching=3000
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc2OTk2MzYxNCwiaHdpZCI6IjE2MmZkNThjNGU2MDFmMzA1ZDE1MTQzYzFkZGJlYTBkYzZhMzIyZDFmYTcwOWFmZDRlNmI3ZWJkZmFhNGRlY2YiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzU4ODE0LCJzZXNzaW9uX2lkIjoiNWZlZTY0NTlmZDMzZjJkOTdlNjFkMTg2MjZiYjQ2ODEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_gdyEShYSbyvA0UE16d72wMo7eqQd6M7hFkmav7QFk
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sportivny.png" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",ТВ Спорт
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1038,10 +1042,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey1
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sila.png" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Сила HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sila.png" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Сила
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
+http://178.163.2.228:4022/udp/234.0.0.6:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tonus-tv.png" tvg-id="tonus-tv" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Тонус
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1096,7 +1100,7 @@ http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUz
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png" tvg-id="kinopokaz" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Кинопоказ
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=SmartTV
-
+http://178.163.2.228:4022/udp/234.0.0.209:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Наш Кинопоказ
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1130,7 +1134,10 @@ http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/pl
 http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc2OTk2MzYxNCwiaHdpZCI6IjE2MmZkNThjNGU2MDFmMzA1ZDE1MTQzYzFkZGJlYTBkYzZhMzIyZDFmYTcwOWFmZDRlNmI3ZWJkZmFhNGRlY2YiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzU4ODE0LCJzZXNzaW9uX2lkIjoiNWZlZTY0NTlmZDMzZjJkOTdlNjFkMTg2MjZiYjQ2ODEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_gdyEShYSbyvA0UE16d72wMo7eqQd6M7hFkmav7QFk
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/blokbaster.png" tvg-id="blokbaster" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Блокбастер
 #EXTVLCOPT:network-caching=3000
-http://tv.lamro.workers.dev/?ID=4963
+http://178.163.2.228:4022/udp/234.0.0.99:2000
+#EXTINF:-1 tvg-logo="" tvg-id="blokbaster" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Лавстори
+#EXTVLCOPT:network-caching=3000
+http://178.163.2.228:4022/udp/234.0.0.177:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-muzhskoe-hd.png" tvg-id="nashe-muzhskoe" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Наше Мужское
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1151,6 +1158,9 @@ http://tv.lamro.workers.dev/?ID=5074
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/patriot.png" tvg-id="patriot" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Патриот
 #EXTVLCOPT:network-caching=3000
 http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Хит
+#EXTVLCOPT:network-caching=3000
+http://178.163.2.228:4022/udp/234.0.0.184:2000
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",KION Хит
 #EXTVLCOPT:network-caching=3000
 http://ru.tvtm.one/ch382/mono.m3u8?token=toooloop.v2_ncZjlGvj7IU2s-bkZJQ7er-KI0ZBGzoHJxTZUs7Obeyg5QwRve6i_LXaievuPqlMmKxkm6BA-rcC
@@ -1197,13 +1207,13 @@ http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m
 https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc2OTk2MzYxNCwiaHdpZCI6IjE2MmZkNThjNGU2MDFmMzA1ZDE1MTQzYzFkZGJlYTBkYzZhMzIyZDFmYTcwOWFmZDRlNmI3ZWJkZmFhNGRlY2YiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzU4ODE0LCJzZXNzaW9uX2lkIjoiNWZlZTY0NTlmZDMzZjJkOTdlNjFkMTg2MjZiYjQ2ODEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_gdyEShYSbyvA0UE16d72wMo7eqQd6M7hFkmav7QFk
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Amedia 1
 #EXTVLCOPT:network-caching=3000
-http://193.25.8.59:8000/amedia1
+http://178.163.2.228:4022/udp/234.0.0.155:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Amedia 2
 #EXTVLCOPT:network-caching=3000
 http://193.25.8.59:8000/amedia2
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Amedia Hit
 #EXTVLCOPT:network-caching=3000
-http://tv.lamro.workers.dev/?ID=4921
+http://178.163.2.228:4022/udp/234.0.0.169:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Amedia Premium
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=3718
@@ -1324,7 +1334,7 @@ http://193.25.8.59:8000/tochka
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="bolt" audio-track="rus" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Bolt
 #EXTVLCOPT:network-caching=3000
-http://hls127.freeott.top:8080/Bolt/mono.m3u8
+http://178.163.2.228:4022/udp/234.0.0.193:2000
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",FAN HD
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzAwMTkwMTMsImlhdCI6MTc2OTkzMjYxMywiY2lkIjo2LCJ1aWQiOjk5NzcyODEzMCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.pm0C90HMScNF38IVaOfso5Atnaqbf1ilqqjqSZfEqTU&offset=10
@@ -1339,7 +1349,7 @@ http://tv.lamro.workers.dev/?ID=5017
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/hollywood.png" tvg-id="hollywood" audio-track="rus" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Hollywood
 #EXTVLCOPT:network-caching=3000
-http://tv.lamro.workers.dev/?ID=4589
+http://178.163.2.228:4022/udp/234.0.0.117:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bollywood-hd.png" tvg-id="bollywood-hd" audio-track="rus" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Bollywood
 #EXTVLCOPT:network-caching=3000
 http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc2OTk2MzYxNCwiaHdpZCI6IjE2MmZkNThjNGU2MDFmMzA1ZDE1MTQzYzFkZGJlYTBkYzZhMzIyZDFmYTcwOWFmZDRlNmI3ZWJkZmFhNGRlY2YiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzU4ODE0LCJzZXNzaW9uX2lkIjoiNWZlZTY0NTlmZDMzZjJkOTdlNjFkMTg2MjZiYjQ2ODEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_gdyEShYSbyvA0UE16d72wMo7eqQd6M7hFkmav7QFk
@@ -1366,7 +1376,7 @@ http://tv.lamro.workers.dev/?ID=4853
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/teleputeshestvia.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Телепутешествия
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+http://178.163.2.228:4022/udp/234.0.0.106:2000
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/v-mire-zhivotnyx.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,В мире животных
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1399,7 +1409,7 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Travel+Adventure
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+http://178.163.2.228:4022/udp/234.0.0.97:2000
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/glazami-turista.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Глазами туриста
 http://tv.lamro.workers.dev/?ID=4893
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/the-explorers.png" tvg-id="the-explorers" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,The Explorers
@@ -1409,6 +1419,10 @@ http://tv.lamro.workers.dev/?ID=4893
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
 
+#EXTINF:-1 tvg-logo="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Вкус
+#EXTVLCOPT:http-user-agent=SmartTV
+#EXTVLCOPT:network-caching=3000
+http://178.163.2.228:4022/udp/234.0.0.98:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/otkryty-mir.png" tvg-id="otkryty-mir" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Открытый мир
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1423,10 +1437,7 @@ http://tv.lamro.workers.dev/?ID=4885
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/moya-planeta.png" tvg-id="moya-planeta" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Моя планета
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/moya-planeta.png" tvg-id="moya-planeta" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Моя планета HD
-#EXTVLCOPT:http-user-agent=SmartTV
-#EXTVLCOPT:network-caching=3000
+http://178.163.2.228:4022/udp/234.0.0.228:2000
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zhivaya-priroda.png" tvg-id="zhivaya-priroda" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Живая природа 
 #EXTVLCOPT:network-caching=3000
@@ -1439,7 +1450,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
 #EXTVLCOPT:http-user-agent=SmartTV
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zoopark.png" tvg-id="zoopark" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Zooпарк
-http://tv.lamro.workers.dev/?ID=5099
+http://178.163.2.228:4022/udp/234.0.0.216:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovsek.png" tvg-id="sovsek" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Top Secret
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1522,7 +1533,7 @@ http://31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/myy.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,МЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 #EXTVLCOPT:network-caching=3000
-
+https://region-s.livecdn.ivi.ru/jW1I85wqstKsjCV2hgJ41KG8VwRrkfIJebUN7xHdkV64ipyIllSa39552/9WmZ32cNlb0wcrp4LS5Spg,1770042744/live/ivi/wetv/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 #EXTINF:-1 tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/8917.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,ТБВ
 #EXTVLCOPT:network-caching=3000
 https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
@@ -1532,7 +1543,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="curiosity-stream" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/curiosity-stream.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Curiosity Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 #EXTVLCOPT:network-caching=3000
-
+https://region-m.livecdn.ivi.ru/jW1JblfG7htxMMp9QzIN1bitZKXik47Nry4d0mu25K6FoVfLNGXE47641/kI28ETqUpj5Zq-ntRWjdFw,1770042668/noargs/curiositystream_hd/4_4df93944/chunklist.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/terra-ru.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,TERRA
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1564,25 +1575,21 @@ http://tv.lamro.workers.dev/?ID=5229
 http://tv.lamro.workers.dev/?ID=5102
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/dikaya-rybalka-hd.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикая рыбалка HD
 #EXTVLCOPT:network-caching=3000
-
+https://region-m.livecdn.ivi.ru/jW1Ibq9ZmaqjcnZmSP0Q7wQN9GvkSZwF0mp4SZCs8lnY5Zm0KgT044597/06lQE4CGd2DjUv5B6EUkjw,1770043272/noargs/channel/Dikaya_Rybalka_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/oxotnik-i-rybolov-hd.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Охотник и Рыболов
-#EXTVLCOPT:http-user-agent=SmartTV
-#EXTVLCOPT:network-caching=3000
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov-int.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Охотник и рыболов Int
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/oxota-i-rybalka.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Охота и рыбалка
 #EXTVLCOPT:network-caching=3000
-
+http://178.163.2.228:4022/udp/234.0.0.230:2000
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/dialogi-o-rybalke.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Диалоги о рыбалке
 #EXTVLCOPT:network-caching=3000
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Рыболов
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-http://ru.tvtm.one/ch3813/mono.m3u8?token=toooloop.v2_fjBZH2L2crRty7AWlpAkDX45f0ojttlLtFGZQvenU4QPhL5iyhuW90T05wtu8TH3vf6YRiGE20lamw
+https://region-m.livecdn.ivi.ru/jW1JySa12TwifxdlOEwlAwVVqLHQfZUpjVqIPYbpRoxtzDeVp64R45183/J94X07sPnZ-c8AX3vwKLcw,1770042861/noargs/channel/RYBOLOV_HD_71503/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" tvg-id="nasha-tema" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Наша тема
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1684,7 +1691,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vremia.png" tvg-id="vremia"  tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Время
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc2OTk2MzYxNCwiaHdpZCI6IjE2MmZkNThjNGU2MDFmMzA1ZDE1MTQzYzFkZGJlYTBkYzZhMzIyZDFmYTcwOWFmZDRlNmI3ZWJkZmFhNGRlY2YiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzU4ODE0LCJzZXNzaW9uX2lkIjoiNWZlZTY0NTlmZDMzZjJkOTdlNjFkMTg2MjZiYjQ2ODEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_gdyEShYSbyvA0UE16d72wMo7eqQd6M7hFkmav7QFk
+http://178.163.2.228:4022/udp/234.0.0.225:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/telekafe.png" tvg-id="telekafe" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Телекафе
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1716,9 +1723,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
 #EXTVLCOPT:network-caching=3000
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 #EXTINF:-1 tvg-id="Аппетитный" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/appetitny.png" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Аппетитный
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SHIELD Android TV Build/S1) lite.hdtv/4.5.7 (Build 260121)
+#EXTVLCOPT:x-lhd-agent={"platform":"web","app":"limehd.tv","device_id":"799586.097931019-1770026207415"}
 #EXTVLCOPT:network-caching=3000
-
+https://mhd128.iptv2022.com/x/-auax9Uyf0wmnVsqDcIg5Q,1770112627/streaming/appetitniy/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/doverie.png" tvg-id="doverie" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Москва. Доверие
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 #EXTVLCOPT:network-caching=3000
@@ -1748,7 +1755,7 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 http://95.66.188.74/Usadba/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zagorodnaya-zhizn.png" tvg-id="zagorodnaya-zhizn" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Загородная Жизнь
 #EXTVLCOPT:network-caching=3000
-http://185.57.68.33/40/index.m3u8
+http://178.163.2.228:4022/udp/234.0.0.115:2000
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/zagorodny.png" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Загородный
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1781,7 +1788,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sarafan.png" tvg-id="sarafan" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Сарафан
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
+http://178.163.2.228:4022/udp/234.0.0.246:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png" tvg-id="kvn-tv" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,КВН ТВ
 #EXTVLCOPT:network-caching=3000
 http://62.89.220.15/streams/media/kvn-tv_720x576/index.m3u8
@@ -1893,7 +1900,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Radost_moya
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/familyjam.png" tvg-name"" tvg-id="familyjam" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,FamilyJam
 #EXTVLCOPT:network-caching=3000
-http://ru.tvtm.one/ch3357/mono.m3u8?token=toooloop.v2_s_LUdR7aGUsVcxT12iGRR_uMHDqLaK3ZuJ5GIPHQD-DOTOGHdPdTydyYaoLYDvBsRYCrcCSGhj2djA
+http://178.163.2.228:4022/udp/234.0.0.119:2000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png" tvg-name"" tvg-id="detsky-mir" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Детский Мир
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=3176
@@ -1912,9 +1919,12 @@ http://tv.lamro.workers.dev/?ID=3215
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nick-jr.png" tvg-name"" tvg-id="nick-jr" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Nick Jr
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=3265
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" tvg-name"" tvg-id="cartoon-network" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Cartoon Network
+#EXTINF:-1 tvg-logo="" tvg-name"" tvg-id="" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Cartoon classics
 #EXTVLCOPT:network-caching=3000
-http://tv.lamro.workers.dev/?ID=3270
+http://178.163.2.228:4022/udp/234.0.0.238:2000
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ani.png" tvg-name"" tvg-id="ani" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Ani
+#EXTVLCOPT:network-caching=3000
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ani.png" tvg-name"" tvg-id="ani" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Ani
 #EXTVLCOPT:network-caching=3000
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
@@ -1923,7 +1933,7 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 https://flussonic.salomtv.uz/Detskiy/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/v-gostiax-u-skazki.png" tvg-name"" tvg-id="v-gostiax-u-skazki" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,В гостях у сказки
 #EXTVLCOPT:network-caching=3000
-http://tv.lamro.workers.dev/?ID=4882
+http://178.163.2.228:4022/udp/234.0.0.248:2000
 #EXTINF:-1 tvg-id="sovmultf" tvg-name"" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/sovmultf.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}"  audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Советские мультфильмы
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk5MzMwMDQsImlhdCI6MTc2OTg0NjYwNCwiY2lkIjo2LCJ1aWQiOjk5NzI1MjM3OSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.QJv1uOXYtX65Qs8bRYwjtura9fXF-CE24g-i586RwqI&offset=10
@@ -1947,7 +1957,7 @@ http://tv.lamro.workers.dev/?ID=5095
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/chizhik.png" tvg-name"" tvg-id="chizhik" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Чижик
 #EXTVLCOPT:network-caching=3000
-http://ru.tvtm.one/ch425/mono.m3u8?token=toooloop.v2_LWUuJ8A7SJcatW0Ogp1tTDJX_xsE0ag9XY7ZYRXHK2eLEDrP_LGzzsLfxQ3jze7-c_s0lQWZPGPW
+https://region-m.livecdn.ivi.ru/jW1IhU0KUDzyn8h6I6tE34bU2dlfHNHCb2gMRApHx2LVe6sTySDg69095/-fj3WJfu32bUaVzi9rrB4Q,1770043069/noargs/channel/Chizhik_HD_71476/1080p.m3u8
 #EXTINF:-1 tvg-id="tiptop" tvg-name"" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/tiptop.png" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,ТипТоп
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=5121
