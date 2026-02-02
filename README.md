@@ -1,15 +1,12 @@
 # Arrow-IPTV
-IPTV плейлисты для тех, кто хочет стабильный плейлист для комфортного просмотра.
+IPTV плейлисты для комфортного просмотра.
 
-На одном из наших плейлистов скоро будет на собственный инфоканал (типо как у триколора тв, но по другому).
-
-три APK файла на андроид и тв вы найдёте на разделе Release.
+три APK файла на андроид и тв находится на разделе Release.
 
 EPG:https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz
 https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz
-
 https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz,http://epg.iptvx.tv/xmltv.xml.gz
-https://iptvx.one/EPG_NOARCH,https://github.com/iptv-org/epg
+https://iptvx.one/EPG_NOARCH,
 
 IPTV PLAYER
 На SMART TV: SS IPTV.
