@@ -1,0 +1,456 @@
+#EXTM3U tvg-url="https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz"; "https://iptvx.one/EPG_NOARCH"
+#EXTM3U x-tvg-url="="https://github.com/Lorax121/everyday_epg_update/raw/main/data/EPG_LITE.xml.gz"; "https://iptvx.one/EPG_NOARCH"
+
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Шерлок Холмс и доктор Ватсон
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18126/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор След
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18127/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Ментовские войны
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18128/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Мелодрамы
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18129/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Мир без границ
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18130/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Некрасивая подружка
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18131/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Три богатыря
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18132/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Сибирские деревянные дома
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18133/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Знание
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18134/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Советские мультфильмы
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18135/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Смешарики
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18136/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Триколор Комедии
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/18137/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan ПёС + Лихач
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/16064/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan Лесник
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/16065/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan Симпсоны
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15101/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan Скорая Помощь
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15100/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan MiniSeries
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19437/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan Ментовские войны
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/16063/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan Сваты
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/11014/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",CineMan РуКино
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/11013/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Ultra HD Cinema
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/4000/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Кино UHD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/5004/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Russian Extreme UHD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/5003/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Кион Хит
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/20211/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Советская киноклассика
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/2146/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Russian Extreme HD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/2077/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",National Geographic 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/14000/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Viju+ Planet HD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/9027/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Глазами Туриста HD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/9061/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Глазами Туриста 4K
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15191/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Дикая охота HD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/9081/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Дикая рыбалка HD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/9082/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Охотник и Рыболов HD
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/9043/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Охота и рыбалка
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/9284/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Диалоги о рыбалке
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/2394/index.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" group-title="Sew24",Рыболов
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19254/index.m3u8
+
+#EXTINF:-1  tvg-id="vf-orel-i-reshka" ,VF Орел и решка
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1658.m3u8
+#EXTINF:-1  tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1662.m3u8
+#EXTINF:-1  tvg-id="vf-eralash" ,VF Ералаш
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1644.m3u8
+#EXTINF:-1  tvg-id="vf-nowogodni" ,VF Новогодний
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1543.m3u8
+#EXTINF:-1 ,VF Музыкальный Новый год!
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1629.m3u8
+#EXTINF:-1  tvg-id="vf-filmy-sssr" ,VF Фильмы СССР
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1573.m3u8
+#EXTINF:-1  tvg-id="vf-gaidai" ,VF Леонид Гайдай
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1602.m3u8
+#EXTINF:-1  tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1609.m3u8
+#EXTINF:-1  tvg-id="vf-mosfilm" ,VF Мосфильм
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1572.m3u8
+#EXTINF:-1  tvg-id="vf-lenfilm" ,VF Ленфильм
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1619.m3u8
+#EXTINF:-1  tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1620.m3u8
+#EXTINF:-1  tvg-id="vf-belarusfilm" ,VF Беларусьфильм
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1623.m3u8
+#EXTINF:-1  tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1618.m3u8
+#EXTINF:-1  tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1621.m3u8
+#EXTINF:-1  tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1622.m3u8
+#EXTINF:-1  tvg-id="vf-vysocki" ,VF Владимир Высоцкий
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1541.m3u8
+#EXTINF:-1  tvg-id="vf-voronins" ,VF Воронины
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1586.m3u8
+#EXTINF:-1  tvg-id="vf-luidefunes" ,VF Луи де Фюнес
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1598.m3u8
+#EXTINF:-1  tvg-id="vf-friends" ,VF Друзья
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1604.m3u8
+#EXTINF:-1  tvg-id="vf-maski" ,VF Маски Шоу
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1656.m3u8
+#EXTINF:-1  tvg-id="vf-kalambur" ,VF Каламбур
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1657.m3u8
+#EXTINF:-1  tvg-id="vf-gorodok" ,VF Городок
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1615.m3u8
+#EXTINF:-1  tvg-id="vf-multfilmy-sssr" ,VF Мультфильмы СССР
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1574.m3u8
+#EXTINF:-1  tvg-id="vf-soyuzmultfilm" ,VF Союзмультфильм
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1643.m3u8
+#EXTINF:-1  tvg-id="vf-nowogodmult" ,VF Новогодние мультфильмы
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1648.m3u8
+#EXTINF:-1  tvg-id="vf-pobeda" ,VF Наша победа
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1571.m3u8
+#EXTINF:-1  tvg-id="vf-elki" ,VF Ёлки
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1544.m3u8
+#EXTINF:-1  tvg-id="vf-klassika" ,VF Классика
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1565.m3u8
+#EXTINF:-1  tvg-id="vf-soldats" ,VF Солдаты
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1584.m3u8
+#EXTINF:-1  tvg-id="vf-kuxnia" ,VF Кухня
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1663.m3u8
+#EXTINF:-1  tvg-id="vf-serialy-turcii" ,VF Сериалы Турции
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1537.m3u8
+#EXTINF:-1  tvg-id="vf-western" ,VF Вестерн
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1538.m3u8
+#EXTINF:-1  tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1539.m3u8
+#EXTINF:-1  tvg-id="vf-besstyzhye" ,VF Бесстыжие
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1540.m3u8
+#EXTINF:-1  tvg-id="vf-2ipol" ,VF Два с половиной человека
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1542.m3u8
+#EXTINF:-1  tvg-id="vf-garipoter" ,VF Гарри Поттер
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1547.m3u8
+#EXTINF:-1  tvg-id="vf-sexcity" ,VF Секс в большом городе
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1548.m3u8
+#EXTINF:-1  tvg-id="vf-kartochnydomik" ,VF Карточный домик
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1549.m3u8
+#EXTINF:-1  tvg-id="vf-disney-movie" ,VF Disney Movie
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1550.m3u8
+#EXTINF:-1  tvg-id="vf-tbbt" ,VF Теория большого взрыва
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1551.m3u8
+#EXTINF:-1  tvg-id="vf-adventure" ,VF Adventure
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1552.m3u8
+#EXTINF:-1  tvg-id="vf-anime" ,VF Anime
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1553.m3u8
+#EXTINF:-1  tvg-id="vf-cartoon" ,VF Cartoon
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1554.m3u8
+#EXTINF:-1  tvg-id="vf-comedy" ,VF Comedy
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1555.m3u8
+#EXTINF:-1  tvg-id="vf-family" ,VF Family
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1556.m3u8
+#EXTINF:-1  tvg-id="vf-fantasy" ,VF Fantasy
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1557.m3u8
+#EXTINF:-1  tvg-id="vf-melodrama" ,VF Melodrama
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1558.m3u8
+#EXTINF:-1  tvg-id="vf-mystic" ,VF Mystic
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1559.m3u8
+#EXTINF:-1  tvg-id="vf-uzhasy" ,VF Ужасы
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1560.m3u8
+#EXTINF:-1  tvg-id="vf-vhs" ,VF VHS MIX
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1561.m3u8
+#EXTINF:-1  tvg-id="vf-uzhasy-vhs" ,VF Ужасы VHS
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1562.m3u8
+#EXTINF:-1  tvg-id="vf-premiera" ,VF Премьера
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1563.m3u8
+#EXTINF:-1  tvg-id="vf-premiere" ,VF Premiere
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1564.m3u8
+#EXTINF:-1  tvg-id="vf-komedia" ,VF Комедия
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1567.m3u8
+#EXTINF:-1  tvg-id="vf-katastrofy" ,VF Катастрофы
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1568.m3u8
+#EXTINF:-1  tvg-id="vf-marvel" ,VF Marvel
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1569.m3u8
+#EXTINF:-1  tvg-id="vf-voennye" ,VF Военные
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1570.m3u8
+#EXTINF:-1  tvg-id="vf-boevik" ,VF Боевик
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1575.m3u8
+#EXTINF:-1  tvg-id="vf-top-series" ,VF TOP Series
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1578.m3u8
+#EXTINF:-1  tvg-id="vf-arthouse" ,VF Art house
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1579.m3u8
+#EXTINF:-1  tvg-id="vf-detective" ,VF Detective
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1580.m3u8
+#EXTINF:-1  tvg-id="vf-fantastic" ,VF Fantastic
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1581.m3u8
+#EXTINF:-1  tvg-id="vf-oskar" ,VF Оскар
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1582.m3u8
+#EXTINF:-1  tvg-id="vf-taynsled" ,VF Тайны следствия
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1585.m3u8
+#EXTINF:-1  tvg-id="vf-univer" ,VF Универ
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1587.m3u8
+#EXTINF:-1  tvg-id="vf-series" ,VF Series
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1588.m3u8
+#EXTINF:-1  tvg-id="vf-sled" ,VF След
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1589.m3u8
+#EXTINF:-1  tvg-id="vf-serial" ,VF Сериал
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1590.m3u8
+#EXTINF:-1  tvg-id="vf-mylnoper" ,VF Мыльные оперы
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1591.m3u8
+#EXTINF:-1  tvg-id="vf-thrilr" ,VF Thriller
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1592.m3u8
+#EXTINF:-1  tvg-id="vf-indiya" ,VF Индия
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1593.m3u8
+#EXTINF:-1  tvg-id="vf-istorya" ,VF История
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1594.m3u8
+#EXTINF:-1  tvg-id="vf-comics" ,VF Comics
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1595.m3u8
+#EXTINF:-1  tvg-id="vf-kriminal" ,VF Криминал
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1596.m3u8
+#EXTINF:-1  tvg-id="vf-klinika" ,VF Клиника
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1597.m3u8
+#EXTINF:-1  tvg-id="vf-chernobyl" ,VF Чернобыль
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1599.m3u8
+#EXTINF:-1  tvg-id="vf-xfiles" ,VF The X-Files
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1600.m3u8
+#EXTINF:-1  tvg-id="vf-supernatural" ,VF Сверхъестественное
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1601.m3u8
+#EXTINF:-1  tvg-id="vf-ahs" ,VF Американская история ужасов
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1603.m3u8
+#EXTINF:-1  tvg-id="vf-sashatania" ,VF СашаТаня
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1605.m3u8
+#EXTINF:-1  tvg-id="vf-dzhekichan" ,VF Джеки Чан
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1606.m3u8
+#EXTINF:-1  tvg-id="vf-nasharasha" ,VF Наша Раша
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1607.m3u8
+#EXTINF:-1  tvg-id="vf-univernew" ,VF Универ новая общага
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1610.m3u8
+#EXTINF:-1  tvg-id="vf-walkingdead" ,VF Ходячие мертвецы
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1611.m3u8
+#EXTINF:-1  tvg-id="vf-realnyepacany" ,VF Реальные пацаны
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1612.m3u8
+#EXTINF:-1  tvg-id="vf-housemd" ,VF Доктор Хаус
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1613.m3u8
+#EXTINF:-1  tvg-id="vf-bezcenzury" ,VF Без цензуры
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1614.m3u8
+#EXTINF:-1  tvg-id="vf-comedy-woman" ,VF Comedy Woman
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1616.m3u8
+#EXTINF:-1  tvg-id="vf-igraprestolov" ,VF Игра престолов
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1617.m3u8
+#EXTINF:-1  tvg-id="vf-netflx" ,VF Netflix
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1624.m3u8
+#EXTINF:-1  tvg-id="vf-hbo" ,VF HBO
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1625.m3u8
+#EXTINF:-1  tvg-id="vf-disney-cartoon" ,VF Disney Cartoon
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1642.m3u8
+#EXTINF:-1  tvg-id="vf-vhs-cartoon" ,VF VHS Cartoon
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1645.m3u8
+#EXTINF:-1  tvg-id="vf-malysh" ,VF Малыш
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1646.m3u8
+#EXTINF:-1 ,VF Мультуб
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1647.m3u8
+#EXTINF:-1  tvg-id="vf-skubidu" ,VF Скуби-Ду
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1649.m3u8
+#EXTINF:-1  tvg-id="vf-newyear" ,VF New Year
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1545.m3u8
+#EXTINF:-1 ,VF Авто
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1650.m3u8
+#EXTINF:-1  tvg-id="vf-oxota" ,VF Охота
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1651.m3u8
+#EXTINF:-1 ,VF Домашний повар
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1652.m3u8
+#EXTINF:-1 ,VF Путешествия
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1653.m3u8
+#EXTINF:-1 ,VF Рыбалка
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1654.m3u8
+#EXTINF:-1  tvg-id="vf-strojka" ,VF Стройка
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1655.m3u8
+#EXTINF:-1  tvg-id="vf-kvn" ,VF КВН
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1660.m3u8
+#EXTINF:-1  tvg-id="vf-bania" ,VF Баня
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1664.m3u8
+#EXTINF:-1  tvg-id="vf-odnazhdyvr" ,VF Однажды в России
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1665.m3u8
+#EXTINF:-1  tvg-id="vf-yumor18" ,VF Юмор 18+
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1661.m3u8
+#EXTINF:-1  tvg-id="vf-kino4k" ,VF Кино 4K
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1576.m3u8
+#EXTINF:-1  tvg-id="vf-serial4k" ,VF Сериал 4K
+#EXTGRP:🍭 VF*
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1577.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
