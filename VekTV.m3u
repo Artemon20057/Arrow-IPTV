@@ -1316,18 +1316,18 @@ http://5.153.190.251:8000/play/a08g
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/viasat-nature.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Viju Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=CVxl8ubCk4o4uw52sA5eyg&e=1770230283&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=0nkpWjwuKxo-pcbMgYz_gA&e=1771267526&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/Viju_Explore.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Viju Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=pvZjhZNsjpdEOcBo8ds3yQ&e=1770230401&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=u75tGZg0x45WgJ445TVYeA&e=1771267583&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://artemon20057.github.io/Arrow-IPTV/logo/viasat-history.png" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Viju History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=rpBtYVWMhztOXPgTCLnHBg&e=1770230492&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=77ERrRyEHALNn8UtDlwOig&e=1771267637&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png" tvg-id="viasat-nature-history-hd" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Viju+ Planet
 #EXTVLCOPT:network-caching=3000
-http://ru.tvtm.one/ch2454/mono.m3u8?token=toooloop.v2_PvuLSLxn-CTLaf91l83uQy4lzXoQKlrAU_fBM9RI6J1gR-YK-e-pxL1c1AyihkqRPYsGHpVs40OIHQ
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/dikiy.png" tvg-id="dikiy" tvg-name"" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикий
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=5229
