@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTM3U x-tvg-url="https://iptvx.one/EPG7"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://iptvx.one/EPG7"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG,https://iptvx.one/EPG7"
 
 #EXTINF:-1 tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="ИНФО",Инфоканал
 #EXTVLCOPT:network-caching=3000
