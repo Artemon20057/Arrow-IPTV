@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,https://github.com/Lorax121/everyday_epg_update/raw/main/data/epg.xml"
-#EXTM3U x-tvg-url="https://iptvx.one/EPG,https://github.com/Lorax121/everyday_epg_update/raw/main/data/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="ИНФО",Инфоканал
 #EXTVLCOPT:network-caching=3000
