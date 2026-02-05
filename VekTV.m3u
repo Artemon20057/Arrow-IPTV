@@ -702,10 +702,6 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 #EXTVLCOPT:network-caching=3000
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/svoyo-tv-stavropol.png" tvg-name"Своё ТВ Ставрополь"  audio-track="rus" tvg-adaptive="auto" tvg-audio-codec="aac" group-title="Региональные" tvg-id="svoyo-tv-stavropol",Своё ТВ Ставрополь HD
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-#EXTVLCOPT:network-caching=3000
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv21plus.png" tvg-id="tv21plus" tvg-name"ТВ-21+"  audio-track="rus" tvg-adaptive="auto" tvg-audio-codec="aac" group-title="Региональные",ТВ21+
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 #EXTVLCOPT:network-caching=3000
