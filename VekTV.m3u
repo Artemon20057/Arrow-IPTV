@@ -825,7 +825,7 @@ http://178.163.2.228:4022/udp/234.0.0.6:2000
 #EXTINF:-1 tvg-id="voleybol" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" tvg-name"Волейбол" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Волейбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=_9y2sWhYC9U0AtUGQkVoVw&e=2070191830&scheme=https
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=596vDKNWsbqRsVZzrFi4VA&e=2070278319&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir-basketbola.png" tvg-id="mir-basketbola" tvg-name"Мир баскетбола" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" audio-track="rus" tvg-adaptive="auto"  group-title="Спортивные",Мир Баскетбола
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzAzNjQ2MDEsImlhdCI6MTc3MDI3ODIwMSwiY2lkIjo2LCJ1aWQiOjk5OTU4MzM3MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Fm8C1neg033B_7WTmkEQPzedM7ul6vta0d0_eNQeH9M&offset=10
@@ -1380,7 +1380,7 @@ http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rutube-tv" tvg-logo="https://epg.iptvx.one/picons/rutube-tv.png" tvg-name"RUTUBE TV" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Rutube TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=SbtYBAAvKRW6hMv65ss-CQ&e=2070191777&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=UJ5_wqGQvh20NLMsN1RJbA&e=2070278218&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt4.png" tvg-id="tnt4" tvg-name"ТНТ4" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,ТНТ4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 #EXTVLCOPT:network-caching=3000
@@ -1462,14 +1462,14 @@ https://stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://epg.iptvx.one/picons/arsenaltv.png" tvg-id="arsenaltv" tvg-name"Арсенал ТВ" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Арсенал
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc3MDYwNTkzNiwiaHdpZCI6IjkyY2RiNTJmZGE4M2NkM2QxMWUzNjIyNjUzZWRmYTYxYmMzMTllOGZiMTQ5YWQyZmQxYzljZjk1YjkzOWEzOTciLCJsYXN0X3JlcV9kYXRlIjoxNzcwMDAxMTM2LCJzZXNzaW9uX2lkIjoiZWVhZDQ2ZGVkYTMwOGIxODUwZTE5MjBlZTA2NjAwZjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.MVfnFvHQjWSagZa4vKbFi8YYOspIy4LbXvOHGWpHgOM
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/teatr.png" tvg-id="teatr" tvg-name"Театр" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,ТЕАТР
 #EXTVLCOPT:network-caching=3000
 http://62.89.220.15/streams/media/teatr_720x576/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tayna.png" tvg-id="tayna" tvg-name"Тайна" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Тайна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=5zOwLoaUkCfh1xLRIi8dAQ&e=2070191784&scheme=https
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=eWsYUDYe5KOkTQe8F_HQfA&e=2070278226&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/lapki-live.png" tvg-id="lapki-live" tvg-name"Лапки Live" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное",Лапки LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
