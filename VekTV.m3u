@@ -1098,7 +1098,7 @@ http://193.25.8.59:8000/eurokino
 http://193.25.8.59:8000/tochka
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="bolt" audio-track="rus" tvg-name"Bolt" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Bolt
 #EXTVLCOPT:network-caching=3000
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1MzczMTIsImlhdCI6MTc3MDQ1MDkxMiwiY2lkIjo2LCJ1aWQiOjEwMDA1NzYwMjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.n_pOHaPajqYiyxM_Q7-IDUvz3c9DlaUGlY1lec0wERs&offset=10
+https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" tvg-name"FAN" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",FAN HD
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1MzczMTIsImlhdCI6MTc3MDQ1MDkxMiwiY2lkIjo2LCJ1aWQiOjEwMDA1NzYwMjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.n_pOHaPajqYiyxM_Q7-IDUvz3c9DlaUGlY1lec0wERs&offset=10
@@ -1699,6 +1699,36 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/capfantast.png" tvg-name"Капитан Фантастика" tvg-id="ginger-hd" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Капитан Фантастика
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=4745
+
+
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Балабол
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/NTVkinozal1.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Невский
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/NTVkinozal2.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Первый отдел
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/NTVkinozal3.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Пять минут тишины
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/NTVkinozal4.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Пёс
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/NTVkinozal5.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Скорая помощь
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/NTVkinozal6.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Шеф
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/NTVkinozal7.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",Простоквашино
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/Prostokvashino.m3u8
+#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",Неизвестная россия
+#EXTVLCOPT:network-caching=3000
+https://veuxiptv.github.io/TV/channels/UnkownRussia.m3u8
+
 
 
 #EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-audio-ch="stereo" tvg-audio-codec="aac" group-title="КИНОЗАЛ" tvg-id="no_epg" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
