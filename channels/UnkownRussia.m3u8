@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=1280x720
-#EXTVLCOPT:http-user-agent="Mozilla/5.0"
-#EXTVLCOPT:http-referrer="https://ntv.ru/"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+#EXTVLCOPT:http-referrer="https://www.ntv.ru"
+#EXTVLCOPT:network-caching=3000
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
