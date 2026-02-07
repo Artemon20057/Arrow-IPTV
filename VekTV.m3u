@@ -1703,7 +1703,7 @@ http://tv.lamro.workers.dev/?ID=4745
 
 #EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Балабол
 #EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/NTVkinozal1.m3u8
+https://raw.githubusercontent.com/VeuxIPTV/TV/refs/heads/main/channels/NTVkinozal1.m3u8
 #EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Невский
 #EXTVLCOPT:network-caching=3000
 https://veuxiptv.github.io/TV/channels/NTVkinozal2.m3u8
@@ -1724,10 +1724,10 @@ https://veuxiptv.github.io/TV/channels/NTVkinozal6.m3u8
 https://veuxiptv.github.io/TV/channels/NTVkinozal7.m3u8
 #EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",Простоквашино
 #EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/Prostokvashino.m3u8
+https://raw.githubusercontent.com/VeuxIPTV/TV/refs/heads/main/channels/Prostokvashino.m3u8
 #EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",Неизвестная россия
 #EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/UnkownRussia.m3u8
+https://raw.githubusercontent.com/VeuxIPTV/TV/refs/heads/main/channels/UnkownRussia.m3u8
 
 
 
