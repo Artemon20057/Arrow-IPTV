@@ -1940,6 +1940,12 @@ https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1665.m3u8
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1661.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vf-90e.png" group-title="КИНОЗАЛ" tvg-id="vf-90e" ,VF Привет из 90х
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1608.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" tvg-name"CineMan Лесник" tvg-id="cineman-lesnik" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",CineMan Лесник
+#EXTVLCOPT:network-caching=3000
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" tvg-name"CineMan ПёС + Лихач" tvg-id="cineman-pes" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
+#EXTVLCOPT:network-caching=3000
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16064/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" tvg-name"1HD Music Television" audio-track="rus" tvg-adaptive="auto" group-title="Музыкальные",1HD
 #EXTVLCOPT:network-caching=3000
