@@ -1086,9 +1086,8 @@ https://region-m.livecdn.ivi.ru/jW1HZwxAXpSDgrDMZdUYe9U1ZqxCzq3H4jO45ZL1QgJHVRF6
 #EXTVLCOPT:network-caching=3000
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" audio-track="rus" tvg-name"VHS-ка" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VHS-ка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0\
 #EXTVLCOPT:network-caching=3000
-https://nsk14.peers.tv/streaming/vhs_serial/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NjQ2OTAsImlhdCI6MTc3MDM3ODI5MCwiY2lkIjo4MSwidWlkIjo5OTg4NjY3NTcsInJlZyI6ZmFsc2UsImlwIjoxNjA1NTc0MTQ0fQ.8N8d0WzcSsFLYlD1yepGvkFDtPJhK8PmQk80Js9BAUE&client=81
+https://nsk14.peers.tv/streaming/vhs_serial/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1NTE4NzYsImlhdCI6MTc3MDQ2NTQ3NiwiY2lkIjo4MSwidWlkIjo5OTg4NjY3NTcsInJlZyI6ZmFsc2UsImlwIjoxNjA1NTc0MTQ0fQ.aZLx98kmISWT-1-4C8kCl0RPU2HM64ULFa6cqCmFmfs&client=81
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eurokino.png" tvg-id="evrokino" audio-track="rus" tvg-name"Еврокино" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Еврокино
 #EXTVLCOPT:network-caching=3000
 http://193.25.8.59:8000/eurokino
