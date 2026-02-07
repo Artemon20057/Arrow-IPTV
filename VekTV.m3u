@@ -1727,7 +1727,7 @@ https://veuxiptv.github.io/TV/channels/NTVkinozal7.m3u8
 https://raw.githubusercontent.com/VeuxIPTV/TV/refs/heads/main/channels/Prostokvashino.m3u8
 #EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",Неизвестная россия
 #EXTVLCOPT:network-caching=3000
-https://raw.githubusercontent.com/VeuxIPTV/TV/refs/heads/main/channels/UnkownRussia.m3u8
+http://31.57.108.245:8080/UnkownRussia.m3u8
 
 
 
