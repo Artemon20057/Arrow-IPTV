@@ -994,22 +994,22 @@ http://tv.lamro.workers.dev/?ID=4962
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-name"viju TV1000" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Viju TV1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=gd3w7xi87yfeiFvrTfZ9hw&e=1770229914&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=tY7mELlfaybh_Ic9LqtBiQ&e=1771517323&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-name"viju TV1000 Русское" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Viju TV1000 Русское
 #EXTVLCOPT:network-caching=3000
 http://193.25.8.59:8000/TV1000RU
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-name"viju TV1000 Action" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Viju TV1000 Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Y6NDS7CaEgKkh7ozS7moUQ&e=1770230000&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=PTRkaSF2Wi8RkCsu2kd5qw&e=1771517387&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" tvg-name"viju TV1000 Новелла" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Viju TV1000 новелла
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=m4Uu6jiE-1FmPXtBZtRtQg&e=1770230084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=O204FtlbbbfO85SkluKjpw&e=1771517440&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" tvg-name"viju TV1000 romantica" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Viju TV1000 romantica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=OAghI0p6bxAY5toqGgGV5A&e=1770230212&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Hei5Ws2fQn1m8Hn25Fd2Mg&e=1771517492&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino.png" tvg-id="domkino" tvg-name"Дом кино" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы" tvg-id="domkino",Дом кино
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1087,7 +1087,7 @@ https://region-m.livecdn.ivi.ru/jW1HZwxAXpSDgrDMZdUYe9U1ZqxCzq3H4jO45ZL1QgJHVRF6
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" audio-track="rus" tvg-name"VHS-ка" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VHS-ка
 #EXTVLCOPT:network-caching=3000
-https://nsk14.peers.tv/streaming/vhs_serial/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1NTE4NzYsImlhdCI6MTc3MDQ2NTQ3NiwiY2lkIjo4MSwidWlkIjo5OTg4NjY3NTcsInJlZyI6ZmFsc2UsImlwIjoxNjA1NTc0MTQ0fQ.aZLx98kmISWT-1-4C8kCl0RPU2HM64ULFa6cqCmFmfs&client=81
+https://region-m.livecdn.ivi.ru/jW1G7G0JVoLj2lsza451Vj959sG0AWswkslGaiVSeiOOZ6enbU2342106/NI-LLvnysV0KKsnh00Z4ew,1770501893/noargs/channel/VHS_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eurokino.png" tvg-id="evrokino" audio-track="rus" tvg-name"Еврокино" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Еврокино
 #EXTVLCOPT:network-caching=3000
 http://193.25.8.59:8000/eurokino
@@ -1350,7 +1350,7 @@ http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciO
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov.png" tvg-name"Рыболов" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Рыболов
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-https://region-m.livecdn.ivi.ru/jW1ITzmfKuDCnZtR4hQWzXmhC2UxZxqNjkkYFtP4RbVhUaj7OBI718651/pVPTWbA0_4sVpFa0N9M6KA,1770501377/noargs/channel/OHOTNIK_I_RYBOLOV_HD_71711/1080p.m3u8
+https://region-m.livecdn.ivi.ru/jW1Gpd4ZXGxWpVmv1BvAcHtY41csel4RY8v2lLsx3KLFm9SHZiyx12484/5b0tgFSre3AfmgSej5XnGg,1770502045/noargs/channel/RYBOLOV_HD_71503/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" tvg-id="nasha-tema" tvg-name"Наша тема" audio-track="rus" tvg-adaptive="auto" catchup="append" group-title="Познавательное" ,Наша тема
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
