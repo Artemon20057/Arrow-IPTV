@@ -1081,7 +1081,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-logo="https://epg.iptvx.one/picons/sov-kinklass.png" audio-track="rus" tvg-name"Советская киноклассика" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Советская киноклассика
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+https://region-m.livecdn.ivi.ru/jW1HZwxAXpSDgrDMZdUYe9U1ZqxCzq3H4jO45ZL1QgJHVRF6Sloe89659/qZAHttv_lQaiU9_hy0xP-w,1770501436/noargs/channel/Soviet_Kinoklassika_HD_71484/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/romance.png" tvg-id="romance" audio-track="rus" tvg-name"Romance" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Romance
 #EXTVLCOPT:network-caching=3000
 http://193.25.8.59:8000/tlc
@@ -1098,7 +1098,7 @@ http://193.25.8.59:8000/eurokino
 http://193.25.8.59:8000/tochka
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="bolt" audio-track="rus" tvg-name"Bolt" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Bolt
 #EXTVLCOPT:network-caching=3000
-https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
+http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1MzczMTIsImlhdCI6MTc3MDQ1MDkxMiwiY2lkIjo2LCJ1aWQiOjEwMDA1NzYwMjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.n_pOHaPajqYiyxM_Q7-IDUvz3c9DlaUGlY1lec0wERs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" tvg-name"FAN" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",FAN HD
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1MzczMTIsImlhdCI6MTc3MDQ1MDkxMiwiY2lkIjo2LCJ1aWQiOjEwMDA1NzYwMjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.n_pOHaPajqYiyxM_Q7-IDUvz3c9DlaUGlY1lec0wERs&offset=10
@@ -1213,7 +1213,7 @@ http://tv.lamro.workers.dev/?ID=5109
 http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1MzczMTIsImlhdCI6MTc3MDQ1MDkxMiwiY2lkIjo2LCJ1aWQiOjEwMDA1NzYwMjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.n_pOHaPajqYiyxM_Q7-IDUvz3c9DlaUGlY1lec0wERs&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zootv.png" tvg-id="zootv" tvg-name"Зоо ТВ" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Зоо ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-
+http://tv.lamro.workers.dev/?ID=5111
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zoopark.png" tvg-id="zoopark" tvg-name"ZooПарк" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,Zooпарк
 http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1MzczMTIsImlhdCI6MTc3MDQ1MDkxMiwiY2lkIjo2LCJ1aWQiOjEwMDA1NzYwMjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.n_pOHaPajqYiyxM_Q7-IDUvz3c9DlaUGlY1lec0wERs&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovsek.png" tvg-id="sovsek" tvg-name"Совершенно секретно" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,Top Secret
@@ -1313,7 +1313,7 @@ http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epg.iptvx.one/picons/big-planet.png" tvg-name"Big Planet" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Big Planet
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-http://5.153.190.251:8000/play/a08g
+
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://epg.iptvx.one/picons/viasat-nature.png" tvg-name"viju Nature" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Viju Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
@@ -1337,7 +1337,7 @@ http://tv.lamro.workers.dev/?ID=5229
 http://tv.lamro.workers.dev/?ID=5102
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://epg.iptvx.one/picons/dikaya-rybalka-hd.png" tvg-name"Дикая рыбалка HD" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикая рыбалка HD
 #EXTVLCOPT:network-caching=3000
-https://region-m.livecdn.ivi.ru/jW1JKB6Q6l9CIqona0pTbP3lXoAX8AChHJuJnQSoHwSPYZr6NZ7A90439/uze7e-Ph8DaQqBqm9OThQA,1770423704/noargs/channel/Dikaya_Rybalka_HD/1080p.m3u8
+http://tv.lamro.workers.dev/?ID=5103
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov-hd.png" tvg-name"Охотник и рыболов HD" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Охотник и Рыболов
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1351,7 +1351,7 @@ http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciO
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov.png" tvg-name"Рыболов" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Рыболов
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-https://region-m.livecdn.ivi.ru/jW1GzTyOkvdlf1EOcjhuXyFg9Clk3bMDfwUa0uvW8vVHqV5NJdXr92936/NC6Ue_UDX4Cd3zVb38kWhQ,1770423755/noargs/channel/RYBOLOV_HD_71503/1080p.m3u8
+https://region-m.livecdn.ivi.ru/jW1ITzmfKuDCnZtR4hQWzXmhC2UxZxqNjkkYFtP4RbVhUaj7OBI718651/pVPTWbA0_4sVpFa0N9M6KA,1770501377/noargs/channel/OHOTNIK_I_RYBOLOV_HD_71711/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" tvg-id="nasha-tema" tvg-name"Наша тема" audio-track="rus" tvg-adaptive="auto" catchup="append" group-title="Познавательное" ,Наша тема
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1699,34 +1699,6 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/capfantast.png" tvg-name"Капитан Фантастика" tvg-id="ginger-hd" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Капитан Фантастика
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=4745
-
-
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Балабол
-#EXTVLCOPT:network-caching=3000
-https://raw.githubusercontent.com/VeuxIPTV/TV/refs/heads/main/channels/NTVkinozal1.m3u8
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Невский
-#EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/NTVkinozal2.m3u8
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Первый отдел
-#EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/NTVkinozal3.m3u8
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Пять минут тишины
-#EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/NTVkinozal4.m3u8
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Пёс
-#EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/NTVkinozal5.m3u8
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",НТВ сериал Скорая помощь
-#EXTVLCOPT:network-caching=3000
-https://veuxiptv.github.io/TV/channels/NTVkinozal6.m3u8
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",Простоквашино
-#EXTVLCOPT:network-caching=3000
-https://raw.githubusercontent.com/VeuxIPTV/TV/refs/heads/main/channels/Prostokvashino.m3u8
-#EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-id="no_epg" group-title="TEST",Неизвестная россия
-#EXTVLCOPT:network-caching=3000
-http://31.57.108.245:8080/UnkownRussia.m3u8
-
-
 
 #EXTINF:-1 audio-track="rus" tvg-adaptive="auto" tvg-audio-ch="stereo" tvg-audio-codec="aac" group-title="КИНОЗАЛ" tvg-id="no_epg" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
 #EXTVLCOPT:network-caching=3000
