@@ -1,7 +1,8 @@
 #EXTM3U
+#EXT-X-TARGETDURATION:6
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+#EXT-X-MEDIA-SEQUENCE:985925
+#EXT-X-PROGRAM-DATE-TIME:2026-02-07T12:51:27Z
 #EXTINF:6.000,
 https://cdn.ntv.ru/unknown_russia/tracks-v3a1/2026/02/07/12/51/27-06000.ts
 #EXTINF:6.000,
