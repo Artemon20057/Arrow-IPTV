@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-#EXTVLCOPT:http-referrer="https://www.ntv.ru"
-#EXTVLCOPT:http-header="Origin: https://www.ntv.ru"
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-#EXTVLCOPT:network-caching=3000
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
