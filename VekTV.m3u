@@ -1488,7 +1488,6 @@ http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1MzczMTIsImlhdCI6MTc3MDQ1MDkxMiwiY2lkIjo2LCJ1aWQiOjEwMDA1NzYwMjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.n_pOHaPajqYiyxM_Q7-IDUvz3c9DlaUGlY1lec0wERs&offset=10
 #EXTINF:-1 tvg-id="Аппетитный" tvg-logo="https://epg.iptvx.one/picons/appetitny.png" tvg-id="appetitny" tvg-name"Аппетитный" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Аппетитный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://pervyi-tv.online
 #EXTVLCOPT:http-header="X-LHD-Agent: {"platform":"web","app":"pervyi-tv.online","device_id":"100522.57499146223-1769629099590"}"
 #EXTVLCOPT:network-caching=3000
