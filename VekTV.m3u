@@ -1496,7 +1496,8 @@ http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1ODA0MTQsImlhdCI6MTc3MDQ5NDAxNCwiY2lkIjo2LCJ1aWQiOjEwMDA5MTExNzAsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.nBSiESopO0C7oYSAlijuv85XXWt7hTxptekVHdH5CvQ&offset=10
 #EXTINF:-1 tvg-id="Аппетитный" tvg-logo="https://epg.iptvx.one/picons/appetitny.png" tvg-id="appetitny" tvg-name"Аппетитный" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Аппетитный
 #EXTVLCOPT:http-user-agent={"platform":"web","app":"pervyi-tv.online","device_id":"100522.57499146223-1769629099590"}
-#EXTVLCOPT:http-header=X-LHD-Agent:{"platform":"web","app":"pervyi-tv.online","device_id":"100522.57499146223-1769629099590"}
+#EXTVLCOPT:http-user-agent=LimeHDTV/1.7.9S (AndroidTV/13) HlslimehdtvPlayer
+#EXTVLCOPT:http-referer=https://limehd.tv/
 #EXTVLCOPT:network-caching=3000
 https://mhd140.iptv2022.com/x/pyeBYGaVU6_y3uEculK41w,1770629824/streaming/appetitniy/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/doverie.png" tvg-id="doverie" tvg-id="doverie" tvg-name"Москва. Доверие" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Москва. Доверие
