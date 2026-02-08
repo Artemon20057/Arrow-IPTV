@@ -1304,6 +1304,9 @@ http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJI
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://epg.iptvx.one/picons/myy.png" tvg-name"МЫ" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,МЫ
 #EXTVLCOPT:network-caching=3000
 https://nsk14.peers.tv/streaming/mi/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA1NTE4NzYsImlhdCI6MTc3MDQ2NTQ3NiwiY2lkIjo4MSwidWlkIjo5OTg4NjY3NTcsInJlZyI6ZmFsc2UsImlwIjoxNjA1NTc0MTQ0fQ.aZLx98kmISWT-1-4C8kCl0RPU2HM64ULFa6cqCmFmfs&client=81
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ratnik.png" tvg-id="ratnik" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name"Ратник" audio-track="rus" tvg-adaptive="auto" group-title="Познавательное",Ратник
+#EXTVLCOPT:network-caching=3000
+https://nsk14.peers.tv/streaming/ratnik/126/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA2NTU0NjksImlhdCI6MTc3MDU2OTA2OSwiY2lkIjo4MSwidWlkIjo5OTg4NjY3NTcsInJlZyI6ZmFsc2UsImlwIjoxNjA1NTc0MTQ0fQ.Dq2fKHdSN89RrnExxkTg-d4ReO0F3gfccAdo9Rm_iLM&client=81
 #EXTINF:-1 tvg-logo="https://veuxiptv.github.io/TV/logo/8917.png" tvg-id="no_epg" tvg-name"Благая весть" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,ТБВ
 #EXTVLCOPT:network-caching=3000
 https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
