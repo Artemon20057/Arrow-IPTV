@@ -1316,7 +1316,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="curiosity-stream" tvg-logo="https://epg.iptvx.one/picons/curiosity-stream.png" tvg-name"Curiosity Stream" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Curiosity Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://region-m.livecdn.ivi.ru/jW1H9oOFKRZ4WbsyTXQykOLrbhhTX7NjwYdbjgwudVSJgqKka86H46845/e_1U3x9ZT9B7UZ_SHoPWwg,1770423649/noargs/curiositystream_hd/4_4df93944/chunklist.m3u8
+https://region-m.livecdn.ivi.ru/jW1KVXlKJwvaSO2TwEgXHU4LCapaF6zIf9Inxz7a6mjX8qyKSS1S36550/hekROWO14wl4mgkyh7jAJA,1770603916/noargs/curiositystream_hd/4_4df93944/chunklist.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://epg.iptvx.one/picons/terra-ru.png" tvg-name"Terra" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,TERRA
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1362,7 +1362,7 @@ http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciO
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov.png" tvg-name"Рыболов" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Рыболов
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+https://region-m.livecdn.ivi.ru/jW1JZFOObghdfcgPzFm2WwfdzS5X7aAhFs2IKyK9ZzYY1rWWkjjB11644/PrzrxaVF5y3c7O3x4tXZTg,1770603764/noargs/channel/RYBOLOV_HD_71503/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" tvg-id="nasha-tema" tvg-name"Наша тема" audio-track="rus" tvg-adaptive="auto" group-title="Познавательное" ,Наша тема
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1497,11 +1497,9 @@ http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA2NjYxMTMsImlhdCI6MTc3MDU3OTcxMywiY2lkIjo2LCJ1aWQiOjEwMDE1OTMzOTksInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.E3FT0VQ3laFHIjpEqhrKrXPWXCl8pWUVerLhsaucxfA&offset=10
 #EXTINF:-1 tvg-id="Аппетитный" tvg-logo="https://epg.iptvx.one/picons/appetitny.png" tvg-id="appetitny" tvg-name"Аппетитный" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Аппетитный
-#EXTVLCOPT:http-user-agent={"platform":"web","app":"pervyi-tv.online","device_id":"100522.57499146223-1769629099590"}
-#EXTVLCOPT:http-user-agent=LimeHDTV/1.7.9S (AndroidTV/13) HlslimehdtvPlayer
-#EXTVLCOPT:http-referer=https://limehd.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
-https://mhd140.iptv2022.com/x/pyeBYGaVU6_y3uEculK41w,1770629824/streaming/appetitniy/324/5/tracks-v3a1/mono.m3u8
+https://region-s.livecdn.ivi.ru/jW1IUaDaihUthzzYoHTxWHePevGijo5Hsnr3R7MakcbHDd0dDVJ443635/6ExDMtqf31QI4Bjc5ksYHA,1770603829/live/ivi/appetitny/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/doverie.png" tvg-id="doverie" tvg-id="doverie" tvg-name"Москва. Доверие" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Москва. Доверие
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 #EXTVLCOPT:network-caching=3000
