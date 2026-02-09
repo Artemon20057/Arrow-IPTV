@@ -1276,7 +1276,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/znanie-tv.png" tvg-name"Знание ТВ" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Знание ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+https://vkvsd177.okcdn.ru/dash/stream_5405062859457/stream.manifest/sig/wXrC_GhBXOE/srcIp/95.179.30.0/urls/185.226.53.56/expires/1771112130437/clientType/13/srcAg/CHROME/fromCache/1/mid/6620744854465/id/5405062859457/stream-fullhd.jidx?_rnd=20581515
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzhskoy.png" tvg-id="muzhskoy" tvg-name"Мужской" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Мужской
 #EXTVLCOPT:network-caching=3000
 http://87.76.32.36:8001/muzhskoy
@@ -1764,9 +1764,12 @@ http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" tvg-id="chestny-detektiv" tvg-name"Честный детектив" group-title="КИНОЗАЛ",Честный детектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" group-title="КИНОЗАЛ",VK Детский 6+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://vkvsd50.okcdn.ru/dash/stream_8380992719463/stream.manifest/sig/oX1ehIdsJD0/srcIp/95.179.30.0/urls/45.136.22.91/expires/1771111818844/clientType/13/srcAg/CHROME/fromCache/1/mid/9707377929063/id/8380992719463/stream-fullhd.jidx?_rnd=414302519
 #EXTINF:-1 tvg-logo="" tvg-name"Простоквашино" tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",Простоквашино
 #EXTVLCOPT:network-caching=3000
-https://stream-msk-19.ottgoods.ru/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc3MTE4MjM2NSwiaHdpZCI6ImFiNmNiYTI2ZjM4ZWI3MGM3ZWZlYWE5ZDMyNGU5YWEyYzc3MmQzZjk4MGIwYjc0ZGRiNmE2M2YyNDFiOWUzZjAiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNTc3NTY1LCJzZXNzaW9uX2lkIjoiOGViZmNkNjgwNWNiZTU0YjAyYThjODFmMmRlNzkyZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mILrtHr89_7sX8mfYOVgL_upbvaO_BnCRT_rgKORaCA
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" tvg-name"CineMan ПёС + Лихач" tvg-id="cineman-pes" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
 #EXTVLCOPT:network-caching=3000
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
