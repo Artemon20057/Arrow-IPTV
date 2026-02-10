@@ -1257,9 +1257,9 @@ http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv-brics.png" tvg-id="tv-brics" tvg-name"TV BRICS" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,TV Brics
 #EXTVLCOPT:network-caching=3000
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" tvg-name"Galaxy TV" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Galaxy
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" tvg-name"Galaxy TV" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,Galaxy
 #EXTVLCOPT:network-caching=3000
-http://193.25.8.59:8000/galaxy
+http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA3OTY3MDAsImlhdCI6MTc3MDcxMDMwMCwiY2lkIjo2LCJ1aWQiOjEwMDI2NDYyMjgsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.Zgekp2xIT3r0Uz0aQHzq8FG4ShQat9wrFDrLUkPhgUw&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nauka-20.png" tvg-id="nauka-20" tvg-name"Наука 2.0" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Наука 2.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTVLCOPT:network-caching=3000
@@ -1326,7 +1326,7 @@ https://region-m.livecdn.ivi.ru/jW1KVXlKJwvaSO2TwEgXHU4LCapaF6zIf9Inxz7a6mjX8qyK
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://epg.iptvx.one/picons/terra-ru.png" tvg-name"Terra" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,TERRA
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA3OTY3MDAsImlhdCI6MTc3MDcxMDMwMCwiY2lkIjo2LCJ1aWQiOjEwMDI2NDYyMjgsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.Zgekp2xIT3r0Uz0aQHzq8FG4ShQat9wrFDrLUkPhgUw&offset=10
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epg.iptvx.one/picons/big-planet.png" tvg-name"Big Planet" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Big Planet
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1778,10 +1778,13 @@ rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1l
 rtmp://vkvsd194.okcdn.ru/playback/10206499842947?stkn=2l0U_JYEs5SCqJN7FV3dWV4k8KcDrOjg4XlidIFtdfWdkFiX2qQL1QkoNTaDGjSHXcTarVrZvjY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="" tvg-name"Простоквашино" tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",Простоквашино
 #EXTVLCOPT:network-caching=3000
-https://stream-msk-20.ottgoods.ru/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzMjIxOTAwNzExMDI0NSIsImV4cCI6MTc3MTI3MTA2MywiaHdpZCI6ImFiNmNiYTI2ZjM4ZWI3MGM3ZWZlYWE5ZDMyNGU5YWEyYzc3MmQzZjk4MGIwYjc0ZGRiNmE2M2YyNDFiOWUzZjAiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNjY2MjYzLCJzZXNzaW9uX2lkIjoiN2FlYzdmODAxNjczMjU2MDIxNTU4ZTE1Y2Y3MGM0MGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O1HQKOwxX_LXtYqoBdFAilHnUAuX_F8bWTnvBMv4Mjc
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" tvg-name"CineMan ПёС + Лихач" tvg-id="cineman-pes" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
+https://stream-msk-19.ottgoods.ru/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc3MTM1NDIyMiwiaHdpZCI6ImFiNmNiYTI2ZjM4ZWI3MGM3ZWZlYWE5ZDMyNGU5YWEyYzc3MmQzZjk4MGIwYjc0ZGRiNmE2M2YyNDFiOWUzZjAiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNzQ5NDIyLCJzZXNzaW9uX2lkIjoiNDM4ZGU4NmNmNDI4MTFiNTE2YTkwOGViOTBjNzM0Y2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Er6K4cqlDTg5TFMoAMEPyIUtkvGJdcSASYP53R1n7wk
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" tvg-name"CineMan Лесник" tvg-id="cineman-lesnik" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",CineMan Лесник
 #EXTVLCOPT:network-caching=3000
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" tvg-name"CineMan ПёС + Лихач" tvg-id="cineman-pes" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",CineMan ПёС + Лихач
+#EXTVLCOPT:network-caching=3000
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16064/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" tvg-name"1HD Music Television" audio-track="rus" tvg-adaptive="auto" group-title="Музыкальные",1HD
 #EXTVLCOPT:network-caching=3000
