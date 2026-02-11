@@ -2139,6 +2139,18 @@ http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16064/index.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto" group-title="TEST",Ultra HD Cinema
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto" group-title="TEST",Ultra Rex UHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name"" audio-track="rus" tvg-adaptive="auto" group-title="TEST",
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" tvg-name"1HD Music Television" audio-track="rus" tvg-adaptive="auto" group-title="Музыкальные",1HD
 #EXTVLCOPT:network-caching=3000
 http://91.247.68.229:8000/play/eee/index.m3u8
