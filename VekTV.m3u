@@ -1984,14 +1984,14 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/malysh.png" tvg-name"Супергерои" tvg-id="malysh" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Супергерои
 #EXTVLCOPT:network-caching=3000
 http://86.57.209.210/Malish/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/radost-moya.png" tvg-name"Радость моя" tvg-id="radost-moya" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Радость Моя
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/radost-moya.png" tvg-name"Радость моя" tvg-id="radost-moya" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский" ,Радость Моя
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=SmartTV
 http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA5Njk4OTUsImlhdCI6MTc3MDg4MzQ5NSwiY2lkIjo2LCJ1aWQiOjEwMDQyMTYxNDYsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.aEDx9lRTe1NeTbw-5021VLmABPF3Ko9b5Fbe0eOinXs&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mama.png" tvg-name"Мама" tvg-id="mama" audio-track="rus" tvg-adaptive="auto"  group-title="Детский",Мама
 #EXTVLCOPT:network-caching=3000
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc3MTIxMDY0MiwiaHdpZCI6IjkyY2RiNTJmZGE4M2NkM2QxMWUzNjIyNjUzZWRmYTYxYmMzMTllOGZiMTQ5YWQyZmQxYzljZjk1YjkzOWEzOTciLCJsYXN0X3JlcV9kYXRlIjoxNzcwNjA1ODQyLCJzZXNzaW9uX2lkIjoiZWU3ZDczY2ZhMjg2NjcyZWQ5N2JlYzAzMWZjYjA4NDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.53v7pKD8pwLLv0ymqSFIHjh4oXhxzmSX4jBR3UNpuvg
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ryzhy.png" tvg-name"Рыжий" tvg-id="ryzhy" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Рыжий
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ryzhy.png" tvg-name"Рыжий" tvg-id="ryzhy" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детский" ,Рыжий
 #EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA5Njk4OTUsImlhdCI6MTc3MDg4MzQ5NSwiY2lkIjo2LCJ1aWQiOjEwMDQyMTYxNDYsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.aEDx9lRTe1NeTbw-5021VLmABPF3Ko9b5Fbe0eOinXs&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png" tvg-name"Детский мир" tvg-id="detsky-mir" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Детский Мир
