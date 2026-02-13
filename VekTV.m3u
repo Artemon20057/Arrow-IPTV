@@ -4,6 +4,10 @@
 #EXTINF:-1 tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="ИНФО",Инфоканал
 #EXTVLCOPT:network-caching=3000
 http://192.168.101.32:5000/Info-channel/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto" group-title="ИНФО",Обновление:13.02.2026
+#EXTVLCOPT:network-caching=3000
+
+
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" tvg-name"Первый канал" audio-track="rus" tvg-adaptive="auto" tvg-adaptive="auto" tvg-audio-codec="aac" group-title="Общероссийские",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
@@ -1923,7 +1927,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fashion-tv.png" tvg-id="fashion-tv" tvg-name"Fashion TV" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Fashion TV
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=5065
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/luxury.png" tvg-id="luxury" tvg-name"Luxury" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,Luxury
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/luxury.png" tvg-id="luxury" tvg-name"Luxury" audio-track="rus" tvg-adaptive="auto" group-title="Развлекательное" ,Luxury
 #EXTVLCOPT:network-caching=3000
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shopping-live.png" tvg-id="shopping-live" tvg-name"Shopping Live" audio-track="rus" tvg-adaptive="auto"  group-title="Развлекательное" ,SHOPPING LIVE
@@ -2084,19 +2088,19 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" tvg-id="smotrim-100-lubov" tvg-name"Смотрим 100% Любовь" group-title="КИНОЗАЛ" ,Смотрим (100% Любовь)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+https://vgtrksmotrim.cdnvideo.ru/hls/fasttv01/playlist_3.m3u8?md5=GRlty530b2pT2bTfNm9Arg&e=1771017648&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" tvg-id="smotrim-100-muzhskoe" tvg-name"Смотрим 100% Мужское" group-title="КИНОЗАЛ" ,Смотрим (100% Мужское)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+https://vgtrksmotrim.cdnvideo.ru/hls/fasttv02/playlist_3.m3u8?md5=3wT7gTkxz772uvUUJPyN6Q&e=1771017640&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" tvg-id="smotrim-100-prazdnik" tvg-name"smotrim-100-prazdnik" group-title="КИНОЗАЛ" ,Смотрим (100% Праздник)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+https://vgtrksmotrim.cdnvideo.ru/hls/fasttv04/playlist_3.m3u8?md5=c6xIPxxF3E_D89pHQDK6Sg&e=1771017703&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" tvg-id="smotrim-100-klassika" tvg-name"Смотрим 100% Классика" group-title="КИНОЗАЛ" ,Смотрим (100% Классика)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+https://vgtrksmotrim.cdnvideo.ru/hls/fasttv03/playlist_3.m3u8?md5=VfUCsnI3BojvTboFOnOQTw&e=1771017739&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" tvg-id="smotrim-100-fakty" tvg-name"Смотрим 100% Факты" group-title="КИНОЗАЛ",Смотрим (100% Факты)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+https://vgtrksmotrim.cdnvideo.ru/hls/fasttv06/playlist_3.m3u8?md5=ApzXj5XACIYHvMyyLAvvGA&e=1771017771&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" tvg-id="chestny-detektiv" tvg-name"Честный детектив" group-title="КИНОЗАЛ",Честный детектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -2109,12 +2113,6 @@ rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV0
 #EXTINF:-1 tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb" tvg-id="" tvg-name"" group-title="КИНОЗАЛ",VK Мульт Развивайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://sun1-23.userapi.com/impg/mVa_OLifmP3Z-5gCnes6fClYqxzPs2Dcgvp0Pg/vG_1N5EyT6g.jpg?size=320x180&quality=95&sign=71ec439cc40e0ff80cd29f3ff0e56390&c_uniq_tag=OhvA9ZA_B_sWh7JprfV0yndNfiEQAHQ-EfDAvLPAG7U&type=video_thumb" tvg-id="" tvg-name"" group-title="КИНОЗАЛ",VK Новогодний мультпарад
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-rtmp://vkvsd194.okcdn.ru/playback/10206499842947?stkn=2l0U_JYEs5SCqJN7FV3dWV4k8KcDrOjg4XlidIFtdfWdkFiX2qQL1QkoNTaDGjSHXcTarVrZvjY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zal-18-tricolor.png" tvg-name"Зал 18 (Простоквашино)" tvg-id="zal-18-tricolor" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",Простоквашино
-#EXTVLCOPT:network-caching=3000
-https://stream-msk-17.ottgoods.ru/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwOTUwNjE1MyIsImV4cCI6MTc3MTUwMzYwMCwiaHdpZCI6ImFiNmNiYTI2ZjM4ZWI3MGM3ZWZlYWE5ZDMyNGU5YWEyYzc3MmQzZjk4MGIwYjc0ZGRiNmE2M2YyNDFiOWUzZjAiLCJsYXN0X3JlcV9kYXRlIjoxNzcwODk4ODAwLCJzZXNzaW9uX2lkIjoiNWNkNjhjMjRlM2U2OWZkOTkyM2Y0M2U4YzllOWI2YmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KTuMkZBRigVUMttlZwm9u-xV3xQqP9x65ijeT3rPSoo
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" tvg-name"CineMan Лесник" tvg-id="cineman-lesnik" audio-track="rus" tvg-adaptive="auto" group-title="КИНОЗАЛ",CineMan Лесник
 #EXTVLCOPT:network-caching=3000
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/16065/index.m3u8
