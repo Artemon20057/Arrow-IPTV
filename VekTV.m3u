@@ -1534,7 +1534,6 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTVLCOPT:network-caching=3000
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name"Неизвестная Россия" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное"  tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
 #EXTVLCOPT:network-caching=3000
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png" tvg-name"Неизвестная Планета" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Неизвестная планета
@@ -1726,8 +1725,6 @@ http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/moskovsky-obrazovatelny.png" tvg-id="no_epg" tvg-name"Московский образовательный" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Московский образовательный
 #EXTVLCOPT:network-caching=3000
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ege-tv.png" tvg-id="ege-tv" tvg-name"ЕГЭ" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,ЕГЭ ТВ
-#EXTVLCOPT:network-caching=3000
 
 
 
