@@ -1707,10 +1707,12 @@ https://livetv-app.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c438
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/dikiy.png" tvg-id="dikiy" tvg-name"Дикий" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикий
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/817Tc5OXOkEH2AbBB34nWw,1771574061/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="https://epg.iptvx.one/picons/dikaya-oxota-hd.png" tvg-name"Дикая охота HD" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикая охота HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/jhcQm7fjMn7yDdIfY_P5PQ,1771574061/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://epg.iptvx.one/picons/dikaya-rybalka-hd.png" tvg-name"Дикая рыбалка HD" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикая рыбалка HD
 #EXTVLCOPT:network-caching=3000
