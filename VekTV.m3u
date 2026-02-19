@@ -1684,7 +1684,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://epg.iptvx.one/picons/terra-ru.png" tvg-name"Terra" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,TERRA
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
-
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzE1NzQwNjYsImlhdCI6MTc3MTQ4NzY2NiwiY2lkIjo2LCJ1aWQiOjEwMDc4MjgxMzIsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.USmdkkch3oBE-1dHymblCVkS6MSW1G2DLxCTxrmPzcI&offset=10
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epg.iptvx.one/picons/big-planet.png" tvg-name"Big Planet" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Big Planet
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
@@ -1708,16 +1708,14 @@ https://livetv-app.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c438
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/817Tc5OXOkEH2AbBB34nWw,1771574061/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="https://epg.iptvx.one/picons/dikaya-oxota-hd.png" tvg-name"Дикая охота HD" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикая охота HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/jhcQm7fjMn7yDdIfY_P5PQ,1771574061/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://epg.iptvx.one/picons/dikaya-rybalka-hd.png" tvg-name"Дикая рыбалка HD" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Дикая рыбалка HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-
+https://mhd128.iptv2022.com/p/nrLaQJ0yZY9mryenSpsqgg,1771574061/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov-hd.png" tvg-name"Охотник и рыболов HD" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Охотник и Рыболов
 #EXTVLCOPT:network-caching=3000
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
@@ -1727,26 +1725,26 @@ https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_i
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://epg.iptvx.one/picons/oxota-i-rybalka.png" tvg-name"Охота и рыбалка" audio-track="rus" tvg-adaptive="auto" group-title="Познавательное" ,Охота и рыбалка
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-
+https://mhd128.iptv2022.com/p/UY3cvWZpKZ5aKFR3Hi-x7g,1771574061/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://epg.iptvx.one/picons/dialogi-o-rybalke.png" tvg-name"Диалоги о рыбалке" audio-track="rus" tvg-adaptive="auto" group-title="Познавательное" ,Диалоги о рыбалке
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-
+https://mhd128.iptv2022.com/p/3yiqgVbtd9ivzM3wGPQEIg,1771574061/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov.png" tvg-name"Рыболов" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,Рыболов
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-
+https://mhd128.iptv2022.com/p/Ay5Xgw0tnPG1LQIbU191gg,1771574061/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" tvg-id="nasha-tema" tvg-name"Наша тема" audio-track="rus" tvg-adaptive="auto" group-title="Познавательное" ,Наша тема
 #EXTVLCOPT:http-user-agent=SmartTV
 #EXTVLCOPT:network-caching=3000
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/avto24.png" tvg-id="avto24" tvg-name"Авто24" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,Авто 24
 #EXTVLCOPT:network-caching=3000
-
+http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzE1NzQwNjYsImlhdCI6MTc3MTQ4NzY2NiwiY2lkIjo2LCJ1aWQiOjEwMDc4MjgxMzIsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.USmdkkch3oBE-1dHymblCVkS6MSW1G2DLxCTxrmPzcI&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/avto-plus.png" tvg-id="avto-plus" tvg-name"Авто Плюс" audio-track="rus" tvg-adaptive="auto" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательное" ,Авто плюс
 #EXTVLCOPT:network-caching=3000
-
+http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzE1NzQwNjYsImlhdCI6MTc3MTQ4NzY2NiwiY2lkIjo2LCJ1aWQiOjEwMDc4MjgxMzIsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.USmdkkch3oBE-1dHymblCVkS6MSW1G2DLxCTxrmPzcI&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/univer-tv.png" tvg-id="univer-tv" tvg-name"Univer TV" audio-track="rus" tvg-adaptive="auto"  group-title="Познавательное" ,UNIVER TV
 #EXTVLCOPT:network-caching=3000
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
