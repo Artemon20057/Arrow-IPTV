@@ -2051,13 +2051,13 @@ http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 #EXTINF:-1 tvg-id="sovmultf" tvg-name"Советские мультфильмы" tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Советские мультфильмы
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizenу://mhd128.iptv2022.com/p/3xEHnAyAjKvqRboh_5UXpA,1771574061/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8tvg-adaptivezki-zayki" tvg-name"Сказки Зайки" tvg-logo="https://epg.iptvx.one/picons/skazki-zayki.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Сказки Зайки#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/3xEHnAyAjKvqRboh_5UXpA,1771574061/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8tvg-adaptivezki-zayki" tvg-name"Сказки Зайки" tvg-logo="https://epg.iptvx.one/picons/skazki-zayki.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Сказки Зайки#EXTVLCOPT:network-caching=3000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/multimania.png" group-title="Детский",Мультиландия
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=3268
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/multsezon.png" tvg-name"МультСезон" tvg-id="multsezon" audio-track="rus" tvg-adaptive="auto" group-title="Детский",МультСезонnetwork-cachingTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux;https-1 tvg-id="liova" tvg-name"Лёва" tvg-logo="https://epg.iptvx.one/picons/liova.png" audio-track="rus" tvg-adaptive="auto"  group-title="Детский",Лёва
-#EXTVLCOPT:network-caching=3tvg-logo://tv.lamro.workers.dev/?ID=50tvg-nameNF:-1 tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Чип и Дейл
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/multsezon.png" tvg-name"МультСезон" tvg-id="multsezon" audio-track="rus" tvg-adaptive="auto" group-title="Детский",TizenуTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux;https-1 tvg-id="liova" tvg-name"Лёва" tvg-logo="https://epg.iptvx.one/picons/liova.png" audio-track="rus" tvg-adaptive="auto"  group-title="Детский",Лёва
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Чип и Дейл
 #EXTVLCOPT:network-caching=3000
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/chizhik.png" tvg-name"Чижик" tvg-id="chizhik" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Чижик
