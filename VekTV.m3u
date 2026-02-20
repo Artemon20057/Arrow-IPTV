@@ -1414,9 +1414,6 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/illuzion-plus.png" tvg-id="illuzion-plus" tvg-name"Иллюзион +" audio-track="rus" tvg-adaptive="auto" group-title="Кино и сериалы",Иллюзион+
 #EXTVLCOPT:network-caching=3000
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/legenda.png" tvg-id="legenda" tvg-name"Легенда" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",Легенда
-#EXTVLCOPT:network-caching=3000
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sony.png" tvg-id="sony-tv" tvg-name".red" audio-track="rus" tvg-adaptive="auto"  group-title="Кино и сериалы",.red
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=4918
@@ -2033,7 +2030,7 @@ http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?dr
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/ITWC9kpRZdvDIhwBDXU2sg,1771660662/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png" tvg-name"Детский мир" tvg-id="detsky-mir" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Детский Мир
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png" tvg-name"Детский мир" tvg-id="detsky-mir" audio-track="rus" tvg-adaptive="auto" group-title="Детский" ,Детский Мир
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=3176
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tiji.png" tvg-name"TiJi" tvg-id="tiji" audio-track="rus" tvg-adaptive="auto" group-title="Детский" ,Tiji
@@ -2067,7 +2064,7 @@ https://mhd128.iptv2022.com/p/qTfMxxMAn784pyBgSNHxWw,1771660662/streaming/multse
 #EXTINF:-1 tvg-id="liova" tvg-name"Лёва" tvg-logo="https://epg.iptvx.one/picons/liova.png" audio-track="rus" tvg-adaptive="auto"  group-title="Детский",Лёва
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/CWoDDhZMjZnCydVWyA6xxQ,1771660662/streaming/levatv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Чип и Дейл
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="no_epg" audio-track="rus" tvg-adaptive="auto"  group-title="Детский",Чип и Дейл
 #EXTVLCOPT:network-caching=3000
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/chizhik.png" tvg-name"Чижик" tvg-id="chizhik" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Чижик
@@ -2086,7 +2083,7 @@ http://tv.lamro.workers.dev/?ID=4876
 http://tv.lamro.workers.dev/?ID=5060
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shayantv.png" tvg-name"Шаян ТВ" tvg-id="shayantv" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Шаян
 #EXTVLCOPT:network-caching=3000
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/capfantast.png" tvg-name"Капитан Фантастика" tvg-id="ginger-hd" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,КасказкиФантастика
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/capfantast.png" tvg-name"Капитан Фантастика" tvg-id="ginger-hd" audio-track="rus" tvg-adaptive="auto" group-title="Детский",Капитан Фантастика
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/iFefPO4nyCsLci7LBE8yTA,1771660662/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
