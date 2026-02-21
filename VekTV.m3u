@@ -2062,11 +2062,9 @@ https://mhd128.iptv2022.com/p/o_2KXPS1XV3I4oFbJoFNkg,1771746919/streaming/detski
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/rD-JwHn8prus_cKxmLXDOQ,1771746919/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="sovmultf" tvg-name"Советские мультфильмы" tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" audio-track="rus" tvg-adaptive="auto"  group-title="Детский" ,Советские мультфильмы
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="sovmultf" tvg-name"Советские мультфильмы" tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" audio-track="rus" tvg-adaptive="auto" group-title="Детский" ,Советские мультфильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/iPl9gU4dhFovVvm7ixrfRw,1771746919/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
-#EXTVLCOPT:network-caching=3000
+https://mhd128.iptv2022.com/p/3mf9AeeL5j2ZkUUGAmpWpw,1771790136/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/multimania.png" group-title="Детский",Мультиландия
 #EXTVLCOPT:network-caching=3000
 http://tv.lamro.workers.dev/?ID=3268
