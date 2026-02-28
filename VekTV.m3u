@@ -10,11 +10,11 @@ http://192.168.101.32:5000/Info-channel/index.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" tvg-name"Первый канал" audio-track="rus" tvg-adaptive="auto" tvg-adaptive="auto" tvg-audio-codec="aac" group-title="Общероссийские",Первый канал
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy"  tvg-name"Первый канал" audio-track="rus" tvg-adaptive="auto" tvg-adaptive="auto" tvg-audio-codec="aac" group-title="Общероссийские",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 #EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" tvg-name"Россия 1" audio-track="rus" tvg-adaptive="auto" tvg-adaptive="auto" tvg-audio-codec="aac" group-title="Общероссийские",Россия 1
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1"  tvg-name"Россия 1" audio-track="rus" tvg-adaptive="auto" tvg-adaptive="auto" tvg-audio-codec="aac" group-title="Общероссийские",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 #EXTVLCOPT:network-caching=3000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
