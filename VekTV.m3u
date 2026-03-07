@@ -1154,12 +1154,6 @@ https://mhd128.iptv2022.com/p/ijUnQcx53P9iBhx0IvdV_g,1772959253/streaming/footbo
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/y_w2nBLzJzQjKEmTjndmxA,1772959253/streaming/hokkeyniy/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fastfunbox-hd.png" tvg-id="fastfunbox-hd" tvg-name"Fast&FunBox HD" audio-track="rus" tvg-adaptive="auto" group-title="Спортивные",Fast & FunBox
-#EXTVLCOPT:network-caching=3000
-https://stream14.sputnik24.tv/fast_funbox_hd/1080p/index.m3u8?sig=1772904173_09f341955073907c40489c79a53e20e7
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fightbox-hd.png" tvg-id="fightbox-hd" tvg-name"FightBox HD" audio-track="rus" tvg-adaptive="auto" group-title="Спортивные",FightBox
-#EXTVLCOPT:network-caching=3000
-https://stream15.sputnik24.tv/fightbox_hd/1080p/index.m3u8?sig=1772904342_51ac8a76ac0250b6c49059fa5ca7a157
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tochka-otryva.png" tvg-id="tochka-otryva" tvg-name"Точка отрыва" audio-track="rus" tvg-adaptive="auto" group-title="Спортивные",Точка Отрыва
 #EXTVLCOPT:network-caching=3000
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
